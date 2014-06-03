@@ -19,7 +19,7 @@
   <body>
     
 
-    <!-- Fixed navbar -->
+     <!-- Fixed navbar -->
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -33,19 +33,52 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About Evostar</a></li>
-            <li><a href="#contact">Previous evo*events</a></li>
+            <li class="active"><a href="index.php">Home</a></li>
             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="about_evostar.php">About Evostar</a></li>
+                <li><a href="#">Organisers</a></li>
+                <li><a href="about_previousevents.php">Previous events</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Call for Papers<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">EuroGP</a></li>
+                <li><a href="#">EvoCOP</a></li>
+                <li><a href="#">EvoMUSART</a></li>
+                <li><a href="#">EvoAPPS</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Submission</li>
+                <li><a href="#">Submission details</a></li>
+                <li><a href="#">Camera-ready details</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Invited Speakers</a></li>
+                <li><a href="#">Overview programme</a></li>
+                <li><a href="#">Detailed programme</a></li>
+                <li><a href="#">Best Paper Candidates</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Participants<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Registration</a></li>
+                <li><a href="participants_letter.php">Letter of invitation</a></li>
+                <li><a href="#">Student bursaries</a></li>
+              </ul>
+            </li>
+             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Local Information<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
+                <li><a href="#">Getting to Copenhagen</a></li>
+                <li><a href="#">Getting to the venue</a></li>
+                <li><a href="#">Accommodation</a></li>
+                <li><a href="#">Posters/WI-FI</a></li>
               </ul>
             </li>
           </ul>
@@ -54,3 +87,18 @@
     </div>
 
     <div class="container theme-showcase" role="main">
+
+       <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>Evostar 2015</h1>
+        <p>The Leading European Event on Bio-Inspired Computation.</p>
+        <p>Copenhagen, Denmark, 8-10 April 2015</p>
+      </div>
+
+<div class="row">
+    <div class="col-sm-3">
+      <?php include('cfps.php') ?>
+    </div>
+
+    <div class="col-sm-6">
+      <div class="page-header">
