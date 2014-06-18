@@ -8,6 +8,8 @@
 
         <h2>Latest news:<h2>
    </div>
+
+<img src="img/logo-big.png" width ="300px">
 Welcome to Evostar 2015 webpage.
 <?php include('footer.php') ?>
 

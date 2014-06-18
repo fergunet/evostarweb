@@ -39,7 +39,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="about_evostar.php">About Evostar</a></li>
-                <li><a href="#">Organisers</a></li>
+                <li><a href="about_organisers.php">Organisers</a></li>
                 <li><a href="about_previousevents.php">Previous events</a></li>
               </ul>
             </li>
