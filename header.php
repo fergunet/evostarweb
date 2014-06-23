@@ -30,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Evostar 2015</a>
+          <a class="navbar-brand" href="#">Evo<span class="red">star</span> 2015</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -46,10 +46,10 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Call for Papers<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#">EuroGP</a></li>
-                <li><a href="#">EvoCOP</a></li>
-                <li><a href="#">EvoMUSART</a></li>
-                <li><a href="#">EvoAPPS</a></li>
+                <li><a href="cfp_eurogp.php">EuroGP</a></li>
+                <li><a href="cfp_evocop.php">EvoCOP</a></li>
+                <li><a href="cfp_evomusart.php">EvoMUSART</a></li>
+                <li><a href="cfp_evoapps.php">EvoAPPS</a></li>
                 <li class="divider"></li>
                 <li class="dropdown-header">Submission</li>
                 <li><a href="#">Submission details</a></li>
@@ -91,7 +91,7 @@
 
        <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
-        <h1>Evostar 2015</h1>
+        <h1>Evo<span class="red">star</span> 2015</h1>
         <p>The Leading European Event on Bio-Inspired Computation.</p>
         <p>Copenhagen, Denmark, 8-10 April 2015</p>
       </div>

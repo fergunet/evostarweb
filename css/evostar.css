@@ -1,4 +1,10 @@
 .organisers{
 	text-align:center;
-	margin: 10px;
+	margin: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.red{
+	color: #C62730;
 }

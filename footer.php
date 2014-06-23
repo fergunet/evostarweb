@@ -10,7 +10,12 @@
               <h3 class="panel-title">Important dates:</h3>
             </div>
             <div class="panel-body">
-              Submission Deadline
+              
+              <strong>Submission Deadline:</strong> 15 November 2014<br/>
+              <strong>Notification:</strong> 07 January 2015<br/>
+              <strong>Camera-ready:</strong> 21 January 2015<br/>
+              <strong>EvoStar dates:</strong> 8-10 April 2015<br/>
+              
             </div>
       </div>
       <div class="panel panel-default">

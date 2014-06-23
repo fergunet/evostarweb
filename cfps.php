@@ -3,12 +3,13 @@
 </div>
 
 
-<a href="eurogp.php">EuroGP</a><br/>
-EvoBIO<br/>
-EvoCOP<br/>
-EvoMUSART<br/>
-EvoApplications<br/>
+<a href="cfp_eurogp.php">Euro<span class="red">GP</span></a><br/>
+
+<a href="cfp_evocop.php">Evo<span class="red">COP</span></a><br/>
+<a href="cfp_evomusart.php">Evo<span class="red">MUSART</span></a><br/>
+<a href="cfp_evoapps.php">Evo<span class="red">Applications</span></a><br/>
 <ul>
+	<li>EvoBIO</li>
 	<li>EvoCOMNET</li>
 <li>EvoCOMPLEX</li>
 <li>EvoENERGY</li>
@@ -25,5 +26,5 @@ EvoApplications<br/>
 </ul>
 EvoStar GENIL Award <br/>
 EvoStar Best Paper Candidates<br/>
-EvoStar Best Paper Awards 2014<br/>
+EvoStar Best Paper Awards 2015<br/>
 </ul>
