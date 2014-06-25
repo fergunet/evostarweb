@@ -193,7 +193,7 @@
       University of La Coru&ntilde;, Spain<br />
       <em>adriancarballal@gmail.com</em></p>
     <h2>Evo<span class="red">MUSART </span>Publication chair</h2>
-    <p><strong>Joao Correia</strong><br />
+    <p><strong>Jo&atilde;o Correia</strong><br />
       University of Coimbra<br />
       <em>jncor(at)dei.uc.pt</em><br />
     </p>

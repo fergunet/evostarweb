@@ -30,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Evo<span class="red">star</span> 2015</a>
+          <a class="navbar-brand" href="index.php">Evo<span class="red">star</span> 2015</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -86,7 +86,6 @@
         </div><!--/.nav-collapse -->
       </div>
     </div>
-
     <div class="container theme-showcase" role="main">
 
        <!-- Main jumbotron for a primary marketing message or call to action -->
@@ -95,7 +94,6 @@
         <p>The Leading European Event on Bio-Inspired Computation.</p>
         <p>Copenhagen, Denmark, 8-10 April 2015</p>
       </div>
-
 <div class="row">
     <div class="col-sm-3">
       <?php include('cfps.php') ?>
