@@ -24,7 +24,6 @@
 <li class="list-group-item">EvoROBOT</li>
 <li class="list-group-item">EvoSTOC</li>
 </ul>
-EvoStar GENIL Award <br/>
 EvoStar Best Paper Candidates<br/>
 EvoStar Best Paper Awards 2015<br/>
 </ul>

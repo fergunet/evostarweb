@@ -9,8 +9,6 @@ The four conferences include
 <ul><!--I've updated the event numbers-->
 <li>Euro<span class="red">GP</span> 18th European Conference on Genetic Programming</li>
 
-<li>Evo<span class="red">BIO</span>  13th European Conference on Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
-
 <li>Evo<span class="red">COP</span> 15th European Conference on Evolutionary Computation in Combinatorial Optimisation</li>
 
 <li>Evo<span class="red">MUSART</span> 4rd International Conference (and 12th European event) on Evolutionary and Biologically Inspired Music, Sound, Art and Design</li>
