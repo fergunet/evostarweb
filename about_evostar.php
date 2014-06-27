@@ -3,8 +3,8 @@
 <h2>About Evo<span class="red">star</span></h2>
 </div>
 
-Evo<span class="red">Star</span> comprises of five co-located conferences run each spring at different locations throughout Europe.  These events arose out of workshops originally developed by EvoNet, the Network of Excellence in Evolutionary Computing, established by the Information Societies Technology Programme of the European Commission, and they represent a continuity of research collaboration stretching back nearly 20 years.
-The five conferences include
+Evo<span class="red">Star</span> comprises of four co-located conferences run each spring at different locations throughout Europe.  These events arose out of workshops originally developed by EvoNet, the Network of Excellence in Evolutionary Computing, established by the Information Societies Technology Programme of the European Commission, and they represent a continuity of research collaboration stretching back nearly 20 years.
+The four conferences include
 
 <ul><!--I've updated the event numbers-->
 <li>Euro<span class="red">GP</span> 18th European Conference on Genetic Programming</li>

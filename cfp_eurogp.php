@@ -7,36 +7,49 @@
     <p>Euro<span class="red">GP</span> is the premier annual conference on Genetic 
       Programming, the oldest and the only meeting worldwide devoted specifically 
       to this branch of evolutionary computation. It is always a very enjoyable 
-      event attracting participants from all continents, offering excellent <br />
+      event attracting participants from all continents, offering excellent
       opportunities for networking, informal contact, exchange of ideas and discussions 
       with fellow researchers, in a friendly and relaxed environment. High quality 
       papers describing new original research are sought on topics strongly related 
       to the evolution of computer programs, ranging from theoretical work to 
       innovative applications. The conference will feature a mixture of oral presentations 
-      and poster sessions. In 2013, the Euro<span class="red">GP</span> acceptance 
-      rate was 49% (38% for oral presentations).</p>
+      and poster sessions. In 2014, the Euro<span class="red">GP</span> acceptance 
+      rate was 50% (37.5% for oral presentations).</p>
     <h2> Areas of Interest and Contributions</h2>
     <p>Topics include but are not limited to:</p>
     <ul>
-      <li>Innovative applications of GP</li>
-      <li> Theoretical developments</li>
-      <li> GP performance and behaviour</li>
-      <li> Fitness landscape analysis of GP Algorithms, representations and operators 
-      </li>
-      <li>Real-world applications</li>
-      <li> Evolutionary design</li>
-      <li> Evolutionary robotics</li>
-      <li> Tree-based GP and Linear GP Graph-based GP and Grammar-based GP </li>
-      <li> Evolvable hardware</li>
-      <li> Self-reproducing programs Multi-population GP Multi-objective GP </li>
-      <li> Fast/Parallel GP Probabilistic GP</li>
-      <li> Evolution of automata or machine Software Engineering and GP </li>
-      <li> Object-oriented GP</li>
-      <li> Hybrid architectures including GP Coevolution in GP</li>
-      <li> Modularity in GP</li>
-      <li> Unconventional evolvable computation Automatic software maintenance 
-      </li>
-      <li> Evolutionary inductive programming</li>
+
+<li>Innovative applications of GP</li>
+<li>Theoretical developments</li>
+<li>GP performance and behaviour</li>
+<li>Fitness landscape analysis of GP</li>
+<li>Algorithms, representations and operators</li>
+<li>Real-world applications</li>
+<li>Search-based software engineering</li>
+<li>GP for program improvement</li>
+<li>Evolutionary design</li>
+<li>Evolutionary robotics</li>
+<li>Tree-based GP and Linear GP</li>
+<li>Graph-based GP and Grammar-based GP</li>
+<li>Evolvable hardware</li>
+<li>Self-reproducing programs</li>
+<li>Multi-population GP</li>
+<li>Multi-objective GP</li>
+<li>Fast/Parallel GP</li>
+<li>Probabilistic GP</li>
+<li>Evolution of automata or machine</li>
+<li>Software Engineering and GP</li>
+<li>Object-oriented GP</li>
+<li>Hybrid architectures including GP</li>
+<li>Coevolution in GP</li>
+<li>Modularity in GP</li>
+<li>Semantics in GP</li>
+<li>Unconventional evolvable computation</li>
+<li>Automatic software maintenance</li>
+<li>Evolutionary inductive programming</li>
+
+
+
     </ul>
     <h2>Publication Details</h2>
     <p>Accepted papers will be presented orally or as posters at the Conference 
@@ -47,6 +60,7 @@
     <table width="100%" border="0">
       <tr class="twoColFixLtHdr"> 
         <td> <ul>
+            <li>2014 TO APPEAR</li>
             <li>2013 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=7831">LNCS 
               7831</a></li>
@@ -132,8 +146,8 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
         chairs : </h2>
       <ul>
         <li><span><strong>Penousal Machado<br />
-          </strong>University of Coibra<em><br />
-          miguel.nicolau(at)ucd.ie</em><br />
+          </strong>University of Coimbra<em><br />
+          machado(at)dei.uc.pt</em><br />
           </span></li>
          
         <li><span><strong>Malcolm Heywood</strong><br />
@@ -142,7 +156,6 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
       
       </ul>
 
-      Penousal Machado, University of Coimbra, Portugal, machado@dei.uc.pt  Malcolm Heywood, Dalhousie University, Canada, mheywood@cs.dal.ca
     </div>
     <div id="logo"> <strong>Euro<span class="red">GP</span></a> 
       publication chair : </strong> 
