@@ -22,33 +22,31 @@
       fields. The following tracks will be running in 2015: </span> </p>
     <span id="logo"> 
     <ul>
-      <li><a href="cfpEvoCOMNET.html">Evo<span class="red">COMNET</span></a> - 
+      <li><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a> - 
         Nature-inspired Techniques for Communication Networks and other Parallel 
         and Distributed Systems.</li>
-      <li><a href="cfpEvoCOMPLEX.html">Evo<span class="red">COMPLEX</span></a> 
+      <li><a href="#">Evo<span class="red">COMPLEX</span></a> 
         - Evolutionary Algorithms and Complex Systems</li>
-      <li><a href="cfpEvoENERGY.html">Evo<span class="red">ENERGY</span></a> - 
+      <li><a href="#">Evo<span class="red">ENERGY</span></a> - 
         Evolutionary Algorithms in Energy Applications</li>
-      <li><a href="cfpEvoFIN.html">Evo<span class="red">FIN</span></a> - Natural 
+      <li><a href="#">Evo<span class="red">FIN</span></a> - Natural 
         Computing Methods in Finance and Economics</li>
-      <li><a href="cfpEvoGAMES.html">Evo<span class="red">GAMES</span></a> - Bio-inspired 
+      <li><a href="#">Evo<span class="red">GAMES</span></a> - Bio-inspired 
         Algorithms in Games</li>
-      <li><a href="cfpEvoHOT.html">Evo<span class="red">HOT</span></a> - Bio-Inspired 
-        Heuristics for Design Automation</li>
-      <li><a href="cfpEvoIASP.html">Evo<span class="red">IASP</span></a> - Evolutionary 
+      <li><a href="#">Evo<span class="red">IASP</span></a> - Evolutionary 
         Computation in Image Analysis, Signal Processing and Pattern Recognition</li>
-      <li><a href="cfpEvoINDUSTRY.html">Evo<span class="red">INDUSTRY</span></a> 
+      <li><a href="#">Evo<span class="red">INDUSTRY</span></a> 
         - Evolutionary and Bio-Inspired Computational Techniques within Real-World 
         Industrial and Commercial Environments.</li>
-      <li><a href="cfpEvoNUM.html">Evo<span class="red">NUM</span></a> - Bio-inspired 
+      <li><a href="#">Evo<span class="red">NUM</span></a> - Bio-inspired 
         algorithms for continuous parameter optimisation</li>
-      <li><a href="cfpEvoPAR.html">Evo<span class="red">PAR</span></a> - Parallel 
+      <li><a href="#">Evo<span class="red">PAR</span></a> - Parallel 
         Architectures and Distributed Infrastructures</li>
-      <li><a href="cfpEvoRISK.html">Evo<span class="red">RISK</span></a> - Computational 
+      <li><a href="#">Evo<span class="red">RISK</span></a> - Computational 
         Intelligence for Risk Management, Security and Defence Applications</li>
-      <li><a href="cfpEvoROBOT.html">Evo<span class="red">ROBOT</span></a> - Evolutionary 
+      <li><a href="cfp_evorobot.php">Evo<span class="red">ROBOT</span></a> - Evolutionary 
         Robotics</li>
-      <li><a href="cfpEvoSTOC.html">Evo<span class="red">STOC</span></a> - Evolutionary 
+      <li><a href="#">Evo<span class="red">STOC</span></a> - Evolutionary 
         Algorithms in Stochastic and Dynamic Environments</li>
     </ul>
     <p>Join the the EVOstar group on LinkedIn for more details and updates.</p>
