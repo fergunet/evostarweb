@@ -27,8 +27,6 @@ The four conferences include
 
 <li>Evo<span class="red">GAMES </span>  Bio-inspired Algorithms in Games</li>
 
-<li>Evo<span class="red">HOT</span>   Bio-Inspired Heuristics for Design Automation</li>
-
 <li>Evo<span class="red">IASP</span>  Evolutionary computation in image analysis, signal processing and pattern recognition</li>
 
 <li>Evo<span class="red">INDUSTRY</span> The application of Nature-Inspired Techniques in industrial settings</li>

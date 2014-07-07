@@ -89,7 +89,7 @@
     <div class="container theme-showcase" role="main">
 
        <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron">
+      <div class="jumbotron jumboevo">
         <h1>Evo<span class="red">star</span> 2015</h1>
         <p>The Leading European Event on Bio-Inspired Computation.</p>
         <p>Copenhagen, Denmark, 8-10 April 2015</p>

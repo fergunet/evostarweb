@@ -8,3 +8,10 @@
 .red{
 	color: #C62730;
 }
+
+.jumboevo{
+background-image: url(../img/coverjumbo.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

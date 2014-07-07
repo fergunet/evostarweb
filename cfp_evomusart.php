@@ -8,12 +8,13 @@
       Part of evo<span class="red">*</span> 2015<br />
       evo<span class="red">*</span>: <a href="http://www.evostar.org">http://www.evostar.org</a></p>
     <p><br />
-      ----------------------------------------------------------------------------<br />
+      <!------------------------------------------------------------------------------<br />
       <strong>LEONARDO Special Section</strong><br />
       Authors of selected papers will be invited to submit expanded versions of 
       their work for a planned special section on Evolutionary Art of the MIT 
       Press journal &quot;Leonardo&quot;.<br />
       ---------------------------------------------------------------------------- 
+    -->
     </p>
     <p>Following the success of previous events and the importance of the field 
       of evolutionary and biologically inspired (artificial neural network, swarm, 
@@ -29,22 +30,13 @@
       using biologically inspired computer techniques for artistic tasks, providing 
       the opportunity to promote, present and discuss ongoing work in the area. 
     </p>
-    <p>The event will be held in April, 2015 in Copenhagen, Denmark, as<br />
+    <p>The event will be held in April, 2015 in Copenhagen, Denmark, as
       part of the evo<span class="red">*</span> event.</p>
     <h2><br />
       Publication Details </h2>
-    <p>Submissions will be rigorously reviewed for scientific and artistic merit. 
-      Accepted papers will be presented orally or as posters at the event and 
-      included in the evomusart proceedings, published by Springer Verlag in a 
-      dedicated volume of the Lecture Notes in Computer Science series. The acceptance 
-      rate at evomusart 2013 was 30.5\% for papers<br />
-      accepted for oral presentation, or 44.4% for oral and poster presentation 
-      combined. The evomusart 2013 submissions received on average 3.4 reviews 
-      each.</p>
-    <p>New this year: submitters are strongly encouraged to provide in all papers 
-      a link for download of media demonstrating their results, whether music, 
-      images, video, or other media types. Links should be anonymised for double-blind 
-      review, e.g. using a URL shortening service.</p>
+<p>Submissions will be rigorously reviewed for scientific and artistic merit. Accepted papers will be presented orally or as posters at the event and included in the evomusart proceedings, published by Springer Verlag in a dedicated volume of the Lecture Notes in Computer Science series. The acceptance rate at evomusart 2014 was 26.7% for papers accepted for oral presentation, or 36.7% for oral and poster presentation combined. </p>
+
+<p>Submitters are strongly encouraged to provide in all papers a link for download of media demonstrating their results, whether music, images, video, or other media types. Links should be anonymised for double-blind review, e.g. using a URL shortening service.</p>
     <h2>Topics of interest </h2>
     <p>Submissions should concern the use of biologically inspired computer techniques 
       -- e.g. Evolutionary Computation, Artificial Life, Artificial Neural Networks, 
@@ -110,79 +102,64 @@
       the authors in the submitted paper.</p>
     <h2>Programme committee</h2>
     <ul>
-      <li>Adrian Carballal,University of A Coruna,Spain</li>
-      <li> Alain Lioret,Paris 8 University,France</li>
-      <li> Alan Dorin,Monash University,Australia</li>
-      <li> Alejandro Pazos,University of A Coruna,Spain</li>
-      <li>Alice Eldridge,Monash University,Australia</li>
-      <li>Amilcar Cardoso,University of Coimbra,Portugal</li>
-      <li>Amy K. Hoover,University of Central Florida,USA</li>
-      <li>Andrew Brown,Griffith University,Australia</li>
-      <li>Andrew Gildfind,Google, Inc.,Australia</li>
-      <li>Andrew Horner,University of Science &amp; Technology,Hong Kong</li>
-      <li>Anna Ursyn,University of Northern Colorado,USA</li>
-      <li>Antonino Santos,University of A Coruna,Spain</li>
-      <li>Antonios Liapis,IT University of Copenhagen ,Denmark</li>
-      <li>Arne Eigenfeldt,Simon Fraser University,Canada</li>
-      <li>Artemis Sanchez Moroni,Renato Archer Research Center,Brazil</li>
-      <li>Benjamin Schroeder,Ohio State University,USA</li>
-      <li>Benjamin Smith,Indianapolis University, Purdue University,Indianapolis,USA</li>
-      <li>Bill Manaris,College of Charleston,USA</li>
-      <li>Brian Ross,Brock University,Canada</li>
-      <li>Carlos Grilo,Instituto Politécnico de Leiria,Portugal</li>
-      <li>Christian Jacob,University of Calgary,Canada</li>
-      <li>Colin Johnson,University of Kent,UK</li>
-      <li>Dan Ashlock,University of Guelph,Canada</li>
-      <li>Dan Costelloe,Independent Researcher (Solace One Ltd),Ireland</li>
-      <li>Dan Ventura,Brigham Young University,USA</li>
-      <li>Daniel Bisig,University of Zurich,Switzerland</li>
-      <li>Daniel Jones,Goldsmiths College, University of London,UK</li>
-      <li>Douglas Repetto,Columbia University,USA</li>
-      <li>Eduardo Miranda,University of Plymouth,UK</li>
-      <li>Eelco den Heijer,Vrije Universiteit Amsterdam,Netherlands</li>
-      <li>Eleonora Bilotta ,University of Calabria,Italy</li>
-      <li>Francois Pachet,Sony CSL Paris,France</li>
-      <li>Gary Greenfield,University of Richmond,USA</li>
-      <li>Gary Nelson,Oerlin College,USA</li>
-      <li>Hans Dehlinger,Independent Artist,Germany</li>
-      <li>Hernán Kerlleñevich,National University of Quilmes,Argentina</li>
-      <li>J. E. Rowe,University of Birmingham,UK</li>
-      <li>Jane Prophet,Independent Artist,UK</li>
-      <li>Jate Reed,Imperial College,UK</li>
-      <li>John Collomosse,University of Surrey,UK</li>
-      <li>Jon McCormack,Monash University,Australia</li>
-      <li>Jonathan Byrne,University College Dublin,Ireland</li>
-      <li>Jonathan Eisenmann,Ohio State University,USA</li>
-      <li>José Fornari,NICS/Unicamp,Brazil</li>
-      <li>Marcelo Freitas Caetano,IRCAM,France</li>
-      <li>Marcos Nadal,University of Illes Balears,Spain</li>
-      <li>Matthew Lewis,Ohio State University,USA</li>
-      <li>Mauro Annunziato,Plancton Art Studio,Italy</li>
-      <li>Michael O’Neill,University College Dublin,Ireland</li>
-      <li>Nicolas Monmarché,University of Tours,France</li>
-      <li>Pablo Gervás,Universidad Complutense de Madrid,Spain</li>
-      <li>Palle Dahlstedt,Göteborg University,Sweden</li>
-      <li>Patrick Janssen ,National University of Singapure,Singapure</li>
-      <li>Paulo Urbano,Universidade de Lisboa,Portugal</li>
-      <li>Pedro Cruz,University of Coimbra,Portugal</li>
-      <li>Penousal Machado,University of Coimbra,Portugal</li>
-      <li>Peter Bentley,University College London ,UK</li>
-      <li>Peter Cariani,University of Binghamton,USA</li>
-      <li>Philip Galanter,Texas A&amp;M College of Architecture,USA</li>
-      <li>Philippe Pasquier,Simon Fraser University,Canada</li>
-      <li>Rafael Ramirez,Pompeu Fabra University,Spain</li>
-      <li>Roger Malina,International Society for the Arts, Sciences and Technology,USA</li>
-      <li>Roisin Loughran,University of Limerick,Ireland</li>
-      <li>Ruli Manurung,University of Indonesia,Indonesia</li>
-      <li>Scott Draves,Independent Artist,USA</li>
-      <li>Somnuk Phon-Amnuaisuk,Brunei Institute of Technology,Malaysia</li>
-      <li>Stephen Todd,IBM,UK</li>
-      <li>Takashi Ikegami,Tokyo Institute of Technology,Japan</li>
-      <li>Tim Blackwell,Goldsmiths College, University of London,UK</li>
-      <li>Troy Innocent,Monash University,Australia</li>
-      <li>Usman Haque,Haque Design + Research Ltd,UK/Pakistan</li>
-      <li>Vic Ciesielski,RMIT,Australia</li>
-      <li>Yang Li,University of Science and Technology Beijing,China<br />
+
+<li>Alain Lioret, Paris 8 University, France</li>
+<li>Alan Dorin, Monash University, Australia</li>
+<li>Alejandro Pazos, University of A Coru&ntilde;a, Spain</li>
+<li>Amilcar Cardoso, University of Coimbra, Portugal</li>
+<li>Amy K. Hoover, University of Central Florida, USA</li>
+<li>Andrew Brown, Griffith University, Australia</li>
+<li>Andrew Gildfind, Google, Inc., Australia</li>
+<li>Andrew Horner, University of Science and Technology, Hong Kong</li>
+<li>Anna Ursyn, University of Northern Colorado, USA</li>
+<li>Antonino Santos, University of A Coru&ntilde;a, Spain</li>
+<li>Antonios Liapis, IT University of Copenhagen , Denmark</li>
+<li>Arne Eigenfeldt, Simon Fraser University, Canada</li>
+<li>Benjamin Smith, Indianapolis University, Purdue University,Indianapolis, USA</li>
+<li>Bill Manaris, College of Charleston, USA</li>
+<li>Brian Ross, Brock University, Canada</li>
+<li>Carlos Grilo, Instituto Politecnico de Leiria, Portugal</li>
+<li>Christian Jacob, University of Calgary, Canada</li>
+<li>Dan Ashlock, University of Guelph, Canada</li>
+<li>Dan Ventura, Brigham Young University, USA</li>
+<li>Daniel Jones, Goldsmiths College,  University of London, UK</li>
+<li>Daniel Silva, University of Coimbra, Portugal</li>
+<li>Douglas Repetto, Columbia University, USA</li>
+<li>Eduardo Miranda, University of Plymouth, UK</li>
+<li>Eleonora Bilotta , University of Calabria, Italy</li>
+<li>Gary Greenfield, University of Richmond, USA</li>
+<li>Hans Dehlinger, Independent Artist, Germany</li>
+<li>Jane Prophet, City University, Hong Kong, China</li>
+<li>Jon McCormack, Monash University, Australia</li>
+<li>Jonathan Byrne, University College Dublin, Ireland</li>
+<li>Jonathan E. Rowe, University of Birmingham, UK</li>
+<li>Jonathan Eisenmann, Ohio State University, USA</li>
+<li>Jose Fornari, NICS/Unicamp, Brazil</li>
+<li>Juan Romero, University of A Coru&ntilde;a, Spain</li>
+<li>Kate Reed, Imperial College, UK</li>
+<li>Marcelo Freitas Caetano, IRCAM, France</li>
+<li>Marcos Nadal, University of Vienna?, Austria</li>
+<li>Matthew Lewis, Ohio State University, USA</li>
+<li>Michael O'Neill, University College Dublin, Ireland</li>
+<li>Nicolas Monmarch, University of Tours, France</li>
+<li>Palle Dahlstedt, Göteborg University, Sweden</li>
+<li>Patrick Janssen , National University of Singapure, Singapure</li>
+<li>Paulo Urbano, Universidade de Lisboa, Portugal</li>
+<li>Pedro Abreu, University of Coimbra, Portugal</li>
+<li>Pedro Cruz, University of Coimbra, Portugal</li>
+<li>Penousal Machado, University of Coimbra, Portugal</li>
+<li>Peter Bentley, University College London , UK</li>
+<li>Peter Cariani, University of Binghamton, USA</li>
+<li>Philip Galanter, Texas A&amp;M College of Architecture, USA</li>
+<li>Philippe Pasquier, Simon Fraser University, Canada</li>
+<li>Roger Malina, International Society for the Arts, Sciences and Technology, USA</li>
+<li>Roisin Loughran, University of Limerick, Ireland</li>
+<li>Ruli Manurung, University of Indonesia, Indonesia</li>
+<li>Scott Draves, Independent Artist, USA</li>
+<li>Somnuk Phon-Amnuaisuk, Brunei Institute of Technology, Malaysia</li>
+<li>Stephen Todd, IBM, UK</li>
+<li>Takashi Ikegami, Tokyo Institute of Technology, Japan</li>
+<li>Tim Blackwell, Goldsmiths College,  University of London, UK</li>
       </li>
     </ul>
     <h2>Evo<span class="red">MUSART</span> Conference chairs </h2>
@@ -190,7 +167,7 @@
        University of Kent, UK<br />
       <em>c.g.johnson@kent.ac.uk</em></p>
     <p><strong>Adrián Carballal</strong><br />
-      University of La Coru&ntilde;, Spain<br />
+      University of A Coru&ntilde;a, Spain<br />
       <em>adriancarballal@gmail.com</em></p>
     <h2>Evo<span class="red">MUSART </span>Publication chair</h2>
     <p><strong>Jo&atilde;o Correia</strong><br />

@@ -25,9 +25,11 @@
       <li><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a> - 
         Nature-inspired Techniques for Communication Networks and other Parallel 
         and Distributed Systems.</li>
+         <li><a href="#">Evo<span class="red">BIO</span></a> 
+        - Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
       <li><a href="#">Evo<span class="red">COMPLEX</span></a> 
         - Evolutionary Algorithms and Complex Systems</li>
-      <li><a href="#">Evo<span class="red">ENERGY</span></a> - 
+      <li><a href="cfp_evoenergy.php">Evo<span class="red">ENERGY</span></a> - 
         Evolutionary Algorithms in Energy Applications</li>
       <li><a href="#">Evo<span class="red">FIN</span></a> - Natural 
         Computing Methods in Finance and Economics</li>
@@ -40,7 +42,7 @@
         Industrial and Commercial Environments.</li>
       <li><a href="#">Evo<span class="red">NUM</span></a> - Bio-inspired 
         algorithms for continuous parameter optimisation</li>
-      <li><a href="#">Evo<span class="red">PAR</span></a> - Parallel 
+      <li><a href="cfp_evopar.php">Evo<span class="red">PAR</span></a> - Parallel 
         Architectures and Distributed Infrastructures</li>
       <li><a href="#">Evo<span class="red">RISK</span></a> - Computational 
         Intelligence for Risk Management, Security and Defence Applications</li>
