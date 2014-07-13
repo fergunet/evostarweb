@@ -15,7 +15,7 @@
 
 <h3>Flyers</h3>
 <p><a href="evo2015.pdf" target="_blank">EvoStar 2015 flyer</a>.</p>
-<p><a href="evoAPPS.pdf" target="_blank">EvoApps 2015 flyer</a>.</p>
+<p><a href="EvoAPPS.pdf" target="_blank">EvoApps 2015 flyer</a>.</p>
 <?php include('footer.php') ?>
 
 

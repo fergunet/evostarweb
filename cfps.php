@@ -16,12 +16,12 @@
 <li class="list-group-item"><a href="#">Evo<span class="red">FIN</span></a></li>
 <li class="list-group-item"><a href="#">Evo<span class="red">GAMES</span></a></li>
 <li class="list-group-item"><a href="#">Evo<span class="red">IASP</span></a></li>
-<li class="list-group-item"><a href="#">Evo<span class="red">INDUSTRY</span></a></li>
+<li class="list-group-item"><a href="cfp_evoindustry.php">Evo<span class="red">INDUSTRY</span></a></li>
 <li class="list-group-item"><a href="#">Evo<span class="red">NUM</span></a></li>
 <li class="list-group-item"><a href="cfp_evopar.php">Evo<span class="red">PAR</span></a></li>
 <li class="list-group-item"><a href="#">Evo<span class="red">RISK</span></a></li>
 <li class="list-group-item"><a href="cfp_evorobot.php">Evo<span class="red">ROBOT</span></a></li>
-<li class="list-group-item"><a href="#">Evo<span class="red">STOC</span></a></li>
+<li class="list-group-item"><a href="cfp_evostoc.php">Evo<span class="red">STOC</span></a></li>
 </ul>
 EvoStar Best Paper Candidates<br/>
 EvoStar Best Paper Awards 2015<br/>

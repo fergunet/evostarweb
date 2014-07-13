@@ -37,7 +37,7 @@
         Algorithms in Games</li>
       <li><a href="#">Evo<span class="red">IASP</span></a> - Evolutionary 
         Computation in Image Analysis, Signal Processing and Pattern Recognition</li>
-      <li><a href="#">Evo<span class="red">INDUSTRY</span></a> 
+      <li><a href="cfp_evoindustry.php">Evo<span class="red">INDUSTRY</span></a> 
         - Evolutionary and Bio-Inspired Computational Techniques within Real-World 
         Industrial and Commercial Environments.</li>
       <li><a href="#">Evo<span class="red">NUM</span></a> - Bio-inspired 
@@ -48,7 +48,7 @@
         Intelligence for Risk Management, Security and Defence Applications</li>
       <li><a href="cfp_evorobot.php">Evo<span class="red">ROBOT</span></a> - Evolutionary 
         Robotics</li>
-      <li><a href="#">Evo<span class="red">STOC</span></a> - Evolutionary 
+      <li><a href="cfp_evostoc.php">Evo<span class="red">STOC</span></a> - Evolutionary 
         Algorithms in Stochastic and Dynamic Environments</li>
     </ul>
     <p>Join the the EVOstar group on LinkedIn for more details and updates.</p>
