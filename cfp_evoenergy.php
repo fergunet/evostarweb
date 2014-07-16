@@ -58,18 +58,23 @@ for the conference and attend the conference and present the work. The
 reviewing process will be double-blind, please omit information about the
 authors in the submitted paper.</p>
 
-Submission format: Springer LNCS (see EvoENERGY web page)
-Please provide up to five keywords in your Abstract
-Page limit: 12 pages
-Submission page: TBA
-
+Submission format: Springer LNCS<br/>
+Please provide up to five keywords in your Abstract<br/>
+Page limit: 12 pages<br/>
+Submission page: TBA<br/>
+<br/>
+-----------------------------------------------------------------------<br/>
+Best papers will be invited for a Special Issue to be edited with the<br/>
+Journal of Renewable Energy, Elsevier, 5 year IF: 3.456; the SI is<br/>
+organized by IEEE TF on Computational Intelligence in the Energy Domain<br/>
+-----------------------------------------------------------------------<br/>
 
 <h3>Important dates</h3>
 
 <ul>
-<li>Submission deadline: TBA</li>
-<li>Notification: TBA</li>
-<li>Camera ready: TBA</li>
+<li>Submission deadline: 15 November 2014</li>
+<li>Notification: 07 January 2015</li>
+<li>Camera ready: 21 January 2015</li>
 <li>EvoENERGY: 08-10 April 2015, Copenhagen, Denmark</li>
 </ul>
 
@@ -82,6 +87,19 @@ Submission page: TBA
 
 <h3>Confirmed program committee</h3>
 
-TBA
-
+<ul>
+<li>Konrad Diwold, Fraunhofer Institute for Wind and Energy System Technology, Kassel, Germany</li>
+<li>Ralph Evins, Laboratory of Building Science and Technology, Empa, Switzerland</li>
+<li>Oliver Kramer, University of Oldenburg, Germany</li>
+<li>Ingo Mauser, FZI Karlsruhe, Germany</li>
+<li>Martin Middendorf, University of Leipzig, Germany</li>
+<li>Maizura Mokhtar, University of Sheffield, UK</li>
+<li>Sanaz Mostaghim, University of Magdeburg, Germany</li>
+<li>Frank Neumann, University of Adelaide, AU</li>
+<li>Peter Palensky, Austrian Institute of Technology, Austria</li>
+<li>Cong Shen, University of Kassel, Germany</li>
+<li>Bernhard Sick, University of Kassel, Germany</li>
+<li>Andy Tyrrell, University of York, UK</li>
+<li>Markus Wagner, University of Adelaide, AU</li>
+</ul>
     <?php include('footer.php') ?>
