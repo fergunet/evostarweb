@@ -4,10 +4,10 @@
    </div>
 
 
-<h3>EuroGP</h3>
+<h3>Euro<span class="red">GP</span></h3>
 <h4>18th European Conference on Genetic Programming</h4>
  
-<strong>EuroGP programme chairs :</strong>
+<strong>Euro<span class="red">GP</span> programme chairs :</strong>
 
 <table class="organisers">
 <tr>
@@ -22,7 +22,7 @@
 
 
 
-<strong>EuroGP publication chair :</strong>
+<strong>Euro<span class="red">GP</span> publication chair :</strong>
 <table class="organisers">
 <tr>
 	<td><img src="organisers/james_mcdermott.jpg" width="100"></td>
@@ -36,10 +36,10 @@
 
  
  
-<h3>EvoCOP</h3>
+<h3>Evo<span class="red">COP</span></h3>
 <h4>15th European Conference on Evolutionary Computation in Combinatorial Optimisation</h4>
  
-<strong>EvoCOP programme chairs :</strong>
+<strong>Evo<span class="red">COP</span> programme chairs :</strong>
 
 <table class="organisers">
 <tr>
@@ -58,10 +58,10 @@
 
  
  
-<h3>EvoMUSART</h3>
+<h3>Evo<span class="red">MUSART</span></h3>
 <h4>4th International Conference on Evolutionary and Biologically Inspired Music, Sound, Art and Design</h4>
  
-<strong>EvoMUSART programme chairs :</strong>
+<strong>Evo<span class="red">MUSART</span> programme chairs :</strong>
 
 <table class="organisers">
 <tr>
@@ -77,7 +77,7 @@
 
 
  
-<strong>EvoMUSART Publication chair :</strong>
+<strong>Evo<span class="red">MUSART</span> Publication chair :</strong>
 <table class="organisers">
 <tr>
 	<td><img src="organisers/joao_correia.jpg" width="100"></td>
@@ -91,9 +91,9 @@
 
  
  
-<h3>EvoAPPLICATIONS</h3>
+<h3>Evo<span class="red">APPLICATIONS</span></h3>
 <h4>17th European Conference on the Applications of Evolutionary Computation</h4>
-<strong>EvoApplications coordinator :</strong>
+<strong>Evo<span class="red">Applications</span> coordinator :</strong>
 
 <table class="organisers">
 <tr>
@@ -104,7 +104,7 @@
 </tr>
 </table>
  
-<strong>EvoAPPS publication chair :</strong>
+<strong>Evo<span class="red">APPS</span> publication chair :</strong>
 
 
 <table class="organisers">
@@ -116,7 +116,7 @@
 </tr>
 </table>
  
-<h3>EvoStar 2015 publicity chairs</h3>
+<h3>Evo<span class="red">Star</span> 2015 publicity chairs</h3>
 <table class="organisers">
 <tr>
 	<td><img src="organisers/pablo_garcia.jpg" width="100"></td>
@@ -128,7 +128,7 @@
 </tr>
 </table>
  
-<h3>EvoStar 2015 local chairs</h3>
+<h3>Evo<span class="red">Star</span> 2015 local chairs</h3>
 
 
 
@@ -144,7 +144,7 @@
 </table>
  
  
-<h3>EvoStar coordinator</h3>
+<h3>Evo<span class="red">Star</span> coordinator</h3>
 <table class="organisers">
 <tr>
 	<td><img src="organisers/jennifer_willies.jpg" width="100"></td>

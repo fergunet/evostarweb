@@ -33,7 +33,7 @@
         Evolutionary Algorithms in Energy Applications</li>
       <li><a href="#">Evo<span class="red">FIN</span></a> - Natural 
         Computing Methods in Finance and Economics</li>
-      <li><a href="#">Evo<span class="red">GAMES</span></a> - Bio-inspired 
+      <li><a href="cfp_evogames.php">Evo<span class="red">GAMES</span></a> - Bio-inspired 
         Algorithms in Games</li>
       <li><a href="#">Evo<span class="red">IASP</span></a> - Evolutionary 
         Computation in Image Analysis, Signal Processing and Pattern Recognition</li>
@@ -53,6 +53,7 @@
     </ul>
     <p>Join the the EVOstar group on LinkedIn for more details and updates.</p>
     </span> 
+    
     <h3>PUBLICATION DETAILS</h3>
     <p>Accepted papers will appear in the proceedings of Evo<span class="red">Star</span>, 
       published in a volume of the Springer Lecture Notes in Computer Science, 
