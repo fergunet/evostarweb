@@ -35,7 +35,7 @@
         Computing Methods in Finance and Economics</li>
       <li><a href="cfp_evogames.php">Evo<span class="red">GAMES</span></a> - Bio-inspired 
         Algorithms in Games</li>
-      <li><a href="#">Evo<span class="red">IASP</span></a> - Evolutionary 
+      <li><a href="cfp_evoiasp.php">Evo<span class="red">IASP</span></a> - Evolutionary 
         Computation in Image Analysis, Signal Processing and Pattern Recognition</li>
       <li><a href="cfp_evoindustry.php">Evo<span class="red">INDUSTRY</span></a> 
         - Evolutionary and Bio-Inspired Computational Techniques within Real-World 
