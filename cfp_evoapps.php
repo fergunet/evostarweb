@@ -40,11 +40,11 @@
       <li><a href="cfp_evoindustry.php">Evo<span class="red">INDUSTRY</span></a> 
         - Evolutionary and Bio-Inspired Computational Techniques within Real-World 
         Industrial and Commercial Environments.</li>
-      <li><a href="#">Evo<span class="red">NUM</span></a> - Bio-inspired 
+      <li><a href="cfp_evonum.php">Evo<span class="red">NUM</span></a> - Bio-inspired 
         algorithms for continuous parameter optimisation</li>
       <li><a href="cfp_evopar.php">Evo<span class="red">PAR</span></a> - Parallel 
         Architectures and Distributed Infrastructures</li>
-      <li><a href="#">Evo<span class="red">RISK</span></a> - Computational 
+      <li><a href="cfp_evorisk.php">Evo<span class="red">RISK</span></a> - Computational 
         Intelligence for Risk Management, Security and Defence Applications</li>
       <li><a href="cfp_evorobot.php">Evo<span class="red">ROBOT</span></a> - Evolutionary 
         Robotics</li>
