@@ -3,14 +3,14 @@
         <h2>Evo<span class="red">Applications</span><h2>
    </div>
 
-<h2>17th European Conference on the Applications of Evolutionary Computation</h2>
+<h2>18th European Conference on the Applications of Evolutionary Computation</h2>
  <p>Evo<span class="red">Applications</span></a></span>, 
       the European Conference on the Applications of Evolutionary Computation 
       -formerly known as EvoWorkshops- brings together researchers in a variety 
       of areas of application of Evolutionary Computation and other Nature-inspired 
       techniques. </p>
     <p> <span id="logo">Evo<span class="red">Applications</span>
-      invites high quality contributions for its 17th edition, which will be held 
+      invites high quality contributions for its 18th edition, which will be held 
       as part of the Evo<span class="red">Star</span>
       2015 event in Copenhagen, Denmark, April 08-10 2015 and co-located within Evo<span class="red">Star</span> 
       with three related conferences: <a href="cfp_eurogp.html">Euro<span class="red">GP</span></a>, <a href="cfp_evocop.html">Evo<span class="red">COP</span></a> 
