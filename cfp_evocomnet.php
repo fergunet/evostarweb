@@ -5,7 +5,14 @@
 
 
 
-<p><strong>Application of Nature-inspired Techniques for Communication Networks and other Parallel and Distributed Systems</strong></p>
+<p><strong>Application of Nature-inspired Techniques for Communication Networks and
+other Parallel and Distributed Systems featuring a fast-track option for
+Applied Soft Computing journal</strong></p>
+
+This year's edition is technically sponsored by the World Federation on
+Soft Computing (<a href="http://softcomputing.org">http://softcomputing.org</a>).
+
+<p><img src="img/wfsclogo.jpg" /></p>
 
 Evo<span class="red">COMNET</span> solicits contributions dealing with the application of ideas from natural processes and systems to the definition, analysis, and development of novel sequential, parallel, and distributed evolutionary computation approaches to the solution of problems of practical and theoretical interest in all domains related to network systems. Use and tuning of hybrid computational approaches based on evolutionary techniques are also welcome.
 Topics of interest include, but are not limited to:
@@ -29,6 +36,40 @@ adellacioppa(at)unisa.it
 ICAR/CNR, Italy<br/>
 ernesto.tarantino(at)na.icar.cnr.it
 </ul>
+
+<h3>SUBMISSION DETAILS</h3>
+<p>Submissions must be original and not published elsewhere. They will be
+peer reviewed by at least three members of the program committee.
+The reviewing process will be double-blind, so please omit information
+about the authors in the submitted paper.</p>
+
+<p>Submit your manuscript in Springer LNCS format.</p>
+
+<p>Please provide up to five keywords in your Abstract</p>
+
+<p>Page limit: 12 pages.</p>
+
+<h3>IMPORTANT DATES</h3>
+Submission Deadline: 15 November 2014<br/>
+Notification: 07 January 2015<br/>
+Camera-ready: 21 January 2015<br/>
+EvoStar dates: 8-10 April 2015<br/>
+
+<h3>PUBLICATION DETAILS</h3>
+<p>Accepted papers will appear in the proceedings of EvoStar, published in a volume of the Springer Lecture Notes in Computer Science, 
+which will be available at the Conference. The authors of accepted papers will have to improve their paper on the basis of the reviewers 
+comments and will be asked to send a camera ready version of their manuscripts. At least one author of each accepted work has to register for the 
+conference and attend the conference and present the work.</p>
+
+<p>Furthermore, a selection of the best accepted papers, suitably revised
+and extended, will be eligible for fast-track publication in Applied Soft
+Computing journal by Elsevier (Impact Factor 2.140), thanks to the
+technical sponsorship offered by the World Federation on Soft Computing.</p>
+
+<h3>FURTHER INFORMATION</h3>
+Further information on the conference and co-located events can be 
+found in: <a href="http://www.evostar.org">http://www.evostar.org</a>.
+
 
 <h3>Programme Committee</h3>
 TBA
