@@ -116,6 +116,7 @@
 <li>  Mehmet-Emin Aydin ,  University of Bedfordshire ,  UK </li>
 <li>  Ruibin  Bai ,  University of Nottingham ,  UK </li>
 <li>  Matthieu  Basseur , University of Angers  , France  </li>
+<li>  Thomas Bartz-Beielstein , Cologne University of Applied Sciences,	Germany</li>
 <li>  Maria J.  Blesa ,  Technical University of Catalonia  ,  Spain  </li>
 <li>  Christian Blum  ,  IKERBASQUE - Basque Foundation for Science ,  Spain  </li>
 <li>  Sandy Brownlee  ,  University of Stirling ,  Scotland UK  </li>
