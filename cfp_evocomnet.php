@@ -24,18 +24,7 @@ Topics of interest include, but are not limited to:
 <li><em>Real-world implementations</em></li>
 </ul>
 
-<h3>Evo<span class="red">COMNET</span> track chairs</h3>
-<ul>
-<li><strong>Ivanoe De Falco</strong></li>
-ICAR/CNR, Italy<br/>
-ivanoe.defalco(at)na.icar.cnr.it
-<li><strong>Antonio Della Cioppa</strong></li>
-University of Salerno, Italy<br/>
-adellacioppa(at)unisa.it
-<li><strong>Ernesto Tarantino</strong></li>
-ICAR/CNR, Italy<br/>
-ernesto.tarantino(at)na.icar.cnr.it
-</ul>
+
 
 <h3>SUBMISSION DETAILS</h3>
 <p>Submissions must be original and not published elsewhere. They will be
@@ -43,7 +32,7 @@ peer reviewed by at least three members of the program committee.
 The reviewing process will be double-blind, so please omit information
 about the authors in the submitted paper.</p>
 
-<p>Submit your manuscript in Springer LNCS format.</p>
+<p>Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer LNCS format</a>.</p>
 
 <p>Please provide up to five keywords in your Abstract</p>
 
@@ -70,6 +59,18 @@ technical sponsorship offered by the World Federation on Soft Computing.</p>
 Further information on the conference and co-located events can be 
 found in: <a href="http://www.evostar.org">http://www.evostar.org</a>.
 
+<h3>Evo<span class="red">COMNET</span> track chairs</h3>
+<ul>
+<li><strong>Ivanoe De Falco</strong></li>
+ICAR/CNR, Italy<br/>
+ivanoe.defalco(at)na.icar.cnr.it
+<li><strong>Antonio Della Cioppa</strong></li>
+University of Salerno, Italy<br/>
+adellacioppa(at)unisa.it
+<li><strong>Ernesto Tarantino</strong></li>
+ICAR/CNR, Italy<br/>
+ernesto.tarantino(at)na.icar.cnr.it
+</ul>
 
 <h3>Programme Committee</h3>
 TBA
