@@ -34,7 +34,25 @@ a.e.eiben(at)vu.nl
 </ul>
 
 <h3>Programme Committee</h3>
-TBA
+<ul>
+<li>Nicolas Bredeche</li>
+<li>Anders Christensen</li>
+<li>Stephane Doncieux</li>
+<li>Marco Dorigo</li>
+<li>Gusz Eiben</li>
+<li>Evert Haasdijk</li>
+<li>Heiko Hamann</li>
+<li>Joost Huizinga</li>
+<li>Jean-Marc Montanier</li>
+<li>Claudio Rossi</li>
+<li>Sanem Sariel</li>
+<li>Thomas Schmickl </li>
+<li>Kasper Stoy</li>
+<li>Juergen Stradner</li>
+<li>Andy Tyrrell</li>
+<li>Berend Weel</li>
+<li>Alan Winfield</li>
+</ul>
 
     <?php include('footer.php') ?>
 
