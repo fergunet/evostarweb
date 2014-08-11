@@ -135,11 +135,11 @@
 <table class="organisers">
 <tr>
 	<td><img src="organisers/paolo_burelli.jpg" width="100"></td>
-	<td><img src="organisers/julian_togelius.jpg" width="100"></td>
+	<td><img src="organisers/sebastian_risi.jpg" width="100"></td>
 </tr>
 <tr>
 	<td>Paolo Burelli, Aalborg University, Copenhagen, Denmark, pabu@create.aau.dk</td>
-	<td>Julian Togelius, IT University of Copenhagen, Denmark, juto@itu.dk</td>
+	<td>Sebastian Risi, IT University of Copenhagen, Denmark, sebastian.risi@gmail.com</td>
 </tr>
 </table>
  
