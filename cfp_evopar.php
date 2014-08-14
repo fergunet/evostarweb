@@ -67,7 +67,7 @@
       ***********************************************************************<br />
     </div>
     <h2> IMPORTANT DATES </h2>
-    <p>Submission deadline: <del>1 November 2013</del><strong> 15 November 2014</strong><br />
+    <p>Submission deadline: <strong> 15 November 2014</strong><br />
       Notification: 07 January 2015<br />
       Camera ready: 21 January 2015<br />
       Evo<span class="red">PAR</span>: 8-10 April 2015 </p>
