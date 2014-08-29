@@ -6,10 +6,85 @@
 <h2>Evolutionary Algorithms and Meta-heuristics in Stochastic and Dynamic Environments</h2>
 
 
-Many real-world optimisation problems are characterised by some type of uncertainty that needs to be accounted for by the algorithm used to solve the problem. These uncertainties include noise (noisy optimisation), approximations (surrogate-assisted optimisation), dynamics (dynamic/online optimisation problems) as well as the requirement for robust solutions (robust optimisation). Dealing with these uncertainties has become increasingly popular in stochastic optimisation in recent years and a variety of new techniques have been proposed. The objective of Evo<span class="red">STOC</span> is to foster interest in metaheuristics for stochastic and dynamic optimisation and to provide an opportunity for researchers to meet and to present and discuss the state-of-the-art in the field. Evo<span class="red">STOC</span> accepts contributions, both empirical and theoretical in nature, for any work relating to nature-inspired, metaheuristics and stochastic techniques applied to a domain characterised by one or more types of uncertainty.
 
-<h2>Areas of Interest and Contributions</h2>
-Topics of interest include, but are not limited to, any of the following in the realm of nature-inspired, metaheuristics and stochastic computation:
+
+Following the success of previous events and the importance of the 
+
+field of evolutionary and bio-inspired computation for dynamic 
+
+optimization problems, the Evo<span class="red">STOC</span> 2015 will run its 12th edition 
+
+as a track of EvoApplications, the 18th European Conference on the 
+
+Applications of Evolutionary and bio-inspired Computation. 
+
+<h3>PUBLICATION DETAILS</h3> 
+
+Submissions will be rigorously reviewed by at least three members 
+
+of the program committee. Accepted papers will be presented orally 
+
+at the event and included in the EvoApplications proceedings, 
+
+published by Springer Verlag in a dedicated volume of the Lecture 
+
+Notes in Computer Science series. Submissions must be original and 
+
+not published elsewhere. The submissions will be peer reviewed. 
+
+The authors of accepted papers will have to improve their paper on 
+
+the basis of the reviewers’ comments and will be asked to send a 
+
+camera-ready version of their manuscripts. At least one author of 
+
+each accepted work has to register for the conference and attend the 
+
+conference and present the work. 
+
+ 
+
+<h3> TOPICS OF INTEREST </h3> 
+
+Many real-world optimisation problems are characterised by some 
+
+types of uncertainty that need to be accounted for by the algorithms 
+
+used to solve the problems. These uncertainties include noise (noisy 
+
+optimisation), approximations (surrogate-assisted optimisation), 
+
+dynamics (dynamic/online optimisation problems) as well as the 
+
+requirements for robust solutions (robust optimisation). Dealing with 
+
+these uncertainties has become increasingly popular in stochastic 
+
+optimisation in recent years and a variety of new techniques have 
+
+been proposed. The objective of Evo<span class="red">STOC</span> is to foster interest in 
+
+metaheuristics and stochastic optimisation for stochastic and dynamic 
+
+environments and to provide an opportunity for researchers to meet 
+
+and to present and discuss the state-of-the-arts in the field. 
+
+Evo<span class="red">STOC</span> accepts contributions, both empirical and theoretical in 
+
+nature, for any work relating to nature-inspired, metaheuristics and 
+
+stochastic techniques applied to a domain characterised by one or 
+
+more types of uncertainty. 
+
+ 
+
+Topics of interest include, but are not limited to, any of the 
+
+followings in the realm of nature-inspired, metaheuristics and 
+
+stochastic computation: 
 
 <ul>
 <li>noisy fitness functions</li>
@@ -30,21 +105,71 @@ Topics of interest include, but are not limited to, any of the following in the 
 <li>theoretical results (e.g., runtime analysis) for stochastic problems</li>
 </ul>
  
-<h2>Evo<span class="red">STOC</span> track chairs</h2>
 
-<ul> 
-<li><strong>Trung Thanh Nguyen</strong></li>
-Liverpool John Moores University<br/>
-United Kingdom
+<h3> Important Dates </h3> 
+<ul>
+<li>Submission: 15 November 2014 </li>
+<li>Notification to authors: 7 January 2015 </li>
+<li>Camera-ready deadline: 21 January 2015 </li>
+<li>Evo<span class="red">STOC</span>: 8-10 April 2015 </li>
 </ul>
+ 
+
+<h3> Additional information and submission details </h3> 
+
+Submit your manuscript, at most 12 A4 pages long, in Springer LNCS 
+
+format (instructions downloadable from <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/
+
+computer/lncs?SGWID=0-164-6-793341-0</a>) no later than 15 November 2014. 
+<br/>
+Submission link: TBA 
+<br/>
+Page limit: 12 pages 
+<br/>
+The reviewing process will be double-blind; please omit information 
+
+about the authors in the submitted paper. 
+
+Further information on the conference and co-located events can be 
+
+found in: http://www.evostar.org 
+
+<h3> Programme committee </h3> 
+<ul>
+<li>Peter A.N. Bosman (Centre for Mathematics and Computer Science, the Netherlands)</li>
+<li>Juergen Branke (University of Warwick, United Kingdom)</li>
+<li>Lam Thu Bui (Le Quy Don Technical University, Vietnam)</li>
+<li>Hui Cheng (University of Bedfordshire, United Kingdom)</li>
+<li>Ernesto Costa (University of Coimbra, Portugal)</li>
+<li>Andries P Engelbrecht (University of Pretoria, South Africa)</li>
+<li>A. Sima Etaner-Uyar (Istanbul Technical University, Turkey)</li>
+<li>Shayan Kavakeb (Liverpool John Moores University, United Kingdom)</li>
+<li>Changhe Li (China University of Geosciences, China)</li>
+<li>Michalis Mavrovouniotis (De Monfort University, United Kingdom)</li>
+<li>Jorn Mehnen (Cranfield University, United Kingdom)</li>
+<li>Ferrante Neri (De Monfort University, United Kingdom)</li>
+<li>David Pelta (University of Granada, Spain)</li>
+<li>Hendrik Richter (Leipzig University of Applied Sciences, Germany)</li>
+<li>Anabela Simões (Institute Polytechnic of Coimbra, Portugal)</li>
+<li>Renato Tinós (Universidade de São Paulo, Brazil)</li>
+<li>Trung Thanh Nguyen (Liverpool John Moores University, United Kingdom)</li>
+<li>Krzysztof Trojanowski (Polish Academy of Sciences, Poland)</li>
+<li>Shengxiang Yang (De Monfort University, United Kingdom)</li>
+<li>Xin Yao (University of Birmingham, United Kingdom)</li>
+</ul>
+ 
+
+<h3> Track chairs </h3> 
 
 <ul>
-<li><strong>Michalis Mavrovouniotis</strong></li>
-De Monfort University<br/>
-United Kingdom
- </ul>
-<h2>Programme Committee</h2>
-TBA
-
-
+<li><strong>Trung Thanh Nguyen </strong><br/>
+Liverpool John Moores University, United Kingdom<br/> 
+T.T.Nguyen(at)ljmu.ac.uk</li>
+<li>
+<strong>Michalis Mavrovouniotis</strong><br/>
+De Monfort University, United Kingdom<br/>
+Mmavrovouniotis(at)dmu.ac.uk;
+</li>
+</ul>
     <?php include('footer.php') ?>
