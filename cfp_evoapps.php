@@ -27,7 +27,7 @@
         and Distributed Systems.</li>
          <li><a href="#">Evo<span class="red">BIO</span></a> 
         - Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
-      <li><a href="#">Evo<span class="red">COMPLEX</span></a> 
+      <li><a href="cfp_evocomplex.php">Evo<span class="red">COMPLEX</span></a> 
         - Evolutionary Algorithms and Complex Systems</li>
       <li><a href="cfp_evoenergy.php">Evo<span class="red">ENERGY</span></a> - 
         Evolutionary Algorithms in Energy Applications</li>

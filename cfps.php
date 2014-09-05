@@ -11,7 +11,7 @@
 <ul class="list-group">
 	<li class="list-group-item"><a href="#">Evo<span class="red">BIO</span></a></li>
 	<li class="list-group-item"><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a></li>
-<li class="list-group-item"><a href="#">Evo<span class="red">COMPLEX</span></a></li>
+<li class="list-group-item"><a href="cfp_evocomplex.php">Evo<span class="red">COMPLEX</span></a></li>
 <li class="list-group-item"><a href="cfp_evoenergy.php">Evo<span class="red">ENERGY</span></a></li>
 <li class="list-group-item"><a href="#">Evo<span class="red">FIN</span></a></li>
 <li class="list-group-item"><a href="cfp_evogames.php">Evo<span class="red">GAMES</span></a></li>
