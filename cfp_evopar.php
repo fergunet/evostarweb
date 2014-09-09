@@ -61,11 +61,7 @@
       LNCS format</a>. </p>
     <p> Please provide up to five keywords in your Abstract</p>
     <p>Page limit: 12 pages <!--to <a href="http://myreview.csregistry.org/evoapps14/">http://myreview.csregistry.org/evoapps14/</a>.--></p>
-    <div> ***********************************************************************<br />
-      Best papers will be invited for a Special Issue to be edited with<br />
-      Journal of Grid Computing, Springer. (2012 IMPACT FACTOR: 1.602)<br />
-      ***********************************************************************<br />
-    </div>
+
     <h2> IMPORTANT DATES </h2>
     <p>Submission deadline: <strong> 15 November 2014</strong><br />
       Notification: 07 January 2015<br />

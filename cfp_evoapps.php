@@ -31,7 +31,7 @@
         - Evolutionary Algorithms and Complex Systems</li>
       <li><a href="cfp_evoenergy.php">Evo<span class="red">ENERGY</span></a> - 
         Evolutionary Algorithms in Energy Applications</li>
-      <li><a href="#">Evo<span class="red">FIN</span></a> - Natural 
+      <li><a href="cfp_evofin.php">Evo<span class="red">FIN</span></a> - Natural 
         Computing Methods in Finance and Economics</li>
       <li><a href="cfp_evogames.php">Evo<span class="red">GAMES</span></a> - Bio-inspired 
         Algorithms in Games</li>
