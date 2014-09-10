@@ -78,8 +78,8 @@
     <p><strong>Publication Details</strong></p>
     <p>All accepted papers will be presented orally at the conference and printed 
       in the proceedings published by Springer in the LNCS series (see LNCS volumes 
-      2037, 2279, 2611, 3004, 3448, 3906, 4446, 4972, 5482, 6022, 6622, 7245 and 
-      7832 for the previous proceedings).</p>
+      2037, 2279, 2611, 3004, 3448, 3906, 4446, 4972, 5482, 6022, 6622, 7245, 
+      7832 and 8600 for the previous proceedings).</p>
     <p><strong>Submission Details</strong></p>
     <p>Submissions must be original and not published elsewhere. The submissions 
       will be peer reviewed by members of the program committee. The authors of 
@@ -90,8 +90,10 @@
     <p>The reviewing process will be double-blind, please omit information about 
       the authors in the submitted paper. Submit your manuscript in Springer LNCS 
       format.</p>
-  <!--  <p><strong>Submission link</strong>: <a href="http://myreview.csregistry.org/evocop14/">http://myreview.csregistry.org/evocop14/</a><br /> -->
-      Page limit: 12 pages</p>
+    <p>
+      Page limit: 12 pages
+</p>
+<p><strong>Submission link</strong>: <a href="http://myreview.csregistry.org/evocop15/">http://myreview.csregistry.org/evocop14/</a><br /></p>
     <!--<p><strong>Important Dates</strong><br />
       Submission deadline: <del>1 November 2013</del><strong> 11 November 2013</strong><br />
      Notification: 06 January 2014<br />
@@ -178,5 +180,6 @@
 <li>   Nadarajen  Veerapen  ,  University of Stirling ,  Scotland UK  </li>
 <li>   Sebastien  Verel ,  Universite du Littoral Cote d'Opale  ,  France </li>
 <li>   Takeshi  Yamada  ,  NTT Communication Science Laboratories ,  Kyoto-Japan  </li>
+<li>Shengxiang Yang   -  De Montfort University,	UK   </li>
   </ul>
     <?php include('footer.php') ?>
