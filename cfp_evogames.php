@@ -57,10 +57,10 @@ Page limit: 12 pages.<br/>
 <h3>Evo<span class="red">GAMES</span> track chairs</h3>
 
 <ul>
-<li>Paolo Burrelli <br/>
+<li><strong>Paolo Burrelli</strong> <br/>
 Aalborg University Copenhagen<br/>
 pabu(at)create.aau.dk</li>
-<li>Antonio M. Mora Garcia <br/>
+<li><strong>Antonio M. Mora Garcia </strong><br/>
 Universidad de Granada<br/>
 amorag(at)geneura.ugr.es</li>
 </ul>

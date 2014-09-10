@@ -58,9 +58,6 @@ found in: http://www.evostar.org
 <li><strong>Anna I Esparcia-Alcázar</strong><br/> 
 S2 Grupo, Spain <br/>
 aesparcia(at)s2grupo.es</li>
-<li><strong>JJ Merelo </strong><br/>
-University of Granada, Spain <br/> 
-jmerelo(at)geneura.ugr.es</li>
 </ul>
 
 
