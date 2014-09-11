@@ -93,7 +93,7 @@
     <p>
       Page limit: 12 pages
 </p>
-<p><strong>Submission link</strong>: <a href="http://myreview.csregistry.org/evocop15/">http://myreview.csregistry.org/evocop14/</a><br /></p>
+<p><strong>Submission link</strong>: <a href="http://myreview.csregistry.org/evocop15/">http://myreview.csregistry.org/evocop15/</a><br /></p>
     <!--<p><strong>Important Dates</strong><br />
       Submission deadline: <del>1 November 2013</del><strong> 11 November 2013</strong><br />
      Notification: 06 January 2014<br />
