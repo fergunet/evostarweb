@@ -65,4 +65,33 @@ Universidad de Granada<br/>
 amorag(at)geneura.ugr.es</li>
 </ul>
 
+
+<h3>Programme Committee</h3>
+<ul>
+<li>David Camacho, Universidad Autónoma de Madrid</li>
+<li>Antonio J. Fernandez Leiva, Universidad de Málaga, Spain</li>
+<li>Pablo García Sánchez, Universidad de Granada, Spain</li>
+<li>Antonio González Pardo, Universidad Autónoma de Madrid, Spain</li>
+<li>Francisco Luís Gutiérrez Vela, Universidad de Granada, Spain</li>
+<li>Johan Hagelback, Blekinge Tekniska Hagskola, Sweden</li>
+<li>John Hallam, University of Southern Denmark, Denmark</li>
+<li>Erin Hastings, University of Central Florida, United States of America</li>
+<li>Philip Hingston, Edith Cowan University, Australia</li>
+<li>Pier Luca Lanzi, Politecnico di Milano, Italy</li>
+<li>Federico Liberatore, Invited Researcher at Universidad de Granada, Spain</li>
+<li>Edgar Galvan Lopes, University College Dublin, Ireland</li>
+<li>Simon Lucas, University of Essex, United Kingdom</li>
+<li>Rodica Ioana Lung, Babes Bolyai University, Romania</li>
+<li>Penousal Machado, Universidade de Coimbra, Portugal</li>
+<li>Hector P. Martínez, IT University of Copenhagem, Denmark</li>
+<li>Patricia Paderewski, Universidad de Granada, Spain</li>
+<li>Mike Preuss, TU Dortmund, Germany</li>
+<li>Jan Quadflieg, TU Dortmund, Germany</li>
+<li>Jacob Schrum, University of Texas at Austin, United States of America </li>
+<li>Noor Shaker, IT University of Copenhagen, Denmark</li>
+<li>Moshe Sipper, Ben-Gurion University, Israel</li>
+<li>Terence Soule, University of Idaho, United States of America</li>
+<li>Julian Togelius, IT University of Copenhagen, Denmark</li>
+</ul>
+
     <?php include('footer.php') ?>
