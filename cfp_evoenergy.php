@@ -63,12 +63,9 @@ Please provide up to five keywords in your Abstract<br/>
 Page limit: 12 pages<br/>
 Submission page: TBA<br/>
 <br/>
------------------------------------------------------------------------<br/>
-Best papers will be invited for a Special Issue to be edited with the<br/>
-Journal of Renewable Energy, Elsevier, 5 year IF: 3.456; the SI is<br/>
-organized by IEEE TF on Computational Intelligence in the Energy Domain<br/>
------------------------------------------------------------------------<br/>
 
+<h3>Journal</h3>
+Best papers will be invited for a Special Issue to be edited with the Journal of Renewable Energy, Elsevier, 5 year IF: 3.456 (<a href="http://tinyurl.com/si-energy">http://tinyurl.com/si-energy</a>). The SI is organized by IEEE TF on Computational Intelligence in the Energy Domain.
 <h3>Important dates</h3>
 
 <ul>
