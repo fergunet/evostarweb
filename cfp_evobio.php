@@ -21,6 +21,9 @@ Evo<span class="red">BIO</span> and other Evo<span class="red">STAR</span> confe
 
 For more information, visit our web page at http://www.evostar.org, or follow us on Twitter @EVO<span class="red">BIO</span>2015, join our evobio2015 group on LinkedIn and our Evo<span class="red">BIO</span> group on Facebook, or email to evobio.conference(at)gmail.com.
 
+<h3>Journal</h3>
+Authors of the best paper will receive a waiver for the publication on an extended version in the BioData Mining Journal (<a href="http://www.biodatamining.org/">http://www.biodatamining.org/</a>)
+
 <h3>Submission Details</h3>
 
 Evo<span class="red">BIO</span> is interested in papers in three article types:
