@@ -61,7 +61,6 @@ authors in the submitted paper.</p>
 Submission format: Springer LNCS<br/>
 Please provide up to five keywords in your Abstract<br/>
 Page limit: 12 pages<br/>
-Submission page: TBA<br/>
 <br/>
 
 <h3>Journal</h3>

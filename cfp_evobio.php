@@ -50,8 +50,8 @@ Universidad Pablo de Olavide, Sevilla, Spain <br/>
 </ul>
 
 <h3>Programme Committee</h3>
-
-<ul>
+TBA
+<!--<ul>
 <li>Jaume Bacardit: University of Nottingham, UK</li>
 <li>Jacek Blazewicz: Poznan University of Technology, Poland</li>
 <li>Florentino Fernandez: University of Vigo, Spain</li>
@@ -79,6 +79,6 @@ Universidad Pablo de Olavide, Sevilla, Spain <br/>
 <li>Leonardo Vanneschi ISEGI, Universidade Nova de Lisboa, Portugal</li>
 <li>Andreas Zell University of Tuebingen</li>
 <li>Zhongming Zhao Vanderbilt University, Nashville, USA</li>
-</ul>
+</ul>-->
 
     <?php include('footer.php') ?>

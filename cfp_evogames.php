@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">Games</span><h2>
+        <h2>Evo<span class="red">GAMES</span><h2>
    </div>
 
 <h2>Bio-inspired Algorithms in Games</h2>

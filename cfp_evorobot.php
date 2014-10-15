@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">Robot</span> 2015<h2>
+        <h2>Evo<span class="red">ROBOT</span> 2015<h2>
    </div>
 
 

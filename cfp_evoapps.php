@@ -22,11 +22,12 @@
       fields. The following tracks will be running in 2015: </span> </p>
     <span id="logo"> 
     <ul>
-      <li><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a> - 
+     
+         <li><a href="cfp_evobio.php">Evo<span class="red">BIO</span></a> 
+        - Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
+         <li><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a> - 
         Nature-inspired Techniques for Communication Networks and other Parallel 
         and Distributed Systems.</li>
-         <li><a href="#">Evo<span class="red">BIO</span></a> 
-        - Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
       <li><a href="cfp_evocomplex.php">Evo<span class="red">COMPLEX</span></a> 
         - Evolutionary Algorithms and Complex Systems</li>
       <li><a href="cfp_evoenergy.php">Evo<span class="red">ENERGY</span></a> - 
@@ -75,11 +76,7 @@
     <p> Please provide up to five keywords in your Abstract</p>
     <p>Page limit: 12 pages <!--to <a href="http://myreview.csregistry.org/evoapps14/">http://myreview.csregistry.org/evoapps14/</a>-->.<span> 
       </span></p>
-    <!--<h2> IMPORTANT DATES </h2>
-    <p>Submission deadline: <del>1 November 2013</del><strong> 11 November 2013</strong><br />
-      Notification: 06 January 2014<br />
-      Camera ready: 01 February 2014<br />
-      Evo<span class="red">Applications</span>: 23-25 April 2014 </p>-->
+    <strong>Submission link:</strong> <a href="http://myreview.csregistry.org/evoapps15/">http://myreview.csregistry.org/evoapps15/</a>
     <h3> FURTHER INFORMATION </h3>
     <p> Further information on the conference and co-located events can be <br />
       found in: <a href="http://www.evostar.org/">http://www.evostar.org</a> </p>

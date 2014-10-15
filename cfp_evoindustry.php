@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">Industry</span><h2>
+        <h2>Evo<span class="red">INDUSTRY</span><h2>
    </div>
 
 <h2>Evolutionary and Bio-Inspired Computational Techniques within Real-World Industrial and Commercial Environments.</h2>
@@ -15,5 +15,13 @@ Topics of interest include (but are not limited to):
 <li>Organisation, resource and workforce scheduling</li>
 <li>Scheduling and planning in industrial environments including production planning, transportation and distribution</li>
 </ul>
+
+<h3>Chairs</h3>
+
+<ul>
+<li><strong>Neil Urquhart</strong>, Edinburgh Napier University, United Kingdom, n.urquhart(at)napier.ac.uk</li>
+<li><strong>Kevin Sim</strong>, Edinburgh Napier University, United Kingdom, k.sim@napier.ac.uk</li>
+</ul>
+
 
     <?php include('footer.php') ?>

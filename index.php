@@ -17,6 +17,10 @@
 
 Authors of selected papers will be invited to submit extended versions of their papers to some JCR journals. More information available in each conference page.
 </p>
+
+<h3>Submission links</h3>
+Submissions links are available in each conference page (on the left menu) and <a href="submision_details.php">here</a>.
+
 <h3>Download flyers</h3>
 <p><a href="evo2015.pdf" target="_blank">EvoStar 2015 flyer</a>.</p>
 <p><a href="EvoAPPS.pdf" target="_blank">EvoApps 2015 flyer</a>.</p>

@@ -132,9 +132,9 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
       of the reviewers' comments and will be asked to send a camera ready version 
       of their manuscripts. At least one author of each accepted work has to register 
       for the conference, attend the conference and present the work.</p>
-    <!--
-    <p>Submission link: <a href="http://myreview.csregistry.org/eurogp14">http://myreview.csregistry.org/eurogp14</a><br />
-      <br />
+    
+    <p>Submission link: <a href="http://myreview.csregistry.org/eurogp15">http://myreview.csregistry.org/eurogp15</a><br />
+      <br /><!--
       <strong>Important Dates</strong><br />
       <br />
       Submission deadline: <del>1 November 2013</del><strong> 11 November 2013</strong><br />

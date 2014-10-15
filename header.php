@@ -51,11 +51,12 @@
                 <li><a href="cfp_evomusart.php">EvoMUSART</a></li>
                 <li><a href="cfp_evoapps.php">EvoAPPS</a></li>
                 <li class="divider"></li>
-                <li class="dropdown-header">Submission</li>
+                <!--<li class="dropdown-header">Submission</li>
                 <li><a href="#">Submission details</a></li>
-                <li><a href="#">Camera-ready details</a></li>
+                <li><a href="#">Camera-ready details</a></li>-->
               </ul>
             </li>
+            <li class=""><a href="submision_details.php">Submit</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
               <ul class="dropdown-menu">

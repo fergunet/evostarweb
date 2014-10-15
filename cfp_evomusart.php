@@ -7,14 +7,19 @@
     <p>April 2015, Copenhagen, Denmark<br />
       Part of evo<span class="red">*</span> 2015<br />
       evo<span class="red">*</span>: <a href="http://www.evostar.org">http://www.evostar.org</a></p>
-    <p><br />
-      <!------------------------------------------------------------------------------<br />
-      <strong>LEONARDO Special Section</strong><br />
-      Authors of selected papers will be invited to submit expanded versions of 
-      their work for a planned special section on Evolutionary Art of the MIT 
-      Press journal &quot;Leonardo&quot;.<br />
-      ---------------------------------------------------------------------------- 
-    -->
+    
+    <hr/>
+<strong>NEW THIS YEAR: LEONARDO Gallery</strong>
+    <p>
+      <br />
+     The journal LEONARDO will be publishing a Gallery Section (online and in the 
+print edition) associated with the conference. This will consist of a number 
+of visual artworks based on ideas and techniques presented at the conference. 
+A separate call for this will be issued after papers have been selected for 
+the conference.
+<br/><br/>
+<a href="http://www.leonardo.info/gallery/">http://www.leonardo.info/gallery/</a>
+<hr/>
     </p>
     <p>Following the success of previous events and the importance of the field 
       of evolutionary and biologically inspired (artificial neural network, swarm, 
@@ -96,7 +101,7 @@
     <p>Submit your manuscript, at most 12 A4 pages long, in Springer LNCS format 
       (instructions downloadable from <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>) 
       no later than November 15th, 2014.</p>
-   <!-- <p>Submission link: <a href="http://myreview.csregistry.org/evomusart14">http://myreview.csregistry.org/evomusart14</a><br />-->
+    <p>Submission link: <a href="http://myreview.csregistry.org/evomusart15">http://myreview.csregistry.org/evomusart15/</a><br />
       page limit: 12 pages</p>
     <p>The reviewing process will be double-blind; please omit information about 
       the authors in the submitted paper.</p>
@@ -153,7 +158,7 @@
 <li>Philip Galanter, Texas A&amp;M College of Architecture, USA</li>
 <li>Philippe Pasquier, Simon Fraser University, Canada</li>
 <li>Roger Malina, International Society for the Arts, Sciences and Technology, USA</li>
-<li>Roisin Loughran, University of Limerick, Ireland</li>
+<li>Roisin Loughran, University College Dublin, Ireland</li>
 <li>Ruli Manurung, University of Indonesia, Indonesia</li>
 <li>Scott Draves, Independent Artist, USA</li>
 <li>Somnuk Phon-Amnuaisuk, Brunei Institute of Technology, Malaysia</li>

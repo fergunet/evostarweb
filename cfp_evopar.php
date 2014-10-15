@@ -71,7 +71,7 @@
     <p> Further information on the conference and co-located events can be <br />
       found in: <a href="http://www.evostar.org/">http://www.evostar.org</a> </p>
     <div id="logo"> 
-      <h2><a href="cfpEvoPAR.html">Evo<span class="red">PAR</span></a> track chairs 
+      <h2>Evo<span class="red">PAR</span> track chairs 
       </h2>
       <ul>
         <li><span><span><strong>Francisco Fernandez de Vega</strong> <br />
