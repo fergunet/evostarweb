@@ -34,6 +34,9 @@ Please provide up to five keywords in your Abstract <br/>
 
 Page limit: 12 pages
 
+<h3>Book Series on studies in Computational Intelligence</h3>
+It is hoped that a number of selected papers will be considered for inclusion in the book series of "Natural Computing in Computational Finance", published by Springer.
+
 <h3>FURTHER INFORMATION</h3>
 
 Further information on the conference and co-located events can be 
