@@ -34,8 +34,13 @@ Please provide up to five keywords in your Abstract <br/>
 
 Page limit: 12 pages
 
-<h3>Book Series on studies in Computational Intelligence</h3>
-It is hoped that a number of selected papers will be considered for inclusion in the book series of "Natural Computing in Computational Finance", published by Springer.
+<h3>Additional publication</h3>
+Other than the usual proceedings publications, EvoFIN has secured two additional publication routes for a number of selected papers.
+
+<ol>
+<li>Book series on "Natural Computing in Computational Finance" published by Springer. </li>
+<li>Special issue in International Journal of Innovative Computing and Applications. (<a href="http://www.inderscience.com/jhome.php?jcode=ijica">http://www.inderscience.com/jhome.php?jcode=ijica</a>)</li>
+</ol>
 
 <h3>FURTHER INFORMATION</h3>
 
