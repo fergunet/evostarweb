@@ -26,16 +26,14 @@ Authors of the best paper will receive a waiver for the publication on an extend
 
 <h3>Submission Details</h3>
 
-Evo<span class="red">BIO</span> is interested in papers in three article types:
+Submissions must be original and not published elsewhere. They will be peer reviewed by at least three members of the program committee. The reviewing process will be double-blind, so please omit information about the authors in the submitted paper.
 
-<ul>
-<li>Full research articles (maximum 12 pages) describing new methodologies, approaches, and/or applications (oral or poster presentation).
-<li>Short reports (maximum 8 pages, poster presentation) describing new methodologies, approaches, and/or applications and System Demonstrations (maximum 8 pages) outlining the nature of the system and describe why the demonstration is likely to be of interest for the conference.
-<li>Abstracts (maximum 4 pages) discussing work previously published in a journal: it is therefore essential that a reference to the previous article is clearly cited in the abstract (oral or poster presentation).
-</ul>
-Submissions must be original and not published elsewhere. They will be peer reviewed by at least three members of the program committee. Submit your manuscript in Springer LNCS format.
+Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer LNCS format</a>.
 
-The authors of accepted papers will have to improve their paper on the basis of the reviewers' comments and will be asked to send a camera ready version of their manuscripts. At least one author of each accepted work has to register for the conference, attend the conference and present the work.
+<br/>
+Please provide up to five keywords in your Abstract<br/>
+
+Page limit: 12 pages.
 
 <h3>Evo<span class="red">BIO</span> Programme Chairs</h3>
 
