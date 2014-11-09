@@ -3,11 +3,20 @@
         <h2>Evo<span class="red">COMNET</span> 2015<h2>
    </div>
 
-
-
 <p><strong>Application of Nature-inspired Techniques for Communication Networks and
 other Parallel and Distributed Systems featuring a fast-track option for
 Applied Soft Computing journal</strong></p>
+
+<div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Submission link:</h3>
+            </div>
+            <div class="panel-body">
+<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+			</div>
+</div>
+
+
 
 This year's edition is technically sponsored by the World Federation on
 Soft Computing (<a href="http://softcomputing.org">http://softcomputing.org</a>).

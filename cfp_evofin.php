@@ -5,6 +5,15 @@
 
 <h3>Natural Computing Methods in Finance and Economics</h3>
 
+<div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Submission link:</h3>
+            </div>
+            <div class="panel-body">
+<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+			</div>
+</div>
+
 Evo<span class="red">FIN</span> is the only European event specifically dedicated to the application of Evolutionary Computation, and other Natural Computing methodologies to finance and economics. It gives researchers in those fields, as well as people from industry, an opportunity to present their latest research and to discuss current developments and applications.
 
 Topics of interest include (but not limited to):

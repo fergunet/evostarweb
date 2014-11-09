@@ -5,8 +5,14 @@
 
 <h2>Evolutionary Algorithms and Meta-heuristics in Stochastic and Dynamic Environments</h2>
 
-
-
+<div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Submission link:</h3>
+            </div>
+            <div class="panel-body">
+<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+			</div>
+</div>
 
 Following the success of previous events and the importance of the 
 

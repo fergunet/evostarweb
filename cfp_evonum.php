@@ -5,6 +5,15 @@
 
 <h2>Bio-inspired Algorithms for Continuous Parameter Optimisation</h2>
 
+<div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Submission link:</h3>
+            </div>
+            <div class="panel-body">
+<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+			</div>
+</div>
+
 <blockquote>''The main application areas of EC techniques [in industry] are multi-objective optimization, classification, data mining and numerical optimization''. [1]</blockquote>
 
 <p>Many engineering problems of both theoretical and practical interest involve choosing the best configuration of a set of parameters to achieve a specified objective. Numerical optimisation refers to the case when these parameters take continuous real values, as opposed to combinatorial optimisation, which deals with discrete values. Examples include designing production processes for maximum efficiency, optimal parameter adjustment for controllers and many others. Evo<span class="red">NUM</span> focuses on such problems.</p>

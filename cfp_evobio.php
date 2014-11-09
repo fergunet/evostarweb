@@ -3,7 +3,17 @@
         <h2>Evo<span class="red">BIO</span> 2015<h2>
    </div>
 
+
 <h2>The European Conference on Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</h2>
+
+<div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Submission link:</h3>
+            </div>
+            <div class="panel-body">
+<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+			</div>
+</div>
 
 Join us in Copenhagen for Evo<span class="red">BIO</span>, a multidisciplinary conference that brings together researchers working in Bioinformatics and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in biology, from the molecular and genomic dimension, to the individual and population level. Evo<span class="red">BIO</span> engages researchers who are developing or applying advanced artificial intelligence or machine learning algorithms to cutting edge problems in bioinformatics and computational biology. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  Possible topics of interest include:
 

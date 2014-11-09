@@ -5,6 +5,15 @@
 
 <h2>Bio-inspired Algorithms in Games</h2>
 
+<div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Submission link:</h3>
+            </div>
+            <div class="panel-body">
+<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+			</div>
+</div>
+
 <p>Games, and especially video games, are now a major part of the finance and software industries, and an important field for cultural expression. They also provide an excellent testbed for and application of a wide range of computational intelligence methods including evolutionary computation, neural networks, fuzzy systems, swarm intelligence, and temporal difference learning. There has been a rapid growth in research in this area over the last few years.</p>
 
 <p>This event focuses on new computational intelligence or biologically inspired techniques that may be of practical value for improvement of existing games or creation of new games, as well as on innovative uses of games to improve or test computational intelligence algorithms. We expect application of the derived methods/theories to newly created or existing games, preferably video games. Especially papers referring to recent competitions (e.g. TORCS, Super Mario, Pac Man, StarCraft) are very welcome. We invite prospective participants to submit full papers following Springer’s LNCS guidelines.</p>

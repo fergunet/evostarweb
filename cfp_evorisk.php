@@ -5,6 +5,15 @@
 
 <h2>Computational Intelligence for Risk Management, Security and Defence Applications</h2>
 
+
+<div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Submission link:</h3>
+            </div>
+            <div class="panel-body">
+<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+			</div>
+</div>
 Recent events involving both natural disasters and human-made attacks have emphasised the importance of solving challenging problems in risk management, security and defence. Traditional methods have proven insufficient to address these problems and hence Computational Intelligence techniques present themselves as a more appealing alternative.
 
 <h3>Areas of Interest and Contributions</h3>
