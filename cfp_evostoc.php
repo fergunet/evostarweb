@@ -123,8 +123,6 @@ format (instructions downloadable from <a href="http://www.springer.com/computer
 
 computer/lncs?SGWID=0-164-6-793341-0</a>) no later than 15 November 2014. 
 <br/>
-Submission link: TBA 
-<br/>
 Page limit: 12 pages 
 <br/>
 The reviewing process will be double-blind; please omit information 
