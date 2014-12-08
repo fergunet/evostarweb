@@ -95,12 +95,13 @@ Best papers will be invited for a Special Issue to be edited with the Journal of
 <li>Konrad Diwold, Fraunhofer Institute for Wind and Energy System Technology, Kassel, Germany</li>
 <li>Ralph Evins, Laboratory of Building Science and Technology, Empa, Switzerland</li>
 <li>Oliver Kramer, University of Oldenburg, Germany</li>
+<li>Chenjie Ma, Fraunhofer Institute for Wind and Energy System Technology, Kassel, Germany</li>
 <li>Ingo Mauser, FZI Karlsruhe, Germany</li>
 <li>Martin Middendorf, University of Leipzig, Germany</li>
 <li>Maizura Mokhtar, University of Sheffield, UK</li>
 <li>Sanaz Mostaghim, University of Magdeburg, Germany</li>
 <li>Frank Neumann, University of Adelaide, AU</li>
-<li>Peter Palensky, Austrian Institute of Technology, Austria</li>
+<li>Peter Palensky, Peter Palensky, Technical University of Delft, Netherlands</li>
 <li>Cong Shen, University of Kassel, Germany</li>
 <li>Bernhard Sick, University of Kassel, Germany</li>
 <li>Andy Tyrrell, University of York, UK</li>
