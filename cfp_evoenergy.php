@@ -101,7 +101,7 @@ Best papers will be invited for a Special Issue to be edited with the Journal of
 <li>Maizura Mokhtar, University of Sheffield, UK</li>
 <li>Sanaz Mostaghim, University of Magdeburg, Germany</li>
 <li>Frank Neumann, University of Adelaide, AU</li>
-<li>Peter Palensky, Peter Palensky, Technical University of Delft, Netherlands</li>
+<li>Peter Palensky, Technical University of Delft, Netherlands</li>
 <li>Cong Shen, University of Kassel, Germany</li>
 <li>Bernhard Sick, University of Kassel, Germany</li>
 <li>Andy Tyrrell, University of York, UK</li>
