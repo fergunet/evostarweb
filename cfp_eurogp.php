@@ -60,7 +60,8 @@
     <table width="100%" border="0">
       <tr class="twoColFixLtHdr"> 
         <td> <ul>
-            <li>2014 TO APPEAR</li>
+            <li>2014 <a href="http://www.springer.com/computer/theoretical+computer+science/book/978-3-662-44302-6">LNCS 8599</a>
+		</li>
             <li>2013 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=7831">LNCS 
               7831</a></li>
