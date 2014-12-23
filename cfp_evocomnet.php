@@ -99,6 +99,7 @@ ernesto.tarantino(at)na.icar.cnr.it
 <li>Sevil Sen, Hacettepe University, Turkey </li>
 <li>Georgios Sirakoulis, Democritus University of Thrace, Greece </li>
 <li>Pawel Topa, AGH University of Science and Technology, Poland</li>
+<li>Umut Tosun, Baskent University, Turkey</li>
 <li>Jaroslaw Was, AGH University of Science and Technology, Poland  </li>
 <li>Lidia Yamamoto, University of Strasbourg, France</li>
 <li>Nur Zincir-Heywood, Dalhousie University, Canada </li>
