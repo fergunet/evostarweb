@@ -1,12 +1,12 @@
 <?php include('header.php') ?>
 
-        <h2>Travel and accommodation bursaries<h2>
+        <h2>Travel and accommodation bursaries for students<h2>
    </div>
 
 <h3>Application deadline:  25 February 2015</h3>
 
 <p> 
-A limited number of travel bursaries &amp; pre-paid accommodation places will be available for those whose papers have been accepted for EuroGP, EvoCOP, EvoMusArt and EvoApplications 2015.  Our intention is to offer assistance to as many students as possible and <strong>applications will only be accepted from those who have already registered for the conferences/workshops</strong>.  Do not apply for an EvoStar bursary until you have completed the registration process.  Priority will be given to post-graduate students whose EvoStar papers have been accepted, especially those travelling transcontinental journeys or from countries outside Europe facing real financial hardship. Providing part-support for conference travel or accommodation costs is meant to make it easier for individuals to obtain additional funding from their own institution, or from other sources.
+A limited number of travel bursaries &amp; pre-paid accommodation places will be available for those students whose papers have been accepted for EuroGP, EvoCOP, EvoMusArt and EvoApplications 2015.  Our intention is to offer assistance to as many students as possible and <strong>applications will only be accepted from those who have already registered for the conferences/workshops</strong>.  Do not apply for an EvoStar bursary until you have completed the registration process.  Priority will be given to post-graduate students whose EvoStar papers have been accepted, especially those travelling transcontinental journeys or from countries outside Europe facing real financial hardship. Providing part-support for conference travel or accommodation costs is meant to make it easier for individuals to obtain additional funding from their own institution, or from other sources.
  </p>
 
  <p>
