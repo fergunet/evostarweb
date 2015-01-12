@@ -3,6 +3,9 @@
         <h2>Camera ready instructions<h2>
    </div>
 
+<p>
+   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference, and also ATTEND to present their paper.</strong> 
+</p>
 Please follow Springer's LNCS instructions when preparing your paper.
 
 <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>
