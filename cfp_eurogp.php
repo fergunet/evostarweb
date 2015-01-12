@@ -182,7 +182,12 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Stefano Cagnoni, University of Parma, Italy</li>
 <li>Christian Gagné, Université Laval, Québec, Canada</li>
 <li>Conor Ryan, University of Limerick, Ireland</li>
-<li>Daryl Essam, UNSW@ADFA, Australia</li>
+<li>Ignacio Arnaldo, MIT, USA</li>
+<li>Douglas Augusto, LNCC/UFJF, Brazil</li>
+<li>Heder Bernardino, LNCC/UFJF, Brazil</li>
+<li>Andrew McIntyre, Dalhousie University, Canada</li>
+<li>Tomasz Pawlak, Poznan University of Technology, Poland</li>
+<li>Peter Rockett, University of Sheffield, UK</li>
 <li>Luis Da Costa, Université Paris-Sud XI, France</li>
 <li>David Jackson, University of Liverpool, UK</li>
 <li>Erik Hemberg, MIT, USA</li>
