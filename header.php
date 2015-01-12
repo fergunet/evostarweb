@@ -56,7 +56,7 @@
                 <li><a href="#">Camera-ready details</a></li>-->
               </ul>
             </li>
-            <li class=""><a href="submision_details.php">Submit</a></li>
+            <li class=""><a href="submission_details.php">Submit</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
               <ul class="dropdown-menu">
