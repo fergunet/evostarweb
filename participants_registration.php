@@ -10,7 +10,7 @@
 
 <p>Evo<span class="red">*</span> takes place on 8-10 April 2015 in Copenhagen, Denmark </p>
 
-</applet><strong><a href="">REGISTER HERE</a></strong>
+</applet><strong><a href="http://store.napier.ac.uk/browse/product.asp?compid=1&modid=1&catid=288">REGISTER HERE</a></strong>
 
 
 <p>Evo<span class="red">Star</span>2015 is the name for the four co-located conferences of Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MusArt</span> and also Evo<span class="red">Applications</span> including conference tracks of Evo<span class="red">BIO</span>, Evo<span class="red">COMNET</span>, Evo<span class="red">COMPLEX</span>, Evo<span class="red">ENERGY</span>, Evo<span class="red">FIN</span>, Evo<span class="red">GAMES</span>, Evo<span class="red">IASP</span>, Evo<span class="red">INDUSTRY</span>, Evo<span class="red">NUM</span>, Evo<span class="red">PAR</span>, Evo<span class="red">RISK</span>, Evo<span class="red">ROBOT</span>, Evo<span class="red">STOC</span>.  These co-located events will be held in Copenhagen, Denmark on 8-10 April 2015.</p>
@@ -21,9 +21,9 @@
 
 <p><strong>The early booking discount is given to all registrations received by 1 March 2015</strong>, and you are encouraged to take advantage of the lower fees.  The reduced registration rate will automatically cease after 1 March and thereafter registrations will be charged at the higher rate (no exceptions). The organisers work hard to minimise conference fees, and the 2015 registration rates represent a decrease to previous rates in real terms.  Conference registrations are available on a first-come, first-served basis, with the organisers reserving the right to limit places if necessary. <strong>Registrations close on 31 March 2015</strong>, a week before the events commence and just before the Easter weekend. <strong>Half price student discounts are available</strong> for those registered at appropriate academic organisations, who are able to prove their student status if asked to do so.  </p>
 
-<p>Online registration and payment are available via a SSL secure website operated by Edinburgh Napier University in conjunction with Barclaycard.  Online payment can be made using VISA, MASTERCARD, VISA DEBIT, VISA ELECTRON.  Please note that payment is charged in British pounds sterling at the rates shown below, with Euro fees described as an approximate guide.  A different Euro rate may be charged by your bank or credit card company.  Payment can also be made by cheque in Euros or British pounds sterling (please contact <a href="j.willies@napier.ac.uk">Jennifer Willies</a>, EvoStar Conference Coordinator for more information).  <strong><span class="red">Please note that sending funds by bank transfer is not available for this conference.</span></strong>  </p>
+<p>Online registration and payment are available via a SSL secure website operated by Edinburgh Napier University in conjunction with Thawte as verified by VISA and MASTERCARD.  Online payment can be made using VISA, MASTERCARD, VISA DEBIT, VISA ELECTRON.  Please note that payment is charged in British pounds sterling at the rates shown below, with Euro fees described as an approximate guide.  A different Euro rate may be charged by your bank or credit card company.  Payment can also be made by cheque in Euros or British pounds sterling (please contact <a href="j.willies@napier.ac.uk">Jennifer Willies</a>, EvoStar Conference Coordinator for more information).  <strong><span class="red">Please note that sending funds by bank transfer is not available for this conference.</span></strong>  </p>
 
-<h3><a href=""><p>Register HERE  </p></a></h3>
+<h3><a href="http://store.napier.ac.uk/browse/product.asp?compid=1&modid=1&catid=288"><p>Register HERE  </p></a></h3>
 
 
 <div class="panel panel-default">
@@ -74,7 +74,7 @@ Additional conference dinner tickets for accompanying persons may be purchased f
 Online registration and payment are available via a SSL secure website operated by Edinburgh Napier University in conjunction with Barclaycard.  Online payment can be made using VISA, MASTERCARD, VISA DEBIT, VISA ELECTRON.  Please note that payment is charged in British pounds sterling at the rates shown below, with Euro fees described as an approximate guide.  A different Euro amount may be charged by your bank or credit card company.  Payment can also be made by cheque in Euros or British pounds sterling (please contact <a href="mailto:j.willies@napier.ac.uk">Jennifer Willies, EvoStar Conference Coordinator</a> for more information). <strong> <span class="red"> Please note that sending funds by bank transfer is NOT available for EvoStar, payment only by credit card or EUR/GBP cheque.</span> </strong> 
 </p>
 <p>
-<a href="">Register for EvoStar 2015 Now  </a>
+<a href="http://store.napier.ac.uk/browse/product.asp?compid=1&modid=1&catid=288">Register for EvoStar 2015 Now  </a>
 </p>
 
 <h3>FURTHER INFORMATION</h3>
