@@ -66,6 +66,9 @@ Please mark the contact author with * at the end of the line.<br/><br/>
 Example of a paper authored by Mario Rossi and Jos&eacute; Salgado:<br/>
 <em>Mario Rossi mario.rossi@myuni.xy<br/>
 Jos'e Salgado jsagado@hisuni.yx*<br/></em>
+<br/>
+Note that in authors.txt any accent/special characters must be
+written in Latex style, e.g.: Jos'e
 </li>
 <li><strong>abstract.txt</strong> : This file should have the following structure:</li>
 
@@ -76,8 +79,14 @@ remaining lines: abstract of the paper (in ASCII without line breaks).</br>
 
 <em>[last_name_of_first_author]cr.pdf<br/></em>
 (one author may sign on behalf of all authors of a paper).<br/>
-Please note that the title of the conference should be entered as either:<br/>
-Euro<span class="red">GP</span> 2015, Evo<span class="red">COP</span> 2015 Evo<span class="red">MUSART</span> 2015 or Evo<span class="red">Applications</span> 2015
+
+Download your specific form from:
+<ul>
+<li><a href="pdfs/LNCS-Springer_Copyright_Form_EuroGP_2015.pdf">Euro<span class="red">GP</span> copyright form</a></li>
+<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoCOP_2015.pdf">Evo<span class="red">COP</span> copyright form</a></li>
+<li>Evo<span class="red">MUSART</span> copyright form</li>
+<li>Evo<span class="red">Applications</span> copyright form</li>
+ </ul>
 </li>
 </ul>
 Also, before <strong>21 January 2015</strong>, you also have to send an <strong>E-mail</strong> to j.willies@napier.ac.uk with the title:
@@ -99,9 +108,6 @@ specifications without activating headers.
 
 <p>Authors not following the instructions may result in the paper being excluded from the proceedings.</p>
 
-The copyright form is available from:
-
-<a href="http://www.springer.com/cda/content/document/cda_downloaddocument/LNCS_Copyright_Form?SGWID=0-0-45-154182-0">http://www.springer.com/cda/content/document/cda_downloaddocument/LNCS_Copyright_Form?SGWID=0-0-45-154182-0</a>
 
 <hr/>
 In summary, you have to do each of the following 5 tasks no later than <strong>21 January 2015</strong>
@@ -115,12 +121,7 @@ In summary, you have to do each of the following 5 tasks no later than <strong>2
 </ul>
 
 
-Note: the corresponding contact editors for copyright forms are listed below.
 
-<ul>
-<li>Euro<span class="red">GP</span>:	Malcolm Heywood</li>
-<li>Evo<span class="red">COP</span>:	Gabriela Ochoa</li>
-<li>Evo<span class="red">MUSART</span>:	Colin Johnson</li>
-<li>Evo<span class="red">Applications</span>:	Antonio Mora</li>
- </ul>
+
+
     <?php include('footer.php') ?>
