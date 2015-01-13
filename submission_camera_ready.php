@@ -9,19 +9,13 @@
 Please follow Springer's LNCS instructions when preparing your paper.
 
 <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>
-There are strict page limits for each of the 4 Tracks collectively known as Evo*<br/>
-
+<p>There are strict page limits for each of the 4 Tracks collectively known as Evo*</p>
+<p>
 <strong>12 pages for Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> & Evo<span class="red">Applications</span></strong>
+</p>
 <br/>
 
-Please ensure that submissions are directed to the relevant track. The corresponding contact editors for copyright forms are listed below.
-
-<ul>
-<li>Euro<span class="red">GP</span>	Malcolm Heywood: mheywood@cs.dal.ca</li>
-<li>Evo<span class="red">COP</span>	Gabriela Ochoa: gabriela.ochoa@cs.stir.ac.uk</li>
-<li>Evo<span class="red">MUSART</span>	Colin Johnson: c.g.johnson@kent.ac.uk</li>
-<li>Evo<span class="red">Applications</span>	Antonio Mora: amorag@geneura.ugr.es</li>
- </ul>
+Please ensure that submissions are directed to the relevant track. 
 
 Papers which are not formatted according to those guidelines, or do not respect the page limit, risk being excluded from the proceedings.
 
@@ -73,7 +67,7 @@ The directory has to contain:
 <br/>
 Please mark the contact author with * at the end of the line.<br/><br/>
 
-Example of a paper authored by Mario Rossi and Jos'e Salgado:<br/>
+Example of a paper authored by Mario Rossi and Jos&eacute; Salgado:<br/>
 <em>Mario Rossi mario.rossi@myuni.xy<br/>
 Jos'e Salgado jsagado@hisuni.yx*<br/></em>
 </li>
@@ -102,8 +96,8 @@ which includes the following information:<br/>
 
 <p>
 When preparing your camera-ready, please make sure that you omit all headers (no page numbers, no running title, no running
-authors) but specify them in the .tex source, because Springer will
-activate them in reformatting the proceedings. For Word users, add the
+authors). Springer will
+activate running title and authors in reformatting the proceedings. Therefore, specify running title and running authors in the .tex source using comments. For Word users, add the
 specifications without activating headers.
 </p>
 
@@ -123,4 +117,14 @@ In summary, you have to do each of the following 5 tasks no later than <strong>2
 <li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2015</li>
 <li>At least one author must register and pay the conference fee by the <strong>15 February</strong> 2015. Failure to do so could result in the paper being excluded from publication.</li>
 </ul>
+
+
+Note: the corresponding contact editors for copyright forms are listed below.
+
+<ul>
+<li>Euro<span class="red">GP</span>:	Malcolm Heywood</li>
+<li>Evo<span class="red">COP</span>:	Gabriela Ochoa</li>
+<li>Evo<span class="red">MUSART</span>:	Colin Johnson</li>
+<li>Evo<span class="red">Applications</span>:	Antonio Mora</li>
+ </ul>
     <?php include('footer.php') ?>
