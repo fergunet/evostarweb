@@ -47,13 +47,9 @@ The directory has to contain:
 <ul>
 <li><strong>Latex .tex file</strong> (named with the last name of the first author).</li>
 
-<li><strong>Latex .bbl file</strong>, if references are in a separate file (named with the last name of the first author).</li>
+<li><strong>Latex .bib and .bbl files</strong>, if references are in a separate file (named with the last name of the first author).</li>
 
 <li><strong>All figures</strong> (.ps or .eps).</li>
-
-<li><strong>Final .dvi file</strong> (named with the last name of the first author).</li>
-
-<li><strong>Final .ps file</strong> (named with the last name of the first author).</li>
 
 <li><strong>Final .pdf file</strong> (named with the last name of the first author).</li>
 
@@ -115,7 +111,7 @@ In summary, you have to do each of the following 5 tasks no later than <strong>2
 <li>Submit an abstract.txt file</li>
 <li>Complete and submit a signed copyright form as PDF</li>
 <li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2015</li>
-<li>At least one author must register and pay the conference fee by the <strong>15 February</strong> 2015. Failure to do so could result in the paper being excluded from publication.</li>
+<li>At least one author must register and pay the conference fee by the <strong>31 March</strong> 2015. Failure to do so could result in the paper being excluded from publication.</li>
 </ul>
 
 

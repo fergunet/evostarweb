@@ -14,6 +14,8 @@
               <strong>Submission Deadline:</strong> 15 November 2014<br/>
               <strong>Notification:</strong> 07 January 2015<br/>
               <strong>Camera-ready:</strong> 21 January 2015<br/>
+              <strong>Early registration discount:</strong>01 March 2015<br/>
+              <strong>Registration deadline:</strong>31 March 2015<br/>
               <strong>EvoStar dates:</strong> 8-10 April 2015<br/>
               
             </div>
