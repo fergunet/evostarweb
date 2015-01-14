@@ -4,7 +4,7 @@
    </div>
 
 <p>
-   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference, and also ATTEND to present their paper.</strong> 
+   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 1 March 2015), and also ATTEND to present his/her paper.</strong> 
 </p>
 Please follow Springer's LNCS instructions when preparing your paper.
 
@@ -49,7 +49,7 @@ The directory has to contain:
 
 <li><strong>Latex .bib and .bbl files</strong>, if references are in a separate file (named with the last name of the first author).</li>
 
-<li><strong>All figures</strong> (.ps or .eps).</li>
+<li><strong>All figures</strong>:.png, .jpg, .pdf (using pdflatex) or .ps, .eps (using latex).</li>
 
 <li><strong>Final .pdf file</strong> (named with the last name of the first author).</li>
 
@@ -65,10 +65,10 @@ Please mark the contact author with * at the end of the line.<br/><br/>
 
 Example of a paper authored by Mario Rossi and Jos&eacute; Salgado:<br/>
 <em>Mario Rossi mario.rossi@myuni.xy<br/>
-Jos'e Salgado jsagado@hisuni.yx*<br/></em>
+Jos\'e' Salgado jsagado@hisuni.yx*<br/></em>
 <br/>
 Note that in authors.txt any accent/special characters must be
-written in Latex style, e.g.: Jos'e
+written in Latex style, e.g.: Jos\'e
 </li>
 <li><strong>abstract.txt</strong> : This file should have the following structure:</li>
 
@@ -84,7 +84,7 @@ Download your specific form from:
 <ul>
 <li><a href="pdfs/LNCS-Springer_Copyright_Form_EuroGP_2015.pdf">Euro<span class="red">GP</span> copyright form</a></li>
 <li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoCOP_2015.pdf">Evo<span class="red">COP</span> copyright form</a></li>
-<li>Evo<span class="red">MUSART</span> copyright form</li>
+<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoMUSART_2015.pdf">Evo<span class="red">MUSART</span> copyright form</a></li>
 <li>Evo<span class="red">Applications</span> copyright form</li>
  </ul>
 </li>
@@ -117,7 +117,7 @@ In summary, you have to do each of the following 5 tasks no later than <strong>2
 <li>Submit an abstract.txt file</li>
 <li>Complete and submit a signed copyright form as PDF</li>
 <li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2015</li>
-<li>At least one author must register and pay the conference fee by the <strong>31 March</strong> 2015. Failure to do so could result in the paper being excluded from publication.</li>
+<li>At least one author must register and pay the conference fee by the <strong>1 March</strong> 2015. Failure to do so could result in the paper being excluded from publication.</li>
 </ul>
 
 
