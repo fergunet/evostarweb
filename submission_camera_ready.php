@@ -85,7 +85,7 @@ Download your specific form from:
 <li><a href="pdfs/LNCS-Springer_Copyright_Form_EuroGP_2015.pdf">Euro<span class="red">GP</span> copyright form</a></li>
 <li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoCOP_2015.pdf">Evo<span class="red">COP</span> copyright form</a></li>
 <li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoMUSART_2015.pdf">Evo<span class="red">MUSART</span> copyright form</a></li>
-<li>Evo<span class="red">Applications</span> copyright form</li>
+<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoAPPS_2015.pdf">Evo<span class="red">Applications</span> copyright form</a></li>
  </ul>
 </li>
 </ul>
