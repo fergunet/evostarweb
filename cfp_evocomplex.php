@@ -69,9 +69,26 @@ Page limit: 12 pages to http://myreview.csregistry.org/evoapps14/.
 
 <h3>Programme Committee</h3>
 
-TBA
-
- 
+<ul>
+<li>Jhon Edgar Amaya, Universidad Nacional Experimental del Táchira, Venezuela</li>
+<li>Anca Andreica, Universitatea Babes-Bolyai, Romania</li>
+<li>Tiago Baptista, Universidade de Coimbra, Portugal</li>
+<li>Antonio Córdoba, Universidad de Sevilla, Spain</li>
+<li>Carlos Fernandes, Technical University of Lisbon, Portugal</li>
+<li>José Enrique Gallardo, Universidad de Málaga, Spain</li>
+<li>Carlos Gersherson, Universidad Nacional Autónoma de México, México</li>
+<li>Evert Haasdijk, Vrije Universiteit Amsterdam, The Netherlands</li>
+<li>Juan Luis Jiménez Laredo, Université du Havre, France</li>
+<li>Iwona Karcz-Duleba, Wrocław University of Technology, Poland</li>
+<li>Raúl Lara Cabrera, Universidad de Málaga, Spain</li>
+<li>Gabriel Luque, Universidad de Málaga, Spain</li>
+<li>Juan Julián Merelo, Universidad de Granada, Spain</li>
+<li>Antonio Nebro, Universidad de Málaga, Spain</li>
+<li>Maciej Smolka, AGH University of Science and Technology, Poland</li>
+<li>Giovanni Squillero, Politecnico di Torino, Italy</li>
+<li>Marco Tomassini, Université de Laussane, Switzerland</li>
+<li>Alberto Tonda, INRA, France</li>
+ </ul>
 
 
     <h3>Evo<span class="red">COMPLEX</span> Programme Chairs</h3>
