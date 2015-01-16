@@ -9,7 +9,7 @@
 Please follow Springer's LNCS instructions when preparing your paper.
 
 <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>
-<p>There are strict page limits for each of the 4 Tracks collectively known as Evo*</p>
+<p>There are strict page limits for each of the 4 conferences collectively known as Evo*</p>
 <p>
 <strong>12 pages for Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> & Evo<span class="red">Applications</span></strong>
 </p>
