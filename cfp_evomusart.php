@@ -143,7 +143,7 @@ the conference.
 <li>Juan Romero, University of A Coru&ntilde;a, Spain</li>
 <li>Kate Reed, Imperial College, UK</li>
 <li>Marcelo Freitas Caetano, IRCAM, France</li>
-<li>Marcos Nadal, University of Vienna?, Austria</li>
+<li>Marcos Nadal, University of Vienna, Austria</li>
 <li>Matthew Lewis, Ohio State University, USA</li>
 <li>Michael O'Neill, University College Dublin, Ireland</li>
 <li>Nicolas Monmarch, University of Tours, France</li>
@@ -165,7 +165,9 @@ the conference.
 <li>Stephen Todd, IBM, UK</li>
 <li>Takashi Ikegami, Tokyo Institute of Technology, Japan</li>
 <li>Tim Blackwell, Goldsmiths College,  University of London, UK</li>
-      </li>
+<li>Hern&aacute;n Kerlle&ntilde;evich, National University of Quilmes, Argentina</li>
+<li>Yang Li, University of Science and Technology Beijing, China</li>
+
     </ul>
     <h2>Evo<span class="red">MUSART</span> Conference chairs </h2>
     <p><strong>Colin Johnson</strong><br />
