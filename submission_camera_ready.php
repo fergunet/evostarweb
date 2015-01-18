@@ -9,6 +9,10 @@
 Please follow Springer's LNCS instructions when preparing your paper.
 
 <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>
+
+<p>Remember that references should be ordered by appearance in the paper, using 'splncs.bst'
+as BibTeX style (if you use LaTeX) or generating a list with this order if
+you use Word.</p>
 <p>There are strict page limits for each of the 4 conferences collectively known as Evo*</p>
 <p>
 <strong>12 pages for Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> & Evo<span class="red">Applications</span></strong>
