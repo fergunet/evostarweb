@@ -78,7 +78,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Local Information<b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="#">Getting to Copenhagen</a></li>
-                <li><a href="#">Getting to the venue</a></li>
+                <li><a href="location_venue.php">Getting to the venue</a></li>
                 <li><a href="#">Accommodation</a></li>
                 <li><a href="#">Posters/WI-FI</a></li>
               </ul>

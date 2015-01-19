@@ -11,6 +11,7 @@
 <ul>
 	<li>Camera ready instructions <a href="submission_camera_ready.php">available here</a>.
 	<li>Information about <strong>registration</strong> is <a href="participants_registration.php">available here.</a></li>
+	<li>Venue Location <a href="location_venue.php">information.</a></li>
 </ul>
 <h2>Evostar 2015</h2>
 <img src="img/logo-big.png" width ="300px">
