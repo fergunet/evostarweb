@@ -73,23 +73,22 @@ University College Dublin, Ireland <br/>
 
 <h3>Programme Committee</h3>
 <ul>
-<li>Alex Agapitos, University College Dublin</li>
-<li>Eva Alfaro Cid, Technical University of Valencia</li>
-<li>Anthony Brabazon, University College Dublin</li>
-<li>Shu-Heng Chen, National Chengchi University, Taipei</li>
-<li>Wei Cui, University College Dublin</li>
-<li>Manfred Gilli, University of Geneva and Swiss Finance Institute</li>
-<li>Ronald Hochreiter, University of Vienna</li>
-<li>Mak Kaboudan, University of Redlands</li>
-<li>Piotr Lipinski, University of Wroclaw</li>
-<li>Dietmar Maringer, University of Basel</li>
-<li>Serafin Martinez-Jaramillo, Bank Of Mexico</li>
-<li>Wing Lon Ng, University of Essex</li>
-<li>Michael O'Neill, University College Dublin</li>
-<li>Andrea Tettamanzi, University of Nice Sophia Antipolis</li>
-<li>Nikolaos Thomaidis, University of the Aegean</li>
-<li>Ruppa Thulasiram, University of Manitoba</li>
-<li>Garnett Carl Wilson, Afinin Labs Inc. &amp; Dalhousie University</li>
+<li>Alex Agapitos, University College Dublin, Ireland</li>
+<li>Eva Alfaro, Technical University of Valencia, Spain</li>
+<li>Anthony Brabazon, University College Dublin, Ireland</li>
+<li>Shu-Heng Chen, National Chengchi University, Taiwan</li>
+<li>Wei Cui, University College Dublin, Ireland</li>
+<li>Malcolm Heywood, Dalhousie University, Canada</li>
+<li>Ronald Hochreiter, University of Vienna, Austria</li>
+<li>Michael Kampouridis, University of Kent, UK</li>
+<li>Ahmed Kattan, Um Al-Qura University, Saudi Arabia</li>
+<li>Piotr Lipinski, University of Wroclaw, Poland</li>
+<li>Michael Mayo, University of Waikato, New Zeland</li>
+<li>Krzysztof Michalak, University of Economics, Wroclaw, Poland</li>
+<li>Michael O'Neill, University College Dublin, Ireland</li>
+<li>Andrea Tettamanzi, University of Nice Sophia Antipolis, France</li>
+<li>Ruppa Thulasiram, University of Manitoba, Canada</li>
 </ul>
+
 
 <?php include('footer.php') ?>
