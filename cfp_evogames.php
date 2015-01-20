@@ -76,6 +76,33 @@ amorag(at)geneura.ugr.es</li>
 
 
 <h3>Programme Committee</h3>
-TBA
+<ul>
+<li>David Camacho</li>
+<li>Francisco Luis Gutierrez Vela</li>
+<li>Antonio J. Fernandez Leiva</li>
+<li>Pablo Garcia Sanchez</li>
+<li>Federico Liberatore</li>
+<li>Juan Julian Merelo</li>
+<li>Krzysztof Krawiec</li>
+<li>Patricia Paderewski</li>
+<li>Simon Lucas</li>
+<li>Antonio Fernández-Ares</li>
+<li>Erin Hastings</li>
+<li>Moshe Sipper</li>
+<li>Georgios N. Yannakakis</li>
+<li>Philip Hingston</li>
+<li>Antonio González Pardo</li>
+<li>Penousal Machado</li>
+<li>Rodica Ioana Lung</li>
+<li>Julian Togelius</li>
+<li>Tommaso Urli</li>
+<li>Mike Preuss</li>
+<li>Noor Shaker</li>
+<li>Antonios Liapis</li>
+<li>Hector P. Martinez</li>
+<li>Johan Hagelback</li>
+<li>Tobias Mahlmann</li>
+<li>Francisco Fernandez de Vega</li>
+</ul>
 
     <?php include('footer.php') ?>
