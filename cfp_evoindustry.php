@@ -26,12 +26,27 @@ Topics of interest include (but are not limited to):
 <li>Scheduling and planning in industrial environments including production planning, transportation and distribution</li>
 </ul>
 
+<h3>Programme Committee</h3>
+Nelishia Pillay, University of KwaZulu-Natal
+Shengxiang Yang, De Monfort University, UK
+Sanja Petrovic,  University of Nottingham, UK
+Ender Ozcan,  University of Nottingham, UK
+Sanem Sariel,  Istanbul Technical University, Turkey
+Emma Hart,  Edinburgh Napier University, UK
+Graham Kendall,  University of Nottingham, UK
+Jason Atkin,  University of Nottingham, UK
+Nysret Musliu, Vienna University of Technology, Austria
+Bahriye Basturk Akay, Erciyes University, Turkey
+María Arsuaga-Ríos,  CERN
+Nadarajen Veerapen, University of Stirling, UK
+Ben Paechter,  Edinburgh Napier University, UK
 <h3>Chairs</h3>
 
 <ul>
 <li><strong>Neil Urquhart</strong>, Edinburgh Napier University, United Kingdom, n.urquhart(at)napier.ac.uk</li>
 <li><strong>Kevin Sim</strong>, Edinburgh Napier University, United Kingdom, k.sim@napier.ac.uk</li>
 </ul>
+
 
 
     <?php include('footer.php') ?>
