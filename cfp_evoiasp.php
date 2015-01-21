@@ -49,6 +49,34 @@ Topics of interest include, but are not limited to:
 <li>time series analysis by means of EC techniques</li>
 </ul>
 
+<h3>Programme Committee</h3>
+<ul>
+<li>Lucia Ballerini (University of Dundee, UK)</li>
+<li>Vitoantonio Bevilacqua (Politecnico di Bari, Italy)</li>
+<li>Leonardo Bocchi (University of Florence, Italy)</li>
+<li>Sergio Damas (European Center for Soft Computing, Spain)</li>
+<li>Fabio Daolio (Shinshu University, Japan)</li>
+<li>Ivanoe De Falco (ICAR - CNR, Italy)</li>
+<li>Antonio Della Cioppa (University of Salerno, Italy)</li>
+<li>Laura Dipietro (Cambridge, USA)</li>
+<li>Marc Ebner (Ernst Moritz Arndt University, Greifswald, Germany)</li>
+<li>Francesco Fontanella (University of Cassino, Italy)</li>
+<li>Mario Koeppen (Kyushu Institute of Technology, Japan)</li>
+<li>Josep Llados (Universitat Autonoma de Barcelona, Spain)</li>
+<li>Jean Louchet (INRIA, France)</li>
+<li>Evelyne Lutton (INRIA, France)</li>
+<li>Simone Marinai (University of Florence, Italy)</li>
+<li>Pablo Mesejo Santiago (INRIA, France)</li>
+<li>Youssef Nashed (Argonne National Laboratory, USA)</li>
+<li>Ferrante Neri (De Monfort University, UK)</li>
+<li>Gustavo Olague (CICESE, Mexico)</li>
+<li>Riccardo Poli (University of Essex, UK)</li>
+<li>Sara Silva (INESC-ID Lisbon, Portugal)</li>
+<li>Stephen Smith (University of York, UK)</li>
+<li>Giovanni Squillero (Politecnico di Torino, Italy)</li>
+<li>Roberto Ugolotti (Henesis srl, Italy)</li>
+<li>Leonardo Vanneschi (Universidade Nova de Lisboa, Portugal)</li>
+</ul>
 <h3>Evo<span class="red">IASP</span> track chairs</h3>
 <ul>
     <li><strong>Stefano Cagnoni</strong><br/>

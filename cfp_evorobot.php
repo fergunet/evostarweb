@@ -32,6 +32,17 @@ Topics include but are not limited to:
 <li>Evolutionary and co-evolutionary approaches.</li>
 </ul>
 
+<h3>Best paper award</h3>
+<img align="right" src="img/frontiers.jpg" width="250px" />
+<p>
+
+<a href="http://www.frontiersin.org/robotics_and_ai">Frontiers in Robotics and AI</a> is offering the best paper award at the upcoming Evo<span class="red">ROBOT</span> track in EvoApplications track. 
+The <a href="http://www.frontiersin.org/evolutionary_robotics">Evolutionary Robotics</a> specialty grants the winner a full waiver of the publication fee for 
+the submission of an extended version of the work presented at Evo<span class="red">ROBOT</span> in Copenhagen this year. Naturally, the final decision to publish the extended version 
+will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a> policies of originality and review.
+
+</p>
+
 <h3>Evo<span class="red">ROBOT</span> track chairs</h3>
 <ul>
 <li><strong>Evert Haasdijk</strong></li>
@@ -44,23 +55,29 @@ a.e.eiben(at)vu.nl
 
 <h3>Programme Committee</h3>
 <ul>
-<li>Nicolas Bredeche</li>
-<li>Anders Christensen</li>
-<li>Stephane Doncieux</li>
-<li>Marco Dorigo</li>
-<li>Gusz Eiben</li>
-<li>Evert Haasdijk</li>
-<li>Heiko Hamann</li>
-<li>Joost Huizinga</li>
-<li>Jean-Marc Montanier</li>
-<li>Claudio Rossi</li>
-<li>Sanem Sariel</li>
-<li>Thomas Schmickl </li>
-<li>Kasper Stoy</li>
-<li>Juergen Stradner</li>
-<li>Andy Tyrrell</li>
-<li>Berend Weel</li>
-<li>Alan Winfield</li>
+<li>Nicolas Bredeche,	Institut des Systèmes Intelligents et de Robotique,	France</li>
+<li>Anders Christensen,	University Institute of Lisbon, ISCTE-IUL,	Portugal</li>
+<li>Stephane Doncieux,	Institut des Systèmes Intelligents et de Robotique,	France</li>
+<li>Marco Dorigo,		Universite Libre de Bruxelles,	Belgium</li>
+<li>Gusz Eiben,			VU Univeristy Amsterdam,	The Netherlands</li>
+<li>Evert Haasdijk,		VU Univeristy Amsterdam,	The Netherlands</li>
+<li>Heiko Hamann,		University of Paderborn,	Germany</li>
+<li>Jacqueline Heinerman,	VU Univeristy Amsterdam,	The Netherlands</li>
+<li>Joost Huizinga,		University of Wyoming,	United States</li>
+<li>Giorgos Karafotias,	VU Univeristy Amsterdam,	The Netherlands</li>
+<li>Jean-Marc Montanier,	Barcelona Supercomputing Center,	Spain</li>
+<li>Jean-Baptiste Mouret,	Institut des Systèmes Intelligents et de Robotique,	France</li>
+<li>Stefano Nolfi,	Institute of Cognitive Sciences and Technologies,	Italy</li>
+<li>Abraham Prieto,		University of La Coruña,	Spain</li>
+<li>Claudio Rossi,		Universidad Politecnica De Madrid,	Spain</li>
+<li>Sanem Sariel,		Istanbul Teknik Universitesi,	Turkey</li>
+<li>Thomas Schmickl,		Karl Franzens University Graz,	Austria</li>
+<li>Luis Simoẽs,			VU Univeristy Amsterdam,	The Netherlands</li>
+<li>Kasper Stoy,			IT University of Copenhagen,	Denmark</li>
+<li>Jürgen Stradner,		Karl Franzens University Graz,	Austria</li>
+<li>Jon Timmis,			University of York,	United Kingdom</li>
+<li>Andy Tyrrell,		University of York,	United Kingdom</li>
+<li>Alan Winfield,		University of the West of England,	United Kingdom</li>
 </ul>
 
     <?php include('footer.php') ?>

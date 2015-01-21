@@ -94,16 +94,16 @@
     </div>
     <h2>Programme Committee</h2>
     <ul>
-      <li>Una-May O'Really, MIT, USA. </li>
-      <li>Gianluigi Folino L'ICAR-CNR, Cosenza, Italy </li>
-      <li>Jose Carlos Ribeiro Politechnique Institute of Leiria, Portugal </li>
-      <li>Garnett Wilson Afinin Labs, Inc., Canada </li>
-      <li>Malcolm Heywood Dalhousie University, Canada </li>
-      <li>Juan L. Jiménez, Université du Luxemburg, Luxemburg. </li>
-      <li>William Langdon, University College London, UK. </li>
-      <li>Francisco Luna, University of Extremadura, Spain</li>
-      <li>Marco Tomassini Lausanne University, Switzerland </li>
-      <li>Jose Manuel Colmenar, Universidad Complutense de Madrid, Spain </li>
+<li>Ignacio Arnaldo, MIT, USA.</li>
+<li>Gianluigi Folino, L'ICAR-CNR, Cosenza, Italy</li>
+<li>Jose Carlos Ribeiro, Politechnique Institute of Leiria, Portugal</li>
+<li>Garnett Wilson, Afinin Labs, Inc., Canada</li>
+<li>Malcolm Heywood, Dalhousie University, Canada</li>
+<li>Juan L. Jiménez, Université du Luxemburg, Luxemburg.</li>
+<li>William Langdon, University College London, UK.</li>
+<li>Francisco Luna, University of Extremadura, Spain</li>
+<li>Marco Tomassini, Lausanne University, Switzerland</li>
+<li>Jose Manuel Colmenar, Universidad Complutense de Madrid, Spain</li>
     </ul>
 
     <?php include('footer.php') ?>
