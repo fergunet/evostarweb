@@ -27,19 +27,22 @@ Topics of interest include (but are not limited to):
 </ul>
 
 <h3>Programme Committee</h3>
-Nelishia Pillay, University of KwaZulu-Natal
-Shengxiang Yang, De Monfort University, UK
-Sanja Petrovic,  University of Nottingham, UK
-Ender Ozcan,  University of Nottingham, UK
-Sanem Sariel,  Istanbul Technical University, Turkey
-Emma Hart,  Edinburgh Napier University, UK
-Graham Kendall,  University of Nottingham, UK
-Jason Atkin,  University of Nottingham, UK
-Nysret Musliu, Vienna University of Technology, Austria
-Bahriye Basturk Akay, Erciyes University, Turkey
-María Arsuaga-Ríos,  CERN
-Nadarajen Veerapen, University of Stirling, UK
-Ben Paechter,  Edinburgh Napier University, UK
+<ul>
+<li>Nelishia Pillay, University of KwaZulu-Natal</li>
+<li>Shengxiang Yang, De Monfort University, UK</li>
+<li>Sanja Petrovic,  University of Nottingham, UK</li>
+<li>Ender Ozcan,  University of Nottingham, UK</li>
+<li>Sanem Sariel,  Istanbul Technical University, Turkey</li>
+<li>Emma Hart,  Edinburgh Napier University, UK</li>
+<li>Graham Kendall,  University of Nottingham, UK</li>
+<li>Jason Atkin,  University of Nottingham, UK</li>
+<li>Nysret Musliu, Vienna University of Technology, Austria</li>
+<li>Bahriye Basturk Akay, Erciyes University, Turkey</li>
+<li>María Arsuaga-Ríos,  CERN</li>
+<li>Nadarajen Veerapen, University of Stirling, UK</li>
+<li>Ben Paechter,  Edinburgh Napier University, UK</li>
+</ul>
+
 <h3>Chairs</h3>
 
 <ul>
