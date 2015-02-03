@@ -53,6 +53,23 @@ Notification: 07 January 2015<br/>
 Camera-ready: 21 January 2015<br/>
 EvoStar dates: 8-10 April 2015<br/>
 
+<h3>Programme Committee</h3>
+<ul>
+<li>Robert K. Abercrombie 	Oak Ridge National Laboratory, USA</li>
+<li>Rami	Abielmona,	University of Ottawa, Canada</li>
+<li>Nabendu Chaki	University of Calcutta, India</li>
+<li>Mario Cococcioni,	NATO Undersea Research Centre, Italy</li>
+<li>Josep Domingo-Ferrer,	Rovira i Virgili University, Spain</li>
+<li>Stenio	Fernandes,	Federal University of Pernambuco (UFPE), Brazil</li>
+<li>Frank W Moore 	University of Alaska Anchorage, USA</li>
+<li>Javier	Montero	Universidad Complutense de Madrid, Spain</li>
+<li>Pamela Nolz, Austrian Institute of Technology (AIT), Austria</li>
+<li>Kay Chen Tan,	National University of Singapore</li>
+<li>Vicenç	Torra, University of Skövde,Sweden</li>
+<li>Antonio	Villalón	S2 Grupo, Spain</li>
+<li>Nur Zincir-Heywood, Dalhousie University, Canada </li>
+</ul>
+
 <h3>FURTHER INFORMATION</h3>
 
 Further information on the conference and co-located events can be 

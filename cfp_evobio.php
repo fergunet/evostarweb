@@ -61,35 +61,23 @@ Universidad Pablo de Olavide, Sevilla, Spain <br/>
 </ul>
 
 <h3>Programme Committee</h3>
-TBA
-<!--<ul>
-<li>Jaume Bacardit: University of Nottingham, UK</li>
-<li>Jacek Blazewicz: Poznan University of Technology, Poland</li>
-<li>Florentino Fernandez: University of Vigo, Spain</li>
-<li>Alex Freitas: University of Kent, UK</li>
-<li>Mario Giacobini: University of Torino, Italy</li>
-<li>Raffaele Giancarlo: University of Palermo, Italy</li>
-<li>Rosalba Giugno: University of Catania, Italy</li>
-<li>Casey Greene: Dartmouth College</li>
-<li>Jin-Kao Hao: University of Angers, France</li>
-<li>Ting Hu: Dartmouth College, USA</li>
-<li>Mehmet Koyuturk: Case Western Reserve University, USA</li>
-<li>Penousal Machado: University of Coimbra</li>
-<li>Elena Marchiori: Radboud University Nijmegen, NL</li>
-<li>Marco Masseroli: Politecnico di Milano, Italy</li>
-<li>Brett McKinney: University of Tulsa, USA</li>
-<li>Pablo Moscato: The University of Newcastle</li>
-<li>Alison Motsinger-Reif: University of North Carolina Raleigh, USA</li>
-<li>Vincent Moulton: University of East Anglia</li>
-<li>Carlotta Orsenigo: Politecnico di Milano</li>
-<li>Michael Raymer Wright State University, USA</li>
-<li>Simona Rombo Universita degli Studi di Palermo, Palermo, Italy</li>
-<li>Marc Schoenauer INRIA Saclay Ile-de-France, France</li>
-<li>Ugur Sezerman Sabanci University Sara Silva INESC-ID Lisboa, Portugal</li>
-<li>Marc Smith Vassar College Stephen Turner University of Virginia</li>
-<li>Leonardo Vanneschi ISEGI, Universidade Nova de Lisboa, Portugal</li>
-<li>Andreas Zell University of Tuebingen</li>
-<li>Zhongming Zhao Vanderbilt University, Nashville, USA</li>
-</ul>-->
+
+<ul>
+<li>Jitesh Dundas	,	Edencore Technologies, Indian Institue of Technology, Mumbai	,	India</li>
+<li>Florentino Fernandez	,	University of Vigo	,	Spain</li>
+<li>Alex Freitas	,	University of Kent	,	UK</li>
+<li>Mario Giacobini	,	Universitá  di Torino	,	Italy</li>
+<li>Rosalba Giugno	,	University of Catania	,	Italy</li>
+<li>Casey Greene	,	Dartmouth College	,	USA</li>
+<li>Jin-Kao Hao	,	University of Angers	,	France</li>
+<li>Timothy J Hohman	,	Vanderbilt University	,	USA</li>
+<li>Ting Hu	,	Dartmouth College	,	USA</li>
+<li>Penousal Machado	,	University of Coimbra	,	Portugal</li>
+<li>Vincent Moulton	,	University of East Anglia	,	UK</li>
+<li>Carlotta Orsenigo	,	Politecnico di Milano	,	Italy</li>
+<li>Michael Raymer	,	Wright State University	,	USA</li>
+<li>Stephen Turner	,	University of Virginia	,	USA</li>
+<li>Leonardo Vanneschi	,	Universidade Nova de Lisboa	,	Portugal</li>
+</ul>
 
     <?php include('footer.php') ?>
