@@ -383,7 +383,7 @@ In this paper, the approximate circuit design problem is formulated as a multi-o
 <br/>
 <br/>
 <br/>
-<h3>Euro<span class="red">GP</span> Best Papers Nominees</h3>
+<h3>Euro<span class="red">GP</span> Best Paper Candidates</h3>
 
 <p><strong>Cartesian GP in Optimization of Combinational Circuits with Hundreds of Inputs and Thousands of Gates</strong><br/>
 <em>Zdenek Vasicek</em></p>
