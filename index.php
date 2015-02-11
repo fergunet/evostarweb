@@ -9,6 +9,7 @@
         <h2>Latest <span class="red">news</span>:<h2>
    </div>
 <ul>
+	<li>Venue information updated in <strong>Local Information</strong> menu.
 	<li>Camera ready instructions <a href="submission_camera_ready.php">available here</a>.
 	<li>Information about <strong>registration</strong> is <a href="participants_registration.php">available here.</a></li>
 	<li>Venue Location <a href="location_venue.php">information.</a></li>

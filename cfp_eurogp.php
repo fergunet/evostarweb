@@ -4,6 +4,11 @@
    </div>
 
 <h2>18th European Conference on Genetic Programming</h2>
+
+<ul>
+<li><a href="#abstracts">Accepted paper abstracts</a></li>
+<li><a href="#best">Best Paper Nominees</a></li> 
+</ul>
     <p>Euro<span class="red">GP</span> is the premier annual conference on Genetic 
       Programming, the oldest and the only meeting worldwide devoted specifically 
       to this branch of evolutionary computation. It is always a very enjoyable 
@@ -258,7 +263,12 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
     <p><a href="http://www.cs.bham.ac.uk/~wbl/biblio/"><img src="img/Genetic_Programming_Bibliography.jpg" width="160" height="120" border="0" alt="Genetic Programming Algorithms"/></a></p>
 
 
-<h3>Euro<span class="red">GP</span> FULL PAPERS</h3>
+<a name="abstracts"></a>
+<hr/>
+<br/>
+<br/>
+
+<h3>Euro<span class="red">GP</span> FULL PAPERS abstracts</h3>
 
 <p><strong>The Effect of Distinct Geometric Semantic Crossover Operators in Regression Problems</strong>
 <br/><em>Julio Albinati, Gisele L. Pappa, Fernando E. B. Otero, Luiz Otávio V. B. Oliveira</em><br/>
@@ -329,7 +339,7 @@ Cartesian GP in Optimization of Combinational Circuits with Hundreds of Inputs a
 A new approach to the evolutionary optimization of large digital circuits is introduced in this paper. In contrast with evolutionary circuit design, the goal of the evolutionary circuit optimization is to minimize the number of gates (or other non-functional parameters) of already functional circuit. The method combines a circuit simulation with a formal verification in order to detect the functional inequivalence of the parent and its offspring. An extensive set of 100 benchmarks circuits is used to evaluate the performance of the method as well as the utilized evolutionary approach. Moreover, the role of neutral mutations in the context of evolutionary optimization is investigated. In average, the method enabled a 34% reduction in gate count even if the optimizer was executed only for 15 minutes.
 </p>
 
-<h3>Euro<span class="red">GP</span> POSTERS</h3>
+<h3>Euro<span class="red">GP</span> POSTERS abstracts</h3>
 
 
 <p><strong>
@@ -367,6 +377,25 @@ Circuit Approximation Using Single- and Multi-Objective Cartesian GP</strong>
 <em>Zdenek Vasicek, Lukas Sekanina</em><br/>
 In this paper, the approximate circuit design problem is formulated as a multi-objective optimization problem in which the circuit error and power consumption are conflicting design objectives. We compare multi-objective and single-objective Cartesian genetic programming in the task of parallel adder and multiplier approximation. It is analyzed how the setting of the methods, formulating the problem as multi-objective or single-objective, and constraining the execution time can influence the quality of results. One of the conclusions is that the multi-objective approach is useful if the number of allowed evaluations is low. When more time is available, the single-objective approach becomes more efficient.
 </p>
+
+
+<a name="best"></a>
+<br/>
+<br/>
+<br/>
+<h3>Euro<span class="red">GP</span> Best Papers Nominees</h3>
+
+<p><strong>Cartesian GP in Optimization of Combinational Circuits with Hundreds of Inputs and Thousands of Gates</strong><br/>
+<em>Zdenek Vasicek</em></p>
+
+<p><strong>On the Generalization Ability of Geometric Semantic Genetic Programming</strong><br/>
+<em>Ivo Gonçalves, Sara Silva, Carlos M. Fonseca</em></p>
+
+<p><strong>Attributed Grammatical Evolution using Shared Memory Spaces and Dynamically Typed Semantic Function Specification</strong><br/>
+<em>James Vincent Patten and Conor Ryan</em></p>
+
+<p><strong>The Effect of Distinct Geometric Semantic Crossover Operators in Regression Problems</strong><br/>
+<em>Julio Albinati, Gisele Lobo Pappa, Luiz Otavio V.B. Oliveira, Fernando Otero</em></p>
 
 
     <?php include('footer.php') ?>
