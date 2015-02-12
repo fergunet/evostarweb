@@ -32,4 +32,25 @@
 <strong>The Effect of Distinct Geometric Semantic Crossover Operators in Regression Problems</strong></li>
 <em>Julio Albinati, Gisele Lobo Pappa, Luiz Otavio V.B. Oliveira, Fernando Otero</em>
 </ul>
+
+<h2>Evo<span class="red">MUSART</span></h2>
+<ul>
+<li><strong>Interior Illumination Design Using Genetic Programming</strong></li>
+Kelly Moylan, Brian Ross
+
+ <li><strong>Moody Music Generator: Characterising Control Parameters Using Crowdsourcing</strong></li>
+
+<em>Marco Scirea, Julian Togelius, Mark Nelson</em>
+
+ 
+
+<li><strong>Evotype: Evolutionary Type Design</strong></li>
+
+<em>Tiago Martins, João Correia, Ernesto Costa, Penousal Machado</em>
+
+ 
+
+<li><strong>Lichtsuchende: Exploring the Emergence of a Cybernetic Society</strong></li>
+<em>Dave Murray-Rust, Rocio von Jungenfeld</em>
+</ul>
 <?php include('footer.php') ?>
