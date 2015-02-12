@@ -11,7 +11,7 @@
           <ul>
 <li><a href="#abstracts">Accepted paper abstracts</a></li>
 <li><a href="#best">Best Paper Nominees</a></li> 
-<li><a href="pdfs/EvoMUSART2015sessions.pdf">Download EuroCOP programme</a></li>
+<li><a href="pdfs/EvoMUSART2015sessions.pdf">Download EvoMUSART programme</a></li>
 (Note: programmes are provisional and subject to change until the final version is posted).
 </ul>
 
