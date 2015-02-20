@@ -61,8 +61,8 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="programme_speakers.php">Invited Speakers</a></li>
-                <li><a href="#">Overview programme</a></li>
-                <li><a href="#">Detailed programme</a></li>
+                <li><a href="pdfs/programme-overview.pdf">Overview programme</a></li>
+                <li><a href="pdfs/programme-detailed-overview.pdf">Detailed programme</a></li>
                 <li><a href="#">Best Paper Candidates</a></li>
               </ul>
             </li>

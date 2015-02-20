@@ -9,6 +9,7 @@
         <h2>Latest <span class="red">news</span>:<h2>
    </div>
 <ul>
+	<li>Download the <a href="pdfs/programme-overview.pdf">programme overview</a> or the <a href="pdfs/programme-detailed-overview.pdf">detailed programme overview</a>. Note: programme can be modified until conference.</li>
 	<li>Venue information updated in <strong>Local Information</strong> menu.
 	<li>Camera ready instructions <a href="submission_camera_ready.php">available here</a>.
 	<li>Information about <strong>registration</strong> is <a href="participants_registration.php">available here.</a></li>
