@@ -270,7 +270,7 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <br/>
 <br/>
 
-<h3>Euro<span class="red">GP</span> FULL PAPERS abstracts</h3>
+<h3>Euro<span class="red">GP</span> abstracts</h3>
 
 <p><strong>The Effect of Distinct Geometric Semantic Crossover Operators in Regression Problems</strong>
 <br/><em>Julio Albinati, Gisele L. Pappa, Fernando E. B. Otero, Luiz Otávio V. B. Oliveira</em><br/>
@@ -342,7 +342,6 @@ A new approach to the evolutionary optimization of large digital circuits is int
 </p>
 
 <h3>Euro<span class="red">GP</span> POSTERS abstracts</h3>
-
 
 <p><strong>
 Genetic Programming for Feature Selection and Question-Answer Ranking in IBM Watson</strong>
