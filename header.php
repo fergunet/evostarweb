@@ -81,7 +81,7 @@
                 <li><a href="location_copenhagen.php">Getting to Copenhagen</a></li>
                 <li><a href="location_venue.php">Getting to the venue</a></li>
                 <li><a href="location_accommodation.php">Accommodation</a></li>
-                <li><a href="#">Posters/WI-FI</a></li>
+                <li><a href="location_posters.php">Posters/WI-FI</a></li>
               </ul>
             </li>
           </ul>
