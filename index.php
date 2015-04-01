@@ -9,6 +9,8 @@
         <h2>Latest <span class="red">news</span>:<h2>
    </div>
 <ul>
+	<li>Download the <a href="pdfs/EvoStarHandbook2015.pdf">conference handbook</a>.</li>
+	<li>Information about <a href="proceedings.php">downloading proceedings available here</a></li>
 	<li>Download the <a href="pdfs/programme-overview.pdf">programme overview</a> or the <a href="pdfs/programme-detailed-overview.pdf">detailed programme overview</a>. Note: programme can be modified until conference.</li>
 	<li>Venue information updated in <strong>Local Information</strong> menu.
 	<li>Camera ready instructions <a href="submission_camera_ready.php">available here</a>.
