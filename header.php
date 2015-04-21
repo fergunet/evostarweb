@@ -65,6 +65,7 @@
                 <li><a href="pdfs/programme-overview.pdf">Overview programme</a></li>
                 <li><a href="pdfs/programme-detailed-overview.pdf">Detailed programme</a></li>
                 <li><a href="#">Best Paper Candidates</a></li>
+                <li><a href="awards_outstanding.php">Award for Outstanding Contribution to EC</a></li>
               </ul>
             </li>
             <li class="dropdown">

@@ -9,6 +9,7 @@
         <h2>Latest <span class="red">news</span>:<h2>
    </div>
 <ul>
+	<li>Winners of the <a href="awards_outstanding.php">Evostar Award for Outstanding Contribution to Evolutionary Computation in Europe 2015</a> </li>
 	<li>Download the <a href="pdfs/EvoStarHandbook2015.pdf">conference handbook</a>.</li>
 	<li>Information about <a href="proceedings.php">downloading proceedings available here</a></li>
 	<li>Download the <a href="pdfs/programme-overview.pdf">programme overview</a> or the <a href="pdfs/programme-detailed-overview.pdf">detailed programme overview</a>. Note: programme can be modified until conference.</li>
