@@ -11,12 +11,12 @@
             </div>
             <div class="panel-body">
               
-              <strong>Submission Deadline:</strong> 15 November 2014<br/>
-              <strong>Notification:</strong> 07 January 2015<br/>
-              <strong>Camera-ready:</strong> 21 January 2015<br/>
-              <strong>Early registration discount:</strong>01 March 2015<br/>
-              <strong>Registration deadline:</strong>31 March 2015<br/>
-              <strong>EvoStar dates:</strong> 8-10 April 2015<br/>
+              <strong>Submission Deadline:</strong><br/>
+              <strong>Notification:</strong><br/>
+              <strong>Camera-ready:</strong> <br/>
+              <strong>Early registration discount:</strong><br/>
+              <strong>Registration deadline:</strong><br/>
+              <strong>EvoStar dates:</strong> <br/>
               
             </div>
       </div>
@@ -46,6 +46,8 @@
 <a href="http://www.napier.ac.uk/"><img src="img/EdNapUniLogoCMYK.png"></a>
 <a href="https://www.facebook.com/evostarconf"><img src="img/facebook.png"></a>
 <a href="http://www.linkedin.com/groups?gid=1908983"><img src="img/linkedin.png"></a>
+<br>
+Header photo by <a href="https://www.flickr.com/photos/sowhat0/3482181733/">SoWhat at Flickr</a> CC-BY-SA.
 </div>
 </footer>
 

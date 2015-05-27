@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Evostar 2015</title>
+    <title>Evostar 2016</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -21,7 +21,7 @@
     
 
      <!-- Fixed navbar -->
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -30,7 +30,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Evo<span class="red">star</span> 2015</a>
+          <a class="navbar-brand" href="index.php">Evo<span class="red">star</span> 2016</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -93,10 +93,11 @@
 
        <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron jumboevo">
-        <h1>Evo<span class="red">star</span> 2015</h1>
+        <h1>Evo<span class="red">star</span> 2016</h1>
         <p>The Leading European Event on Bio-Inspired Computation.</p>
-        <p>Copenhagen, Denmark, 8-10 April 2015</p>
+        <p>Porto, Portugal, 8-10 April 2016</p>
       </div>
+
 <div class="row">
     <div class="col-sm-3">
       <?php include('cfps.php') ?>
