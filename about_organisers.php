@@ -1,22 +1,25 @@
 <?php include('header.php') ?>
 
-        <h2>Evostar 2015 Organizers<h2>
+        <h2>Evo<span class="red">Star</span> 2016 Organizers<h2>
    </div>
 
 
 <h3>Euro<span class="red">GP</span></h3>
-<h4>18th European Conference on Genetic Programming</h4>
+<h4>19th European Conference on Genetic Programming</h4>
  
 <strong>Euro<span class="red">GP</span> programme chairs :</strong>
 
 <table class="organisers">
 <tr>
-	<td><img src="organisers/penousal_machado.jpg" width="100"></td>
+	<!--<td><img src="organisers/penousal_machado.jpg" width="100"></td>-->
 	<td><img src="organisers/malcolm_heywood.jpg" width="100"></td>
+	<td><img src="organisers/james_mcdermott.jpg" width="100"></td>
 </tr>
 <tr>
-	<td>Penousal Machado, University of Coimbra, Portugal, machado@dei.uc.pt</td>
+	<!--<td>Penousal Machado, University of Coimbra, Portugal, machado@dei.uc.pt</td>-->
 	<td>Malcolm Heywood, Dalhousie University, Canada, mheywood@cs.dal.ca</td>
+	<td>James McDermott,  University College Dublin, Ireland, jamesmichaelmcdermott(at)gmail.com</td>
+	
 </tr>
 </table>
 
@@ -25,11 +28,10 @@
 <strong>Euro<span class="red">GP</span> publication chair :</strong>
 <table class="organisers">
 <tr>
-	<td><img src="organisers/james_mcdermott.jpg" width="100"></td>
+	<td><img src="organisers/mauro_castelli.jpg" width="100"></td>
 </tr>
 <tr>
-	<td>James McDermott,  University College Dublin, Ireland,  jamesmichaelmcdermott(at)gmail.com</td>
-	
+	<td>Mauro Castelli, NOVA IMS, Universidade Nova de Lisboa, Portugal, castelli.mauro@gmail.com</td>
 </tr>
 </table>
 
@@ -37,7 +39,7 @@
  
  
 <h3>Evo<span class="red">COP</span></h3>
-<h4>15th European Conference on Evolutionary Computation in Combinatorial Optimisation</h4>
+<h4>16th European Conference on Evolutionary Computation in Combinatorial Optimisation</h4>
  
 <strong>Evo<span class="red">COP</span> programme chairs :</strong>
 
@@ -59,7 +61,7 @@
  
  
 <h3>Evo<span class="red">MUSART</span></h3>
-<h4>4th International Conference on Evolutionary and Biologically Inspired Music, Sound, Art and Design</h4>
+<h4>5th International Conference on Evolutionary and Biologically Inspired Music, Sound, Art and Design</h4>
  
 <strong>Evo<span class="red">MUSART</span> programme chairs :</strong>
 
@@ -92,7 +94,7 @@
  
  
 <h3>Evo<span class="red">APPLICATIONS</span></h3>
-<h4>17th European Conference on the Applications of Evolutionary Computation</h4>
+<h4>18th European Conference on the Applications of Evolutionary Computation</h4>
 <strong>Evo<span class="red">Applications</span> coordinator :</strong>
 
 <table class="organisers">
@@ -116,30 +118,30 @@
 </tr>
 </table>
  
-<h3>Evo<span class="red">Star</span> 2015 publicity chairs</h3>
+<h3>Evo<span class="red">Star</span> 2016 publicity chair</h3>
 <table class="organisers">
 <tr>
 	<td><img src="organisers/pablo_garcia.jpg" width="100"></td>
-	<td><img src="organisers/mauro_castelli.jpg" width="100"></td>
+	
 </tr>
 <tr>
 	<td>Pablo García Sánchez, University of Granada, Spain, pablogarcia@ugr.es</td>
-	<td>Mauro Castelli, ISEGI; Universidade Nova de Lisboa, Portugal, castelli.mauro@gmail.com</td>
+	
 </tr>
 </table>
  
-<h3>Evo<span class="red">Star</span> 2015 local chairs</h3>
+<h3>Evo<span class="red">Star</span> 2016 local chairs</h3>
 
 
 
 <table class="organisers">
 <tr>
-	<td><img src="organisers/paolo_burelli.jpg" width="100"></td>
-	<td><img src="organisers/sebastian_risi.jpg" width="100"></td>
+	<!--<td><img src="organisers/paolo_burelli.jpg" width="100"></td>
+	<td><img src="organisers/sebastian_risi.jpg" width="100"></td>-->
 </tr>
 <tr>
-	<td>Paolo Burelli, Aalborg University, Copenhagen, Denmark, pabu@create.aau.dk</td>
-	<td>Sebastian Risi, IT University of Copenhagen, Denmark, sebastian.risi@gmail.com</td>
+	<!--<td>Paolo Burelli, Aalborg University, Copenhagen, Denmark, pabu@create.aau.dk</td>
+	<td>Sebastian Risi, IT University of Copenhagen, Denmark, sebastian.risi@gmail.com</td>-->
 </tr>
 </table>
  
