@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 
@@ -27,6 +27,8 @@ Topics of interest include (but are not limited to):
 </ul>
 
 <h3>Programme Committee</h3>
+TBA
+<!--
 <ul>
 <li>Nelishia Pillay, University of KwaZulu-Natal</li>
 <li>Shengxiang Yang, De Monfort University, UK</li>
@@ -42,6 +44,7 @@ Topics of interest include (but are not limited to):
 <li>Nadarajen Veerapen, University of Stirling, UK</li>
 <li>Ben Paechter,  Edinburgh Napier University, UK</li>
 </ul>
+-->
 
 <h3>Chairs</h3>
 

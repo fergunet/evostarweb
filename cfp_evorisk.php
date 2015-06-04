@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">RISK</span> 2015<h2>
+        <h2>Evo<span class="red">RISK</span> 2016<h2>
    </div>
 
 <h2>Computational Intelligence for Risk Management, Security and Defence Applications</h2>
@@ -11,7 +11,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 Recent events involving both natural disasters and human-made attacks have emphasised the importance of solving challenging problems in risk management, security and defence. Traditional methods have proven insufficient to address these problems and hence Computational Intelligence techniques present themselves as a more appealing alternative.
@@ -44,16 +44,13 @@ Accepted papers will appear in the proceedings of EvoStar, published in a volume
 
 <p>Please provide up to five keywords in your Abstract</p>
 
-<p>Page limit: 12 pages</p>
+<p>Page limit: 16 pages</p>
 
-<h3>IMPORTANT DATES</h3>
 
-Submission Deadline: 15 November 2014<br/>
-Notification: 07 January 2015<br/>
-Camera-ready: 21 January 2015<br/>
-EvoStar dates: 8-10 April 2015<br/>
 
 <h3>Programme Committee</h3>
+TBA
+<!--
 <ul>
 <li>Robert K. Abercrombie 	Oak Ridge National Laboratory, USA</li>
 <li>Rami	Abielmona,	University of Ottawa, Canada</li>
@@ -69,7 +66,7 @@ EvoStar dates: 8-10 April 2015<br/>
 <li>Antonio	Villalón	S2 Grupo, Spain</li>
 <li>Nur Zincir-Heywood, Dalhousie University, Canada </li>
 </ul>
-
+-->
 <h3>FURTHER INFORMATION</h3>
 
 Further information on the conference and co-located events can be 

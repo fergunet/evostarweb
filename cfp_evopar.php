@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">PAR</span> 2015<h2>
+        <h2>Evo<span class="red">PAR</span> 2016<h2>
    </div>
 
  <h2>Parallel Architectures and Distributed Infrastructures</h2>
@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
       </div>
 </div>
     <p>There is growing interest in running evolutionary computation on Parallel 
@@ -71,11 +71,7 @@
     <p> Please provide up to five keywords in your Abstract</p>
     <p>Page limit: 12 pages <!--to <a href="http://myreview.csregistry.org/evoapps14/">http://myreview.csregistry.org/evoapps14/</a>.--></p>
 
-    <h2> IMPORTANT DATES </h2>
-    <p>Submission deadline: <strong> 15 November 2014</strong><br />
-      Notification: 07 January 2015<br />
-      Camera ready: 21 January 2015<br />
-      Evo<span class="red">PAR</span>: 8-10 April 2015 </p>
+    
     <h2> FURTHER INFORMATION </h2>
     <p> Further information on the conference and co-located events can be <br />
       found in: <a href="http://www.evostar.org/">http://www.evostar.org</a> </p>
@@ -93,6 +89,8 @@
       </ul>
     </div>
     <h2>Programme Committee</h2>
+    TBA
+<!--
     <ul>
 <li>Ignacio Arnaldo, MIT, USA.</li>
 <li>Gianluigi Folino, L'ICAR-CNR, Cosenza, Italy</li>
@@ -105,5 +103,6 @@
 <li>Marco Tomassini, Lausanne University, Switzerland</li>
 <li>Jose Manuel Colmenar, Universidad Complutense de Madrid, Spain</li>
     </ul>
+    -->
 
     <?php include('footer.php') ?>

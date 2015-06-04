@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">ROBOT</span> 2015<h2>
+        <h2>Evo<span class="red">ROBOT</span> 2016<h2>
    </div>
 
 
@@ -12,7 +12,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 
@@ -54,6 +54,8 @@ a.e.eiben(at)vu.nl
 </ul>
 
 <h3>Programme Committee</h3>
+TBA
+<!--
 <ul>
 <li>Nicolas Bredeche,	Institut des Systèmes Intelligents et de Robotique,	France</li>
 <li>Anders Christensen,	University Institute of Lisbon, ISCTE-IUL,	Portugal</li>
@@ -79,6 +81,6 @@ a.e.eiben(at)vu.nl
 <li>Andy Tyrrell,		University of York,	United Kingdom</li>
 <li>Alan Winfield,		University of the West of England,	United Kingdom</li>
 </ul>
-
+-->
     <?php include('footer.php') ?>
 

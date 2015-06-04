@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 
@@ -51,16 +51,9 @@ Submit your manuscript in Springer LNCS format.<br/>
 
 Please provide up to five keywords in your Abstract<br/>
 
-Page limit: 12 pages.<br/>
+Page limit: 16 pages.<br/>
 
-<h3>IMPORTANT DATES</h3>
 
-<ul>
-<li>Submission Deadline: 15 November 2014</li>
-<li>Notification: 07 January 2015</li>
-<li>Camera-ready: 21 January 2015</li>
-<li>EvoStar dates: 8-10 April 2015</li>
-</ul>
 
 
 <h3>Evo<span class="red">GAMES</span> track chairs</h3>
@@ -76,6 +69,8 @@ amorag(at)geneura.ugr.es</li>
 
 
 <h3>Programme Committee</h3>
+TBA
+<!--
 <ul>
 <li> David Camacho, Universidad Autonoma de Madrid, Spain</li>
 <li>    Francisco Luis Gutiérrez Vela, Universidad de Granada, Spain</li>
@@ -103,6 +98,6 @@ amorag(at)geneura.ugr.es</li>
 <li>    Johan Hagelbäck, Blekinge Tekniska Högskola, Sweden</li>
 <li>    Tobias Mahlmann, IT-Universitetet i Kobenhavn, Denmark</li>
 <li>    Francisco Fernandez de Vega, Universidad de Extremadura, Spain</li>
-</ul>
+</ul>-->
 
     <?php include('footer.php') ?>

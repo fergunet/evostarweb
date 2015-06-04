@@ -12,7 +12,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
       </div>
 </div>
 
@@ -23,7 +23,7 @@ Complex systems are ubiquitous in physics, economics, sociology, biology, comput
 Studying complex systems requires composite strategies that employ various different algorithms to solve a single difficult problem. Components of such strategies may solve consecutive phases leading to the main goal (for example, consider an oil deposit exploration strategy composed of a complex memetic search algorithm and of a direct FEM solver), may be used to approach particular sub-tasks from different perspectives (as, for example, in multi-scale approaches), or may solve the main problem in different ways that are aggregated to form the final solution (as, for example, in hyper-heuristics, island GAs or multi-physics approaches).
 </p>
 <p>
-Evo<span class="red">COMPLEX</span> 2015 covers all aspects of the interaction of evolutionary algorithms -and metaheuristics in general- with complex systems. Topics of interest include, but are not limited to, the use of evolutionary algorithms for the analysis or design of complex systems, such as for example:
+Evo<span class="red">COMPLEX</span> 2016 covers all aspects of the interaction of evolutionary algorithms -and metaheuristics in general- with complex systems. Topics of interest include, but are not limited to, the use of evolutionary algorithms for the analysis or design of complex systems, such as for example:
 
 <ul>
 <li>complex networks, e.g., social networks, ecological networks, interaction networks, etc.</li>
@@ -63,11 +63,13 @@ Submit your manuscript in Springer LNCS format.
 Please provide up to five keywords in your Abstract
 </p>
 <p>
-Page limit: 12 pages to http://myreview.csregistry.org/evoapps14/.
+Page limit: 16 pages to http://myreview.csregistry.org/evoapps14/.
 </p>
 <p>
 
 <h3>Programme Committee</h3>
+TBA
+<!--
 
 <ul>
 <li>Jhon Edgar Amaya, Universidad Nacional Experimental del Táchira, Venezuela</li>
@@ -89,6 +91,7 @@ Page limit: 12 pages to http://myreview.csregistry.org/evoapps14/.
 <li>Marco Tomassini, Université de Laussane, Switzerland</li>
 <li>Alberto Tonda, INRA, France</li>
  </ul>
+ -->
 
 
     <h3>Evo<span class="red">COMPLEX</span> Programme Chairs</h3>

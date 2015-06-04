@@ -2,7 +2,8 @@
 
         <h2>Travel and accommodation bursaries for students<h2>
    </div>
-
+   TBA
+<!--
 <h3>Application deadline:  25 February 2015</h3>
 
 <p> 
@@ -23,6 +24,6 @@ If you wish to apply for travel bursary or an accommodation place, please comple
  </p><p>
 <strong>The deadline for bursary applications is 25 February 2015</strong> and decisions will be made by 5 March and sent to all applicants.
 </p>
-
+-->
 
 <?php include('footer.php') ?>

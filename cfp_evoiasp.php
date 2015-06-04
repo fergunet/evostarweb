@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">IASP</span> 2015<h2>
+        <h2>Evo<span class="red">IASP</span> 2016<h2>
    </div>
 
  <h2>Evolutionary Computation in Image Analysis, Signal Processing
@@ -11,7 +11,7 @@ and Pattern Recognition</h2>
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 
@@ -50,6 +50,8 @@ Topics of interest include, but are not limited to:
 </ul>
 
 <h3>Programme Committee</h3>
+TBA
+<!--
 <ul>
 <li>Lucia Ballerini (University of Dundee, UK)</li>
 <li>Vitoantonio Bevilacqua (Politecnico di Bari, Italy)</li>
@@ -76,7 +78,8 @@ Topics of interest include, but are not limited to:
 <li>Giovanni Squillero (Politecnico di Torino, Italy)</li>
 <li>Roberto Ugolotti (Henesis srl, Italy)</li>
 <li>Leonardo Vanneschi (Universidade Nova de Lisboa, Portugal)</li>
-</ul>
+</ul>-->
+
 <h3>Evo<span class="red">IASP</span> track chairs</h3>
 <ul>
     <li><strong>Stefano Cagnoni</strong><br/>

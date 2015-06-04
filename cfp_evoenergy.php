@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">ENERGY</span> 2015<h2>
+        <h2>Evo<span class="red">ENERGY</span> 2016<h2>
    </div>
 
 
@@ -12,7 +12,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 
@@ -68,19 +68,14 @@ authors in the submitted paper.</p>
 
 Submission format: Springer LNCS<br/>
 Please provide up to five keywords in your Abstract<br/>
-Page limit: 12 pages<br/>
+Page limit: 16 pages<br/>
 <br/>
 
 <h3>Journal</h3>
 Best papers will be invited for a Special Issue to be edited with the Journal of Renewable Energy, Elsevier, 5 year IF: 3.456 (<a href="http://tinyurl.com/si-energy">http://tinyurl.com/si-energy</a>). The SI is organized by IEEE TF on Computational Intelligence in the Energy Domain.
-<h3>Important dates</h3>
 
-<ul>
-<li>Submission deadline: 15 November 2014</li>
-<li>Notification: 07 January 2015</li>
-<li>Camera ready: 21 January 2015</li>
-<li>EvoENERGY: 08-10 April 2015, Copenhagen, Denmark</li>
-</ul>
+
+
 
 <h3>Chairs</h3>
 
@@ -90,7 +85,8 @@ Best papers will be invited for a Special Issue to be edited with the Journal of
 </ul>
 
 <h3>Confirmed program committee</h3>
-
+TBA
+<!--
 <ul>
 <li>Konrad Diwold, Siemens, Vienna, Austria</li>
 <li>Ralph Evins, Laboratory of Building Science and Technology, Empa, Switzerland</li>
@@ -107,4 +103,5 @@ Best papers will be invited for a Special Issue to be edited with the Journal of
 <li>Andy Tyrrell, University of York, UK</li>
 <li>Markus Wagner, University of Adelaide, AU</li>
 </ul>
+-->
     <?php include('footer.php') ?>

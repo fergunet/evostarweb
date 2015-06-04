@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">NUM</span> 2015<h2>
+        <h2>Evo<span class="red">NUM</span> 2016<h2>
    </div>
 
 <h2>Bio-inspired Algorithms for Continuous Parameter Optimisation</h2>
@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 
@@ -21,7 +21,7 @@
 <p>
 We seek high quality papers involving the application of bio-inspired algorithms (genetic algorithms, genetic programming, evolution strategies, differential evolution, particle swarm optimization, evolutionary programming, simulated annealingâ€¦ and their hybrids) to continuous optimisation problems in engineering. We also welcome cross-fertilisation between Nature-inspired algorithms and more classical numerical optimisation algorithms.
 </p>
-<em>[1] GS Hornby & T Yu, "EC Practitioners: Results of the First Survey", SIGEVOlution, Newsletter of the ACM Special Interest Group on Genetic and Evolutionary Computation, Vol. 2(1), Spring 2007 www.sigevolution.org</em>
+<em>[1] GS Hornby and T Yu, "EC Practitioners: Results of the First Survey", SIGEVOlution, Newsletter of the ACM Special Interest Group on Genetic and Evolutionary Computation, Vol. 2(1), Spring 2007 www.sigevolution.org</em>
 
 <h3>Areas of Interest and Contributions</h3>
 
@@ -48,14 +48,9 @@ Accepted papers will appear in the proceedings of EvoStar, published in a volume
 
 <p>Please provide up to five keywords in your Abstract</p>
 
-<p>Page limit: 12 pages</p>
+<p>Page limit: 16 pages</p>
 
-<h3>IMPORTANT DATES</h3>
 
-Submission Deadline: 15 November 2014<br/>
-Notification: 07 January 2015<br/>
-Camera-ready: 21 January 2015<br/>
-EvoStar dates: 8-10 April 2015<br/>
 
 <h3>FURTHER INFORMATION</h3>
 
@@ -70,6 +65,8 @@ aesparcia(at)s2grupo.es</li>
 </ul>
 
 <h3>Programme Committee</h3>
+TBA
+<!--
 <ul>
 <li>Anne Auger, INRIA, France</li>
 <li>Hans-Georg Beyer, Vorarlberg University of Applied Sciences, Austria</li>
@@ -84,4 +81,5 @@ aesparcia(at)s2grupo.es</li>
 <li>Olivier Teytaud, INRIA, France</li>
 <li>Ke Tang, University of Science and Technology of China</li>
 </ul>
+-->
     <?php include('footer.php') ?>

@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">FIN</span> 2015<h2>
+        <h2>Evo<span class="red">FIN</span> 2016<h2>
    </div>
 
 <h3>Natural Computing Methods in Finance and Economics</h3>
@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 
@@ -41,7 +41,7 @@ Submit your manuscript in Springer LNCS format. <br/>
 
 Please provide up to five keywords in your Abstract <br/>
 
-Page limit: 12 pages
+Page limit: 16 pages
 
 <h3>Additional publication</h3>
 Other than the usual proceedings publications, EvoFIN has secured two additional publication routes for a number of selected papers.
@@ -60,9 +60,9 @@ found in: http://www.evostar.org
 
 <ul>
 <li>
-<strong>Alexandros Agapitos </strong><br/>
+<strong>Michael O’Neill / Anthony Brabazon </strong><br/>
 University College Dublin, Ireland <br/>
-<em>alexandros.agapitos(at)ucd.ie</em>
+<!--<em>alexandros.agapitos(at)ucd.ie</em>-->
 <li>
 <strong>Michael Kampouridis</strong><br/>
  University of Kent, UK<br/>
@@ -72,6 +72,8 @@ University College Dublin, Ireland <br/>
 
 
 <h3>Programme Committee</h3>
+TBA
+<!--
 <ul>
 <li>Alex Agapitos, University College Dublin, Ireland</li>
 <li>Eva Alfaro, Technical University of Valencia, Spain</li>
@@ -89,6 +91,6 @@ University College Dublin, Ireland <br/>
 <li>Andrea Tettamanzi, University of Nice Sophia Antipolis, France</li>
 <li>Ruppa Thulasiram, University of Manitoba, Canada</li>
 </ul>
-
+-->
 
 <?php include('footer.php') ?>

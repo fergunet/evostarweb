@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">BIO</span> 2015<h2>
+        <h2>Evo<span class="red">BIO</span> 2016<h2>
    </div>
 
 
@@ -11,7 +11,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps15/"><strong>http://myreview.csregistry.org/evoapps15/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
 
@@ -29,7 +29,7 @@ Join us in Copenhagen for Evo<span class="red">BIO</span>, a multidisciplinary c
 Evo<span class="red">BIO</span> and other Evo<span class="red">STAR</span> conference have significant thematic overlap; often the work of one conference or application is of interest to attendees of another. Selected Evo<span class="red">BIO</span> papers may be considered for presentation in a joint session with other Evo<span class="red">STAR</span> conferences (Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, and Evo<span class="red">MUSART</span>).
 
 
-For more information, visit our web page at http://www.evostar.org, or follow us on Twitter @EVO<span class="red">BIO</span>2015, join our evobio2015 group on LinkedIn and our Evo<span class="red">BIO</span> group on Facebook, or email to evobio.conference(at)gmail.com.
+For more information, visit our web page at http://www.evostar.org, or follow us on Twitter @EVO<span class="red">BIO</span>2016, join our evobio2016 group on LinkedIn and our Evo<span class="red">BIO</span> group on Facebook, or email to evobio.conference(at)gmail.com.
 
 <h3>Journal</h3>
 Authors of the best paper will receive a waiver for the publication on an extended version in the BioData Mining Journal (<a href="http://www.biodatamining.org/">http://www.biodatamining.org/</a>)
@@ -43,7 +43,7 @@ Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0
 <br/>
 Please provide up to five keywords in your Abstract<br/>
 
-Page limit: 12 pages.
+Page limit: 16 pages.
 
 <h3>Evo<span class="red">BIO</span> Programme Chairs</h3>
 
@@ -61,7 +61,8 @@ Universidad Pablo de Olavide, Sevilla, Spain <br/>
 </ul>
 
 <h3>Programme Committee</h3>
-
+TBA
+<!--
 <ul>
 <li>Jitesh Dundas	,	Edencore Technologies, Indian Institue of Technology, Mumbai	,	India</li>
 <li>Florentino Fernandez	,	University of Vigo	,	Spain</li>
@@ -78,6 +79,6 @@ Universidad Pablo de Olavide, Sevilla, Spain <br/>
 <li>Michael Raymer	,	Wright State University	,	USA</li>
 <li>Stephen Turner	,	University of Virginia	,	USA</li>
 <li>Leonardo Vanneschi	,	Universidade Nova de Lisboa	,	Portugal</li>
-</ul>
+</ul>-->
 
     <?php include('footer.php') ?>

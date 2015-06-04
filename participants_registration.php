@@ -2,8 +2,9 @@
 
         <h2>Evo* 2015 REGISTRATION<h2>
    </div>
+   TBA
 
-
+<!--
 <h4><span class="red">Early Registration Discount Expires 1 March 2015</span></h4>
 
 <p><strong>Registration Closes 31 March 2015 (before Easter weekend)</strong></p>
@@ -82,5 +83,6 @@ From <a href="mailto:j.willies@napier.ac.uk">Jennifer Willies</a>, EvoStar Confe
               
             </div>
       </div>
+      -->
 
 <?php include('footer.php') ?>

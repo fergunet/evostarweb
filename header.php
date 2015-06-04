@@ -79,7 +79,7 @@
              <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Local Information<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="location_copenhagen.php">Getting to Copenhagen</a></li>
+                <li><a href="location_porto.php">Getting to Porto</a></li>
                 <li><a href="location_venue.php">Getting to the venue</a></li>
                 <li><a href="location_accommodation.php">Accommodation</a></li>
                 <li><a href="location_posters.php">Posters/WI-FI</a></li>
