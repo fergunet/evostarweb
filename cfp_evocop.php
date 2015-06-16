@@ -100,6 +100,75 @@ The reviewing process will be double-blind, please omit information about the au
         </span></li>
     </ul>
 
+<h3>Programme Committee</h3>
+<ul>
+<li>  Adnan Acan  ,  Eastern Mediterranean University ,  Turkey</li>
+<li>Enrique Alba  ,  University of Malaga ,  Spain</li>
+<li>Mehmet-Emin Aydin ,  University of Bedfordshire ,  UK</li>
+<li>Matthieu  Basseur , University of Angers  , France</li>
+<li>Maria J.  Blesa , Universitat Politècnica de Catalunya - BarcelonaTech  ,  Spain</li>
+<li>Christian Blum  ,  IKERBASQUE - Basque Foundation for Science ,  Spain</li>
+<li>Sandy Brownlee  ,  University of Stirling ,  Scotland UK</li>
+<li>Thomas  Bartz-Beielstein  , Cologne University of Applied Sciences  , Germany</li>
+<li>Pedro Castillo  ,  Universidad de Granada ,  Spain</li>
+<li>Francisco Chicano ,  Universidad de Malaga  ,  Spain</li>
+<li>Carlos  Coello-Coello ,  CINVESTAV-IPN  ,  Mexico</li>
+<li> Peter  Cowling ,  University of York ,  UK</li>
+<li> Karl Doerner , University of Vienna  ,  Austria</li>
+<li> Benjamin Doerr ,  LIX-Ecole Polytechnique  ,  France</li>
+<li> Bernd  Freisleben  ,  University of Marburg  ,  Germany</li>
+<li> Adrien Goeffon ,  University of Angers ,  France</li>
+<li> Jens Gottlieb  ,  SAP  ,  Germany</li>
+<li> Walter Gutjahr ,  University of Vienna ,  Austria</li>
+<li> Jin-Kao  Hao ,  University of Angers ,  France</li>
+<li>Emma  Hart  ,  Edinburgh Napier University  ,  Scotland UK</li>
+<li> Richard  Hartl ,  University of Vienna ,  Austria</li>
+<li> Geir Hasle ,  SINTEF Applied Mathematics ,  Norway</li>
+<li>Bin Hu  , Austrian Institute of Technology  , Austria</li>
+<li> Istvan Juhos ,  University of Szeged ,  Hungary</li>
+<li> Graham Kendall ,  University of Nottingham ,  UK</li>
+<li> Joshua Knowles ,  University of Manchester ,  UK</li>
+<li>Mario Koeppen , Kyushu Institute of Technology  , Japan</li>
+<li> Frederic Lardeux ,  University of Angers ,  France</li>
+<li> Rhyd Lewis ,  Cardiff University ,  UK</li>
+<li> Arnaud Liefooghe ,  University Lille 1 ,  France</li>
+<li> Jose Antonio Lozano  ,  University of the Basque Country ,  Spain</li>
+<li>Gabriel Luque , University of Malaga  , Spain</li>
+<li> Penousal Machado ,  University of Coimbra  ,  Portugal</li>
+<li>Jorge Maturana  ,  Universidad Austral de Chile ,  Chile</li>
+<li> David  Meignan ,  University of Osnabruck  ,  Germany</li>
+<li>Martin  Middendorf  ,  University of  Leipzig ,  Germany</li>
+<li> Julian Molina  ,  University of Malaga ,  Spain</li>
+<li>Eric  Monfroy , University of Nantes  , France</li>
+<li> Christine L. Mumford ,  Cardiff University ,  UK</li>
+<li>Nysret  Musliu  , Vienna University of Technology ,  Austria</li>
+<li> Gabriela Ochoa ,  University of Stirling ,  Scotland UK</li>
+<li> Beatrice Ombuki-Berman ,  Brock University ,  Canada</li>
+<li> Mario  Pavone  ,  University of Catania  ,  Italy</li>
+<li> Francisco J. Pereira ,  Universidade de Coimbra  ,  Portugal</li>
+<li>Matthias  Prandtstetter , Austrian Institute of Technology  , Austria</li>
+<li>Jakob Puchinger ,  Austrian Institute of Technology ,  Austria</li>
+<li>Rong  Qu  , University of Nottingham  , UK</li>
+<li> Günther  Raidl ,  Vienna University of Technology  ,  Austria</li>
+<li> Marcus Randall ,  Bond University  , Australia</li>
+<li> Eduardo  Rodriguez-Tello ,  Civerstav - Tamaulipas ,  Mexico</li>
+<li>Peter Ross  ,  Edinburgh Napier University  ,  UK</li>
+<li>Frederic  Saubion ,  University of Angers ,  France</li>
+<li> Marc Schoenauer  ,  INRIA  ,  France</li>
+<li> Patrick  Siarry  ,  University of Paris 12 ,  France</li>
+<li> Kevin  Sim ,  Edinburgh Napier University  ,  UK</li>
+<li>Jim Smith   ,  University of the West of England  ,  UK</li>
+<li> Giovanni Squillero ,  Politecnico di Torino  ,  Italy</li>
+<li> Thomas Stuetzle  ,  Universite Libre de Bruxelles  ,  Belgium</li>
+<li>Andrew M. Sutton  , Friedrich-Schiller-University Jena  , Germany</li>
+<li> El-ghazali Talbi ,  Universite des Sciences et Technologies de Lille ,  France</li>
+<li>Renato  Tinós , University of Sao Paulo , Brasil</li>
+<li> Nadarajen  Veerapen  ,  University of Stirling ,  Scotland UK</li>
+<li> Sebastien  Verel ,  Universite du Littoral Cote d'Opale  ,  France</li>
+<li> Takeshi  Yamada  ,  NTT Communication Science Laboratories ,  Kyoto-Japan</li>
+<li>Shengxiang  Yang  , De Montfort University  , UK</li>
+</ul>
+
 
 
 

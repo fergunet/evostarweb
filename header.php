@@ -95,7 +95,7 @@
       <div class="jumbotron jumboevo">
         <h1>Evo<span class="red">star</span> 2016</h1>
         <p>The Leading European Event on Bio-Inspired Computation.</p>
-        <p>Porto, Portugal, 8-10 April 2016</p>
+        <p>Porto, Portugal, 30 March - 1 April 2016</p>
       </div>
 
 <div class="row">

@@ -11,12 +11,12 @@
             </div>
             <div class="panel-body">
               
-              <strong>Submission Deadline:</strong><br/>
-              <strong>Notification:</strong><br/>
-              <strong>Camera-ready:</strong> <br/>
-              <strong>Early registration discount:</strong><br/>
-              <strong>Registration deadline:</strong><br/>
-              <strong>EvoStar dates:</strong> <br/>
+              <strong>Submission Deadline:</strong> 1 November 2015<br/>
+              <strong>Notification:</strong> 4 January 2016<br/>
+              <strong>Camera-ready:</strong> 18 January 2016<br/>
+              <strong>Early registration discount: 25 February 2016</strong><br/>
+              <strong>Registration deadline: 24 March</strong><br/>
+              <strong>EvoStar dates:</strong> 30 March - 1 April 2016<br/>
               
             </div>
       </div>
