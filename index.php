@@ -14,7 +14,7 @@
 <h2>Evo<span class="red">star</span> 2016</h2>
 <img src="img/logo-big.jpg" width ="300px">
 <p>Welcome to Evo<span class="red">star</span> 2016 webpage.<p> 
-	<p>This year, the conference will be held in Porto, Portugal, from 8 to 10 April 2016. Read more about Evo<span class="red">star</a> <a href="about_evostar.php">here</a>.</p>
+	<p>This year, Evo<span class="red">star</span> conferences will be held in Porto, Portugal, from 30 March to 1 April 2016. Read more about Evo<span class="red">star</a> <a href="about_evostar.php">here</a>.</p>
 <p>
 <h3>Special Issues</h3>
 

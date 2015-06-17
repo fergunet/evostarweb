@@ -47,7 +47,7 @@
 <a href="https://www.facebook.com/evostarconf"><img src="img/facebook.png"></a>
 <a href="http://www.linkedin.com/groups?gid=1908983"><img src="img/linkedin.png"></a>
 <br>
-Header photo by <a href="https://www.flickr.com/photos/sowhat0/3482181733/">SoWhat at Flickr</a> CC-BY-SA.
+Header photo by <a href="https://www.flickr.com/photos/sowhat0/3482181733/">SoWhat at Flickr</a> <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>.
 </div>
 </footer>
 

@@ -7,13 +7,13 @@ Evo<span class="red">Star</span> comprises of four co-located conferences run ea
 The four conferences include
 
 <ul><!--I've updated the event numbers-->
-<li>Euro<span class="red">GP</span> 18th European Conference on Genetic Programming</li>
+<li>Euro<span class="red">GP</span> 19th European Conference on Genetic Programming</li>
 
-<li>Evo<span class="red">COP</span> 15th European Conference on Evolutionary Computation in Combinatorial Optimisation</li>
+<li>Evo<span class="red">COP</span> 16th European Conference on Evolutionary Computation in Combinatorial Optimisation</li>
 
-<li>Evo<span class="red">MUSART</span> 4rd International Conference (and 12th European event) on Evolutionary and Biologically Inspired Music, Sound, Art and Design</li>
+<li>Evo<span class="red">MUSART</span> 5th International Conference (and 12th European event) on Evolutionary and Biologically Inspired Music, Sound, Art and Design</li>
 
-<li>Evo<span class="red">Applications</span>  17th European Conference on the Applications of Evolutionary and bio-inspired Computation including the following tracks</li>
+<li>Evo<span class="red">Applications</span>  18th European Conference on the Applications of Evolutionary and bio-inspired Computation including the following tracks</li>
 <ul>
 	<li>Evo<span class="red">BIO</span>  Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
 
