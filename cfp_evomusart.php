@@ -16,18 +16,7 @@
 </ul>-->
 
 
-    <hr/>
-<strong>NEW THIS YEAR: LEONARDO Gallery</strong>
-    <p>
-      <br />
-     The journal LEONARDO will be publishing a Gallery Section (online and in the 
-print edition) associated with the conference. This will consist of a number 
-of visual artworks based on ideas and techniques presented at the conference. 
-A separate call for this will be issued after papers have been selected for 
-the conference.
-<br/><br/>
-<a href="http://www.leonardo.info/gallery/">http://www.leonardo.info/gallery/</a>
-<hr/>
+
     </p>
     <p>Following the success of previous events and the importance of the field 
       of evolutionary and biologically inspired (artificial neural network, swarm, 
@@ -189,11 +178,11 @@ the conference.
        University of Kent, UK<br />
       <em>c.g.johnson(at)kent.ac.uk</em></p>
     <p><strong>Vic Ciesielski</strong><br />
-      RMIT University<br />
+      RMIT University, Australia<br />
       <em>vic.ciesielski(at)rmit.edu.au </em></p>
     <h2>Evo<span class="red">MUSART </span>Publication chair</h2>
     <p><strong>Jo&atilde;o Correia</strong><br />
-      University of Coimbra<br />
+      University of Coimbra, Portugal<br />
       <em>jncor(at)dei.uc.pt</em><br />
     </p>
 
