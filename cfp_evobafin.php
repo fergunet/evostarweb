@@ -1,9 +1,9 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">FIN</span> 2016<h2>
+        <h2>Evo<span class="red">BAFIN</span> 2016<h2>
    </div>
 
-<h3>Natural Computing Methods in Finance and Economics</h3>
+<h3>Natural Computing Methods in Business Analytics and Finance</h3>
 
 <div class="panel panel-default">
             <div class="panel-heading">
@@ -14,11 +14,14 @@
 			</div>
 </div>
 
-Evo<span class="red">FIN</span> is the only European event specifically dedicated to the application of Evolutionary Computation, and other Natural Computing methodologies to finance and economics. It gives researchers in those fields, as well as people from industry, an opportunity to present their latest research and to discuss current developments and applications.
-
-Topics of interest include (but not limited to):
+Evo<span class="red">BAFIN</span> is the only European event specifically dedicated to the application of Evolutionary Computation, and other Natural Computing methodologies to business analytics and finance. It gives researchers in those fields, as well as people from industry, an opportunity to present their latest research and to discuss current developments and applications. Topics of interest include (but not limited to):
 
 <ul>
+<li>Operations research</li>
+<li>Marketing analytics</li>
+<li>Finance analytics</li>
+<li>Supply chain analytics</li>
+<li>Human resource analytics</li>
 <li>Algorithmic Trading</li>
 <li>Forecasting financial time series</li>
 <li>Portfolio selection and management</li>
@@ -36,33 +39,23 @@ Accepted papers will appear in the proceedings of EvoStar, published in a volume
 <h3>Submission Details</h3>
 
 Submissions must be original and not published elsewhere. They will be peer reviewed by members of the program committee. The reviewing process will be double-blind, so please omit information about the authors in the submitted paper.<br/>
-
 Submit your manuscript in Springer LNCS format. <br/>
-
-Please provide up to five keywords in your Abstract <br/>
-
-Page limit: 16 pages
-
-<h3>Additional publication</h3>
-Other than the usual proceedings publications, EvoFIN has secured two additional publication routes for a number of selected papers.
-
-<ol>
-<li>Book series on "Natural Computing in Computational Finance" published by Springer. </li>
-<li>Special issue in International Journal of Innovative Computing and Applications. (<a href="http://www.inderscience.com/jhome.php?jcode=ijica">http://www.inderscience.com/jhome.php?jcode=ijica</a>)</li>
-</ol>
+Please provide up to five keywords in your Abstract. <br/>
+Page limit: 16 pages.<br/>
 
 <h3>FURTHER INFORMATION</h3>
 
 Further information on the conference and co-located events can be 
 found in: http://www.evostar.org
 
-<h3>Evo<span class="red">FIN</span> track chairs</h3>
+<h3>Evo<span class="red">BAFIN</span> track chairs</h3>
 
 <ul>
 <li>
-<strong>Michael O’Neill / Anthony Brabazon </strong><br/>
+<strong>Anthony Brabazon </strong><br/>
 University College Dublin, Ireland <br/>
-<!--<em>alexandros.agapitos(at)ucd.ie</em>-->
+<em>anthony.brabazon(at)ucd.ie</em>
+
 <li>
 <strong>Michael Kampouridis</strong><br/>
  University of Kent, UK<br/>
