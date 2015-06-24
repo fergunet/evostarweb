@@ -57,7 +57,7 @@ conference and attend the conference and present the work.</p>
 
 <p>Furthermore, a selection of the best accepted papers, suitably revised
 and extended, will be eligible for fast-track publication in Applied Soft
-Computing journal by Elsevier (Impact Factor 2.679), thanks to the
+Computing journal by Elsevier (Impact Factor 2.810), thanks to the
 technical sponsorship offered by the World Federation on Soft Computing.</p>
 
 <h3>FURTHER INFORMATION</h3>

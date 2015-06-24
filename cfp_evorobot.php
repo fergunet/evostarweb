@@ -32,16 +32,16 @@ Topics include but are not limited to:
 <li>Evolutionary and co-evolutionary approaches.</li>
 </ul>
 
-<h3>Best paper award</h3>
+<!--<h3>Best paper award</h3>
 <img align="right" src="img/frontiers.jpg" width="250px" />
 <p>
 
 <a href="http://www.frontiersin.org/robotics_and_ai">Frontiers in Robotics and AI</a> is offering the best paper award at the upcoming Evo<span class="red">ROBOT</span> track in EvoApplications. 
 The <a href="http://www.frontiersin.org/evolutionary_robotics">Evolutionary Robotics</a> specialty grants the winner a full waiver of the publication fee for 
-the submission of an extended version of the work presented at Evo<span class="red">ROBOT</span> in Copenhagen this year. Naturally, the final decision to publish the extended version 
+the submission of an extended version of the work presented at Evo<span class="red">ROBOT</span> in Porto this year. Naturally, the final decision to publish the extended version 
 will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a> policies of originality and review.
 
-</p>
+</p>-->
 
 <h3>Evo<span class="red">ROBOT</span> track chairs</h3>
 <ul>

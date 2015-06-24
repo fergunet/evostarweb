@@ -71,8 +71,6 @@ Please provide up to five keywords in your Abstract<br/>
 Page limit: 16 pages<br/>
 <br/>
 
-<h3>Journal</h3>
-Best papers will be invited for a Special Issue to be edited with the Journal of Renewable Energy, Elsevier, 5 year IF: 3.456 (<a href="http://tinyurl.com/si-energy">http://tinyurl.com/si-energy</a>). The SI is organized by IEEE TF on Computational Intelligence in the Energy Domain.
 
 
 
@@ -85,23 +83,21 @@ Best papers will be invited for a Special Issue to be edited with the Journal of
 </ul>
 
 <h3>Confirmed program committee</h3>
-TBA
-<!--
+
 <ul>
-<li>Konrad Diwold, Siemens, Vienna, Austria</li>
-<li>Ralph Evins, Laboratory of Building Science and Technology, Empa, Switzerland</li>
-<li>Oliver Kramer, University of Oldenburg, Germany</li>
-<li>Chenjie Ma, Fraunhofer Institute for Wind and Energy System Technology, Kassel, Germany</li>
-<li>Ingo Mauser, FZI Karlsruhe, Germany</li>
-<li>Martin Middendorf, University of Leipzig, Germany</li>
-<li>Maizura Mokhtar, University of Sheffield, UK</li>
-<li>Sanaz Mostaghim, University of Magdeburg, Germany</li>
-<li>Frank Neumann, University of Adelaide, AU</li>
-<li>Peter Palensky, Technical University of Delft, Netherlands</li>
-<li>Cong Shen, University of Kassel, Germany</li>
-<li>Bernhard Sick, University of Kassel, Germany</li>
-<li>Andy Tyrrell, University of York, UK</li>
-<li>Markus Wagner, University of Adelaide, AU</li>
+<li>Konrad Diwold (Siemens, Vienna, Austria)</li>
+<li>Oliver Kramer (University of Oldenburg, Germany)</li>
+<li>Chenjie Ma (Fraunhofer Institute for Wind Energy and Energy System</li>
+<li>Technology, Germany)</li>
+<li>Ingo Mauser (FZI Karlsruhe, Germany)</li>
+<li>Martin Middendorf (University of Leipzig, Germany)</li>
+<li>Frank Neumann (University of Adelaide, AU)</li>
+<li>Peter Palensky (Technical University of Delft, Netherlands)</li>
+<li>Cong Shen (University of Kassel, Germany)</li>
+<li>Bernhard Sick (University of Kassel, Germany)</li>
+<li>Stefano Squartini (Università Politecnica delle Marche, Italy)</li>
+<li>Andy Tyrrell (University of York, UK)</li>
+<li>Markus Wagner (University of Adelaide, AU)</li>
 </ul>
 -->
     <?php include('footer.php') ?>

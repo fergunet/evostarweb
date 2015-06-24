@@ -15,7 +15,7 @@
 			</div>
 </div>
 
-Join us in Copenhagen for Evo<span class="red">BIO</span>, a multidisciplinary conference that brings together researchers working in Bioinformatics and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in biology, from the molecular and genomic dimension, to the individual and population level. Evo<span class="red">BIO</span> engages researchers who are developing or applying advanced artificial intelligence or machine learning algorithms to cutting edge problems in bioinformatics and computational biology. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  Possible topics of interest include:
+Join us in Porto for Evo<span class="red">BIO</span>, a multidisciplinary conference that brings together researchers working in Bioinformatics and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in biology, from the molecular and genomic dimension, to the individual and population level. Evo<span class="red">BIO</span> engages researchers who are developing or applying advanced artificial intelligence or machine learning algorithms to cutting edge problems in bioinformatics and computational biology. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  Possible topics of interest include:
 
 <ul>
 <li>Interpretating genomic or metagenomic data</li>
@@ -47,18 +47,29 @@ Page limit: 16 pages.
 
 <h3>Evo<span class="red">BIO</span> Programme Chairs</h3>
 
+
+
+
 <ul>
 <li>
-<strong>William S. Bush</strong><br/>
-Vanderbilt University, Nashville, USA<br/>
-<em>william.s.bush(at)vanderbilt.edu</em>
+<strong>Jaume Bacardit</strong><br/>
+Newcastle University, Newcastle, UK<br/>
+<em>jaume.bacardit(at)newcastle.ac.uk</em>
 </li>
+
 <li>
 <strong>Federico Divina</strong><br/>
 Universidad Pablo de Olavide, Sevilla, Spain <br/>
 <em>fdivina(at)upo.es</em>
 </li>
+
+<li>
+<strong>Ting Hu</strong><br/>
+Memorial University, St. John’s, NL Canada <br/>
+<em>ting.hu(at)mun.ca</em>
+</li>
 </ul>
+
 
 <h3>Programme Committee</h3>
 TBA
