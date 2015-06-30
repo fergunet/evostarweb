@@ -15,24 +15,27 @@
 			</div>
 </div>
 
-Join us in Porto for Evo<span class="red">BIO</span>, a multidisciplinary conference that brings together researchers working in Bioinformatics and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in biology, from the molecular and genomic dimension, to the individual and population level. Evo<span class="red">BIO</span> engages researchers who are developing or applying advanced artificial intelligence or machine learning algorithms to cutting edge problems in bioinformatics and computational biology. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  Possible topics of interest include:
-
+Join us in Porto  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics and Computational Biology
+ that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in biology, from the molecular and genomic dimension, to the individual and population level.  Evo<span class="red">BIO</span> engages researchers who are developing or applying advanced artificial intelligence or machine learning algorithms to cutting edge problems in bioinformatics and computational biology.  Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by <strong>Springer Verlag</strong> in the <strong>LNCS</strong> series.  Possible topics of interest include, but are not limited to:
 <ul>
-<li>Interpretating genomic or metagenomic data</li>
+<li>Interpreting genomic or metagenomic data</li>
 <li>Discovering regulatory or expression pathways</li>
 <li>Rational drug design and personalized medicine</li>
 <li>Modeling ecosystems or population dynamics</li>
-<li>Discovering genome-disease associations</li>
+<li>Discovering genome-disease or genome-phenotype associations</li>
+<li>Biomedical text/data mining and visualization</li>
+<li>Network biology/medicine</li>
+<li>Omics data analysis and functional genomics for complex diseases</li>
+<li>Gene-gene interactions and gene-environment interactions for disease association analysis</li>
+<li>Protein Structure Prediction</li>
 <li>Assembling next generation sequence data</li>
 </ul>
-
-Evo<span class="red">BIO</span> and other Evo<span class="red">STAR</span> conference have significant thematic overlap; often the work of one conference or application is of interest to attendees of another. Selected Evo<span class="red">BIO</span> papers may be considered for presentation in a joint session with other Evo<span class="red">STAR</span> conferences (Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, and Evo<span class="red">MUSART</span>).
-
-
-For more information, visit our web page at http://www.evostar.org, or follow us on Twitter @EVO<span class="red">BIO</span>2016, join our evobio2016 group on LinkedIn and our Evo<span class="red">BIO</span> group on Facebook, or email to evobio.conference(at)gmail.com.
-
-<h3>Journal</h3>
-Authors of the best paper will receive a waiver for the publication on an extended version in the BioData Mining Journal (<a href="http://www.biodatamining.org/">http://www.biodatamining.org/</a>)
+<p>
+For more information, visit our web page at <a href="http://www.evostar.org/2016/">http://www.evostar.org/2016/</a>, or follow us on Twitter @EVOBio2016, join our evobio2016 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
+</p>
+<p>
+An extended version of the best paper may be considered for publication in the Biodata Mining Journal of Biomed Central (IF: 2.02) with open access publishing fees waived (<a href="http://www.biodatamining.org/">http://www.biodatamining.org/</a>)
+</p>
 
 <h3>Submission Details</h3>
 
