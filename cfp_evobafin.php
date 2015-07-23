@@ -65,25 +65,20 @@ University College Dublin, Ireland <br/>
 
 
 <h3>Programme Committee</h3>
-TBA
-<!--
-<ul>
-<li>Alex Agapitos, University College Dublin, Ireland</li>
-<li>Eva Alfaro, Technical University of Valencia, Spain</li>
-<li>Anthony Brabazon, University College Dublin, Ireland</li>
-<li>Shu-Heng Chen, National Chengchi University, Taiwan</li>
-<li>Wei Cui, University College Dublin, Ireland</li>
-<li>Malcolm Heywood, Dalhousie University, Canada</li>
-<li>Ronald Hochreiter, University of Vienna, Austria</li>
-<li>Michael Kampouridis, University of Kent, UK</li>
-<li>Ahmed Kattan, Um Al-Qura University, Saudi Arabia</li>
-<li>Piotr Lipinski, University of Wroclaw, Poland</li>
-<li>Michael Mayo, University of Waikato, New Zeland</li>
-<li>Krzysztof Michalak, University of Economics, Wroclaw, Poland</li>
-<li>Michael O'Neill, University College Dublin, Ireland</li>
-<li>Andrea Tettamanzi, University of Nice Sophia Antipolis, France</li>
-<li>Ruppa Thulasiram, University of Manitoba, Canada</li>
-</ul>
--->
 
+<ul>
+<li>Eva Alfaro, Instituto Technologico de Informatica, Spain</li>
+<li>Anthony Brabazon, University College Dublin, Ireland</li>
+<li>Malcom Heywood, Dalhousie University, Canada</li>
+<li>Ronald Hochreiter, WU Vienna University of Economics and Business, Austria</li>
+<li>Michael Kampouridis, University of Kent, UK</li>
+<li>Ahmed Kattan, EvoSys.biz, Saudi Arabia</li>
+<li>Piotr Lipinski, University of Wroclaw, Poland</li>
+<li>Michael Mayo, University of Waikato, New Zealand</li>
+<li>Krzysztof Michalak, Wroclaw University of Economics, Poland</li>
+<li>Michael O'Neill, University Collge Dublin, Ireland</li>
+<li>Conall O’Sullivan, University Collge Dublin, Ireland</li>
+<li>Andrea Tettamanzi, Univ. Nice Sophia Antipolis / I3S, France</li>
+<li>Ruppa Thulasiram, University of Manitoba, Cananda</li>
+</ul>
 <?php include('footer.php') ?>

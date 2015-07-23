@@ -17,6 +17,7 @@
       including: Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> and 
       Evo<span class="red">Applications</span><br />
     </p>
+<p><strong><a href="pdfs/flyer-evocop2016.pdf">Download flyer</a></strong></p>
     <p>The 16th European Conference on Evolutionary Computation in Combinatorial Optimisation is a multidisciplinary conference that brings together researchers working on metaheuristics for solving difficult combinatorial optimisation problems appearing in various industrial, economic, and scientific domains. Prominent examples of metaheuristics include: evolutionary algorithms, simulated annealing, tabu search, scatter search and path relinking, memetic algorithms, ant colony and bee colony optimisation, particle swarm optimisation, variable neighbourhood search, iterated local search, greedy randomized adaptive search procedures, estimation of distribution algorithms, and hyperheuristics. Successfully solved problems include scheduling, timetabling, network design, transportation and distribution problems, vehicle routing, travelling salesman, graph problems, satisfiability, energy optimisation problems, packing problems, and planning problems.</p>
 
 
