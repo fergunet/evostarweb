@@ -60,8 +60,8 @@ found in: http://www.evostar.org
 <h3>Evo<span class="red">NUM</span> track chairs</h3>
 <ul>
 <li><strong>Anna I Esparcia-Alcázar</strong><br/> 
-S2 Grupo, Spain <br/>
-aesparcia(at)s2grupo.es</li>
+Universitat Politècnica de València, Spain <br/>
+aesparcia(at)pros.upv.es</li>
 </ul>
 
 <h3>Programme Committee</h3>

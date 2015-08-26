@@ -14,7 +14,11 @@
 <a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
 			</div>
 </div>
-Recent events involving both natural disasters and human-made attacks have emphasised the importance of solving challenging problems in risk management, security and defence. Traditional methods have proven insufficient to address these problems and hence Computational Intelligence techniques present themselves as a more appealing alternative.
+Events involving natural disasters and hacking attacks can get a wide media coverage; others such as software failures may receive less attention but all have in common that they can have significant economic and social impact. 
+This emphasises the importance of solving challenging problems in risk management, software reliability, security and defence. 
+<br/>In this edition of EvoRISK we put special focus on minimising the risks posed by unreliable software via <strong>software testing</strong>.
+<br/>
+Traditional methods have proven insufficient to address these problems and hence Computational Intelligence techniques present themselves as a more appealing alternative.
 
 <h3>Areas of Interest and Contributions</h3>
 
@@ -23,10 +27,10 @@ Topics include but are not limited to:
 
 <ul>
 <li>Cyber crime: anomaly detection systems, attack prevention and defence, threat forecasting systems, anti spam, antivirus systems, cyber warfare, cyber fraud</li>
-<li>IT Security: Intrusion detection, behaviour monitoring, network traffic analysis</li>
+<li>Software testing: from security testing (zero-days, pentesting...) to GUI testing</li>
+<li>IT Security: Intrusion detection, behaviour monitoring, network traffic analysis, Critical Infrastructure Protection (CIP), advanced persistent threats (APT) detection</li>
 <li>Resilient and self-healing systems</li>
 <li>Risk management: identification, prevention, monitoring and handling of risks, risk impact and probability estimation systems, contingency plans, real time risk management</li>
-<li>Critical Infrastructure Protection (CIP)</li>
 <li>Military, counter-terrorism and other defence related aspects</li>
 <li>Disaster relief and humanitarian logistics</li>
 <li>Real-world applications of these subjects</li>
@@ -75,7 +79,7 @@ found in: http://www.evostar.org
 <h3>Evo<span class="red">RISK</span> track chairs</h3>
 <ul>
 <li><strong>Anna I Esparcia-Alcázar</strong><br/> 
-S2 Grupo, Spain <br/>
-aesparcia(at)s2grupo.es</li>
+Universitat Politècnica de València, Spain <br/>
+aesparcia(at)pros.upv.es</li>
 </ul>
     <?php include('footer.php') ?>
