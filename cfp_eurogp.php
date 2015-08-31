@@ -179,8 +179,8 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
     <h2>Programme Committee </h2>
 
 
-  TBA
-  <!--
+  
+
     <ul>
 <li>Alexandros Agapitos, University College Dublin, Ireland</li>
 <li>Lee Altenberg, University of Hawaii at Manoa, USA</li>
@@ -197,18 +197,19 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Ernesto Costa, University of Coimbra, Portugal</li>
 <li>Luis Da Costa, Université Paris-Sud XI, France</li>
 <li>Antonio Della Cioppa, University of Salerno, Italy</li>
+<li>Grant Dick, University of Otago, New Zealand</li>
 <li>Federico Divina, Pablo de Olavide University, Spain</li>
 <li>Marc Ebner,  Ernst-Moritz-Arndt Universität Greifswald, Germany</li>
 <li>Aniko Ekart, Aston University, UK</li>
 <li>Francisco Fernandez de Vega, Universidad de Extremadura, Spain</li>
 <li>Gianluigi Folino, ICAR-CNR, Italy</li>
-<li>James A. Foster, University of Idaho, USA</li>
+<li>James A.~Foster, University of Idaho, USA</li>
 <li>Christian Gagné , Université Laval, Québec, Canada</li>
 <li>Steven Gustafson, GE Global Research, USA</li>
 <li>Jin-Kao Hao, LERIA, University of Angers, France</li>
 <li>Inman Harvey, University of Sussex, UK</li>
 <li>Erik Hemberg, MIT, USA</li>
-<li>Malcolm I. Heywood, Dalhousie University, Canada</li>
+<li>Malcolm I.~Heywood, Dalhousie University, Canada</li>
 <li>Ting Hu , Dartmouth College, USA</li>
 <li>David Jackson, University of Liverpool, UK</li>
 <li>Colin Johnson, University of Kent, UK</li>
@@ -219,7 +220,7 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Jan Koutnik, IDSIA, Switzerland</li>
 <li>Krzysztof Krawiec, Poznan University of Technology, Poland</li>
 <li>Jiri Kubalik, Czech Technical University in Prague, Czech Republic</li>
-<li>William B. Langdon, University College London, UK</li>
+<li>William B.~Langdon, University College London, UK</li>
 <li>Kwong Sak Leung, The Chinese University of Hong Kong, China</li>
 <li>John Levine, University of Strathclyde, UK</li>
 <li>Evelyne Lutton, INRIA, France</li>
@@ -254,6 +255,7 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Alexei N. Skurikhin, Los Alamos National Laboratory, USA</li>
 <li>Terence Soule, University of Idaho, USA</li>
 <li>Lee Spector, Hampshire College, USA</li>
+<li>Jerry Swan, University of York, UK</li>
 <li>Ivan Tanev, Doshisha University, Japan</li>
 <li>Ernesto Tarantino, ICAR-CNR, Italy</li>
 <li>Jorge Tavares, Microsoft, Germany</li>
@@ -262,7 +264,7 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Man Leung Wong, Lingnan University, Hong Kong</li>
 <li>Lidia Yamamoto, University of Strasbourg, France</li>
 <li>Mengjie Zhang, Victoria University of Wellington, New Zealand</li>
-</ul>-->
+</ul>
     <h2>Further Information</h2>
     <p>A comprehensive bibliography of genetic programming literature and links 
       to related material is accessible at the <a href="http://www.cs.bham.ac.uk/~wbl/biblio/">Genetic 
