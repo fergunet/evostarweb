@@ -4,7 +4,7 @@
    </div>
 
 
-<h2>The European Conference on Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</h2>
+<h2>Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</h2>
 
 <div class="panel panel-default">
             <div class="panel-heading">
@@ -48,7 +48,7 @@ Please provide up to five keywords in your Abstract<br/>
 
 Page limit: 16 pages.
 
-<h3>Evo<span class="red">BIO</span> Programme Chairs</h3>
+<h3>Evo<span class="red">BIO</span> Track Chairs</h3>
 
 
 

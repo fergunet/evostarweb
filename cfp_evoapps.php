@@ -40,7 +40,7 @@
       fields. The following tracks will be running in 2016: </span> </p>
     <span id="logo"> 
     <ul>
-     
+     <li><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a> - Natural Computing Methods in Business Analytics and Finance</li>
          <li><a href="cfp_evobio.php">Evo<span class="red">BIO</span></a> 
         - Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
          <li><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a> - 
@@ -50,7 +50,7 @@
         - Evolutionary Algorithms and Complex Systems</li>
       <li><a href="cfp_evoenergy.php">Evo<span class="red">ENERGY</span></a> - 
         Evolutionary Algorithms in Energy Applications</li>
-      <li><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a> - Natural Computing Methods in Business Analytics and Finance</li>
+      
       <li><a href="cfp_evogames.php">Evo<span class="red">GAMES</span></a> - Bio-inspired 
         Algorithms in Games</li>
       <li><a href="cfp_evoiasp.php">Evo<span class="red">IASP</span></a> - Evolutionary 

@@ -76,7 +76,7 @@ TBA
 Further information on the conference and co-located events can be 
 found in: http://www.evostar.org
 
-<h3>Evo<span class="red">RISK</span> track chairs</h3>
+<h3>Evo<span class="red">RISK</span> track chair</h3>
 <ul>
 <li><strong>Anna I Esparcia-Alcázar</strong><br/> 
 Universitat Politècnica de València, Spain <br/>

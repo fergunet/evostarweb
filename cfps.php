@@ -9,11 +9,11 @@
 <li class="list-group-item"><strong><a href="cfp_evomusart.php">Evo<span class="red">MUSART</span></a></strong><br/>
 <li class="list-group-item"><strong><a href="cfp_evoapps.php">Evo<span class="red">Applications</span></a></strong><br/><br/>
 <ul class="list-group">
+<li class="list-group-item"><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a></li>
 	<li class="list-group-item"><a href="cfp_evobio.php">Evo<span class="red">BIO</span></a></li>
 	<li class="list-group-item"><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a></li>
 <li class="list-group-item"><a href="cfp_evocomplex.php">Evo<span class="red">COMPLEX</span></a></li>
 <li class="list-group-item"><a href="cfp_evoenergy.php">Evo<span class="red">ENERGY</span></a></li>
-<li class="list-group-item"><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a></li>
 <li class="list-group-item"><a href="cfp_evogames.php">Evo<span class="red">GAMES</span></a></li>
 <li class="list-group-item"><a href="cfp_evoiasp.php">Evo<span class="red">IASP</span></a></li>
 <li class="list-group-item"><a href="cfp_evoindustry.php">Evo<span class="red">INDUSTRY</span></a></li>
