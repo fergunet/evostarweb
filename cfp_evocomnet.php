@@ -7,6 +7,9 @@
 other Parallel and Distributed Systems featuring a fast-track option for
 Applied Soft Computing journal</strong></p>
 
+<p>
+<a href="pdfs/flyer-evocomnet2016.pdf">Download flyer</a>
+</p>
 <div class="panel panel-default">
             <div class="panel-heading">
               <h3 class="panel-title">Submission link:</h3>
