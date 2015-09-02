@@ -36,7 +36,7 @@
       part of the evo<span class="red">*</span> event.</p>
     <h2><br />
       Publication Details </h2>
-<p>Submissions will be rigorously reviewed for scientific and artistic merit. Accepted papers will be presented orally or as posters at the event and included in the evomusart proceedings, published by Springer Verlag in a dedicated volume of the Lecture Notes in Computer Science series. The acceptance rate at evomusart 2014 was 27.9% for papers accepted for oral presentation, and 25.6% for poster presentation. </p>
+<p>Submissions will be rigorously reviewed for scientific and artistic merit. Accepted papers will be presented orally or as posters at the event and included in the evomusart proceedings, published by Springer Verlag in a dedicated volume of the Lecture Notes in Computer Science series. The acceptance rate at evomusart 2015 was 27.9% for papers accepted for oral presentation, and 25.6% for poster presentation. </p>
 
 <p>Submitters are strongly encouraged to provide in all papers a link for download of media demonstrating their results, whether music, images, video, or other media types. Links should be anonymised for double-blind review, e.g. using a URL shortening service.</p>
     <h2>Topics of interest </h2>
