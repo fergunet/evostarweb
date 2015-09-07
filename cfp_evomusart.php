@@ -104,72 +104,62 @@
       the authors in the submitted paper.</p>
     <h2>Programme committee</h2>
 
-    TBA
-    <!--
     <ul>
-
-<li>Alain Lioret, Paris 8 University, France</li>
-<li>Alan Dorin, Monash University, Australia</li>
-<li>Alejandro Pazos, University of A Coru&ntilde;a, Spain</li>
-<li>Amilcar Cardoso, University of Coimbra, Portugal</li>
-<li>Amy K. Hoover, University of Central Florida, USA</li>
-<li>Andrew Brown, Griffith University, Australia</li>
-<li>Andrew Gildfind, Google, Inc., Australia</li>
-<li>Andrew Horner, University of Science and Technology, Hong Kong</li>
-<li>Anna Ursyn, University of Northern Colorado, USA</li>
-<li>Antonino Santos, University of A Coru&ntilde;a, Spain</li>
-<li>Antonios Liapis, IT University of Copenhagen , Denmark</li>
-<li>Arne Eigenfeldt, Simon Fraser University, Canada</li>
-<li>Benjamin Smith, Indianapolis University, Purdue University,Indianapolis, USA</li>
-<li>Bill Manaris, College of Charleston, USA</li>
-<li>Brian Ross, Brock University, Canada</li>
-<li>Carlos Grilo, Instituto Politecnico de Leiria, Portugal</li>
-<li>Christian Jacob, University of Calgary, Canada</li>
-<li>Dan Ashlock, University of Guelph, Canada</li>
-<li>Dan Ventura, Brigham Young University, USA</li>
-<li>Daniel Jones, Goldsmiths College,  University of London, UK</li>
-<li>Daniel Silva, University of Coimbra, Portugal</li>
-<li>Douglas Repetto, Columbia University, USA</li>
-<li>Eduardo Miranda, University of Plymouth, UK</li>
-<li>Eleonora Bilotta , University of Calabria, Italy</li>
-<li>Gary Greenfield, University of Richmond, USA</li>
-<li>Hans Dehlinger, Independent Artist, Germany</li>
-<li>Jane Prophet, City University, Hong Kong, China</li>
-<li>Jon McCormack, Monash University, Australia</li>
-<li>Jonathan Byrne, University College Dublin, Ireland</li>
-<li>Jonathan E. Rowe, University of Birmingham, UK</li>
-<li>Jonathan Eisenmann, Ohio State University, USA</li>
-<li>Jose Fornari, NICS/Unicamp, Brazil</li>
-<li>Juan Romero, University of A Coru&ntilde;a, Spain</li>
-<li>Kate Reed, Imperial College, UK</li>
-<li>Marcelo Freitas Caetano, IRCAM, France</li>
-<li>Marcos Nadal, University of Vienna, Austria</li>
-<li>Matthew Lewis, Ohio State University, USA</li>
-<li>Michael O'Neill, University College Dublin, Ireland</li>
-<li>Nicolas Monmarch, University of Tours, France</li>
-<li>Palle Dahlstedt, Göteborg University, Sweden</li>
-<li>Patrick Janssen , National University of Singapure, Singapure</li>
-<li>Paulo Urbano, Universidade de Lisboa, Portugal</li>
 <li>Pedro Abreu, University of Coimbra, Portugal</li>
+<li>Dan Ashlock, University of Guelph, Canada</li>
+<li>Peter Bentley, University College London, UK</li>
+<li>Eleonora Bilotta, University of Calabria, Italy</li>
+<li>Andrew Brown, Griffith University, Australia</li>
+<li>Adrian Carballal, University of A Coruna, Spain</li>
+<li>Amilcar Cardoso, University of Coimbra, Portugal</li>
+<li>Vic Ciesielski, RMIT, Australia</li>
 <li>Pedro Cruz, University of Coimbra, Portugal</li>
-<li>Penousal Machado, University of Coimbra, Portugal</li>
-<li>Peter Bentley, University College London , UK</li>
-<li>Peter Cariani, University of Binghamton, USA</li>
-<li>Philip Galanter, Texas A&amp;M College of Architecture, USA</li>
-<li>Philippe Pasquier, Simon Fraser University, Canada</li>
-<li>Roger Malina, International Society for the Arts, Sciences and Technology, USA</li>
-<li>Roisin Loughran, University College Dublin, Ireland</li>
-<li>Ruli Manurung, University of Indonesia, Indonesia</li>
-<li>Scott Draves, Independent Artist, USA</li>
-<li>Somnuk Phon-Amnuaisuk, Brunei Institute of Technology, Malaysia</li>
-<li>Stephen Todd, IBM, UK</li>
+<li>Palle Dahlstedt, Göteborg University, Sweden</li>
+<li>Eelco den Heijer, Vrije Universiteit Amsterdam, Netherlands</li>
+<li>Alan Dorin, Monash University, Australia</li>
+<li>Jonathan E. Rowe, University of Birmingham, UK</li>
+<li>Arne Eigenfeldt, Simon Fraser University, Canada</li>
+<li>José Fornari, NICS/Unicamp, Brazil</li>
+<li>Marcelo Freitas Caetano, IRCAM, France</li>
+<li>Philip Galanter, Texas A&M College of Architecture, USA</li>
+<li>Pablo Gervás, Universidad Complutense de Madrid, Spain</li>
+<li>Andrew Gildfind, Google, Inc., Australia</li>
+<li>Gary Greenfield, University of Richmond, USA</li>
+<li>Carlos Grilo, Instituto Politécnico de Leiria, Portugal</li>
+<li>Andrew Horner, University of Science & Technology, Hong Kong</li>
 <li>Takashi Ikegami, Tokyo Institute of Technology, Japan</li>
-<li>Tim Blackwell, Goldsmiths College,  University of London, UK</li>
-<li>Hern&aacute;n Kerlle&ntilde;evich, National University of Quilmes, Argentina</li>
-<li>Yang Li, University of Science and Technology Beijing, China</li>
-
+<li>Christian Jacob, University of Calgary, Canada</li>
+<li>Patrick Janssen, National University of Singapure, Singapure</li>
+<li>Colin Johnson, University of Kent, UK</li>
+<li>Daniel Jones, Goldsmiths College,  University of London, UK</li>
+<li>Amy K. Hoover, University of Central Florida, USA</li>
+<li>Maximos Kaliakatsos-Papakostas, University of Patras, Greece</li>
+<li>Hernán Kerlleñevich, National University of Quilmes, Argentina</li>
+<li>Matthew Lewis, Ohio State University, USA</li>
+<li>Antonios Liapis, IT University of Copenhagen , Denmark</li>
+<li>Alain Lioret, Paris 8 University, France</li>
+<li>Roisin Loughran, University College Dublin, Ireland</li>
+<li>Penousal Machado, University of Coimbra, Portugal</li>
+<li>Roger Malina, International Society for the Arts, Sciences and Technology, USA</li>
+<li>Jon McCormack, Monash University, Australia</li>
+<li>Marcos Nadal, University of Vienna , Austria</li>
+<li>Gary Nelson, Oerlin College, USA</li>
+<li>Michael O’Neill, University College Dublin, Ireland</li>
+<li>Somnuk Phon-Amnuaisuk, Brunei Institute of Technology, Malaysia</li>
+<li>Jane Prophet, City University, Hong Kong, China</li>
+<li>Kate Reed, Imperial College, UK</li>
+<li>Douglas Repetto, Columbia University, USA</li>
+<li>Juan Romero, University of A Coruna, Spain</li>
+<li>Brian Ross, Brock University, Canada</li>
+<li>Antonino Santos, University of A Coruna, Spain</li>
+<li>Daniel Silva, University of Coimbra, Portugal</li>
+<li>Benjamin Smith, Indianapolis University, Purdue University,Indianapolis, USA</li>
+<li>Stephen Todd, IBM, UK</li>
+<li>Paulo Urbano, Universidade de Lisboa, Portugal</li>
+<li>Anna Ursyn, University of Northern Colorado, USA</li>
+<li>Dan Ventura, Brigham Young University, USA</li>
     </ul>
--->
+
 
 
 
