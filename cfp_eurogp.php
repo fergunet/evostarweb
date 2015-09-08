@@ -188,7 +188,6 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Ignacio Arnaldo, MIT, USA</li>
 <li>Douglas Augusto, LNCC/UFJF, Brazil</li>
 <li>Wolfgang Banzhaf, Memorial University of Newfoundland, Canada</li>
-<li>Mohamed Bahy Bader, University of Portsmouth, UK</li>
 <li>Helio Barbosa, LNCC/UFJF, Brazil</li>
 <li>Heder Bernardino, LNCC/UFJF, Brazil</li>
 <li>Anthony Brabazon, University College Dublin, Ireland</li>
@@ -203,24 +202,23 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Aniko Ekart, Aston University, UK</li>
 <li>Francisco Fernandez de Vega, Universidad de Extremadura, Spain</li>
 <li>Gianluigi Folino, ICAR-CNR, Italy</li>
-<li>James A.~Foster, University of Idaho, USA</li>
+<li>James A. Foster, University of Idaho, USA</li>
 <li>Christian Gagné , Université Laval, Québec, Canada</li>
 <li>Steven Gustafson, GE Global Research, USA</li>
 <li>Jin-Kao Hao, LERIA, University of Angers, France</li>
 <li>Inman Harvey, University of Sussex, UK</li>
 <li>Erik Hemberg, MIT, USA</li>
-<li>Malcolm I.~Heywood, Dalhousie University, Canada</li>
-<li>Ting Hu , Dartmouth College, USA</li>
+<li>Malcolm I. Heywood, Dalhousie University, Canada</li>
+<li>Ting Hu, Dartmouth College, USA</li>
 <li>David Jackson, University of Liverpool, UK</li>
 <li>Colin Johnson, University of Kent, UK</li>
-<li>Tatiana Kalganova, Brunel University, UK</li>
 <li>Ahmed Kattan, Um Al Qura University, Saudi Arabia</li>
 <li>Graham Kendall, University of Nottingham, UK</li>
 <li>Michael Korns, Korns Associates, USA</li>
 <li>Jan Koutnik, IDSIA, Switzerland</li>
 <li>Krzysztof Krawiec, Poznan University of Technology, Poland</li>
 <li>Jiri Kubalik, Czech Technical University in Prague, Czech Republic</li>
-<li>William B.~Langdon, University College London, UK</li>
+<li>William B. Langdon, University College London, UK</li>
 <li>Kwong Sak Leung, The Chinese University of Hong Kong, China</li>
 <li>John Levine, University of Strathclyde, UK</li>
 <li>Evelyne Lutton, INRIA, France</li>
@@ -228,7 +226,6 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Radek Matousek, Brno University of Technology, Czech Republic</li>
 <li>James McDermott, University College Dublin, Ireland</li>
 <li>Andrew McIntyre, Dalhousie University, Canada</li>
-<li>Bob McKay, Seoul National University, Korea</li>
 <li>Jorn Mehnen, Cranfield University, UK</li>
 <li>Julian Miller, University of York, UK</li>
 <li>Alberto Moraglio, University of Exeter, UK</li>
@@ -261,8 +258,8 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Jorge Tavares, Microsoft, Germany</li>
 <li>Leonardo Trujillo, Instituto Tecnológico de Tijuana, Mexico</li>
 <li>Leonardo Vanneschi, Universidade Nova de Lisboa, Portugal, and University of Milano-Bicocca, Italy</li>
+<li>Bartosz Wieloch, Poznan University of Technology, Poland</li>
 <li>Man Leung Wong, Lingnan University, Hong Kong</li>
-<li>Lidia Yamamoto, University of Strasbourg, France</li>
 <li>Mengjie Zhang, Victoria University of Wellington, New Zealand</li>
 </ul>
     <h2>Further Information</h2>
