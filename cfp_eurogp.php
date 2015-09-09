@@ -260,7 +260,8 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Leonardo Vanneschi, Universidade Nova de Lisboa, Portugal, and University of Milano-Bicocca, Italy</li>
 <li>Bartosz Wieloch, Poznan University of Technology, Poland</li>
 <li>Man Leung Wong, Lingnan University, Hong Kong</li>
-<li>Mengjie Zhang, Victoria University of Wellington, New Zealand</li>
+<li>Bing Xue, Victoria University of Wellington, New Zealand</li>
+<li>Mengjie Zhang, Victoria University of Wellington, New Zealand      </li>
 </ul>
     <h2>Further Information</h2>
     <p>A comprehensive bibliography of genetic programming literature and links 

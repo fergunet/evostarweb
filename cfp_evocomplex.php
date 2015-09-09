@@ -63,7 +63,7 @@ Submit your manuscript in Springer LNCS format.
 Please provide up to five keywords in your Abstract
 </p>
 <p>
-Page limit: 16 pages to http://myreview.csregistry.org/evoapps14/.
+Page limit: 16 pages to http://myreview.csregistry.org/evoapps16/.
 </p>
 <p>
 

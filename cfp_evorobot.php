@@ -54,33 +54,32 @@ a.e.eiben(at)vu.nl
 </ul>
 
 <h3>Programme Committee</h3>
-TBA
-<!--
+
+
 <ul>
-<li>Nicolas Bredeche,	Institut des Systèmes Intelligents et de Robotique,	France</li>
-<li>Anders Christensen,	University Institute of Lisbon, ISCTE-IUL,	Portugal</li>
-<li>Stephane Doncieux,	Institut des Systèmes Intelligents et de Robotique,	France</li>
-<li>Marco Dorigo,		Universite Libre de Bruxelles,	Belgium</li>
-<li>Gusz Eiben,			VU Univeristy Amsterdam,	The Netherlands</li>
-<li>Evert Haasdijk,		VU Univeristy Amsterdam,	The Netherlands</li>
-<li>Heiko Hamann,		University of Paderborn,	Germany</li>
-<li>Jacqueline Heinerman,	VU Univeristy Amsterdam,	The Netherlands</li>
-<li>Joost Huizinga,		University of Wyoming,	United States</li>
-<li>Giorgos Karafotias,	VU Univeristy Amsterdam,	The Netherlands</li>
-<li>Jean-Marc Montanier,	Barcelona Supercomputing Center,	Spain</li>
-<li>Jean-Baptiste Mouret,	Institut des Systèmes Intelligents et de Robotique,	France</li>
-<li>Stefano Nolfi,	Institute of Cognitive Sciences and Technologies,	Italy</li>
-<li>Abraham Prieto,		University of La Coruña,	Spain</li>
-<li>Claudio Rossi,		Universidad Politecnica De Madrid,	Spain</li>
-<li>Sanem Sariel,		Istanbul Teknik Universitesi,	Turkey</li>
-<li>Thomas Schmickl,		Karl Franzens University Graz,	Austria</li>
-<li>Luis Simoẽs,			VU Univeristy Amsterdam,	The Netherlands</li>
-<li>Kasper Stoy,			IT University of Copenhagen,	Denmark</li>
-<li>Jürgen Stradner,		Karl Franzens University Graz,	Austria</li>
-<li>Jon Timmis,			University of York,	United Kingdom</li>
-<li>Andy Tyrrell,		University of York,	United Kingdom</li>
-<li>Alan Winfield,		University of the West of England,	United Kingdom</li>
+<li>Joshua Auerbach</li>
+<li>Nicolas Bredeche</li>
+<li>Anders Christensen</li>
+<li>Stephane Doncieux</li>
+<li>Marco Dorigo</li>
+<li>Kai Olav Ellefsen</li>
+<li>Heiko Hamann</li>
+<li>Jacqueline Heinerman</li>
+<li>Joost Huizinga</li>
+<li>Jean-Marc Montanier</li>
+<li>Jean-Baptiste Mouret</li>
+<li>Geoff Nitschke</li>
+<li>Stefano Nolfi</li>
+<li>Abraham Prieto</li>
+<li>Diederik Roijers</li>
+<li>Claudio Rossi</li>
+<li>Sanem Sariel</li>
+<li>Thomas Schmickl</li>
+<li>Kasper Stoy</li>
+<li>Jon Timmis</li>
+<li>Roby Velez</li>
+<li>Alan Winfield</li>
 </ul>
--->
+
     <?php include('footer.php') ?>
 
