@@ -81,28 +81,26 @@ ernesto.tarantino(at)na.icar.cnr.it
 </ul>
 
 <h3>Programme Committee</h3>
-TBA
-<!--
+
+
 <ul>
-<li>Mehmet E. Aydin, University of Bedfordshire, UK</li>
-<li>Luca Gambardella, IDSIA, Switzerland</li>
-<li>Rolf Hoffmann, Technical University Darmstadt, Germany </li>
-<li>Graham Kendall, University of Nottingham, UK </li>
-<li>Farrukh Aslam Khan, National University of Computer &amp; Emerging Sciences, Pakistan</li>
-<li>Kenji Leibnitz, National Institute of Information and Communications Technology, Japan </li>
-<li>Manuel Lozano Marquez, University of Granada, Spain </li>
-<li>Domenico Maisto, ICAR-CNR, Italy</li>
-<li>Davide Marocco, University of Plymouth, UK</li>
-<li>Roberto Montemanni, IDSIA, Switzerland</li>
-<li>Enrico Natalizio, Université de Technologie de Compiègne, France</li>
-<li>Chien-Chung Shen, University of Delaware, USA</li>
-<li>Robert Schaefer, University of Science and Technology, Poland</li>
-<li>Sevil Sen, Hacettepe University, Turkey </li>
-<li>Georgios Sirakoulis, Democritus University of Thrace, Greece </li>
-<li>Pawel Topa, AGH University of Science and Technology, Poland</li>
-<li>Umut Tosun, Baskent University, Turkey</li>
-<li>Jaroslaw Was, AGH University of Science and Technology, Poland  </li>
-<li>Lidia Yamamoto, University of Strasbourg, France</li>
-<li>Nur Zincir-Heywood, Dalhousie University, Canada </li>
-</ul>-->
+<li>Fabio D'Andreagiovanni (Zuse Institute Berlin, Germany)</li>
+<li>Jin-Kao Hao (University of Angers, France)</li>
+<li>Rolf Hoffmann (Technical University Darmstadt, Germany)</li>
+<li>Graham Kendall (University of Nottingham, UK)</li>
+<li>Farrukh Aslam Khan (National University of Computer & Emerging Sciences, Pakistan)</li>
+<li>Kenji Leibnitz (National Institute of Information and Communications Technology, Japan)</li>
+<li>Domenico Maisto (ICAR-CNR, Italy)</li>
+<li>Roberto Montemanni (IDSIA, Switzerland)</li>
+<li>Milena Radenkovic (The University of Nottingham, UK)</li>
+<li>Robert Schaefer (University of Science and Technology, Poland)</li>
+<li>Sevil Sen (Hacettepe University, Turkey)</li>
+<li>Chien-Chung Shen (University of Delaware, USA)</li>
+<li>Georgios Sirakoulis (Democritus University of Thrace, Greece)</li>
+<li>Pawel Topa (AGH University of Science and Technology, Poland)</li>
+<li>Umut Tosun (Baskent University, Turkey)</li>
+<li>Jaroslaw Was (AGH University of Science and Technology, Poland)</li>
+<li>Tony White (Carleton University, Canada)</li>
+<li>Nur Zincir-Heywood (Dalhousie University, Canada)</li>
+</ul>
     <?php include('footer.php') ?>

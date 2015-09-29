@@ -75,24 +75,29 @@ Memorial University, St. John’s, NL Canada <br/>
 
 
 <h3>Programme Committee</h3>
-TBA
-<!--
+
 <ul>
-<li>Jitesh Dundas	,	Edencore Technologies, Indian Institue of Technology, Mumbai	,	India</li>
-<li>Florentino Fernandez	,	University of Vigo	,	Spain</li>
-<li>Alex Freitas	,	University of Kent	,	UK</li>
-<li>Mario Giacobini	,	Universitá  di Torino	,	Italy</li>
-<li>Rosalba Giugno	,	University of Catania	,	Italy</li>
-<li>Casey Greene	,	Dartmouth College	,	USA</li>
-<li>Jin-Kao Hao	,	University of Angers	,	France</li>
-<li>Timothy J Hohman	,	Vanderbilt University	,	USA</li>
-<li>Ting Hu	,	Dartmouth College	,	USA</li>
-<li>Penousal Machado	,	University of Coimbra	,	Portugal</li>
-<li>Vincent Moulton	,	University of East Anglia	,	UK</li>
-<li>Carlotta Orsenigo	,	Politecnico di Milano	,	Italy</li>
-<li>Michael Raymer	,	Wright State University	,	USA</li>
-<li>Stephen Turner	,	University of Virginia	,	USA</li>
-<li>Leonardo Vanneschi	,	Universidade Nova de Lisboa	,	Portugal</li>
-</ul>-->
+<li>Mengjie Zhang (Victoria University of Wellington, New Zealand)</li>
+<li>Alex Freitas (University of Kent, UK)</li>
+<li>Carlotta Orsenigo (Politecnico di Milano, Italy)</li>
+<li>Casey Greene (Dartmouth College, USA)</li>
+<li>Christian Darabos (University of Pennsylvania, USA)</li>
+<li>Clara Pizzuti (ICAR CNR, Italy)</li>
+<li>Dr Bing Xue (Victoria University of Wellington (VUW), New Zealand)</li>
+<li>Edward Keedwell (University of Exeter, UK)</li>
+<li>Elena Marchiori (Radboud Universiteit van Nijmegen, Netherlands)</li>
+<li>Florentino Fernandez (Universidad de Vigo, Spain)</li>
+<li>Jin-Kao Hao (University of Angers, France)</li>
+<li>Jitesh Dundas (Edencore Technologies, Indian Institue of Technology, India)</li>
+<li>Jose Santos Reyes (Universidad de A Coruña, Spain)</li>
+<li>Leonardo Vanneschi (Universidade Nova de Lisboa, Portugal)</li>
+<li>Mario Giacobini (Universitá di Torino, Italy)</li>
+<li>Michael Raymer (Wright State University, USA)</li>
+<li>Raffaele Giancarlo (Università degli Studi di Palermo, Italy)</li>
+<li>Rosalba Giugno (University of Catania, Italy)</li>
+<li>Ryan Urbanowicz (University of Pennsylvania, USA)</li>
+<li>Simona Rombo (Università degli Studi di Palermo, Italy)</li>
+<li>Vincent Moulton (University of East Anglia, UK)</li>
+</ul>
 
     <?php include('footer.php') ?>

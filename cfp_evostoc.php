@@ -134,31 +134,28 @@ Further information on the conference and co-located events can be
 found in: http://www.evostar.org 
 
 <h3> Programme committee </h3> 
-TBA
-<!--
+
 <ul>
-<li>Peter A.N. Bosman (Centre for Mathematics and Computer Science, the Netherlands)</li>
 <li>Juergen Branke (University of Warwick, United Kingdom)</li>
-<li>Lam Thu Bui (Le Quy Don Technical University, Vietnam)</li>
-<li>Hui Cheng (University of Bedfordshire, United Kingdom)</li>
+<li>Hui Cheng (Liverpool John Moores University, United Kingdom)</li>
 <li>Ernesto Costa (University of Coimbra, Portugal)</li>
 <li>Andries P Engelbrecht (University of Pretoria, South Africa)</li>
 <li>A. Sima Etaner-Uyar (Istanbul Technical University, Turkey)</li>
 <li>Shayan Kavakeb (Liverpool John Moores University, United Kingdom)</li>
 <li>Changhe Li (China University of Geosciences, China)</li>
-<li>Michalis Mavrovouniotis (De Monfort University, United Kingdom)</li>
+<li>Michalis Mavrovouniotis (De Montfort University, United Kingdom)</li>
 <li>Jorn Mehnen (Cranfield University, United Kingdom)</li>
-<li>Ferrante Neri (De Monfort University, United Kingdom)</li>
+<li>Ferrante Neri (De Montfort University, United Kingdom)</li>
 <li>David Pelta (University of Granada, Spain)</li>
 <li>Hendrik Richter (Leipzig University of Applied Sciences, Germany)</li>
 <li>Anabela Simões (Institute Polytechnic of Coimbra, Portugal)</li>
 <li>Renato Tinós (Universidade de São Paulo, Brazil)</li>
 <li>Trung Thanh Nguyen (Liverpool John Moores University, United Kingdom)</li>
 <li>Krzysztof Trojanowski (Polish Academy of Sciences, Poland)</li>
-<li>Shengxiang Yang (De Monfort University, United Kingdom)</li>
+<li>Shengxiang Yang (De Montfort University, United Kingdom)</li>
 <li>Xin Yao (University of Birmingham, United Kingdom)</li>
 </ul>
- -->
+
 
 <h3> Track chairs </h3> 
 
