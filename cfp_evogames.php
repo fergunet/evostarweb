@@ -69,35 +69,25 @@ amorag(at)geneura.ugr.es</li>
 
 
 <h3>Programme Committee</h3>
-TBA
-<!--
 <ul>
-<li> David Camacho, Universidad Autonoma de Madrid, Spain</li>
-<li>    Francisco Luis Gutiérrez Vela, Universidad de Granada, Spain</li>
-<li>    Antonio J. Fernández Leiva, Universidad de Málaga, Spain</li>
-<li>    Pablo García Sánchez, Universidad de Granada, Spain</li>
-<li>    Federico Liberatore, Invited Researcher at Universidad de Granada, Spain</li>
-<li>    Juan Julián Merelo Guervós, Universidad de Granada, Spain</li>
-<li>    Krzysztof Krawiec, Poznan University of Technology, Poland</li>
-<li>    Patricia Paderewski Rodríguez, Universidad de Granada, Spain</li>
-<li>    Simon Lucas, University of Essex, UK</li>
-<li>    Antonio J. Fernández-Ares, Universidad de Granada, Spain</li>
-<li>    Erin Hastings, University of Central Florida, USA</li>
-<li>    Moshe Sipper, Ben-Gurion University, Israel</li>
-<li>    Georgios N. Yannakakis, University of Malta, Malta</li>
-<li>    Philip Hingston, Edith Cowan University, Australia</li>
-<li>    Antonio González Pardo,  Universidad Autonóma de Madrid, Spain</li>
-<li>    Penousal Machado, Universidade de Coimbra, Portugal</li>
-<li>    Rodica Ioana Lung, Babes Bolyai University Cluj Napoca, Romania</li>
-<li>    Julian Togelius, IT-Universitetet i Kobenhavn, Denmark</li>
-<li>    Tommaso Urli, NICTA's Canberra Research Lab, Australia</li>
-<li>    Mike Preuss, University of Munster, Germany</li>
-<li>    Noor Shaker, IT-Universitetet i Kobenhavn, Denmark</li>
-<li>    Antonios Liapis, University of Malta, Malta</li>
-<li>    Hector P. Martinez, University of Malta, Malta</li>
-<li>    Johan Hagelbäck, Blekinge Tekniska Högskola, Sweden</li>
-<li>    Tobias Mahlmann, IT-Universitetet i Kobenhavn, Denmark</li>
-<li>    Francisco Fernandez de Vega, Universidad de Extremadura, Spain</li>
-</ul>-->
-
+<li>Giovanni Squillero       Politecnico di Torino</li>
+<li>Tobias Mahlmann  Lund University</li>
+<li>Antonio Gonzalez Pardo   Basque Center for Applied Mathematics</li>
+<li>Rodica Ioana Lung        Babes-Bolyai University</li>
+<li>Antonio M. Mora Garcia   University Of Granada</li>
+<li>Paolo Burelli    Aalborg University</li>
+<li>John Hallam      University of Southern Denmark</li>
+<li>Mike Preuss      TU Dortmund</li>
+<li>Moshe Sipper     Ben-Gurion University</li>
+<li>Pablo García Sánchez   University of Granada</li>
+<li>Antonio J. Fernández leiva      University of Málaga</li>
+<li>David Camacho    Universidad Autonoma de Madrid</li>
+<li>Julian Togelius  New York University</li>
+<li>Antonios Liapis  University Of Malta</li>
+<li>Patricia Paderewski Rodriguez    University Of Granada</li>
+<li>Antonio J. Fernandez leiva       University Of Malaga</li>
+<li>Georgios N. Yannakakis   University Of Malta</li>
+<li>Federico Liberatore      Universidad Rey Juan Carlos</li>
+<li>Francisco Luis Gutierrez Vela    University Of Granada</li>
+</ul>
     <?php include('footer.php') ?>
