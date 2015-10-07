@@ -92,7 +92,7 @@
     
     <ul>
 <li>Una-May O'really, MIT.</li>
-<li>Jose Manuel Colmenar, Universidad Complutense de Madrid, Spain</li>
+<li>Jose Manuel Colmenar, URJC, Spain</li>
 <li>Marco Tomassini, Lausanne University, Switzerland</li>
 <li>William Langdon, University College London, UK.</li>
 <li>Francisco Luna, University of Extremadura, Spain</li>
