@@ -88,6 +88,12 @@ The reviewing process will be double-blind, please omit information about the au
      Notification: 06 January 2014<br />
       Camera ready: 01 February 2014<br />
       Evo<span class="red">*</span> event: April 23-25, 2014</p>-->
+
+
+<h3>Special Issue</h3>
+
+    Selected papers published in the conference will be invited to be extended for a Special Issue on “Metaheuristics for Combinatorial Optimization” in the Journal of Heuristics, guest-edited by Bin Hu and Francisco Chicano.
+      
     <h3>Evo<span class="red">COP</span> Programme Chairs</h3>
     <ul>
       
@@ -100,6 +106,8 @@ The reviewing process will be double-blind, please omit information about the au
         <em> bin.hu(at)ait.ac.at</em><br />
         </span></li>
     </ul>
+
+
 
 <h3>Programme Committee</h3>
 <ul>
