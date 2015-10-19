@@ -51,10 +51,10 @@ Accepted papers will appear in the proceedings of EvoStar, published in a volume
 <p>Page limit: 16 pages</p>
 
 
-
-<h3>Programme Committee</h3>
-TBA
 <!--
+<h3>Programme Committee</h3>
+
+
 <ul>
 <li>Robert K. Abercrombie 	Oak Ridge National Laboratory, USA</li>
 <li>Rami	Abielmona,	University of Ottawa, Canada</li>

@@ -67,9 +67,9 @@ Page limit: 16 pages to http://myreview.csregistry.org/evoapps16/.
 </p>
 <p>
 
-<h3>Programme Committee</h3>
-TBA
-<!--
+<!--<h3>Programme Committee</h3>
+
+
 
 <ul>
 <li>Jhon Edgar Amaya, Universidad Nacional Experimental del Táchira, Venezuela</li>

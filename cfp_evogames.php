@@ -70,24 +70,24 @@ amorag(at)geneura.ugr.es</li>
 
 <h3>Programme Committee</h3>
 <ul>
-<li>Giovanni Squillero       Politecnico di Torino</li>
-<li>Tobias Mahlmann  Lund University</li>
-<li>Antonio Gonzalez Pardo   Basque Center for Applied Mathematics</li>
-<li>Rodica Ioana Lung        Babes-Bolyai University</li>
-<li>Antonio M. Mora Garcia   University Of Granada</li>
-<li>Paolo Burelli    Aalborg University</li>
-<li>John Hallam      University of Southern Denmark</li>
-<li>Mike Preuss      TU Dortmund</li>
-<li>Moshe Sipper     Ben-Gurion University</li>
-<li>Pablo García Sánchez   University of Granada</li>
-<li>Antonio J. Fernández leiva      University of Málaga</li>
-<li>David Camacho    Universidad Autonoma de Madrid</li>
-<li>Julian Togelius  New York University</li>
-<li>Antonios Liapis  University Of Malta</li>
-<li>Patricia Paderewski Rodriguez    University Of Granada</li>
-<li>Antonio J. Fernandez leiva       University Of Malaga</li>
-<li>Georgios N. Yannakakis   University Of Malta</li>
-<li>Federico Liberatore      Universidad Rey Juan Carlos</li>
-<li>Francisco Luis Gutierrez Vela    University Of Granada</li>
+<li>Tobias Mahlmann (Lund University, Sweden)</li>
+<li>Antonio Gonzalez (Pardo Basque Center for Applied Mathematics, Spain)</li>
+<li>Rodica Ioana (Lung Babes-Bolyai University, Germany)</li>
+<li>Antonio M. Mora Garcia (University Of Granada, Spain)</li>
+<li>Paolo Burelli (Aalborg University, Denmark)</li>
+<li>John Hallam (University of Southern Denmark, Denmark)</li>
+<li>Mike Preuss (TU Dortmund, Germany)</li>
+<li>Moshe Sipper (Ben-Gurion University, Israel)</li>
+<li>Pablo Garc&iacute;a (S&aacute;nchez University of Granada, Spain)</li>
+<li>Antonio J. Fern&aacute;ndez (Leiva University of Malaga, Spain)</li>
+<li>David Camacho (Universidad Autonoma de Madrid, Spain)</li>
+<li>Julian Togelius (New York University, USA)</li>
+<li>Antonios Liapis (University Of Malta, Malta)</li>
+<li>Patricia Paderewski (Rodriguez University Of Granada, Spain)</li>
+<li>Antonio J. Fernandez (Leiva University Of Malaga, Spain)</li>
+<li>Georgios N. Yannakakis (University Of Malta, Malta)</li>
+<li>Federico Liberatore (Universidad Rey Juan Carlos, Spain)</li>
+<li>Francisco Luis (Gutierrez Vela University Of Granada, Spain)</li>
+<li>Giovanni Squillero (Politecnico di Torino, Italy)</li>
 </ul>
     <?php include('footer.php') ?>

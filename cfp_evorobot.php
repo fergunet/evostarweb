@@ -57,28 +57,28 @@ a.e.eiben(at)vu.nl
 
 
 <ul>
-<li>Joshua Auerbach</li>
-<li>Nicolas Bredeche</li>
-<li>Anders Christensen</li>
-<li>Stephane Doncieux</li>
-<li>Marco Dorigo</li>
-<li>Kai Olav Ellefsen</li>
-<li>Heiko Hamann</li>
-<li>Jacqueline Heinerman</li>
-<li>Joost Huizinga</li>
-<li>Jean-Marc Montanier</li>
-<li>Jean-Baptiste Mouret</li>
-<li>Geoff Nitschke</li>
-<li>Stefano Nolfi</li>
-<li>Abraham Prieto</li>
-<li>Diederik Roijers</li>
-<li>Claudio Rossi</li>
-<li>Sanem Sariel</li>
-<li>Thomas Schmickl</li>
-<li>Kasper Stoy</li>
-<li>Jon Timmis</li>
-<li>Roby Velez</li>
-<li>Alan Winfield</li>
+<li>Joshua Auerbach (Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne, Switzerland)</li>
+<li>Nicolas Bredeche (Institut des Syst&egrave;mes Intelligents et de Robotique, France)</li>
+<li>Anders Christensen (University Institute of Lisbon, ISCTE-IUL, Portugal)</li>
+<li>Stephane Doncieux (Institut des Syst&egrave;mes Intelligents et de Robotique, France)</li>
+<li>Marco Dorigo (Universite Libre de Bruxelles, Belgium)</li>
+<li>Heiko Hamann (University of Paderborn, Germany)</li>
+<li>Jacqueline Heinerman (VU Univeristy Amsterdam, The Netherlands)</li>
+<li>Joost Huizinga (University of Wyoming, United States)</li>
+<li>Jean-Marc Montanier (Barcelona Supercomputing Center, Spain)</li>
+<li>Jean-Baptiste Mouret (INRIA Larsen Team, France)</li>
+<li>Geoff Nitschke (University of Cape Town, South Africa)</li>
+<li>Stefano Nolfi (Institute of Cognitive Sciences and Technologies, Italy)</li>
+<li>Kai Olav Ellefsen (University of Wyoming, United States)</li>
+<li>Abraham Prieto (University of La Coruña, Spain)</li>
+<li>Diederik Roijers (University of Amsterdam, The Netherlands)</li>
+<li>Claudio Rossi (Universidad Politecnica De Madrid, Spain)</li>
+<li>Sanem Sariel (Istanbul Teknik Universitesi, Turkey)</li>
+<li>Thomas Schmickl (University of Graz, Austria)</li>
+<li>Kasper Stoy (IT University of Copenhagen, Denmark)</li>
+<li>Jon Timmis (University of York, United Kingdom)</li>
+<li>Roby Velez (University of Wyoming, United States)</li>
+<li>Alan Winfield (University of the West of England, United Kingdom)</li>
 </ul>
 
     <?php include('footer.php') ?>

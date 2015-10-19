@@ -91,15 +91,15 @@
     <h2>Programme Committee</h2>
     
     <ul>
-<li>Una-May O'really, MIT.</li>
-<li>Jose Manuel Colmenar, URJC, Spain</li>
-<li>Marco Tomassini, Lausanne University, Switzerland</li>
-<li>William Langdon, University College London, UK.</li>
-<li>Francisco Luna, University of Extremadura, Spain</li>
-<li>Jose Carlos Ribeiro, Politechnique Institute of Leiria, Portugal</li>
-<li>Gianluigi Folino, L'ICAR-CNR, Cosenza, Italy</li>
-<li>Juan L. Jiménez, Université du Luxemburg, Luxemburg.</li>
-<li>Ignacio Arnaldo, MIT, USA.</li>
+<li>Una-May O'really (MIT, USA)</li>
+<li>Jose Manuel Colmenar (URJC, Spain)</li>
+<li>Marco Tomassini (Lausanne University, Switzerland)</li>
+<li>William Langdon (University College London, UK)</li>
+<li>Francisco Luna (University of Extremadura, Spain)</li>
+<li>Jose Carlos Ribeiro (Politechnique Institute of Leiria, Portugal)</li>
+<li>Gianluigi Folino (ICAR-CNR, Italy)</li>
+<li>Juan L. Jim&eacute;nez (Universit&eacute; du Luxemburg, Luxemburg)</li>
+<li>Ignacio Arnaldo (MIT, USA)</li>
     </ul>
   
 

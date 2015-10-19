@@ -64,9 +64,7 @@ Universitat Politècnica de València, Spain <br/>
 aesparcia(at)pros.upv.es</li>
 </ul>
 
-<h3>Programme Committee</h3>
-TBA
-<!--
+<!--<h3>Programme Committee</h3>
 <ul>
 <li>Anne Auger, INRIA, France</li>
 <li>Hans-Georg Beyer, Vorarlberg University of Applied Sciences, Austria</li>

@@ -107,8 +107,9 @@
     <ul>
 <li>Pedro Abreu, University of Coimbra, Portugal</li>
 <li>Dan Ashlock, University of Guelph, Canada</li>
-<li>Peter Bentley, University College London, UK</li>
+<li>Peter Bentley, University College London , UK</li>
 <li>Eleonora Bilotta, University of Calabria, Italy</li>
+<li>Tim Blackwell, Goldsmiths College, University of London, UK</li>
 <li>Andrew Brown, Griffith University, Australia</li>
 <li>Adrian Carballal, University of A Coruna, Spain</li>
 <li>Amilcar Cardoso, University of Coimbra, Portugal</li>
@@ -119,8 +120,9 @@
 <li>Alan Dorin, Monash University, Australia</li>
 <li>Jonathan E. Rowe, University of Birmingham, UK</li>
 <li>Arne Eigenfeldt, Simon Fraser University, Canada</li>
+<li>Jonathan Eisenmann, Ohio State University, USA</li>
 <li>José Fornari, NICS/Unicamp, Brazil</li>
-<li>Marcelo Freitas Caetano, IRCAM, France</li>
+<li>Marcelo Freitas Caetano, INESC TEC, Portugal</li>
 <li>Philip Galanter, Texas A&M College of Architecture, USA</li>
 <li>Pablo Gervás, Universidad Complutense de Madrid, Spain</li>
 <li>Andrew Gildfind, Google, Inc., Australia</li>
@@ -131,16 +133,18 @@
 <li>Christian Jacob, University of Calgary, Canada</li>
 <li>Patrick Janssen, National University of Singapure, Singapure</li>
 <li>Colin Johnson, University of Kent, UK</li>
-<li>Daniel Jones, Goldsmiths College,  University of London, UK</li>
+<li>Daniel Jones, Goldsmiths College, University of London, UK</li>
 <li>Amy K. Hoover, University of Central Florida, USA</li>
 <li>Maximos Kaliakatsos-Papakostas, University of Patras, Greece</li>
 <li>Hernán Kerlleñevich, National University of Quilmes, Argentina</li>
 <li>Matthew Lewis, Ohio State University, USA</li>
+<li>Yang Li, University of Science and Technology Beijing, China</li>
 <li>Antonios Liapis, IT University of Copenhagen , Denmark</li>
 <li>Alain Lioret, Paris 8 University, France</li>
 <li>Roisin Loughran, University College Dublin, Ireland</li>
 <li>Penousal Machado, University of Coimbra, Portugal</li>
 <li>Roger Malina, International Society for the Arts, Sciences and Technology, USA</li>
+<li>Bill Manaris, College of Charleston, USA</li>
 <li>Jon McCormack, Monash University, Australia</li>
 <li>Marcos Nadal, University of Vienna , Austria</li>
 <li>Gary Nelson, Oerlin College, USA</li>
@@ -158,6 +162,7 @@
 <li>Paulo Urbano, Universidade de Lisboa, Portugal</li>
 <li>Anna Ursyn, University of Northern Colorado, USA</li>
 <li>Dan Ventura, Brigham Young University, USA</li>
+<li>Anna Jordanous, University of Kent, UK</li>
     </ul>
 
 
