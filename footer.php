@@ -11,7 +11,8 @@
             </div>
             <div class="panel-body">
               
-              <strong>Submission Deadline:</strong> 1 November 2015<br/>
+              <strong>Submission Deadline:</strong> <strike>1 November 2015</strike><br/>
+              <span class="red"><strong>EXTENDED DEADLINE:</strong> 11 November 2015</span><br/>
               <strong>Notification:</strong> 4 January 2016<br/>
               <strong>Camera-ready:</strong> 18 January 2016<br/>
               <strong>Early registration discount: 25 February 2016</strong><br/>
