@@ -65,34 +65,30 @@ Please provide up to five keywords in your Abstract
 <p>
 Page limit: 16 pages to http://myreview.csregistry.org/evoapps16/.
 </p>
-<p>
 
-<!--<h3>Programme Committee</h3>
 
+<h3>Programme Committee</h3>
 
 
 <ul>
-<li>Jhon Edgar Amaya, Universidad Nacional Experimental del Táchira, Venezuela</li>
-<li>Anca Andreica, Universitatea Babes-Bolyai, Romania</li>
+<li>Jhon E. Amaya, UNET, Venezuela</li>
+<li>Anca Andreica, Universitatea Babe ş-Bolyai, Romania</li>
 <li>Tiago Baptista, Universidade de Coimbra, Portugal</li>
 <li>Antonio Córdoba, Universidad de Sevilla, Spain</li>
-<li>Carlos Fernandes, Technical University of Lisbon, Portugal</li>
-<li>José Enrique Gallardo, Universidad de Málaga, Spain</li>
-<li>Carlos Gersherson, Universidad Nacional Autónoma de México, México</li>
-<li>Evert Haasdijk, Vrije Universiteit Amsterdam, The Netherlands</li>
-<li>Juan Luis Jiménez Laredo, Université du Havre, France</li>
-<li>Iwona Karcz-Duleba, Wrocław University of Technology, Poland</li>
-<li>Raúl Lara Cabrera, Universidad de Málaga, Spain</li>
+<li>Carlos Fernandes, ISR-Lisbon, Portugal</li>
+<li>José E. Gallardo, Universidad de Málaga, Spain</li>
+<li>Carlos Gesherson, UNAM, Mexico</li>
+<li>Juan L. Jiménez Laredo, ILNAS & ANEC Normalisation, Luxembourg</li>
+<li>Iwona Karcz-Dulęba, Politechnika Wroc ławska, Poland</li>
+<li>Wac ław, Ku ś, Politechnika Śl ąska, Poland</li>
 <li>Gabriel Luque, Universidad de Málaga, Spain</li>
-<li>Juan Julián Merelo, Universidad de Granada, Spain</li>
+<li>Juan J. Merelo, Ubiversidad de Granada, Spain</li>
 <li>Antonio Nebro, Universidad de Málaga, Spain</li>
-<li>Maciej Smolka, AGH University of Science and Technology, Poland</li>
-<li>Giovanni Squillero, Politecnico di Torino, Italy</li>
+<li>Anna Paszy ńska, Uniwersytet Jagiello ński, Poland</li>
+<li>Maciej Smo łka, Akademia Górniczo-Hutnicza, Poland</li>
 <li>Marco Tomassini, Université de Laussane, Switzerland</li>
-<li>Alberto Tonda, INRA, France</li>
- </ul>
- -->
-
+<li>Alberto Tonda, Politecnico di Torino, Italia</li>
+</ul>
 
     <h3>Evo<span class="red">COMPLEX</span> Track Chairs</h3>
     <ul>
