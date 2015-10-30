@@ -72,20 +72,20 @@ Page limit: 16 pages to http://myreview.csregistry.org/evoapps16/.
 
 <ul>
 <li>Jhon E. Amaya, UNET, Venezuela</li>
-<li>Anca Andreica, Universitatea Babe ş-Bolyai, Romania</li>
+<li>Anca Andreica, Universitatea Babeş-Bolyai, Romania</li>
 <li>Tiago Baptista, Universidade de Coimbra, Portugal</li>
 <li>Antonio Córdoba, Universidad de Sevilla, Spain</li>
 <li>Carlos Fernandes, ISR-Lisbon, Portugal</li>
 <li>José E. Gallardo, Universidad de Málaga, Spain</li>
 <li>Carlos Gesherson, UNAM, Mexico</li>
 <li>Juan L. Jiménez Laredo, ILNAS & ANEC Normalisation, Luxembourg</li>
-<li>Iwona Karcz-Dulęba, Politechnika Wroc ławska, Poland</li>
-<li>Wac ław, Ku ś, Politechnika Śl ąska, Poland</li>
+<li>Iwona Karcz-Dulęba, Politechnika Wrocławska, Poland</li>
+<li>Wacław, Kuś, Politechnika Śl ąska, Poland</li>
 <li>Gabriel Luque, Universidad de Málaga, Spain</li>
 <li>Juan J. Merelo, Ubiversidad de Granada, Spain</li>
 <li>Antonio Nebro, Universidad de Málaga, Spain</li>
-<li>Anna Paszy ńska, Uniwersytet Jagiello ński, Poland</li>
-<li>Maciej Smo łka, Akademia Górniczo-Hutnicza, Poland</li>
+<li>Anna Paszyńska, Uniwersytet Jagielloński, Poland</li>
+<li>Maciej Smołka, Akademia Górniczo-Hutnicza, Poland</li>
 <li>Marco Tomassini, Université de Laussane, Switzerland</li>
 <li>Alberto Tonda, Politecnico di Torino, Italia</li>
 </ul>
