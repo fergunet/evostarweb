@@ -67,6 +67,7 @@ Accepted papers will appear in the proceedings of EvoStar, published in a volume
 <li>Maite Moreno, S2 Grupo, Spain</li>
 <li>Javier Montero, Universidad Complutense de Madrid, Spain</li>
 <li>Guillermo Suarez-Tangil, Royal Holloway University of London, UK</li>
+<li>Shamik Sural,Indian Institute of Technology, Kharagpur, India</li>
 <li>Kay Chen Tan, National University of Singapore</li>
 <li>Vicenç  Torra, University of Skövde,Sweden</li>
 <li>Antonio Villalón  S2 Grupo, Spain</li>
