@@ -51,26 +51,28 @@ Accepted papers will appear in the proceedings of EvoStar, published in a volume
 <p>Page limit: 16 pages</p>
 
 
-<!--
+
 <h3>Programme Committee</h3>
 
 
 <ul>
-<li>Robert K. Abercrombie 	Oak Ridge National Laboratory, USA</li>
-<li>Rami	Abielmona,	University of Ottawa, Canada</li>
-<li>Nabendu Chaki	University of Calcutta, India</li>
-<li>Mario Cococcioni,	NATO Undersea Research Centre, Italy</li>
-<li>Josep Domingo-Ferrer,	Rovira i Virgili University, Spain</li>
-<li>Stenio	Fernandes,	Federal University of Pernambuco (UFPE), Brazil</li>
-<li>Frank W Moore 	University of Alaska Anchorage, USA</li>
-<li>Javier	Montero	Universidad Complutense de Madrid, Spain</li>
-<li>Pamela Nolz, Austrian Institute of Technology (AIT), Austria</li>
-<li>Kay Chen Tan,	National University of Singapore</li>
-<li>Vicenç	Torra, University of Skövde,Sweden</li>
-<li>Antonio	Villalón	S2 Grupo, Spain</li>
-<li>Nur Zincir-Heywood, Dalhousie University, Canada </li>
+<li>Robert K. Abercrombie Oak Ridge National Laboratory, USA</li>
+<li>Rami  Abielmona,  University of Ottawa, Canada</li>
+<li>Nabendu Chaki University of Calcutta, India</li>
+<li>Mario Cococcioni, NATO Undersea Research Centre, Italy</li>
+<li>Josep Domingo-Ferrer, Rovira i Virgili University, Spain</li>
+<li>Stenio  Fernandes,  Federal University of Pernambuco (UFPE), Brazil</li>
+<li>Jose Miguel Holguín, S2 Grupo, Spain</li>
+<li>Frank W. Moore University of Alaska Anchorage, USA</li>
+<li>Maite Moreno, S2 Grupo, Spain</li>
+<li>Javier Montero, Universidad Complutense de Madrid, Spain</li>
+<li>Guillermo Suarez-Tangil, Royal Holloway University of London, UK</li>
+<li>Kay Chen Tan, National University of Singapore</li>
+<li>Vicenç  Torra, University of Skövde,Sweden</li>
+<li>Antonio Villalón  S2 Grupo, Spain</li>
+<li>Nur Zincir-Heywood, Dalhousie University, Canada</li>
 </ul>
--->
+
 <h3>FURTHER INFORMATION</h3>
 
 Further information on the conference and co-located events can be 
