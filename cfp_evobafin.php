@@ -4,7 +4,7 @@
    </div>
 
 <h3>Natural Computing Methods in Business Analytics and Finance</h3>
-
+<?php include('common_to_all.php') ?>
 <div class="panel panel-default">
             <div class="panel-heading">
               <h3 class="panel-title">Submission link:</h3>

@@ -5,7 +5,7 @@
 
  <h2>Evolutionary Computation in Image Analysis, Signal Processing
 and Pattern Recognition</h2>
-
+<?php include('common_to_all.php') ?>
 <div class="panel panel-default">
             <div class="panel-heading">
               <h3 class="panel-title">Submission link:</h3>

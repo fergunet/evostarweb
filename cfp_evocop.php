@@ -5,7 +5,7 @@
 
 <h2>The 16th European Conference on Evolutionary Computation in Combinatorial 
       Optimisation</h2>
-
+<?php include('common_to_all.php') ?>
       <ul>
 <!--<li><a href="#abstracts">Accepted paper abstracts</a></li>
 <li><a href="#best">Best Paper Nominees</a></li> 

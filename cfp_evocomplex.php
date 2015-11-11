@@ -6,7 +6,7 @@
 
 
 <h2>Evolutionary Algorithms and Complex Systems</h2>
-
+<?php include('common_to_all.php') ?>
 <div class="panel panel-default">
             <div class="panel-heading">
               <h3 class="panel-title">Submission link:</h3>

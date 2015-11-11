@@ -6,6 +6,8 @@
 <p><strong>Application of Nature-inspired Techniques for Communication Networks and
 other Parallel and Distributed Systems featuring a fast-track option for
 Applied Soft Computing journal</strong></p>
+<?php include('common_to_all.php') ?>
+
 
 <p>
 <a href="pdfs/flyer-evocomnet2016.pdf">Download flyer</a>

@@ -4,7 +4,7 @@
    </div>
 
 <h2>Computational Intelligence for Risk Management, Security and Defence Applications</h2>
-
+<?php include('common_to_all.php') ?>
 
 <div class="panel panel-default">
             <div class="panel-heading">

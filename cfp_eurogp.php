@@ -5,7 +5,7 @@
 
 <h2>19th European Conference on Genetic Programming</h2>
 
-
+<?php include('common_to_all.php') ?>
 <ul>
 <!--<li><a href="#abstracts">Accepted paper abstracts</a></li>
 <li><a href="#best">Best Paper Nominees</a></li> 

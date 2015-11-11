@@ -4,6 +4,7 @@
    </div> 
  <h2>5th International Conference on Evolutionary and Biologically Inspired 
       Music, Sound, Art and Design</h2>
+<?php include('common_to_all.php') ?>
     <p>April 2016, Porto, Portugal<br />
       Part of evo<span class="red">*</span> 2016<br />
       evo<span class="red">*</span>: <a href="http://www.evostar.org">http://www.evostar.org</a></p>
