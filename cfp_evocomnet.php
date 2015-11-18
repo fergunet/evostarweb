@@ -87,11 +87,13 @@ ernesto.tarantino(at)na.icar.cnr.it
 
 <ul>
 <li>Fabio D'Andreagiovanni (Zuse Institute Berlin, Germany)</li>
+<li>Antonios Gasteratos (Democritus University of Thrace, Greece)</li>
 <li>Jin-Kao Hao (University of Angers, France)</li>
 <li>Rolf Hoffmann (Technical University Darmstadt, Germany)</li>
 <li>Graham Kendall (University of Nottingham, UK)</li>
 <li>Farrukh Aslam Khan (National University of Computer & Emerging Sciences, Pakistan)</li>
 <li>Kenji Leibnitz (National Institute of Information and Communications Technology, Japan)</li>
+<li>Davide Marocco (University of Naples, Italy)</li>
 <li>Domenico Maisto (ICAR-CNR, Italy)</li>
 <li>Roberto Montemanni (IDSIA, Switzerland)</li>
 <li>Milena Radenkovic (The University of Nottingham, UK)</li>
@@ -101,6 +103,7 @@ ernesto.tarantino(at)na.icar.cnr.it
 <li>Georgios Sirakoulis (Democritus University of Thrace, Greece)</li>
 <li>Pawel Topa (AGH University of Science and Technology, Poland)</li>
 <li>Umut Tosun (Baskent University, Turkey)</li>
+<li>Marco Villani (University of Modena and Reggio Emilia, Italy)</li>
 <li>Jaroslaw Was (AGH University of Science and Technology, Poland)</li>
 <li>Tony White (Carleton University, Canada)</li>
 <li>Nur Zincir-Heywood (Dalhousie University, Canada)</li>
