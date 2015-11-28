@@ -157,7 +157,7 @@
 <li>Juan Romero, University of A Coruna, Spain</li>
 <li>Brian Ross, Brock University, Canada</li>
 <li>Antonino Santos, University of A Coruna, Spain</li>
-<li>Daniel Silva, University of Coimbra, Portugal</li>
+<li>Daniel Silva, University of Porto, Portugal</li>
 <li>Benjamin Smith, Indianapolis University, Purdue University,Indianapolis, USA</li>
 <li>Stephen Todd, IBM, UK</li>
 <li>Paulo Urbano, Universidade de Lisboa, Portugal</li>

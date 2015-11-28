@@ -61,6 +61,7 @@ Signal Processing and Pattern Recognition".
 <h3>Programme Committee</h3>
 
 <ul>
+<li>Michele Amoretti (University of Parma, Italy)</li>
 <li> Lucia Ballerini (University of Dundee, UK)</li>
 <li>    Vitoantonio Bevilacqua (Politecnico di Bari, Italy)</li>
 <li>    Leonardo Bocchi (University of Florence, Italy)</li>
@@ -71,6 +72,7 @@ Signal Processing and Pattern Recognition".
 <li>    Laura Dipietro (Cambridge, USA)</li>
 <li>    Marc Ebner (Ernst Moritz Arndt University, Greifswald, Germany)</li>
 <li>    Francesco Fontanella (University of Cassino, Italy)</li>
+<li>José Ignacio Hidalgo (Universidad Complutense de Madrid, Spain)</li>
 <li>    Mario Koeppen (Kyushu Institute of Technology, Japan)</li>
 <li>    Jean Louchet (INRIA, France)</li>
 <li>    Evelyne Lutton (INRIA, France)</li>
@@ -84,6 +86,7 @@ Signal Processing and Pattern Recognition".
 <li>    Andy Song (RMIT, Australia)</li>
 <li>    Giovanni Squillero (Politecnico di Torino, Italy)</li>
 <li>    Roberto Ugolotti (Henesis srl, Italy)</li>
+<li>Andrea Valsecchi (European Center of Soft Computing, Spain)</li>
 <li>    Leonardo Vanneschi (Universidade Nova de Lisboa, Portugal)</li>
 <li>    Bing Xue (Victoria University of Wellington, New Zealand)</li>
 </ul>
