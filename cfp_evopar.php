@@ -100,6 +100,7 @@
 <li>Gianluigi Folino (ICAR-CNR, Italy)</li>
 <li>Juan L. Jim&eacute;nez (Universit&eacute; du Luxemburg, Luxemburg)</li>
 <li>Ignacio Arnaldo (MIT, USA)</li>
+<li>Sebastien Varrette (Universit&eacute; du Luxemburg, Luxemburg)</li>
     </ul>
   
 
