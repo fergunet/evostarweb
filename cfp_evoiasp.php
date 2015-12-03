@@ -73,6 +73,7 @@ Signal Processing and Pattern Recognition".
 <li>    Marc Ebner (Ernst Moritz Arndt University, Greifswald, Germany)</li>
 <li>    Francesco Fontanella (University of Cassino, Italy)</li>
 <li>José Ignacio Hidalgo (Universidad Complutense de Madrid, Spain)</li>
+<li>Oscar Iba&ntilde;ez  (University of Granada, Spain)</li>
 <li>    Mario Koeppen (Kyushu Institute of Technology, Japan)</li>
 <li>    Jean Louchet (INRIA, France)</li>
 <li>    Evelyne Lutton (INRIA, France)</li>
