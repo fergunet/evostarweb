@@ -85,15 +85,13 @@ Page limit: 16 pages<br/>
 <h3>Confirmed program committee</h3>
 
 <ul>
-<li>Konrad Diwold (Siemens, Vienna, Austria)</li>
 <li>Oliver Kramer (University of Oldenburg, Germany)</li>
-<li>Chenjie Ma (Fraunhofer Institute for Wind Energy and Energy System</li>
-<li>Technology, Germany)</li>
+<li>Chenjie Ma (Fraunhofer Institute for Wind Energy and Energy System Technology, Germany)</li>
 <li>Ingo Mauser (FZI Karlsruhe, Germany)</li>
 <li>Martin Middendorf (University of Leipzig, Germany)</li>
+<li>Maizura Mokhtar (Edimburgh Napier University, UK)</li>
 <li>Frank Neumann (University of Adelaide, AU)</li>
 <li>Peter Palensky (Technical University of Delft, Netherlands)</li>
-<li>Cong Shen (University of Kassel, Germany)</li>
 <li>Bernhard Sick (University of Kassel, Germany)</li>
 <li>Stefano Squartini (Università Politecnica delle Marche, Italy)</li>
 <li>Andy Tyrrell (University of York, UK)</li>

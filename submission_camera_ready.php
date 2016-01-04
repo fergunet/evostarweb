@@ -4,7 +4,7 @@
    </div>
 
 <p>
-   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 1 March 2015), and also ATTEND to present his/her paper.</strong> 
+   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 24 March 2016), and also ATTEND to present his/her paper.</strong> 
 </p>
 Please follow Springer's LNCS instructions when preparing your paper.
 
@@ -15,9 +15,12 @@ as BibTeX style (if you use LaTeX) or generating a list with this order if
 you use Word.</p>
 <p>There are strict page limits for each of the 4 conferences collectively known as Evo*</p>
 <p>
-<strong>12 pages for Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> & Evo<span class="red">Applications</span></strong>
+<strong>16 pages for Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> & Evo<span class="red">Applications</span></strong>
 </p>
 <br/>
+
+
+
 
 Please ensure that submissions are directed to the relevant track. 
 
@@ -25,15 +28,15 @@ Papers which are not formatted according to those guidelines, or do not respect 
 
 Submit your final camera-ready paper NO LATER than
 
-<strong><span class="red">21 January 2015</span></strong>
+<strong><span class="red">18 January 2016</span></strong>
 
 through the appropriate submission system at
 
 <ul>
-<li>Euro<span class="red">GP</span>: <a href="http://myreview.csregistry.org/eurogp15/SubmitPaper.php">http://myreview.csregistry.org/eurogp15/SubmitPaper.php</a></li>
-<li>Evo<span class="red">COP</span>: <a href="http://myreview.csregistry.org/evocop15/SubmitPaper.php">http://myreview.csregistry.org/evocop15/SubmitPaper.php</a></li>
-<li>Evo<span class="red">MUSART</span>: <a href="http://myreview.csregistry.org/evomusart15/SubmitPaper.php">http://myreview.csregistry.org/evomusart15/SubmitPaper.php</a></li>
-<li>Evo<span class="red">Applications</span>: <a href="http://myreview.csregistry.org/evoapps15/SubmitPaper.php">http://myreview.csregistry.org/evoapps15/SubmitPaper.php</a></li>
+<li>Euro<span class="red">GP</span>: <a href="http://myreview.csregistry.org/eurogp16/SubmitPaper.php">http://myreview.csregistry.org/eurogp16/SubmitPaper.php</a></li>
+<li>Evo<span class="red">COP</span>: <a href="http://myreview.csregistry.org/evocop16/SubmitPaper.php">http://myreview.csregistry.org/evocop16/SubmitPaper.php</a></li>
+<li>Evo<span class="red">MUSART</span>: <a href="http://myreview.csregistry.org/evomusart16/SubmitPaper.php">http://myreview.csregistry.org/evomusart16/SubmitPaper.php</a></li>
+<li>Evo<span class="red">Applications</span>: <a href="http://myreview.csregistry.org/evoapps16/SubmitPaper.php">http://myreview.csregistry.org/evoapps16/SubmitPaper.php</a></li>
 </ul>
 using your id and password.
 
@@ -86,19 +89,30 @@ remaining lines: abstract of the paper (in ASCII without line breaks).</br>
 
 Download your specific form from:
 <ul>
-<li><a href="pdfs/LNCS-Springer_Copyright_Form_EuroGP_2015.pdf">Euro<span class="red">GP</span> copyright form</a></li>
-<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoCOP_2015.pdf">Evo<span class="red">COP</span> copyright form</a></li>
-<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoMUSART_2015.pdf">Evo<span class="red">MUSART</span> copyright form</a></li>
-<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoAPPS_2015.pdf">Evo<span class="red">Applications</span> copyright form</a></li>
+<li><a href="pdfs/LNCS-Springer_Copyright_Form_EuroGP_2016.pdf">Euro<span class="red">GP</span> copyright form</a></li>
+<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoCOP_2016.pdf">Evo<span class="red">COP</span> copyright form</a></li>
+<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoMUSART_2016.pdf">Evo<span class="red">MUSART</span> copyright form</a></li>
+<li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoAPPS_2016.pdf">Evo<span class="red">Applications</span> copyright form</a></li>
  </ul>
 </li>
 </ul>
-Also, before <strong>21 January 2015</strong>, you also have to send an <strong>E-mail</strong> to j.willies@napier.ac.uk with the title:
+
+
+Other considerations:<br/>
+<ul>
+<li>When submitting a paper, please specify at least THREE KEYWORDS.</li>
+<li>Authors applying to EvoAPPS, please specify a SECONDARY TOPIC (ie. the second closest EvoAPP's event).</li>
+<li>In camera ready, and using LaTeX, authors should fill up \authorrunning and \titlerunning, without activating them.</li>
+<li>In camera ready, authors should not enable page numbering.</li>
+<li>If using LaTeX, please include a bibtex file, EVEN if the bibliography is embedded into the source .tex file(s).</li>
+</ul>
+
+Also, before <strong>18 January 2016</strong>, you also have to send an <strong>E-mail</strong> to j.willies@napier.ac.uk with the title:
 
 <p>
-"EvoStar15 attendance confirmation"<br/>
+"EvoStar16 attendance confirmation"<br/>
 which includes the following information:<br/>
-1. Name of (co)author who will attend EvoStar2015 ________<br/>
+1. Name of (co)author who will attend EvoStar2016 ________<br/>
 2. If attendee is a student, their advisor ___________ has been cc-ed into this mail<br/>
 3. If a VISA is required for the attendee, the application process has started: Not-required / Yes / No.<br/>
 </p>
@@ -114,14 +128,14 @@ specifications without activating headers.
 
 
 <hr/>
-In summary, you have to do each of the following 5 tasks no later than <strong>21 January 2015</strong>
+In summary, you have to do each of the following 5 tasks no later than <strong>21 January 2016</strong>
 <ul>
 <li>Submit the paper including all source files (see above for details)</li>
 <li>Submit an authors.txt file</li>
 <li>Submit an abstract.txt file</li>
 <li>Complete and submit a signed copyright form as PDF</li>
-<li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2015</li>
-<li>At least one author must register and pay the conference fee by the <strong>1 March</strong> 2015. Failure to do so could result in the paper being excluded from publication.</li>
+<li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2016</li>
+<li>At least one author must register and pay the conference fee by the <strong>24 March</strong> 2016. Failure to do so could result in the paper being excluded from publication.</li>
 </ul>
 
 
