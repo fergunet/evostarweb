@@ -15,8 +15,9 @@
               <span class="red"><strong>EXTENDED DEADLINE:</strong> 11 November 2015</span><br/> <em>(site remains open for final changes until 15 Nov)</em><br/>
               <strong>Notification:</strong> 4 January 2016<br/>
               <strong>Camera-ready:</strong> 18 January 2016<br/>
-              <strong>Early registration discount: 25 February 2016</strong><br/>
-              <strong>Registration deadline: 24 March</strong><br/>
+              <strong>Mandatory registration per paper:</strong> 15 February</strong></br>
+              <strong>Early registration discount:</strong> 25 February 2016<br/>
+              <strong>Registration deadline:</strong> 24 March<br/>
               <strong>EvoStar dates:</strong> 30 March - 1 April 2016<br/>
               
             </div>

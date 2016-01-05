@@ -4,7 +4,7 @@
    </div>
 
 <p>
-   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 24 March 2016), and also ATTEND to present his/her paper.</strong> 
+   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 15 February 2016), and also ATTEND to present his/her paper.</strong> 
 </p>
 Please follow Springer's LNCS instructions when preparing your paper.
 
@@ -13,16 +13,16 @@ Please follow Springer's LNCS instructions when preparing your paper.
 <p>Remember that references should be ordered by appearance in the paper, using 'splncs.bst'
 as BibTeX style (if you use LaTeX) or generating a list with this order if
 you use Word.</p>
-<p>There are strict page limits for each of the 4 conferences collectively known as Evo*</p>
+<p>There are strict page limits for all of the 4 conferences collectively known as EvoStar</p>
 <p>
-<strong>16 pages for Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> & Evo<span class="red">Applications</span></strong>
+<strong>16 pages</strong>
 </p>
 <br/>
 
 
 
 
-Please ensure that submissions are directed to the relevant track. 
+<strong>Please ensure that submissions are directed to the relevant track. </strong>
 
 Papers which are not formatted according to those guidelines, or do not respect the page limit, risk being excluded from the proceedings.
 
@@ -72,7 +72,7 @@ Please mark the contact author with * at the end of the line.<br/><br/>
 
 Example of a paper authored by Mario Rossi and Jos&eacute; Salgado:<br/>
 <em>Mario Rossi mario.rossi@myuni.xy<br/>
-Jos\'e' Salgado jsagado@hisuni.yx*<br/></em>
+Jos\'e Salgado jsagado@hisuni.yx*<br/></em>
 <br/>
 Note that in authors.txt any accent/special characters must be
 written in Latex style, e.g.: Jos\'e
@@ -100,22 +100,14 @@ Download your specific form from:
 
 Other considerations:<br/>
 <ul>
-<li>When submitting a paper, please specify at least THREE KEYWORDS.</li>
-<li>Authors applying to EvoAPPS, please specify a SECONDARY TOPIC (ie. the second closest EvoAPP's event).</li>
+<li>When submitting a paper, please specify at least <strong>three keyworkds</strong>.</li>
+<li>EvoAPP's authors, please be sure to specify a <strong>secondary topic</strong>, i.e., the second more relevant event.</li>
 <li>In camera ready, and using LaTeX, authors should fill up \authorrunning and \titlerunning, without activating them.</li>
 <li>In camera ready, authors should not enable page numbering.</li>
-<li>If using LaTeX, please include a bibtex file, EVEN if the bibliography is embedded into the source .tex file(s).</li>
+<li>If using LaTeX, please include a bibtex file, even if the bibliography is embedded into the source .tex file(s).</li>
 </ul>
 
-Also, before <strong>18 January 2016</strong>, you also have to send an <strong>E-mail</strong> to j.willies@napier.ac.uk with the title:
 
-<p>
-"EvoStar16 attendance confirmation"<br/>
-which includes the following information:<br/>
-1. Name of (co)author who will attend EvoStar2016 ________<br/>
-2. If attendee is a student, their advisor ___________ has been cc-ed into this mail<br/>
-3. If a VISA is required for the attendee, the application process has started: Not-required / Yes / No.<br/>
-</p>
 
 <p>
 When preparing your camera-ready, please make sure that you omit all headers (no page numbers, no running title, no running
@@ -127,15 +119,25 @@ specifications without activating headers.
 <p>Authors not following the instructions may result in the paper being excluded from the proceedings.</p>
 
 
+Also, before <strong>18 January 2016</strong>, you also have to send an <strong>E-mail</strong> to j.willies@napier.ac.uk with the title:
+
+<p>
+"EvoStar16 attendance confirmation"<br/>
+which includes the following information:<br/>
+1. Name of (co)author who will attend EvoStar2016 ________<br/>
+2. If attendee is a student, their advisor ___________ has been cc-ed into this mail<br/>
+3. If a VISA is required for the attendee, the application process has started: Not-required / Yes / No.<br/>
+</p>
+
 <hr/>
-In summary, you have to do each of the following 5 tasks no later than <strong>21 January 2016</strong>
+In summary, you have to do each of the following 5 tasks no later than <strong>18 January 2016</strong>
 <ul>
 <li>Submit the paper including all source files (see above for details)</li>
 <li>Submit an authors.txt file</li>
 <li>Submit an abstract.txt file</li>
 <li>Complete and submit a signed copyright form as PDF</li>
 <li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2016</li>
-<li>At least one author must register and pay the conference fee by the <strong>24 March</strong> 2016. Failure to do so could result in the paper being excluded from publication.</li>
+<li>At least one author must register and pay the conference fee by the <strong>15 February</strong> 2016. Failure to do so could result in the paper being excluded from publication.</li>
 </ul>
 
 
