@@ -102,7 +102,10 @@ Other considerations:<br/>
 <ul>
 <li>When submitting a paper, please specify at least <strong>three keyworkds</strong>.</li>
 <li>EvoAPP's authors, please be sure to specify a <strong>secondary topic</strong>, i.e., the second more relevant event.</li>
-<li>In camera ready, and using LaTeX, authors should fill up \authorrunning and \titlerunning, without activating them.</li>
+<li>In camera ready, and using LaTeX, authors should fill up \authorrunning and \titlerunning, without activating them (commented).</li>
+Example:<br/>
+<em>%\authorrunning{A. Uthor et al.}</em><br/>
+<em>%\titlerunning{My beautiful paper}</em><br/>
 <li>In camera ready, authors should not enable page numbering.</li>
 <li>If using LaTeX, please include a bibtex file, even if the bibliography is embedded into the source .tex file(s).</li>
 </ul>
