@@ -54,7 +54,7 @@ The directory has to contain:
 <ul>
 <li><strong>Latex .tex file</strong> (named with the last name of the first author).</li>
 
-<li><strong>Latex .bib and .bbl files</strong>, if references are in a separate file (named with the last name of the first author).</li>
+<li><strong>Latex .bib and .bbl files</strong> (named with the last name of the first author).</li>
 
 <li><strong>All figures</strong>:.png, .jpg, .pdf (using pdflatex) or .ps, .eps (using latex).</li>
 
@@ -101,7 +101,7 @@ Download your specific form from:
 Other considerations:<br/>
 <ul>
 <li>When submitting a paper, please specify at least <strong>three keyworkds</strong>.</li>
-<li>EvoAPP's authors, please be sure to specify a <strong>secondary topic</strong>, i.e., the second more relevant event.</li>
+<li>EvoAPP's authors, please be sure to specify a <strong>secondary topic</strong>, i.e., the second more relevant track.</li>
 <li>In camera ready, and using LaTeX, authors should fill up \authorrunning and \titlerunning, without activating them (commented).</li>
 Example:<br/>
 <em>%\authorrunning{A. Uthor et al.}</em><br/>
