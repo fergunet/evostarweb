@@ -134,12 +134,13 @@
 
 <table class="organisers">
 <tr>
-	<!--<td><img src="organisers/paolo_burelli.jpg" width="100"></td>-->
+	
 	<td><img src="organisers/penousal_machado.jpg" width="100"></td>
+	<td><img src="organisers/ernesto_costa.jpg" width="100"></td>
 </tr>
 <tr>
 	<td>Penousal Machado, University of Coimbra, Portugal, machado(at)dei.uc.pt</td>
-	<!--<td>Sebastian Risi, IT University of Copenhagen, Denmark, sebastian.risi(at)gmail.com</td>-->
+	<td>Ernesto Costa, University of Coimbra, Portugal, ernesto@dei.uc.pt</td>
 </tr>
 </table>
  
