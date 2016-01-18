@@ -17,6 +17,25 @@ which is located close to the historical centre of O’Porto.
 The closest Metro stations are “Carolina Michaelis” “Casa da Música”.
 </p>
 <a href="https://www.google.co.uk/maps/dir//Casa+Diocesana+-+Semin%C3%A1rio+De+Vilar,+R.+Arcediago+Vanzeller+50,+4050-621+Porto/@41.1492113,-8.6269489,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0xd24650fa2a566e9:0xe474920b1e2b15b!2m2!1d-8.6283544!2d41.1500313">Google Map Link</a>
-<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d12017.308767501161!2d-8.6269489!3d41.1492113!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0xd24650fa2a566e9%3A0xe474920b1e2b15b!2sCasa+Diocesana+-+Semin%C3%A1rio+De+Vilar%2C+R.+Arcediago+Vanzeller+50%2C+4050-621+Porto!3m2!1d41.150031299999995!2d-8.6283544!5e0!3m2!1ses!2suk!4v1453134311974" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+
+<div id="local_map">
+	<img class="img-responsive" src="porto/MAPA_EvoStar_v.png" usemap="#locMap" style="position: relative; padding: 0 0 !important; margin: 0 0 !important;">
+	<map name="locMap">
+		<area shape="rect" coords="80,268,100,288" target="_blank" href="http://www.hoteldouro.pt/en" alt="Hotel Douro"></area>
+		<area shape="rect" coords="147,291,167,311" target="_blank" href="http://www.hoteldamusica.com/en-gb/porto-hotel-in-city-centre.aspx?areaid=2" alt="Hotel da Música"></area>
+		<area shape="rect" coords="219,341,239,361" target="_blank" href="http://www.hotelvicerei.com/index.php?run=homepage&l=1" alt="Hotel Vice-Rei"></area>
+		<area shape="rect" coords="96,382,116,402" target="_blank" href="http://www.hfhotels.com/hf-fenix-porto" alt="Hotel Fénix"></area>
+		<area shape="rect" coords="96,409,116,429" target="_blank" href="http://www.hfhotels.com/hf-tuela-porto" alt="Hotel HF Tuela Ala Sul"></area>
+		<area shape="rect" coords="111,490,131,510" target="_blank" href="http://www.hfhotels.com/hf-ipanema-porto" alt="Hotel HF Ipanema Porto"></area>
+		<area shape="rect" coords="484,621,504,641" target="_blank" href="http://www.rosaetal.pt/" alt="ROSA ET AL Townhouse"></area>
+		<area shape="rect" coords="507,634,527,654" target="_blank" href="http://www.gallery-hostel.com/en/" alt="Gallery Hostel Porto"></area>
+
+		<area shape="rect" coords="31,134,155,179" target="_blank" href="http://www.casadamusica.com/" alt="Casa da Música"></area>
+		<area shape="rect" coords="114,594,262,692" target="_blank" href="http://bmrcsalgueiro.com/casadiocesana/" alt="Casa Diocesana Seminário de Vilar"></area>
+
+		<area shape="rect" coords="161,41,186,66" target="_blank" href="http://www.metrodoporto.pt/" alt="Metro of Porto"></area>
+		<area shape="rect" coords="438,166,463,191" target="_blank" href="http://www.metrodoporto.pt/" alt="Metro of Porto"></area>
+	</map>
+</div>
     <?php include('footer.php') ?>
