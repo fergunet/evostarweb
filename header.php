@@ -62,9 +62,9 @@
               <ul class="dropdown-menu">
                 <li><a href="programme_research_projects.php">Research Project Promotion</a></li>
                 <li><a href="programme_speakers.php">Invited Speakers</a></li>
-                <li><a href="pdfs/programme-overview.pdf">Overview programme</a></li>
-                <li><a href="pdfs/programme-detailed-overview.pdf">Detailed programme</a></li>
-                <li><a href="#">Best Paper Candidates</a></li>
+                <li><a href="#">Overview programme (TBA)</a></li>
+                <li><a href="#">Detailed programme (TBA)</a></li>
+                <li><a href="#">Best Paper Candidates (TBA)</a></li>
                 <li><a href="awards_outstanding.php">Award for Outstanding Contribution to EC</a></li>
               </ul>
             </li>

@@ -1,8 +1,9 @@
 <?php include('header.php') ?>
 
-<h2>Evo<span class="red">Star</span> Award for Outstanding Contribution to Evolutionary Computation in Europe 2015 </h2>
+<h2>Evo<span class="red">Star</span> Award for Outstanding Contribution to Evolutionary Computation in Europe 2016 </h2>
 </div>
 
+<!--
 <h2>Winners: <a href="https://sites.google.com/site/aiesparcia/">Anna Esparcia-Alcazar</a> and <a href="http://www.novaims.unl.pt/Docentes-Investigacao/Detalhe-Docente.asp?IDDocente=196">Leonardo Vanneschi</a></h2>
 
 <img src="img/outstanding1.jpg" class="img-responsive"/><br/><br/>
@@ -22,7 +23,6 @@ and
 <p>
 
 <a name="2008"></a>
-<!--url broken 2014 a href="http://web.mac.com/evostar/Site_2/EvoSTAR_Award.html"!-->
 2008
 <A href="http://www.cs.ucl.ac.uk/staff/W.Langdon/">Bill Langdon</a>
 
@@ -78,4 +78,6 @@ Terence C. Fogarty
 <p>
 
 <em>List also updated in <a href="http://www0.cs.ucl.ac.uk/staff/ucacbbl/egp2011/evostar_award.html">Dr. W. B. Langdon's page.</a></em>
+-->
+
 <?php include('footer.php') ?>

@@ -2,8 +2,8 @@
 
         <h2>Invited Speakers<h2>
    </div>
-
-
+TBA
+<!--
 <h2>
 	Open-Source Baby Robots for Science, Education and Art, by <span class="red">Pierre-Yves Oudeyer</span></h2>
 
@@ -48,6 +48,6 @@ I will show that the structuring of the mutational neighbourbood,
 <p>
 <strong>Bio:</strong><em> Paulien Hogeweg is a Dutch theoretical biologist and complex systems researcher studying biological systems as dynamic information processing systems at many interconnected levels.  Together with Ben Hesper he coined the term "bioinformatics" in the 70's, as the study of informatics processes in biotic systems, including both data analysis and modelling.  Currently her main interest is studying "multilevel evolution": how new levels of selection emerge, and how  complex genotype-phenotype transitions evolve.</em>
 </p>
-</div>
+</div>-->
 
        <?php include('footer.php') ?>
