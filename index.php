@@ -10,7 +10,7 @@
    </div>
 <ul>
 	<li>Information about <a href="location_about_porto.php">Porto</a>, <a href="location_porto.php">travel</a>, <a href="location_venue.php">venue location</a> and <a href="location_accommodation.php">accommodation</a></li>
-	<li><a href="submission_camera_ready.php">CAMERA READY</a> and <a href="participants_registration.php">REGISTRATION</a> information pages have been added.</li>
+	<li><a href="participants_registration.php">REGISTRATION</a> information and <a href="participants_bursaries.php">Student Travel Bursaries</a>.</li>
 </ul>
 <h2>Evo<span class="red">star</span> 2016</h2>
 

@@ -2,26 +2,23 @@
 
         <h2>Invited Speakers<h2>
    </div>
-TBA
-<!--
+
 <h2>
-	Open-Source Baby Robots for Science, Education and Art, by <span class="red">Pierre-Yves Oudeyer</span></h2>
+	THE EVOLUTION OF BEAGLE: CONFESSIONS OF A MONGREL RULE-BREEDER, by <span class="red">Richard Forsyth</span></h2>
 
 
 <p>
-<strong>Abstract:</strong> What can baby robots tell us about ourselves? Mysteries of human cognition, like the mechanisms of curiosity or the origins of languages, are starting to be unveiled through experiments with robots that can learn by themselves. In this talk, I will present several examples of such research projects, with models of curiosity-driven learning or language formation. I will emphasize the importance of understanding and experimenting the role of the body in cognition, and in this context introduce the Poppy open-source 3D printed humanoid robot. I will illustrate how Poppy allows rapid experimentation of varied robotic morphologies. I will also explain how this platform, born inside a scientific project, also opens stimulating opportunities in the world of education, for the integrated and interdisciplinary learning of mechanics, 3D printing, electronics, computer science, artificial intelligence and design.
-I wil also give examples of projects exploring how it can be used in the artistic domain.
+<strong>Abstract:</strong> WThis talk falls into three main parts (as recommended by Aristotle). First, a look back at the heady days of the 1980s when evolutionary computing had an appealing air of raffish unorthodoxy at a time of peak Prolog. This will include a biased perspective on the genealogy of Genetic Programming, summarized in a simple spreadsheet as a staircase of synthetic serendipity, which I intend to use to explore the issue of what exactly are the defining features of GP, and who decides. Then I plan to discuss some of the design choices that arose in reviving and revising BEAGLE, in the light of experience with earlier versions. Some of these choices were guided by experimental trials, whose results will be reported. This reporting will include coverage of a couple of apparently neat ideas that don't seem to work. Finally, I will look ahead to the evolution (sorry, hard to resist sometimes) of the field. This provides an opportunity to indulge in some crystal-ball-gazing at indistinct impressions of the cybernetworked dystopia awaiting our grandchildren if the big-data fanatics ever get their acts together -- while still leaving time for questions from the audience.
 </p>
 
 <div>
 
-	<img src="img/pierre.jpg" width="200px" align="right" style="margin:10px"/>
+	<img src="img/forsyth.jpg" width="200px" align="right" style="margin:10px"/>
 
 <p>
-<strong>Bio:</strong><em> Dr. Pierre-Yves Oudeyer is Research Director at Inria and head of the Inria and Ensta-ParisTech FLOWERS team (France). Before, he has been a permanent researcher in Sony Computer Science Laboratory for 8 years (1999-2007). After working on computational models of language evolution, he is now working on developmental and social robotics, focusing on sensorimotor development, language acquisition and life-long learning in robots. Strongly inspired by infant development, the mechanisms he studies include artificial curiosity, intrinsic motivation, the role of morphology in learning motor control, human-robot interfaces, joint attention and joint intentional understanding, and imitation learning. He has published a book, more than 80 papers in international journals and conferences, holds 8 patents, gave several invited keynote lectures in international conferences, and received several prizes for his work in developmental robotics and on the origins of language. In particular, he is laureate of the ERC Starting Grant EXPLORERS. He is editor of the IEEE CIS Newsletter on Autonomous Mental Development, and associate editor of IEEE Transactions on Autonomous Mental Development, Frontiers in Neurorobotics, and of the International Journal of Social Robotics. He is also working actively for the diffusion of science towards the general public, through the writing of popular science articles and participation to radio and TV programs as well as science exhibitions. Web: <a href="http://www.pyoudeyer.com">http://www.pyoudeyer.com</a> and <a href="http://flowers.inria.fr">http://flowers.inria.fr</a></em>
-</p>
+<strong>Bio:</strong><em> Richard Forsyth was introduced in 1996 as a "statistician" on BBC television's Newsnight Programme, while in 2005 he was described as a "professor of stylometry" on the ITV channel.  Which goes to show that you shouldn't set too much store by "factual" programmes on television.  More pertinent is his status as a relic from the medieval period of evolutionary computing. In 1981, inspired by even earlier pioneers like Oliver Selfridge and Gordon Pask, he published an account of what was arguably the first working example of tree-structured program code optimized by evolutionary methods. Nowadays it would probably be called Genetic Programming. At the time he called it a Darwinian rule-learner trained by "naturalistic selection". The term didn't catch on.  In 1985 he started selling a PC version of the BEAGLE rule-finder system (Biological Evolutionary Algorithm Generating Logical Expressions). Fortunately his lack of business acumen spared him from the fate of becoming a software billionaire. In consequence, he has spent most of the last 30 years in the lower echelons of Britain's "higher" education system. His peregrinations have taken him on a tour through a motley assortment of faculties, including Arts, Medicine, Science and Social Sciences. Released from the academic hamster-wheel, he has recently revived & revised BEAGLE, with a few novel twists that will be described in his talk. This activity has caused BEAGLE to give birth to a rather mischievous pup called RUNSTER (Regression Using Naturalistic Selection To Evolve Rules). Both these systems will soon be made freely available to all & sundry on Richard's website.</p>
 </div>
-
+<!--
 <h2>
 	Non-random random mutations: Evolution of Genotype-Phenoptype mapping, by <span class="red">Paulien Hogeweg</span>
 </h2>
