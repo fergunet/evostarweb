@@ -16,9 +16,40 @@
 	<img src="img/forsyth.jpg" width="200px" align="right" style="margin:10px"/>
 
 <p>
-<strong>Bio:</strong><em> Richard Forsyth was introduced in 1996 as a "statistician" on BBC television's Newsnight Programme, while in 2005 he was described as a "professor of stylometry" on the ITV channel.  Which goes to show that you shouldn't set too much store by "factual" programmes on television.  More pertinent is his status as a relic from the medieval period of evolutionary computing. In 1981, inspired by even earlier pioneers like Oliver Selfridge and Gordon Pask, he published an account of what was arguably the first working example of tree-structured program code optimized by evolutionary methods. Nowadays it would probably be called Genetic Programming. At the time he called it a Darwinian rule-learner trained by "naturalistic selection". The term didn't catch on.  In 1985 he started selling a PC version of the BEAGLE rule-finder system (Biological Evolutionary Algorithm Generating Logical Expressions). Fortunately his lack of business acumen spared him from the fate of becoming a software billionaire. In consequence, he has spent most of the last 30 years in the lower echelons of Britain's "higher" education system. His peregrinations have taken him on a tour through a motley assortment of faculties, including Arts, Medicine, Science and Social Sciences. Released from the academic hamster-wheel, he has recently revived & revised BEAGLE, with a few novel twists that will be described in his talk. This activity has caused BEAGLE to give birth to a rather mischievous pup called RUNSTER (Regression Using Naturalistic Selection To Evolve Rules). Both these systems will soon be made freely available to all & sundry on Richard's website.</p>
+<strong>Bio:</strong><em> 
+
+
+Richard Forsyth is a relic from the medieval period of evolutionary computing. In 1981, inspired by even 
+
+earlier pioneers like Oliver Selfridge and Gordon Pask, he published an account of what was arguably the 
+
+first working example of tree-structured program code optimized by evolutionary methods. Nowadays it 
+
+would probably be called Genetic Programming. At the time he called it a Darwinian rule-learner trained by 
+
+"naturalistic selection". The term didn't catch on. In 1985 he started selling a PC version of the BEAGLE rule-
+
+finder system (Biological Evolutionary Algorithm Generating Logical Expressions). Fortunately his lack of 
+
+business acumen spared him from the fate of becoming a software billionaire. In consequence, he has spent 
+
+most of the last 30 years in the lower echelons of Britain's "higher" education system. His peregrinations 
+
+have taken him on a tour through a motley assortment of faculties, including Arts, Medicine, Science and 
+
+Social Sciences. Released from the academic hamster-wheel, he has recently revived & revised BEAGLE, with 
+
+a few novel twists that will be described in his talk. This activity has caused BEAGLE to give birth to a rather 
+
+mischievous pup called RUNSTER (Regression Using Naturalistic Selection To Evolve Rules). Both these 
+
+systems will soon be made freely available to all & sundry on Richard's website.
+
+</p>
 </em>
 </div>
+
+
 
 <h2>
 	Metaphors in metaheuristics - a symptom of a deeper ailment?
