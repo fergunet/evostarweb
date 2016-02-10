@@ -67,9 +67,9 @@ Consensus is forming in (a large part of) the metaheuristics community that ther
 
 <p>
 <strong>Bio:</strong><em> 
-Prof. dr. Kenneth Sörensen.
-University of Antwerp, Faculty of Applied Economics.
-ANT/OR - University of Antwerp Operations Research Group
+Kenneth Sörensen (Antwerp, Belgium, 1974) holds a PhD from the University of Antwerp, obtained in 2003. Currently, he is a Research Professor of the Faculty of Applied Economics of the University of Antwerp. Within this Faculty, he founded the ANT/OR research group, that focuses on applications of operations research. Kenneth Sörensen has published a large number of articles in international refereed journals, and has presented his work at numerous scientic conferences. His main research interests are the application of advanced (metaheuristic) optimization methods and the development and study of optimization methods.
+
+Kenneth Sörensen is the founder and current coordinator of the EURO working group EU/ME – the metaheuristics community, the largest online platform for researchers in metaheuristics worldwide. He is also associate editor of the Journal of Heuristics, International Transactions in Operational Research, and 4OR. 
 </em>
 </p>
 </div>
