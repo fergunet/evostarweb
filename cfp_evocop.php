@@ -8,6 +8,8 @@
 <?php include('common_to_all.php') ?>
       <ul>
 <li><a href="#abstracts">Accepted paper abstracts</a></li>
+<li><a href="pdfs/EvoCOPprogramme.pdf">Download Programme</a></li>
+(Note: programmes are provisional and subject to change until the final version is posted).
 <!--<li><a href="#best">Best Paper Nominees</a></li> 
 <li><a href="pdfs/EvoCOP2015sessions.pdf">Download EuroCOP programme</a></li>
 (Note: programmes are provisional and subject to change until the final version is posted).-->
