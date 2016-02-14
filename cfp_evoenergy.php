@@ -87,7 +87,7 @@ Page limit: 16 pages<br/>
 <ul>
 <li>Oliver Kramer (University of Oldenburg, Germany)</li>
 <li>Chenjie Ma (Fraunhofer Institute for Wind Energy and Energy System Technology, Germany)</li>
-<li>Ingo Mauser (FZI Karlsruhe, Germany)</li>
+<li>Ingo Mauser (Karlsruhe Institute of Technology, Germany)</li>
 <li>Martin Middendorf (University of Leipzig, Germany)</li>
 <li>Maizura Mokhtar (Edimburgh Napier University, UK)</li>
 <li>Frank Neumann (University of Adelaide, AU)</li>
