@@ -3,6 +3,7 @@
 <h2>Evo<span class="red">Star</span> Award for Outstanding Contribution to Evolutionary Computation in Europe 2016 </h2>
 </div>
 
+To be decided
 <!--
 <h2>Winners: <a href="https://sites.google.com/site/aiesparcia/">Anna Esparcia-Alcazar</a> and <a href="http://www.novaims.unl.pt/Docentes-Investigacao/Detalhe-Docente.asp?IDDocente=196">Leonardo Vanneschi</a></h2>
 
