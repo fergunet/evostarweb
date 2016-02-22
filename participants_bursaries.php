@@ -5,6 +5,8 @@
    
 
 <h3>Application deadline:  20 February 2016</h3>
+
+<h2><span class="red">NOTE: APPLICATION IS NOW CLOSED</span></h2>
 <p>
 A limited number of travel bursaries & pre-paid accommodation places will be available
 
