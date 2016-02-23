@@ -8,8 +8,8 @@
 <?php include('common_to_all.php') ?>
 <ul>
 <li><a href="#abstracts">Accepted paper abstracts</a></li>
-<!--<li><a href="#best">Best Paper Nominees</a></li> 
-<li><a href="pdfs/EuroGP2015sessions.pdf">Download EuroGP programme</a></li>-->
+<!--<li><a href="#best">Best Paper Nominees</a></li> -->
+<li><a href="pdfs/EuroGPprogramme.pdf">Download EuroGP programme</a></li>
 </ul>
     <p>Euro<span class="red">GP</span> is the premier annual conference on Genetic 
       Programming, the oldest and the only meeting worldwide devoted specifically 

@@ -7,50 +7,64 @@
 
 <h2>Evo<span class="red">COP</span></h2>
 <ul>
-<li><strong>Hyper-heuristic Operator Selection and Acceptance Criteria</strong></li>
-<em>Richard Marshall, Mark Johnston, Mengjie Zhang </em>
 
-<li><strong>On the Complexity of Searching the Linear Ordering Problem Neighborhoods</strong></li>
-<em>Benjamin Correal, Philippe Galinier</em>
+<li><strong>Hyperplane Elimination for Quickly Enumerating Local Optima</strong><em>
 
-<li><strong>Upper and Lower Bounds on Unrestricted Black-Box Complexity of Jumpn,l</strong></li>
-<em>Maxim Buzdalov, Mikhail Kever, Benjamin Doerr</em>
+Brian W. Goldman, William F. Punch</em></li>
+
+<li><strong>Particle Swarm Optimisation with Sequence-Like Indirect Representation for Web Service Composition</strong><em>
+
+Alexandre Sawczuk da Silva, Yi Mei, Hui Ma, Mengjie Zhang</em></li>
+
+<li><strong>Deconstructing the Big Valley Search Space Hypothesis</strong><em> 
+
+Gabriela Ochoa, Nadarajen Veerapen</em></li>
+
 </ul>
 
 <h2>Euro<span class="red">GP</span></h2>
-
 <ul>
-<li><strong>Cartesian GP in Optimization of Combinational Circuits with Hundreds of Inputs and Thousands of Gates</strong></li>
-<em>Zdenek Vasicek</em>
+<li><strong>Evolutionary Approximation of Edge Detection Circuits</strong><em>
 
-<li><strong>On the Generalization Ability of Geometric Semantic Genetic Programming</strong></li>
-<em>Ivo Gonçalves, Sara Silva, Carlos M. Fonseca</em>
+Petr Dvoracek, Lukas Sekanina</em></li>
 
-<li><strong>Attributed Grammatical Evolution using Shared Memory Spaces and Dynamically Typed Semantic Function Specification</strong></li>
-<em>James Vincent Patten and Conor Ryan</em>
+<li><strong>Surrogate Fitness via Factorization of Interaction Matrix</strong><em>
 
-<strong>The Effect of Distinct Geometric Semantic Crossover Operators in Regression Problems</strong></li>
-<em>Julio Albinati, Gisele Lobo Pappa, Luiz Otavio V.B. Oliveira, Fernando Otero</em>
+Paweł Liskowski, Krzysztof Krawiec</em></li>
+
+<li><strong>Scheduling in Heterogeneous Networks using Grammar-based Genetic Programming</strong><em>
+
+David Lynch, Michael Fenton, Stepan Kucera, Holger Claussen, Michael O'Neill</em></li>
+
+<li><strong>On the Analysis of Simple Genetic Programming for Evolving Boolean Functions</strong><em>
+
+Andrea Mambrini, Pietro S. Oliveto</em></li>
+
 </ul>
 
 <h2>Evo<span class="red">MUSART</span></h2>
 <ul>
-<li><strong>Interior Illumination Design Using Genetic Programming</strong></li>
-Kelly Moylan, Brian Ross
 
- <li><strong>Moody Music Generator: Characterising Control Parameters Using Crowdsourcing</strong></li>
+<li><strong>Augmenting Live Coding with Evolved Patterns</strong><em>
 
-<em>Marco Scirea, Julian Togelius, Mark Nelson</em>
+Simon Hickinbotham and Susan Stepney </em></li>
 
- 
+<li><strong>Computer-Aided Musical Orchestration Using an Artificial Immune System</strong><em>
 
-<li><strong>Evotype: Evolutionary Type Design</strong></li>
+José Abreu, Marcelo Caetano and Rui Penha </em></li>
 
-<em>Tiago Martins, João Correia, Ernesto Costa, Penousal Machado</em>
+<li><strong>MetaCompose: A Compositional Evolutionary Music Composer</strong><em>
 
- 
+Marco Scirea, Julian Togelius, Peter Eklund and Sebastian Risi </em></li>
 
-<li><strong>Lichtsuchende: Exploring the Emergence of a Cybernetic Society</strong></li>
-<em>Dave Murray-Rust, Rocio von Jungenfeld</em>
+<li><strong>Evolving Atomic Aesthetics and Dynamics</strong><em>
+
+Edward Davies, Phillip Tew, David Glowacki, Jim Smith and Thomas Mitchell</em></li>
+
+</ul>
+
+<h2>Evo<span class="red">APPS</span></h2>
+<ul>
+TBA
 </ul>
 <?php include('footer.php') ?>
