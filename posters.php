@@ -1,0 +1,1 @@
+<?php header('Location: location_posters.php'); ?>
