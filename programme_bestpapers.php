@@ -65,6 +65,50 @@ Edward Davies, Phillip Tew, David Glowacki, Jim Smith and Thomas Mitchell</em></
 
 <h2>Evo<span class="red">APPS</span></h2>
 <ul>
-TBA
+
+
+<li><strong>Automating biomedical data science through tree­based pipeline optimization
+
+(EvoBIO)</strong><em>
+
+Randal Olson, Ryan Urbanowicz, Peter Andrews, Nicole Lavender, La Creis
+
+Kidd, Jason Moore</em></li>
+
+<li><strong>An (MI)LP­based Metaheuristic for 3­Architecture Connected Facility Location in
+
+Urban Access Network Design (EvoCOMNET)</strong><em>
+
+Fabio D'Andreagiovanni, Fabian Mett, Jonad Pulaj</em></li>
+
+<li><strong>Comparison of Multi­objective Evolutionary Optimization in Smart Building
+
+Scenarios (EvoENERGY)</strong><em>
+
+Marlon Braun, Thomas Dengiz, Ingo Mauser, Hartmut Schmeck</em></li>
+
+<li><strong>Orthogonally Evolved AI to Improve Difficulty Adjustment in Video Games
+
+(EvoGAMES)</strong><em>
+
+Arend Hintze, Randal Olson, Joel Lehman</em></li>
+
+<li><strong>Speaker Verification on Unbalanced Data with Genetic Programming (EvoIASP)</strong><em>
+
+Roisin Loughran, Alexandros Agapitos, Ahmed Kattan, Anthony Brabazon,
+
+Michael O'Neill</em></li>
+
+<li><strong>Implementing Parallel Differential Evolution on Spark (EvoPAR)</strong><em>
+
+Diego Teijeiro, Xoan C. Pardo, Patricia Gonzalez, Julio R. Banga, Ramon
+
+Doallo</em></li>
+
+<li><strong>Direct Memory Schemes for Population­based Incremental Learning in
+
+Cyclically Changing Environments (EvoSTOC)</strong><em>
+
+Michalis Mavrovouniotis, Shengxiang Yang</em></li>
 </ul>
 <?php include('footer.php') ?>
