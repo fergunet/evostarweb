@@ -9,6 +9,7 @@
         <h2>Latest <span class="red">news</span>:<h2>
    </div>
 <ul>
+	<li>Evostar handbook <a href="pdfs/EvoStarHandbook2016reduced.pdf">in PDF</a> or in <a href="https://issuu.com/jwillies/docs/evostarhandbook2016reduced">ISSUU webpage</a>.</li>
 	<li>Evostar <a href="programme_overview.php">programme</a>.</li>
 	<li>Information about <a href="location_about_porto.php">Porto</a>, <a href="location_porto.php">travel</a>, <a href="location_venue.php">venue location</a> and <a href="location_accommodation.php">accommodation</a></li>
 	<li><a href="participants_registration.php">REGISTRATION</a> information and <a href="participants_bursaries.php">Student Travel Bursaries</a>.</li>
