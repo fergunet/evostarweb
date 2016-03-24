@@ -16,6 +16,8 @@ which is located close to the historical centre of O’Porto.
 
 The closest Metro stations are “Carolina Michaelis” “Casa da Música”.
 </p>
+
+<p>Information about <a href="location_porto.php#airport">getting to the city centre from the airport</a>.</p>
 <a href="https://www.google.co.uk/maps/dir//Casa+Diocesana+-+Semin%C3%A1rio+De+Vilar,+R.+Arcediago+Vanzeller+50,+4050-621+Porto/@41.1492113,-8.6269489,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0xd24650fa2a566e9:0xe474920b1e2b15b!2m2!1d-8.6283544!2d41.1500313">Google Map Link</a>
 
 

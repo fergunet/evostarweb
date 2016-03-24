@@ -41,8 +41,11 @@ The airport transfer means are highly reliable, Francisco Sa Carneiro Airport be
 
 both public means of transport (buses and metros) and private means (rented cars and taxis).
 </p>
-<p>
-<strong>Getting from the Airport</strong><br/>
+<p id =  "airport">
+<br/>
+<br/>
+<br/>
+<strong >Getting from the Airport</strong><br/>
 </p>
 <p>
 The Metro Line E (the Violet line) leaves from the airport every 20-30 minutes from 

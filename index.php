@@ -9,10 +9,18 @@
         <h2>Latest <span class="red">news</span>:<h2>
    </div>
 <ul>
+	<li>Online access to Springer proceedings:</li>
+	<ul>
+<li><a href="http://link.springer.com/book/10.1007%2F978-3-319-30668-1"> EuroGP 2016, LNCS 9594</a></li>
+<li><a href="http://link.springer.com/book/10.1007%2F978-3-319-30698-8"> EcoCOP 2016, LNCS 9595</a></li>
+<li><a href="http://link.springer.com/book/10.1007%2F978-3-319-31008-4"> EvoMUSART 2016, LNCS 9596</a></li>
+<li><a href="http://link.springer.com/book/10.1007%2F978-3-319-31204-0"> EvoApplications 2016, Part I, LNCS 9597</a></li>
+<li><a href="http://link.springer.com/book/10.1007%2F978-3-319-31153-1"> EvoApplications 2016, Part II, LNCS 9598</a></li>
+	</ul>
+	<li>Information about getting to the <a href="location_porto.php#airport">City Centre from the Airport</a> and <a href="location_venue.php">Getting to the Venue</a> (with nearest metro stations).</li>
 	<li>Evostar handbook <a href="pdfs/EvoStarHandbook2016reduced.pdf">in PDF</a> or in <a href="https://issuu.com/jwillies/docs/evostarhandbook2016reduced">ISSUU webpage</a>.</li>
 	<li>Evostar <a href="programme_overview.php">programme</a>.</li>
 	<li>Information about <a href="location_about_porto.php">Porto</a>, <a href="location_porto.php">travel</a>, <a href="location_venue.php">venue location</a> and <a href="location_accommodation.php">accommodation</a></li>
-	<li><a href="participants_registration.php">REGISTRATION</a> information and <a href="participants_bursaries.php">Student Travel Bursaries</a>.</li>
 </ul>
 <h2>Evo<span class="red">star</span> 2016</h2>
 
