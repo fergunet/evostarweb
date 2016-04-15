@@ -1,7 +1,7 @@
 
 <?php include('header.php') ?>
 
-        <h2>Best Paper <span class="red">Candidates</span> <h2>
+        <h2>Best Paper <span class="red">Candidates and Winners</span> <h2>
    </div>
 
 
@@ -16,7 +16,7 @@ Brian W. Goldman, William F. Punch</em></li>
 
 Alexandre Sawczuk da Silva, Yi Mei, Hui Ma, Mengjie Zhang</em></li>
 
-<li><strong>Deconstructing the Big Valley Search Space Hypothesis</strong><em> 
+<li><strong><span class="red">[WINNER]</span> Deconstructing the Big Valley Search Space Hypothesis</strong><em> 
 
 Gabriela Ochoa, Nadarajen Veerapen</em></li>
 
@@ -28,7 +28,7 @@ Gabriela Ochoa, Nadarajen Veerapen</em></li>
 
 Petr Dvoracek, Lukas Sekanina</em></li>
 
-<li><strong>Surrogate Fitness via Factorization of Interaction Matrix</strong><em>
+<li><strong><span class="red">[WINNER]</span> Surrogate Fitness via Factorization of Interaction Matrix</strong><em>
 
 Paweł Liskowski, Krzysztof Krawiec</em></li>
 
@@ -81,7 +81,7 @@ Urban Access Network Design (EvoCOMNET)</strong><em>
 
 Fabio D'Andreagiovanni, Fabian Mett, Jonad Pulaj</em></li>
 
-<li><strong>Comparison of Multi­objective Evolutionary Optimization in Smart Building
+<li><strong><span class="red">[WINNER]</span> Comparison of Multi­objective Evolutionary Optimization in Smart Building
 
 Scenarios (EvoENERGY)</strong><em>
 

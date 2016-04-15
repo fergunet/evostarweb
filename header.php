@@ -63,7 +63,7 @@
                 <li><a href="programme_research_projects.php">Research Project Space</a></li>
                 <li><a href="programme_speakers.php">Invited Speakers</a></li>
                 <li><a href="programme_overview.php">Programme</a></li>
-                <li><a href="programme_bestpapers.php">Best Paper Candidates</a></li>
+                <li><a href="programme_bestpapers.php">Best Paper Candidates and Winners</a></li>
                 <li><a href="awards_outstanding.php">Award for Outstanding Contribution to EC</a></li>
               </ul>
             </li>
