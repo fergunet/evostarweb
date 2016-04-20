@@ -9,6 +9,7 @@
         <h2>Latest <span class="red">news</span>:<h2>
    </div>
 <ul>
+	<li>Evostar 2017 will be held in Amsterdam! Stay tuned!</li>
 	<li>Online access to Springer proceedings:</li>
 	<ul>
 <li><a href="http://link.springer.com/book/10.1007%2F978-3-319-30668-1"> EuroGP 2016, LNCS 9594</a></li>
