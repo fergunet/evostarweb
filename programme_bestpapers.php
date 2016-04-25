@@ -53,7 +53,7 @@ Simon Hickinbotham and Susan Stepney </em></li>
 
 José Abreu, Marcelo Caetano and Rui Penha </em></li>
 
-<li><strong>MetaCompose: A Compositional Evolutionary Music Composer</strong><em>
+<li><strong><span class="red">[WINNER]</span>MetaCompose: A Compositional Evolutionary Music Composer</strong><em>
 
 Marco Scirea, Julian Togelius, Peter Eklund and Sebastian Risi </em></li>
 
