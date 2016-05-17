@@ -6,8 +6,9 @@
 
 <?php include('header.php') ?>
 
-        <h2>Latest <span class="red">news</span>:<h2>
-   </div>
+
+        <h2>Latest <span class="red">news</span>:</h2>
+ </div>
 <ul>
 	<li>Evostar 2017 will be held in Amsterdam! Stay tuned!</li>
 	<li>Online access to Springer proceedings:</li>

@@ -38,10 +38,20 @@
     </div>
 </div>
 
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+
 
 <footer>
   <div class="well">
@@ -50,7 +60,7 @@
 <a href="https://www.facebook.com/evostarconf"><img src="img/facebook.png"></a>
 <a href="http://www.linkedin.com/groups?gid=1908983"><img src="img/linkedin.png"></a>
 <br>
-Header photo by <a href="https://www.flickr.com/photos/sowhat0/3482181733/">SoWhat at Flickr</a> <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>.
+
 </div>
 </footer>
 

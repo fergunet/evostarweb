@@ -1,6 +1,6 @@
-<div class="page-header">
-        <h2>Call for papers:<h2>
-</div>
+
+        <h4>Call for papers:</h4>
+
 
 <ul class="list-group">
 <li class="list-group-item"><strong><a href="cfp_eurogp.php">Euro<span class="red">GP</span></a></strong><br/></li>
