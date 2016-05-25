@@ -60,7 +60,7 @@
 <a href="https://www.facebook.com/evostarconf"><img src="img/facebook.png"></a>
 <a href="http://www.linkedin.com/groups?gid=1908983"><img src="img/linkedin.png"></a>
 <br>
-
+Banner photo by <span class="red">Merijn Roubroeks</span>.
 </div>
 </footer>
 
