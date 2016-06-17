@@ -3,7 +3,9 @@
         <h2>Invited Speakers<h2>
    </div>
 
-<h2>
+   TBA
+
+<!-- <h2>
 	THE EVOLUTION OF BEAGLE: CONFESSIONS OF A MONGREL RULE-BREEDER, by <span class="red">Richard Forsyth</span></h2>
 
 
@@ -73,5 +75,5 @@ Kenneth Sörensen is the founder and current coordinator of the EURO working gro
 </em>
 </p>
 </div>
-
+-->
        <?php include('footer.php') ?>

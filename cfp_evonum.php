@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">NUM</span> 2016<h2>
+        <h2>Evo<span class="red">NUM</span> 2017<h2>
    </div>
 
 <h2>Bio-inspired Algorithms for Continuous Parameter Optimisation</h2>
@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 
@@ -65,20 +65,6 @@ aesparcia(at)pros.upv.es</li>
 </ul>
 
 <h3>Programme Committee</h3>
-<ul>
-<li>Hans-Georg Beyer, Vorarlberg University of Applied Sciences, Austria</li>
-<li>Ying-ping Chen, National Chiao Tung University, Taiwan</li>
-<li>Marc Ebner, Ernst Moritz Arndt Universitaet Greifswald, Germany</li>
-<li>Bill Langdon, University College London, UK </li>
-<li>JJ Merelo, Universidad de Granada, Spain </li>
-<li>Salma Mesmoudi, Institut des Systèmes Complexes, France</li>
-<li>Ferrante Neri, De Montfort University, UK</li>
-<li>Petr Pošík, Czech Technical University in Prague, Czech Republic</li>
-<li>Mike Preuss, WWU Münster, Germany</li>
-<li>Ivo Fabian Sbalzarini, Max Planck Institute of Molecular Cell Biology and Genetics, Germany</li>
-<li>Guenter Rudolph, University of Dortmund, Germany</li>
-<li>Marc Schoenauer, INRIA, France</li>
-<li>Olivier Teytaud, INRIA, France</li>
-</ul>
+TBA
 
     <?php include('footer.php') ?>

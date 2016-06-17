@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">COMNET</span> 2016<h2>
+        <h2>Evo<span class="red">COMNET</span> 2017<h2>
    </div>
 
 <p><strong>Application of Nature-inspired Techniques for Communication Networks and
@@ -9,15 +9,13 @@ Applied Soft Computing journal</strong></p>
 <?php include('common_to_all.php') ?>
 
 
-<p>
-<a href="pdfs/flyer-evocomnet2016.pdf">Download flyer</a>
-</p>
+
 <div class="panel panel-default">
             <div class="panel-heading">
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 
@@ -85,25 +83,5 @@ ernesto.tarantino(at)na.icar.cnr.it
 <h3>Programme Committee</h3>
 
 
-<ul>
-<li>Fabio D'Andreagiovanni (Zuse Institute Berlin, Germany)</li>
-<li>Antonios Gasteratos (Democritus University of Thrace, Greece)</li>
-<li>Jin-Kao Hao (University of Angers, France)</li>
-<li>Rolf Hoffmann (Technical University Darmstadt, Germany)</li>
-<li>Graham Kendall (University of Nottingham, UK)</li>
-<li>Farrukh Aslam Khan (National University of Computer & Emerging Sciences, Pakistan)</li>
-<li>Kenji Leibnitz (National Institute of Information and Communications Technology, Japan)</li>
-<li>Davide Marocco (University of Naples, Italy)</li>
-<li>Domenico Maisto (ICAR-CNR, Italy)</li>
-<li>Roberto Montemanni (IDSIA, Switzerland)</li>
-<li>Robert Schaefer (University of Science and Technology, Poland)</li>
-<li>Sevil Sen (Hacettepe University, Turkey)</li>
-<li>Chien-Chung Shen (University of Delaware, USA)</li>
-<li>Georgios Sirakoulis (Democritus University of Thrace, Greece)</li>
-<li>Pawel Topa (AGH University of Science and Technology, Poland)</li>
-<li>Marco Villani (University of Modena and Reggio Emilia, Italy)</li>
-<li>Jaroslaw Was (AGH University of Science and Technology, Poland)</li>
-<li>Tony White (Carleton University, Canada)</li>
-<li>Nur Zincir-Heywood (Dalhousie University, Canada)</li>
-</ul>
+TBA
     <?php include('footer.php') ?>

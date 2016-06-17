@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 
@@ -69,29 +69,5 @@ amorag(at)geneura.ugr.es</li>
 
 
 <h3>Programme Committee</h3>
-<ul>
-<li>Tobias Mahlmann (Lund University, Sweden)</li>
-<li>Antonio Gonzalez (Pardo Basque Center for Applied Mathematics, Spain)</li>
-<li>Rodica Ioana (Lung Babes-Bolyai University, Germany)</li>
-<li>Antonio M. Mora Garcia (University Of Granada, Spain)</li>
-<li>Paolo Burelli (Aalborg University, Denmark)</li>
-<li>Johan Hagelbäck (Blekinge Tekniska Högskola, Sweden)</li>
-<li>John Hallam (University of Southern Denmark, Denmark)</li>
-<li>Mike Preuss (TU Dortmund, Germany)</li>
-<li>Moshe Sipper (Ben-Gurion University, Israel)</li>
-<li>Pablo Garc&iacute;a S&aacute;nchez (University of Granada, Spain)</li>
-<li>Antonio Fernández-Ares (Universidad de Granada, Spain)</li>
-<li>David Camacho (Universidad Autonoma de Madrid, Spain)</li>
-<li>Julian Togelius (New York University, USA)</li>
-<li>Antonios Liapis (University Of Malta, Malta)</li>
-<li>Patricia Paderewski Rodriguez (University Of Granada, Spain)</li>
-<li>Noor Shaker (Aalborg University, Denmark)</li>
-<li>Antonio J. Fernandez Leiva (University Of Malaga, Spain)</li>
-<li>Georgios N. Yannakakis (University Of Malta, Malta)</li>
-<li>Federico Liberatore (Universidad Rey Juan Carlos, Spain)</li>
-<li>Francisco Luis Gutierrez Vela (University Of Granada, Spain)</li>
-<li>Giovanni Squillero (Politecnico di Torino, Italy)</li>
-<li>Alberto Tonda (INRA, France)</li>
-<li>Tommaso Urli (Csiro Data61, Australia)</li>
-</ul>
+TBA
     <?php include('footer.php') ?>

@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">PAR</span> 2016<h2>
+        <h2>Evo<span class="red">PAR</span> 2017<h2>
    </div>
 
  <h2>Parallel Architectures and Distributed Infrastructures</h2>
@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
       </div>
 </div>
     <p>There is growing interest in running evolutionary computation on Parallel 
@@ -90,18 +90,7 @@
     </div>
     <h2>Programme Committee</h2>
     
-    <ul>
-<li>Una-May O'really (MIT, USA)</li>
-<li>Jose Manuel Colmenar (URJC, Spain)</li>
-<li>Marco Tomassini (Lausanne University, Switzerland)</li>
-<li>William Langdon (University College London, UK)</li>
-<li>Francisco Luna (University of Extremadura, Spain)</li>
-<li>Jose Carlos Ribeiro (Politechnique Institute of Leiria, Portugal)</li>
-<li>Gianluigi Folino (ICAR-CNR, Italy)</li>
-<li>Juan L. Jim&eacute;nez (Universit&eacute; du Luxemburg, Luxemburg)</li>
-<li>Ignacio Arnaldo (MIT, USA)</li>
-<li>Sebastien Varrette (Universit&eacute; du Luxemburg, Luxemburg)</li>
-    </ul>
+TBA
   
 
     <?php include('footer.php') ?>

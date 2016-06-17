@@ -2,7 +2,8 @@
 
         <h2>Travel and accommodation bursaries for students</h2>
    </div>
-   
+   TBA
+   <!--
 
 <h3>Application deadline:  20 February 2016</h3>
 
@@ -82,5 +83,5 @@ notified to all applicants by 23 February.
 
 <h2><a href="https://www.surveymonkey.co.uk/r/evostar16bursary">APPLY HERE</a></h2>
 
-
+-->
 <?php include('footer.php') ?>

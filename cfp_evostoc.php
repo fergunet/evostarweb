@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 
@@ -18,9 +18,9 @@ Following the success of previous events and the importance of the
 
 field of evolutionary and bio-inspired computation for dynamic 
 
-optimization problems, the Evo<span class="red">STOC</span> 2016 will run its 13th edition 
+optimization problems, the Evo<span class="red">STOC</span> 2017 will run its 14th edition 
 
-as a track of EvoApplications, the 19th European Conference on the 
+as a track of EvoApplications, the 20th European Conference on the 
 
 Applications of Evolutionary and bio-inspired Computation. 
 
@@ -134,32 +134,13 @@ Further information on the conference and co-located events can be
 found in: http://www.evostar.org 
 
 <h3> Programme committee </h3> 
-
-<ul>
-<li>Juergen Branke (University of Warwick, United Kingdom)</li>
-<li>Hui Cheng (Liverpool John Moores University, United Kingdom)</li>
-<li>Ernesto Costa (University of Coimbra, Portugal)</li>
-<li>Andries P Engelbrecht (University of Pretoria, South Africa)</li>
-<li>A. Sima Etaner-Uyar (Istanbul Technical University, Turkey)</li>
-<li>Shayan Kavakeb (Liverpool John Moores University, United Kingdom)</li>
-<li>Changhe Li (China University of Geosciences, China)</li>
-<li>Michalis Mavrovouniotis (De Montfort University, United Kingdom)</li>
-<li>Jorn Mehnen (Cranfield University, United Kingdom)</li>
-<li>Ferrante Neri (De Montfort University, United Kingdom)</li>
-<li>David Pelta (University of Granada, Spain)</li>
-<li>Hendrik Richter (Leipzig University of Applied Sciences, Germany)</li>
-<li>Anabela Simões (Institute Polytechnic of Coimbra, Portugal)</li>
-<li>Renato Tinós (Universidade de São Paulo, Brazil)</li>
-<li>Trung Thanh Nguyen (Liverpool John Moores University, United Kingdom)</li>
-<li>Krzysztof Trojanowski (Polish Academy of Sciences, Poland)</li>
-<li>Shengxiang Yang (De Montfort University, United Kingdom)</li>
-<li>Xin Yao (University of Birmingham, United Kingdom)</li>
-</ul>
+TBA
 
 
 <h3> Track chairs </h3> 
 
-<ul>
+TBA
+<!--<ul>
 <li><strong>Trung Thanh Nguyen </strong><br/>
 Liverpool John Moores University, United Kingdom<br/> 
 T.T.Nguyen(at)ljmu.ac.uk</li>
@@ -168,5 +149,5 @@ T.T.Nguyen(at)ljmu.ac.uk</li>
 De Monfort University, United Kingdom<br/>
 Mmavrovouniotis(at)dmu.ac.uk;
 </li>
-</ul>
+</ul>-->
     <?php include('footer.php') ?>

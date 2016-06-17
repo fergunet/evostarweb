@@ -4,7 +4,7 @@
    </div>
 
 <p>
-   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 15 February 2016), and also ATTEND to present his/her paper.</strong> 
+   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before INSERT DATE HERE), and also ATTEND to present his/her paper.</strong> 
 </p>
 Please follow Springer's LNCS instructions when preparing your paper.
 
@@ -33,10 +33,10 @@ Submit your final camera-ready paper NO LATER than
 through the appropriate submission system at
 
 <ul>
-<li>Euro<span class="red">GP</span>: <a href="http://myreview.csregistry.org/eurogp16/SubmitPaper.php">http://myreview.csregistry.org/eurogp16/SubmitPaper.php</a></li>
-<li>Evo<span class="red">COP</span>: <a href="http://myreview.csregistry.org/evocop16/SubmitPaper.php">http://myreview.csregistry.org/evocop16/SubmitPaper.php</a></li>
-<li>Evo<span class="red">MUSART</span>: <a href="http://myreview.csregistry.org/evomusart16/SubmitPaper.php">http://myreview.csregistry.org/evomusart16/SubmitPaper.php</a></li>
-<li>Evo<span class="red">Applications</span>: <a href="http://myreview.csregistry.org/evoapps16/SubmitPaper.php">http://myreview.csregistry.org/evoapps16/SubmitPaper.php</a></li>
+<li>Euro<span class="red">GP</span>: <a href="http://myreview.csregistry.org/eurogp17/SubmitPaper.php">http://myreview.csregistry.org/eurogp17/SubmitPaper.php</a></li>
+<li>Evo<span class="red">COP</span>: <a href="http://myreview.csregistry.org/evocop17/SubmitPaper.php">http://myreview.csregistry.org/evocop17/SubmitPaper.php</a></li>
+<li>Evo<span class="red">MUSART</span>: <a href="http://myreview.csregistry.org/evomusart17/SubmitPaper.php">http://myreview.csregistry.org/evomusart17/SubmitPaper.php</a></li>
+<li>Evo<span class="red">Applications</span>: <a href="http://myreview.csregistry.org/evoapps17/SubmitPaper.php">http://myreview.csregistry.org/evoapps17/SubmitPaper.php</a></li>
 </ul>
 using your id and password.
 
@@ -133,14 +133,14 @@ which includes the following information:<br/>
 </p>
 
 <hr/>
-In summary, you have to do each of the following 5 tasks no later than <strong>18 January 2016</strong>
+In summary, you have to do each of the following 5 tasks no later than <strong>INSERT DATE HERE</strong>
 <ul>
 <li>Submit the paper including all source files (see above for details)</li>
 <li>Submit an authors.txt file</li>
 <li>Submit an abstract.txt file</li>
 <li>Complete and submit a signed copyright form as PDF</li>
-<li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2016</li>
-<li>At least one author must register and pay the conference fee by the <strong>15 February</strong> 2016. Failure to do so could result in the paper being excluded from publication.</li>
+<li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2017</li>
+<li>At least one author must register and pay the conference fee by the <strong>INSERT DATE HERE</strong> 2017. Failure to do so could result in the paper being excluded from publication.</li>
 </ul>
 
 

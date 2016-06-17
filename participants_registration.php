@@ -1,8 +1,9 @@
 <?php include('header.php') ?>
 
-        <h2>Evo* 2016 REGISTRATION<h2>
+        <h2>Evo* 2017 REGISTRATION<h2>
    </div>
-
+TBA
+<!--
 <h4><span class="red">Early Registration Discount Expires 25 February 2016</span></h4>
 
 <p><strong>Late Registration Closes 24 March 2016 a week before the events commence and just
@@ -91,6 +92,7 @@ From <a href="mailto:j.willies@napier.ac.uk">Jennifer Willies</a>, EvoStar Confe
               
             </div>
       </div>
-      
+
+-->
 
 <?php include('footer.php') ?>

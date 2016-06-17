@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-<h2>Evo<span class="red">Star</span> Award for Outstanding Contribution to Evolutionary Computation in Europe 2016 </h2>
+<h2>Evo<span class="red">Star</span> Award for Outstanding Contribution to Evolutionary Computation in Europe 2017 </h2>
 </div>
 
 

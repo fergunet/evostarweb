@@ -95,8 +95,8 @@
              <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Local Information<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="location_about_porto.php">About Porto</a></li>
-                <li><a href="location_porto.php">Getting to Porto</a></li>
+                <li><a href="location_about_amsterdam.php">About Amsterdam</a></li>
+                <li><a href="location_amsterdam.php">Getting to Amsterdam</a></li>
                 <li><a href="location_venue.php">Getting to the venue</a></li>                
                 <li><a href="location_accommodation.php">Accommodation</a></li>
                 <li><a href="location_posters.php">Posters/WI-FI</a></li>

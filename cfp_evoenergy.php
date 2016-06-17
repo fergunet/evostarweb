@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">ENERGY</span> 2016<h2>
+        <h2>Evo<span class="red">ENERGY</span> 2017<h2>
    </div>
 
 
@@ -12,7 +12,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 
@@ -84,18 +84,5 @@ Page limit: 16 pages<br/>
 
 <h3>Confirmed program committee</h3>
 
-<ul>
-<li>Oliver Kramer (University of Oldenburg, Germany)</li>
-<li>Chenjie Ma (Fraunhofer Institute for Wind Energy and Energy System Technology, Germany)</li>
-<li>Ingo Mauser (Karlsruhe Institute of Technology, Germany)</li>
-<li>Martin Middendorf (University of Leipzig, Germany)</li>
-<li>Maizura Mokhtar (Edimburgh Napier University, UK)</li>
-<li>Frank Neumann (University of Adelaide, AU)</li>
-<li>Peter Palensky (Technical University of Delft, Netherlands)</li>
-<li>Bernhard Sick (University of Kassel, Germany)</li>
-<li>Stefano Squartini (Università Politecnica delle Marche, Italy)</li>
-<li>Andy Tyrrell (University of York, UK)</li>
-<li>Markus Wagner (University of Adelaide, AU)</li>
-</ul>
--->
+TBA
     <?php include('footer.php') ?>

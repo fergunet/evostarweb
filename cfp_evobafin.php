@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">BAFIN</span> 2016<h2>
+        <h2>Evo<span class="red">BAFIN</span> 2017<h2>
    </div>
 
 <h3>Natural Computing Methods in Business Analytics and Finance</h3>
@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 
@@ -66,19 +66,5 @@ University College Dublin, Ireland <br/>
 
 <h3>Programme Committee</h3>
 
-<ul>
-<li>Eva Alfaro (Instituto Technologico de Informatica, Spain)</li>
-<li>Anthony Brabazon (University College Dublin, Ireland)</li>
-<li>Malcom Heywood (Dalhousie University, Canada)</li>
-<li>Ronald Hochreiter (WU Vienna University of Economics and Business, Austria)</li>
-<li>Michael Kampouridis (University of Kent, UK)</li>
-<li>Ahmed Kattan (EvoSys.biz, Saudi Arabia)</li>
-<li>Piotr Lipinski (University of Wroclaw, Poland)</li>
-<li>Michael Mayo (University of Waikato, New Zealand)</li>
-<li>Krzysztof Michalak (Wroclaw University of Economics, Poland)</li>
-<li>Michael O'Neill (University Collge Dublin, Ireland)</li>
-<li>Conall O’Sullivan (University Collge Dublin, Ireland)</li>
-<li>Andrea Tettamanzi (Univ. Nice Sophia Antipolis / I3S, France)</li>
-<li>Ruppa Thulasiram (University of Manitoba, Cananda)</li>
-</ul>
+TBA
 <?php include('footer.php') ?>

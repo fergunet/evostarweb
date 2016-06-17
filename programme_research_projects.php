@@ -2,7 +2,8 @@
 
         <h2>Research Project Space at Evostar<h2>
    </div>
-
+   TBA
+<!--
  <p>
 EvoStar welcomes researchers interested in presenting their project work at the EvoStar poster sessions.  This includes nationally-funded projects or research funded by the EC or other international funding bodies. EvoStar can provide a useful audience for your project.
  </p>
@@ -26,5 +27,6 @@ Proposals are welcome on work relevant to bio-inspired computation.  Poster spac
 <li>supply your final abstract (max 250 words) for inclusion in the conference handbook <strong>no later than 5 March 2016</strong> – it should describe the project aims and partners and include a project URL
 </li>
 </ol>
+-->
 
        <?php include('footer.php') ?>

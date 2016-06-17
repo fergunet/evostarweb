@@ -11,15 +11,15 @@
             </div>
             <div class="panel-body">
               
-              <strong>Submission Deadline:</strong> <strike>1 November 2015</strike><br/>
-              <span class="red"><strong>EXTENDED DEADLINE:</strong> 11 November 2015</span><br/> <em>(site remains open for final changes until 15 Nov)</em><br/>
-              <strong>Notification:</strong> 4 January 2016<br/>
-              <strong>Camera-ready:</strong> 18 January 2016<br/>
-              <strong>Mandatory registration per paper:</strong> 15 February</br>
-              <strong>Student bursary deadline:</strong> 20 February <br/>
-              <strong>Early registration discount:</strong> 25 February 2016<br/>
-              <strong>Registration deadline:</strong> 24 March<br/>
-              <strong>EvoStar dates:</strong> 30 March - 1 April 2016<br/>
+              <strong>Submission Deadline:</strong> <strike>TBA</strike><br/>
+              <!--<span class="red"><strong>EXTENDED DEADLINE:</strong> 11 November 2015</span><br/> <em>(site remains open for final changes until 15 Nov)</em><br/>-->
+              <strong>Notification:</strong> TBA<br/>
+              <strong>Camera-ready:</strong> TBA<br/>
+              <strong>Mandatory registration per paper:</strong> TBA</br>
+              <strong>Student bursary deadline:</strong> TBA <br/>
+              <strong>Early registration discount:</strong> TBA<br/>
+              <strong>Registration deadline:</strong> TBA<br/>
+              <strong>EvoStar dates:</strong> 19-21 April 2017<br/>
               
             </div>
       </div>
@@ -28,7 +28,7 @@
               <h3 class="panel-title">Twitter:</h3>
             </div>
             <div class="panel-body">
-              <a class="twitter-timeline" href="https://twitter.com/Evostar2014" data-widget-id="473865364518887424">Tweets by @Evostar2014</a>
+              <a class="twitter-timeline" href="https://twitter.com/Evostar2014" data-widget-id="473865364518887424">Tweets by @Evostar2017</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 

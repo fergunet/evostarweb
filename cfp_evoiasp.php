@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">IASP</span> 2016<h2>
+        <h2>Evo<span class="red">IASP</span> 2017<h2>
    </div>
 
  <h2>Evolutionary Computation in Image Analysis, Signal Processing
@@ -11,7 +11,7 @@ and Pattern Recognition</h2>
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 

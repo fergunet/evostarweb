@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">BIO</span> 2016<h2>
+        <h2>Evo<span class="red">BIO</span> 2017<h2>
    </div>
 
 
@@ -11,11 +11,11 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 
-Join us in Porto  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics and Computational Biology
+Join us in Amsterdam  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics and Computational Biology
  that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in biology, from the molecular and genomic dimension, to the individual and population level.  Evo<span class="red">BIO</span> engages researchers who are developing or applying advanced artificial intelligence or machine learning algorithms to cutting edge problems in bioinformatics and computational biology.  Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by <strong>Springer Verlag</strong> in the <strong>LNCS</strong> series.  Possible topics of interest include, but are not limited to:
 <ul>
 <li>Interpreting genomic or metagenomic data</li>
@@ -31,7 +31,7 @@ Join us in Porto  for Evo<span class="red">BIO</span>, a multidisciplinary track
 <li>Assembling next generation sequence data</li>
 </ul>
 <p>
-For more information, visit our web page at <a href="http://www.evostar.org/2016/">http://www.evostar.org/2016/</a>, or follow us on Twitter @EVOBio2016, join our evobio2016 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
+For more information, visit our web page at <a href="http://www.evostar.org/2017/">http://www.evostar.org/2017/</a>, or follow us on Twitter @EVOBio2017, join our evobio2017 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
 </p>
 <p>
 An extended version of the best paper may be considered for publication in the Biodata Mining Journal of Biomed Central (IF: 2.02) with open access publishing fees waived (<a href="http://www.biodatamining.org/">http://www.biodatamining.org/</a>)
@@ -76,28 +76,6 @@ Memorial University, St. John’s, NL Canada <br/>
 
 <h3>Programme Committee</h3>
 
-<ul>
-<li>Mengjie Zhang (Victoria University of Wellington, New Zealand)</li>
-<li>Alex Freitas (University of Kent, UK)</li>
-<li>Carlotta Orsenigo (Politecnico di Milano, Italy)</li>
-<li>Casey Greene (Dartmouth College, USA)</li>
-<li>Christian Darabos (University of Pennsylvania, USA)</li>
-<li>Clara Pizzuti (ICAR CNR, Italy)</li>
-<li>Dr Bing Xue (Victoria University of Wellington (VUW), New Zealand)</li>
-<li>Edward Keedwell (University of Exeter, UK)</li>
-<li>Elena Marchiori (Radboud Universiteit van Nijmegen, Netherlands)</li>
-<li>Florentino Fernandez (Universidad de Vigo, Spain)</li>
-<li>Jin-Kao Hao (University of Angers, France)</li>
-<li>Jitesh Dundas (Edencore Technologies, Indian Institue of Technology, India)</li>
-<li>Jose Santos Reyes (Universidad de A Coruña, Spain)</li>
-<li>Leonardo Vanneschi (Universidade Nova de Lisboa, Portugal)</li>
-<li>Mario Giacobini (Universitá di Torino, Italy)</li>
-<li>Michael Raymer (Wright State University, USA)</li>
-<li>Raffaele Giancarlo (Università degli Studi di Palermo, Italy)</li>
-<li>Rosalba Giugno (University of Catania, Italy)</li>
-<li>Ryan Urbanowicz (University of Pennsylvania, USA)</li>
-<li>Simona Rombo (Università degli Studi di Palermo, Italy)</li>
-<li>Vincent Moulton (University of East Anglia, UK)</li>
-</ul>
+TBA
 
     <?php include('footer.php') ?>

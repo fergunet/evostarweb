@@ -2,7 +2,8 @@
 
         <h2>Letters of Invitation to EvoStar<h2>
    </div>
-
+TBA
+<!--
 <p>Letters of invitation to EvoStar 2016 for the purposes of obtaining a visa to 
 
 enter Portugal are only prepared for authors of accepted papers, or for 
@@ -48,5 +49,5 @@ questions for clarification purposes can be sent to the EvoStar Coordinator,
 
 header of your email.
 </p>
-
+-->
 <?php include('footer.php') ?>

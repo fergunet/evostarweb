@@ -2,11 +2,11 @@
 
         <h2>Evo<span class="red">MUSART</span><h2>
    </div> 
- <h2>5th International Conference on Evolutionary and Biologically Inspired 
+ <h2>6th International Conference on Evolutionary and Biologically Inspired 
       Music, Sound, Art and Design</h2>
 <?php include('common_to_all.php') ?>
-    <p>April 2016, Porto, Portugal<br />
-      Part of evo<span class="red">*</span> 2016<br />
+    <p>April 2017, Amsterdam, The Netherlands<br />
+      Part of evo<span class="red">*</span> 2017<br />
       evo<span class="red">*</span>: <a href="http://www.evostar.org">http://www.evostar.org</a></p>
     
          <ul>
@@ -24,18 +24,18 @@
     <p>Following the success of previous events and the importance of the field 
       of evolutionary and biologically inspired (artificial neural network, swarm, 
       alife) music, sound, art and design, evomusart has become an evo* conference 
-      with independent proceedings since 2012. Thus, evomusart 2016 is the fifth International Conference on Evolutionary and 
+      with independent proceedings since 2012. Thus, evomusart 2017 is the fifth International Conference on Evolutionary and 
       Biologically Inspired Music, Sound, Art and Design.</p>
     <p>The use of biologically inspired techniques for the development of artistic 
       systems is a recent, exciting and significant area of research. There is 
       a growing interest in the application of these techniques in fields such 
       as: visual art and music generation, analysis, and interpretation; sound 
       synthesis; architecture; video; poetry; design; and other creative tasks.</p>
-    <p>The main goal of evo<span class="red">musart</span> 2016 is to bring together researchers who are 
+    <p>The main goal of evo<span class="red">musart</span> 2017 is to bring together researchers who are 
       using biologically inspired computer techniques for artistic tasks, providing 
       the opportunity to promote, present and discuss ongoing work in the area. 
     </p>
-    <p>The event will be held in April, 2016 in Porto, Portugal, as
+    <p>The event will be held in April, 2017 in Amsterdam, The Netherlands, as
       part of the evo<span class="red">*</span> event.</p>
     <h2><br />
       Publication Details </h2>
@@ -101,72 +101,13 @@
     <p>Submit your manuscript, at most 16 A4 pages long, in Springer LNCS format 
       (instructions downloadable from <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>) 
       </p>
-    <p>Submission link: <a href="http://myreview.csregistry.org/evomusart16">http://myreview.csregistry.org/evomusart16/</a><br />
+    <p>Submission link: <a href="http://myreview.csregistry.org/evomusart17">http://myreview.csregistry.org/evomusart17/</a><br />
       page limit: 16 pages</p>
     <p>The reviewing process will be double-blind; please omit information about 
       the authors in the submitted paper.</p>
     <h2>Programme committee</h2>
 
-    <ul>
-<li>Pedro Abreu, University of Coimbra, Portugal</li>
-<li>Dan Ashlock, University of Guelph, Canada</li>
-<li>Peter Bentley, University College London , UK</li>
-<li>Eleonora Bilotta, University of Calabria, Italy</li>
-<li>Tim Blackwell, Goldsmiths College, University of London, UK</li>
-<li>Andrew Brown, Griffith University, Australia</li>
-<li>Adrian Carballal, University of A Coruna, Spain</li>
-<li>Amilcar Cardoso, University of Coimbra, Portugal</li>
-<li>Vic Ciesielski, RMIT, Australia</li>
-<li>Pedro Cruz, University of Coimbra, Portugal</li>
-<li>Palle Dahlstedt, Göteborg University, Sweden</li>
-<li>Eelco den Heijer, Vrije Universiteit Amsterdam, Netherlands</li>
-<li>Alan Dorin, Monash University, Australia</li>
-<li>Jonathan E. Rowe, University of Birmingham, UK</li>
-<li>Arne Eigenfeldt, Simon Fraser University, Canada</li>
-<li>Jonathan Eisenmann, Ohio State University, USA</li>
-<li>José Fornari, NICS/Unicamp, Brazil</li>
-<li>Marcelo Freitas Caetano, INESC TEC, Portugal</li>
-<li>Philip Galanter, Texas A&M College of Architecture, USA</li>
-<li>Pablo Gervás, Universidad Complutense de Madrid, Spain</li>
-<li>Andrew Gildfind, Google, Inc., Australia</li>
-<li>Gary Greenfield, University of Richmond, USA</li>
-<li>Carlos Grilo, Instituto Politécnico de Leiria, Portugal</li>
-<li>Andrew Horner, University of Science & Technology, Hong Kong</li>
-<li>Takashi Ikegami, Tokyo Institute of Technology, Japan</li>
-<li>Christian Jacob, University of Calgary, Canada</li>
-<li>Patrick Janssen, National University of Singapure, Singapure</li>
-<li>Colin Johnson, University of Kent, UK</li>
-<li>Daniel Jones, Goldsmiths College, University of London, UK</li>
-<li>Amy K. Hoover, University of Central Florida, USA</li>
-<li>Maximos Kaliakatsos-Papakostas, University of Patras, Greece</li>
-<li>Hernán Kerlleñevich, National University of Quilmes, Argentina</li>
-<li>Matthew Lewis, Ohio State University, USA</li>
-<li>Yang Li, University of Science and Technology Beijing, China</li>
-<li>Antonios Liapis, IT University of Copenhagen , Denmark</li>
-<li>Alain Lioret, Paris 8 University, France</li>
-<li>Roisin Loughran, University College Dublin, Ireland</li>
-<li>Penousal Machado, University of Coimbra, Portugal</li>
-<li>Roger Malina, International Society for the Arts, Sciences and Technology, USA</li>
-<li>Bill Manaris, College of Charleston, USA</li>
-<li>Jon McCormack, Monash University, Australia</li>
-<li>Marcos Nadal, University of Vienna , Austria</li>
-<li>Gary Nelson, Oerlin College, USA</li>
-<li>Michael O’Neill, University College Dublin, Ireland</li>
-<li>Somnuk Phon-Amnuaisuk, Brunei Institute of Technology, Malaysia</li>
-<li>Jane Prophet, City University, Hong Kong, China</li>
-<li>Kate Reed, Imperial College, UK</li>
-<li>Douglas Repetto, Columbia University, USA</li>
-<li>Juan Romero, University of A Coruna, Spain</li>
-<li>Brian Ross, Brock University, Canada</li>
-<li>Antonino Santos, University of A Coruna, Spain</li>
-<li>Daniel Silva, University of Porto, Portugal</li>
-<li>Benjamin Smith, Indianapolis University, Purdue University,Indianapolis, USA</li>
-<li>Stephen Todd, IBM, UK</li>
-<li>Paulo Urbano, Universidade de Lisboa, Portugal</li>
-<li>Anna Ursyn, University of Northern Colorado, USA</li>
-<li>Dan Ventura, Brigham Young University, USA</li>
-<li>Anna Jordanous, University of Kent, UK</li>
-    </ul>
+TBA
 
 
 

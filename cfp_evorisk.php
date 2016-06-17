@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">RISK</span> 2016<h2>
+        <h2>Evo<span class="red">RISK</span> 2017<h2>
    </div>
 
 <h2>Computational Intelligence for Risk Management, Security and Defence Applications</h2>
@@ -11,7 +11,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps16/"><strong>http://myreview.csregistry.org/evoapps16/</strong></a>
+<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
 			</div>
 </div>
 Events involving natural disasters and hacking attacks can get a wide media coverage; others such as software failures may receive less attention but all have in common that they can have significant economic and social impact. 
@@ -54,25 +54,7 @@ Accepted papers will appear in the proceedings of EvoStar, published in a volume
 
 <h3>Programme Committee</h3>
 
-
-<ul>
-<li>Robert K. Abercrombie Oak Ridge National Laboratory, USA</li>
-<li>Rami  Abielmona,  University of Ottawa, Canada</li>
-<li>Nabendu Chaki University of Calcutta, India</li>
-<li>Mario Cococcioni, NATO Undersea Research Centre, Italy</li>
-<li>Josep Domingo-Ferrer, Rovira i Virgili University, Spain</li>
-<li>Stenio  Fernandes,  Federal University of Pernambuco (UFPE), Brazil</li>
-<li>Jose Miguel Holguín, S2 Grupo, Spain</li>
-<li>Frank W. Moore University of Alaska Anchorage, USA</li>
-<li>Maite Moreno, S2 Grupo, Spain</li>
-<li>Javier Montero, Universidad Complutense de Madrid, Spain</li>
-<li>Guillermo Suarez-Tangil, Royal Holloway University of London, UK</li>
-<li>Shamik Sural,Indian Institute of Technology, Kharagpur, India</li>
-<li>Kay Chen Tan, National University of Singapore</li>
-<li>Vicenç  Torra, University of Skövde,Sweden</li>
-<li>Antonio Villalón  S2 Grupo, Spain</li>
-<li>Nur Zincir-Heywood, Dalhousie University, Canada</li>
-</ul>
+TBA
 
 <h3>FURTHER INFORMATION</h3>
 
