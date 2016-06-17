@@ -30,7 +30,7 @@
       of areas of application of Evolutionary Computation and other Nature-inspired 
       techniques. </p>
     <p> <span id="logo">Evo<span class="red">Applications</span>
-      invites high quality contributions for its 18th edition, which will be held 
+      invites high quality contributions for its 20th edition, which will be held 
       as part of the Evo<span class="red">Star</span>
       2017 event in Amsterdam, The Netherlands, April 2017 and co-located within Evo<span class="red">Star</span> 
       with three related conferences: <a href="cfp_eurogp.html">Euro<span class="red">GP</span></a>, <a href="cfp_evocop.html">Evo<span class="red">COP</span></a> 
