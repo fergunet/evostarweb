@@ -8,7 +8,7 @@
 
 
  <p>
-The conference venue is the <strong>Bazel</strong> (<a href="http://www.debazelamsterdam.nl/index.html?lang=en">http://www.debazelamsterdam.nl/index.html?lang=en</a>) Vijzelstraat 32, Amsterdam.</p>
+The conference venue is the  <a href="http://www.debazelamsterdam.nl/index.html?lang=en"><strong>Bazel</strong></a> Vijzelstraat 32, Amsterdam.</p>
 <strong>Getting there with public transport:</strong>
 From Central Station you can take tram 4 or 9. Get out at the third stop at the Munt Tower and turn right, into the Vijzelstaat. Across the first bridge, De Bazel is just ahead. You could also take tram 24 or 25. Get out at the fourth stop at the Vijzelstraat corner Herengracht. De Bazel is opposite from the tram stop.
 
