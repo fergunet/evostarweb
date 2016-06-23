@@ -157,9 +157,9 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
         chairs : </h2>
 
       <ul>
-        <li><span><strong>Malcolm Heywood</strong><br />
-          Dalhousie University, Canada<br />
-          <em>mheywood(at)cs.dal.ca</em> </span></li>
+        <li><span><strong>Mauro Castelli</strong><br />
+          NOVA IMS, Universidade Nova de Lisboa, Portugal<br />
+          <em>mcastelli(at)isegi.unl.pt</em> </span></li>
 
         <li><span><strong>James McDermott</strong><br />
           University College Dublin, Ireland<br />
@@ -171,9 +171,9 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
     <div id="logo"> <strong>Euro<span class="red">GP</span></a> 
       publication chair : </strong> 
       <ul>
-        <li><span><strong>Mauro Castelli</strong><br />
-          NOVA IMS, Universidade Nova de Lisboa, Portugal<br />
-          <em>mcastelli(at)isegi.unl.pt</em> </span></li>
+        <li><span><strong>Lukas Sekanina</strong><br />
+          Brno University of Technology, Czech Republic<br />
+          <em> sekanina(at)fit.vutbr.cz </em> </span></li>
       </ul>
     </div>
     <h2>Programme Committee </h2>

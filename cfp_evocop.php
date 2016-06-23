@@ -97,15 +97,16 @@ The reviewing process will be double-blind, please omit information about the au
       
     <h3>Evo<span class="red">COP</span> Programme Chairs</h3>
     <ul>
-      
-      <li><span><strong>Francisco Chicano<br />
-        </strong>University of Malaga, Spain<em><br />
-        chicano(at)lcc.uma.es</em><br />
-        </span></li>
-        <li><span><strong>Bin Hu </strong></span><span><br />
+      <li><span><strong>Bin Hu </strong></span><span><br />
        Austrian Institute of Technology, Austria<br />
         <em> bin.hu(at)ait.ac.at</em><br />
         </span></li>
+      <li><span><strong>Manuel López-Ibáñez<br />
+      
+        </strong>University of Manchester, UK<em><br />
+        manuel.lopez-ibanez(at)manchester.ac.uk</em><br />
+        </span></li>
+        
     </ul>
 
 

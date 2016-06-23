@@ -113,6 +113,9 @@ TBA
 
 
     <h2>Evo<span class="red">MUSART</span> Conference chairs </h2>
+        <p>Lead Chair: <strong>Jo&atilde;o Correia</strong><br />
+      University of Coimbra, Portugal<br />
+      <em>jncor(at)dei.uc.pt</em><br />
     <p><strong>Colin Johnson</strong><br />
        University of Kent, UK<br />
       <em>c.g.johnson(at)kent.ac.uk</em></p>
@@ -120,9 +123,8 @@ TBA
       RMIT University, Australia<br />
       <em>vic.ciesielski(at)rmit.edu.au </em></p>
     <h2>Evo<span class="red">MUSART </span>Publication chair</h2>
-    <p><strong>Jo&atilde;o Correia</strong><br />
-      University of Coimbra, Portugal<br />
-      <em>jncor(at)dei.uc.pt</em><br />
+<p>
+TBA
     </p>
 
 

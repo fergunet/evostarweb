@@ -108,6 +108,12 @@
         <em>giovanni.squillero@polito.it </em></span></p>
     </blockquote>
 
+<h3>Evo<span class="red">Applications</span> Publication Chair</h3>
+    <blockquote> 
+      <p><span><strong>Kevin Sim</strong> <br />
+        Edinburgh Napier University, UK <br />
+        <em>K.Sim(at)napier.ac.uk</em></span></p>
+    </blockquote>
 
 
 

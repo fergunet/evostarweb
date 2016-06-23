@@ -11,14 +11,14 @@
             </div>
             <div class="panel-body">
               
-              <strong>Submission Deadline:</strong> <strike>TBA</strike><br/>
+              <strong>Submission Deadline:</strong> 1 November 2016<br/>
               <!--<span class="red"><strong>EXTENDED DEADLINE:</strong> 11 November 2015</span><br/> <em>(site remains open for final changes until 15 Nov)</em><br/>-->
-              <strong>Notification:</strong> TBA<br/>
-              <strong>Camera-ready:</strong> TBA<br/>
-              <strong>Mandatory registration per paper:</strong> TBA</br>
-              <strong>Student bursary deadline:</strong> TBA <br/>
-              <strong>Early registration discount:</strong> TBA<br/>
-              <strong>Registration deadline:</strong> TBA<br/>
+              <strong>Notification:</strong> 9 January 2017<br/>
+              <strong>Camera-ready:</strong> 25 January 2017<br/>
+              <strong>Mandatory registration per paper:</strong> 1 February 2017</br>
+              <strong>Student bursary deadline:</strong> 15 February 2017 <br/>
+              <strong>Early registration discount:</strong> 1 March 2017<br/>
+              <strong>Registration deadline:</strong> 10 April 2017<br/>
               <strong>EvoStar dates:</strong> 19-21 April 2017<br/>
               
             </div>
