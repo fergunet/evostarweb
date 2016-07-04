@@ -15,6 +15,7 @@ To be decided
 
 
 <ul>
+<li>2016: <a href="http://cdv.dei.uc.pt/authors/penousal-machado/">Penousal Machado</a> <a href="../2016/awards_outstanding.php">[announcement page]</a></li>
 <li>2015: <a href="https://sites.google.com/site/aiesparcia/">Anna Esparcia-Alcazar</a> and <a href="http://www.novaims.unl.pt/Docentes-Investigacao/Detalhe-Docente.asp?IDDocente=196">Leonardo Vanneschi</a> <a href="../2015/awards_outstanding.php">[announcement page]</a></li>
 <li>2014: Terence C. Fogarty <a href="http://www0.cs.ucl.ac.uk/staff/ucacbbl/egp2014/terry_fogarty.jpg">[pic]</a> <a href="https://plus.google.com/u/0/+JJMerelo/posts/bYnqVYfR7ZN?cfem=1">[movie]</a></li>
 <li>2013: <A href="http://people.csail.mit.edu/unamay/">Una-May O'Reilly</a> and <A href="http://www.cs.ru.nl/~elenam/">Elena Marchiori</a></li>
