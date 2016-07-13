@@ -48,9 +48,9 @@ will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a>
 <li><strong>Evert Haasdijk</strong></li>
 VU University Amsterdam<br/>
 e.haasdijk(at)vu.nl
-<li><strong>A.E. Eiben</strong></li>
+<li><strong>Jacqueline Heinerman</strong></li>
 VU University Amsterdam<br/>
-a.e.eiben(at)vu.nl
+j.v.heinerman(at)vu.nl
 </ul>
 
 <h3>Programme Committee</h3>
