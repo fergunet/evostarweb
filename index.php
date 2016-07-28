@@ -37,9 +37,9 @@ Authors of selected papers will be invited to submit extended versions of their 
 <h3>Submission links</h3>
 Submissions links are available in each conference page (on the left menu) and <a href="submission_details.php">here</a>.
 
-<!--<h3>Download flyer</h3>
-<p><a href="pdfs/Evostar2016.pdf" target="_blank">EvoStar 2016 flyer</a>.</p>
--->
+<h3>Download flyer</h3>
+<p><a href="pdfs/Evostar2017.pdf" target="_blank">EvoStar 2016 flyer</a>.</p>
+
 <?php include('footer.php') ?>
 
 

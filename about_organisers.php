@@ -68,7 +68,7 @@
 
 <table class="organisers">
 <tr>
-	<td><img src="organisers/joao_correia.png" width="100"></td>
+	<td><img src="organisers/joao_correia.jpg" width="100"></td>
 	<td><img src="" width="100"></td>
 </tr>
 <tr>
@@ -86,7 +86,9 @@
 	<td><img src="organisers/" width="100"></td>
 </tr>
 <tr>
-	<td>??????</td>
+	<td>Antonios Liapis,
+Institute of Digital Games, University of Malta
+antonios.liapis(at)um.edu.mt</td>
 </tr>
 </table>
 
