@@ -83,7 +83,7 @@
 <strong>Evo<span class="red">MUSART</span> Publication chair :</strong>
 <table class="organisers">
 <tr>
-	<td><img src="organisers/" width="100"></td>
+	<td><img src="organisers/antonios_liapis.jpg" width="100"></td>
 </tr>
 <tr>
 	<td>Antonios Liapis,
