@@ -51,7 +51,7 @@ For more information, visit our web page at <a href="http://www.evostar.org/2017
 
 <h3>Submission Details</h3>
 
-EvoBIO is interested in papers in full research articles (maximum 12 pages) describing new methodologies, approaches, and/or applications (oral or poster presentation).
+EvoBIO is interested in papers in full research articles (maximum 16 pages) describing new methodologies, approaches, and/or applications (oral or poster presentation).
 
 Submissions must be original and not published elsewhere.  They will be peer reviewed by members of the program committee.  Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer LNCS format</a>.
 
