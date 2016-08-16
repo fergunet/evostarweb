@@ -4,7 +4,7 @@
    </div>
 
 
-<h2>Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</h2>
+<h2>Evolutionary Computation, Machine Learning and Data Mining for Biology and Medicine</h2>
 <?php include('common_to_all.php') ?>
 <div class="panel panel-default">
             <div class="panel-heading">
@@ -15,9 +15,22 @@
 			</div>
 </div>
 
-Join us in Amsterdam  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics and Computational Biology
- that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in biology, from the molecular and genomic dimension, to the individual and population level.  Evo<span class="red">BIO</span> engages researchers who are developing or applying advanced artificial intelligence or machine learning algorithms to cutting edge problems in bioinformatics and computational biology.  Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by <strong>Springer Verlag</strong> in the <strong>LNCS</strong> series.  Possible topics of interest include, but are not limited to:
+Join us in Amsterdam  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics, Medical Applications and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in medical applications and biology, from the molecular and genomic dimension, to the individual and population level. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  
+
+<p> AN EXTENDED VERSION OF THE BEST PAPER WILL BE PUBLISHED IN A SPECIAL ISSUE OF
+
+<a href="http://www.springer.com/engineering/computational+intelligence+and+complexity/journal/12293">MEMETIC COMPUTING JOURNAL</a> (Impact Factor: 1.00) </p>
+
+Possible topics of interest include, but are not limited to:
+
+
 <ul>
+<li>Medical imaging,signal processing and text analysis</li>
+<li>Data mining medical data and records</li>
+<li>Clinical expert systems</li>
+<li>Modelling and simulation of medical processes</li>
+<li>Drug description analysis</li>
+<li>Patient-centric care</li>
 <li>Interpreting genomic or metagenomic data</li>
 <li>Discovering regulatory or expression pathways</li>
 <li>Rational drug design and personalized medicine</li>
@@ -30,23 +43,18 @@ Join us in Amsterdam  for Evo<span class="red">BIO</span>, a multidisciplinary t
 <li>Protein Structure Prediction</li>
 <li>Assembling next generation sequence data</li>
 </ul>
+
 <p>
 For more information, visit our web page at <a href="http://www.evostar.org/2017/">http://www.evostar.org/2017/</a>, or follow us on Twitter @EVOBio2017, join our evobio2017 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
 </p>
-<p>
-An extended version of the best paper may be considered for publication in the Biodata Mining Journal of Biomed Central (IF: 2.02) with open access publishing fees waived (<a href="http://www.biodatamining.org/">http://www.biodatamining.org/</a>)
-</p>
+
 
 <h3>Submission Details</h3>
 
-Submissions must be original and not published elsewhere. They will be peer reviewed by at least three members of the program committee. The reviewing process will be double-blind, so please omit information about the authors in the submitted paper.
+EvoBIO is interested in papers in full research articles (maximum 12 pages) describing new methodologies, approaches, and/or applications (oral or poster presentation).
 
-Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer LNCS format</a>.
+Submissions must be original and not published elsewhere.  They will be peer reviewed by members of the program committee.  Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer LNCS format</a>.
 
-<br/>
-Please provide up to five keywords in your Abstract<br/>
-
-Page limit: 16 pages.
 
 <h3>Evo<span class="red">BIO</span> Track Chairs</h3>
 
