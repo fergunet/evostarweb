@@ -64,8 +64,9 @@
         algorithms for continuous parameter optimisation</li>
       <li><a href="cfp_evopar.php">Evo<span class="red">PAR</span></a> - Parallel 
         Architectures and Distributed Infrastructures</li>
-      <li><a href="cfp_evorisk.php">Evo<span class="red">RISK</span></a> - Computational 
-        Intelligence for Risk Management, Security and Defence Applications</li>
+      <!--<li><a href="cfp_evorisk.php">Evo<span class="red">RISK</span></a> - Computational 
+        Intelligence for Risk Management, Security and Defence Applications</li>-->
+      <li><a href="cfp_evoset.php">Evo<span class="red">SET</span></a> - Nature-inspired algorithms in Software Engineering and Testing</li>
       <li><a href="cfp_evorobot.php">Evo<span class="red">ROBOT</span></a> - Evolutionary 
         Robotics</li>
       <li><a href="cfp_evostoc.php">Evo<span class="red">STOC</span></a> - Evolutionary 

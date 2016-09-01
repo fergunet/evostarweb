@@ -6,6 +6,8 @@
 <h2>Computational Intelligence for Risk Management, Security and Defence Applications</h2>
 <?php include('common_to_all.php') ?>
 
+NOTICE: In 2017 EvoRisk is discontinued, and it will be back in 2018.
+<!--
 <div class="panel panel-default">
             <div class="panel-heading">
               <h3 class="panel-title">Submission link:</h3>
@@ -67,4 +69,6 @@ found in: http://www.evostar.org
 Universitat Politècnica de València, Spain <br/>
 aesparcia(at)pros.upv.es</li>
 </ul>
+
+-->
     <?php include('footer.php') ?>
