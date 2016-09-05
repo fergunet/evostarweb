@@ -64,6 +64,11 @@ found in: <a href="http://www.evostar.org">http://www.evostar.org</a>.
 <h3>Evo<span class="red">COMNET</span> track chairs</h3>
 <ul>
 <li>
+<strong>Ernesto Tarantino</strong><br/>
+ICAR/CNR, Italy<br/>
+ernesto.tarantino@icar.cnr.it
+</li>
+<li>
 <strong>Fabio D'Andreagiovanni</strong><br/>
 Zuse Insitute Berlin, Germany<br/>
 f.dandreagiovanni@gmail.com
@@ -71,7 +76,7 @@ f.dandreagiovanni@gmail.com
 </li>
 <li>
 <strong>Giovanni Iacca</strong><br/>
-INCAS³, The Netheralnds<br/>
+INCAS³, The Netherlands<br/>
 giovanniiacca@incas3.eu
 </li>
 </ul>
