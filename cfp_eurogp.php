@@ -141,7 +141,7 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
       of their manuscripts. At least one author of each accepted work has to register 
       for the conference, attend the conference and present the work.</p>
     
-    <p>Submission link: <a href="http://myreview.csregistry.org/eurogp17">http://myreview.csregistry.org/eurogp17</a><br />
+    <p>Submission link: TBA 
       <br /><!--
       <strong>Important Dates</strong><br />
       <br />

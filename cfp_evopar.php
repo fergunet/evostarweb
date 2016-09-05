@@ -10,7 +10,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
+TBA
       </div>
 </div>
     <p>There is growing interest in running evolutionary computation on Parallel 
@@ -69,7 +69,7 @@
     <p>Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
       LNCS format</a>. </p>
     <p> Please provide up to five keywords in your Abstract</p>
-    <p>Page limit: 12 pages <!--to <a href="http://myreview.csregistry.org/evoapps14/">http://myreview.csregistry.org/evoapps14/</a>.--></p>
+    <p>Page limit: 16 pages</p>
 
     
     <h2> FURTHER INFORMATION </h2>

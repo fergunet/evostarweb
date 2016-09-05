@@ -82,7 +82,7 @@ The reviewing process will be double-blind, please omit information about the au
     <p>
       Page limit: <strong>16 pages</strong>
 </p>
-<p><strong>Submission link</strong>: <a href="http://myreview.csregistry.org/evocop17/">http://myreview.csregistry.org/evocop17/</a><br /></p>
+<p><strong>Submission link</strong>: TBA<br /></p>
     <!--<p><strong>Important Dates</strong><br />
       Submission deadline: <del>1 November 2013</del><strong> 11 November 2013</strong><br />
      Notification: 06 January 2014<br />

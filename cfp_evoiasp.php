@@ -11,7 +11,7 @@ and Pattern Recognition</h2>
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
+TBA
 			</div>
 </div>
 

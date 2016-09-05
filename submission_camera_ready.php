@@ -33,10 +33,10 @@ Submit your final camera-ready paper NO LATER than
 through the appropriate submission system at
 
 <ul>
-<li>Euro<span class="red">GP</span>: <a href="http://myreview.csregistry.org/eurogp17/SubmitPaper.php">http://myreview.csregistry.org/eurogp17/SubmitPaper.php</a></li>
-<li>Evo<span class="red">COP</span>: <a href="http://myreview.csregistry.org/evocop17/SubmitPaper.php">http://myreview.csregistry.org/evocop17/SubmitPaper.php</a></li>
-<li>Evo<span class="red">MUSART</span>: <a href="http://myreview.csregistry.org/evomusart17/SubmitPaper.php">http://myreview.csregistry.org/evomusart17/SubmitPaper.php</a></li>
-<li>Evo<span class="red">Applications</span>: <a href="http://myreview.csregistry.org/evoapps17/SubmitPaper.php">http://myreview.csregistry.org/evoapps17/SubmitPaper.php</a></li>
+<li>Euro<span class="red">GP</span>: TBA </li>
+<li>Evo<span class="red">COP</span>: TBA </li>
+<li>Evo<span class="red">MUSART</span>: TBA </li>
+<li>Evo<span class="red">Applications</span>: TBA </li>
 </ul>
 using your id and password.
 

@@ -12,7 +12,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
+TBA
       </div>
 </div>
 
@@ -63,7 +63,7 @@ Submit your manuscript in Springer LNCS format.
 Please provide up to five keywords in your Abstract
 </p>
 <p>
-Page limit: 16 pages to http://myreview.csregistry.org/evoapps17/.
+Page limit: 16 pages.
 </p>
 
 

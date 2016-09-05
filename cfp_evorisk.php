@@ -13,7 +13,7 @@ NOTICE: In 2017 EvoRisk is discontinued, and it will be back in 2018.
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-<a href="http://myreview.csregistry.org/evoapps17/"><strong>http://myreview.csregistry.org/evoapps17/</strong></a>
+TBA
 			</div>
 </div>
 Events involving natural disasters and hacking attacks can get a wide media coverage; others such as software failures may receive less attention but all have in common that they can have significant economic and social impact. 

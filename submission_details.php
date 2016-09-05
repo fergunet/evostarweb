@@ -8,10 +8,10 @@
         <h3>Submission links</h3>
 
     <ul>
-        <li>Submission link for Euro<span class="red">GP</span>: <a href="http://myreview.csregistry.org/eurogp17/">http://myreview.csregistry.org/eurogp17/</a></li>
-        <li>Submission link for Evo<span class="red">COP</span>: <a href="http://myreview.csregistry.org/evocop17/">http://myreview.csregistry.org/evocop17/</a></li>
-        <li>Submission link for Evo<span class="red">MUSART</span>: <a href="http://myreview.csregistry.org/evomusart17/">http://myreview.csregistry.org/evomusart17/</a></li>
-        <li>Submission link for Evo<span class="red">APPS</span>: <a href="http://myreview.csregistry.org/evoapps17/">http://myreview.csregistry.org/evoapps17/</a></li>
+        <li>Submission link for Euro<span class="red">GP</span>: TBA </li>
+        <li>Submission link for Evo<span class="red">COP</span>: TBA</li>
+        <li>Submission link for Evo<span class="red">MUSART</span>: TBA</li>
+        <li>Submission link for Evo<span class="red">APPS</span>: TBA </li>
     </ul>
 
 

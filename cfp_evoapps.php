@@ -94,9 +94,9 @@
     <p>Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
       LNCS format</a>. </p>
     <p> Please provide up to five keywords in your Abstract</p>
-    <p>Page limit: 16 pages <!--to <a href="http://myreview.csregistry.org/evoapps14/">http://myreview.csregistry.org/evoapps14/</a>-->.<span> 
+    <p>Page limit: 16 pages.<span> 
       </span></p>
-    <strong>Submission link:</strong> <a href="http://myreview.csregistry.org/evoapps17/">http://myreview.csregistry.org/evoapps17/</a>
+    <strong>Submission link:</strong> TBA 
     <h3> FURTHER INFORMATION </h3>
     <p> Further information on the conference and co-located events can be <br />
       found in: <a href="http://www.evostar.org/">http://www.evostar.org</a> </p>
