@@ -4,8 +4,7 @@
    </div>
 
 <p><strong>Application of Nature-inspired Techniques for Communication Networks and
-other Parallel and Distributed Systems featuring a fast-track option for
-Applied Soft Computing journal</strong></p>
+other Parallel and Distributed Systems</strong></p>
 <?php include('common_to_all.php') ?>
 
 
@@ -21,10 +20,7 @@ TBA
 
 
 
-This year's edition is technically sponsored by the World Federation on
-Soft Computing (<a href="http://softcomputing.org">http://softcomputing.org</a>).
 
-<p><img src="img/wfsclogo.jpg" /></p>
 
 Evo<span class="red">COMNET</span> solicits contributions dealing with the application of ideas from natural processes and systems to the definition, analysis, and development of novel sequential, parallel, and distributed evolutionary computation approaches to the solution of problems of practical and theoretical interest in all domains related to network systems. Use and tuning of hybrid computational approaches based on evolutionary techniques are also welcome.
 Topics of interest include, but are not limited to:
@@ -58,27 +54,28 @@ which will be available at the Conference. The authors of accepted papers will h
 comments and will be asked to send a camera ready version of their manuscripts. At least one author of each accepted work has to register for the 
 conference and attend the conference and present the work.</p>
 
-<p>Furthermore, a selection of the best accepted papers, suitably revised
-and extended, will be eligible for fast-track publication in Applied Soft
-Computing journal by Elsevier (Impact Factor 2.810), thanks to the
-technical sponsorship offered by the World Federation on Soft Computing.</p>
+
 
 <h3>FURTHER INFORMATION</h3>
 Further information on the conference and co-located events can be 
 found in: <a href="http://www.evostar.org">http://www.evostar.org</a>.
 
+
 <h3>Evo<span class="red">COMNET</span> track chairs</h3>
 <ul>
-<li><strong>Ivanoe De Falco</strong></li>
-ICAR/CNR, Italy<br/>
-ivanoe.defalco(at)na.icar.cnr.it
-<li><strong>Antonio Della Cioppa</strong></li>
-University of Salerno, Italy<br/>
-adellacioppa(at)unisa.it
-<li><strong>Ernesto Tarantino</strong></li>
-ICAR/CNR, Italy<br/>
-ernesto.tarantino(at)na.icar.cnr.it
+<li>
+<strong>Fabio D'Andreagiovanni</strong><br/>
+Zuse Insitute Berlin, Germany<br/>
+f.dandreagiovanni@gmail.com
+
+</li>
+<li>
+<strong>Giovanni Iacca</strong><br/>
+INCAS³, The Netheralnds<br/>
+giovanniiacca@incas3.eu
+</li>
 </ul>
+
 
 <h3>Programme Committee</h3>
 
