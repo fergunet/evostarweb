@@ -2,8 +2,8 @@
 
         <h2>Evo<span class="red">MUSART</span><h2>
    </div> 
- <h2>6th International Conference on Evolutionary and Biologically Inspired 
-      Music, Sound, Art and Design</h2>
+ <h2>6th International Conference on Computational Intelligence in Music, Sound, Art and Design.
+</h2>
 <?php include('common_to_all.php') ?>
     <p>April 2017, Amsterdam, The Netherlands<br />
       Part of evo<span class="red">*</span> 2017<br />
@@ -15,9 +15,9 @@
 
 <p>Following the success of previous events and the importance of the field of computational intelligence, specifically, evolutionary and biologically inspired (artificial neural network, swarm, alife) music, sound, art and design, evo<span class="red">MUSART</span> has become an evo* conference with independent proceedings since 2012. Thus, evo<span class="red">MUSART</span> 2017 is the sixth International Conference on Computational Intelligence in Music, Sound, Art and Design.
 </p><p>
-The use of computational intelligence for the development of artistic systems is a recent, exciting and significant area of research. There is a growing interest in the application of these techniques in fields such as: visual art and music generation, analysis, and interpretation; sound synthesis; architecture; video; poetry; design; and other creative tasks.
+The use of Computational Intelligence for the development of artistic systems is a recent, exciting and significant area of research. There is a growing interest in the application of these techniques in fields such as: visual art and music generation, analysis, and interpretation; sound synthesis; architecture; video; poetry; design; and other creative tasks.
 </p><p>
-The main goal of evo<span class="red">MUSART</span> 2017 is to bring together researchers who are using computational intelligence techniques for artistic tasks, providing the opportunity to promote, present and discuss ongoing work in the area.
+The main goal of evo<span class="red">MUSART</span> 2017 is to bring together researchers who are using Computational Intelligence techniques for artistic tasks, providing the opportunity to promote, present and discuss ongoing work in the area.
 </p><p>
 The event will be held in April, 2017 in Amsterdam, The Netherlands, as part of the evo* event.
 
@@ -37,13 +37,13 @@ Submissions should concern the use of which use of Computational Intelligence te
 <li>Systems that create drawings, images, animations, sculptures, poetry, text, designs, webpages, buildings, etc.;</li>
 <li>Systems that create musical pieces, sounds, instruments, voices, sound effects, sound analysis, etc.;</li>
 <li>Systems that create artifacts such as game content, architecture, furniture, based on aesthetic and functional criteria.</li>
-<li>Robotic-Based evolutionary art and music;</li>
-<li>Other related artificial intelligence or generative techniques in the fields of computer music, computer art, etc.;</li>
+<li>Robotic-Based Evolutionary Art and Music;</li>
+<li>Other related artificial intelligence or generative techniques in the fields of Computer Music, Computer Art, etc.;</li>
 </ul>
 
 <strong>Theory</strong>
 <ul>
-<li>Computational aesthetics, experimental aesthetics; emotional response, surprise, novelty;</li>
+<li>Computational Aesthetics, Experimental Aesthetics; Emotional Response, Surprise, Novelty;</li>
 <li>Representation techniques;</li>
 <li>Surveys of the current state-of-the-art in the area; identification of weaknesses and strengths; comparative analysis and classification;</li>
 <li>Validation methodologies;</li>
