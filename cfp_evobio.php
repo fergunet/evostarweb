@@ -17,9 +17,7 @@ TBA
 
 Join us in Amsterdam  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics, Medical Applications and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in medical applications and biology, from the molecular and genomic dimension, to the individual and population level. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  
 
-<p> AN EXTENDED VERSION OF THE BEST PAPER WILL BE PUBLISHED IN A SPECIAL ISSUE OF
 
-<a href="http://www.springer.com/engineering/computational+intelligence+and+complexity/journal/12293">MEMETIC COMPUTING JOURNAL</a> (Impact Factor: 1.00) </p>
 
 Possible topics of interest include, but are not limited to:
 

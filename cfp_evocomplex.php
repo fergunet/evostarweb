@@ -67,10 +67,7 @@ Page limit: 16 pages.
 </p>
 
 
-<h3>Programme Committee</h3>
 
-
-TBA
 
     <h3>Evo<span class="red">COMPLEX</span> Track Chairs</h3>
     <ul>

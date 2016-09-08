@@ -19,7 +19,7 @@ TBA
 <p>Many engineering problems of both theoretical and practical interest involve choosing the best configuration of a set of parameters to achieve a specified objective. Numerical optimisation refers to the case when these parameters take continuous real values, as opposed to combinatorial optimisation, which deals with discrete values. Examples include designing production processes for maximum efficiency, optimal parameter adjustment for controllers and many others. Evo<span class="red">NUM</span> focuses on such problems.</p>
 
 <p>
-We seek high quality papers involving the application of bio-inspired algorithms (genetic algorithms, genetic programming, evolution strategies, differential evolution, particle swarm optimization, evolutionary programming, simulated annealingâ€¦ and their hybrids) to continuous optimisation problems in engineering. We also welcome cross-fertilisation between Nature-inspired algorithms and more classical numerical optimisation algorithms.
+We seek high quality papers involving the application of bio-inspired algorithms (genetic algorithms, genetic programming, evolution strategies, differential evolution, particle swarm optimization, evolutionary programming, simulated annealing and their hybrids) to continuous optimisation problems in engineering. We also welcome cross-fertilisation between Nature-inspired algorithms and more classical numerical optimisation algorithms.
 </p>
 <em>[1] GS Hornby and T Yu, "EC Practitioners: Results of the First Survey", SIGEVOlution, Newsletter of the ACM Special Interest Group on Genetic and Evolutionary Computation, Vol. 2(1), Spring 2007 www.sigevolution.org</em>
 
@@ -64,7 +64,6 @@ Universitat Politècnica de València, Spain <br/>
 aesparcia(at)pros.upv.es</li>
 </ul>
 
-<h3>Programme Committee</h3>
-TBA
+
 
     <?php include('footer.php') ?>

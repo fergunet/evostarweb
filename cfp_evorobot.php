@@ -53,9 +53,7 @@ VU University Amsterdam<br/>
 j.v.heinerman(at)vu.nl
 </ul>
 
-<h3>Programme Committee</h3>
 
-TBA
 
     <?php include('footer.php') ?>
 

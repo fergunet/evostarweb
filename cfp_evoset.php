@@ -29,9 +29,7 @@ Topics include but are not limited to:
 <li>Real world applications of the above</li>
 
 </ul>
-    <h2>Programme Committee</h2>
-    
-TBA
+
   <h2>Chairs: </h2>
   <ul>
   <li><strong>Anna I Esparcia-Alcázar</strong>, <br/>

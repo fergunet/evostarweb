@@ -133,8 +133,7 @@ Further information on the conference and co-located events can be
 
 found in: http://www.evostar.org 
 
-<h3> Programme committee </h3> 
-TBA
+
 
 
 <h3> Track chairs </h3> 

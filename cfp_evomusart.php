@@ -79,9 +79,7 @@ The reviewing process will be double-blind; please omit information about the au
 
 
 
-    <h2>Programme committee</h2>
 
-TBA
 
 
 

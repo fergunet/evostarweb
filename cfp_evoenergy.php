@@ -82,7 +82,5 @@ Page limit: 16 pages<br/>
 <li><strong>Kyrre Glette</strong>, University of Oslo, kyrrehg(at)ifi.uio.no</li>
 </ul>
 
-<h3>Confirmed program committee</h3>
 
-TBA
     <?php include('footer.php') ?>

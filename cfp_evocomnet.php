@@ -82,8 +82,5 @@ giovanniiacca@incas3.eu
 </ul>
 
 
-<h3>Programme Committee</h3>
 
-
-TBA
     <?php include('footer.php') ?>

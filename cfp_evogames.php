@@ -65,9 +65,11 @@ pabu(at)create.aau.dk</li>
 <li><strong>Antonio M. Mora Garcia </strong><br/>
 Universidad de Granada<br/>
 amorag(at)geneura.ugr.es</li>
+<li><strong>Alberto Tonda</strong><br/>
+INRA, France<br/>
+amorag(at)geneura.ugr.es</li>
 </ul>
 
 
-<h3>Programme Committee</h3>
-TBA
+
     <?php include('footer.php') ?>

@@ -26,8 +26,7 @@ Topics of interest include (but are not limited to):
 <li>Scheduling and planning in industrial environments including production planning, transportation and distribution</li>
 </ul>
 
-<h3>Programme Committee</h3>
-TBA
+
 
 
 <h3>Chairs</h3>

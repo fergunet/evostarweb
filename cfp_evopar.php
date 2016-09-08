@@ -88,9 +88,7 @@ TBA
           hidalgo(at)ucm.es</li>
       </ul>
     </div>
-    <h2>Programme Committee</h2>
-    
-TBA
+
   
 
     <?php include('footer.php') ?>

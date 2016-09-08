@@ -7,8 +7,8 @@
 
 <?php include('common_to_all.php') ?>
 <ul>
-<li><a href="#abstracts">Accepted paper abstracts</a></li>
-<!--<li><a href="#best">Best Paper Nominees</a></li> 
+<!--<li><a href="#abstracts">Accepted paper abstracts</a></li>
+<li><a href="#best">Best Paper Nominees</a></li> 
 <li><a href="pdfs/EvoAPPS2015sessions.pdf">Download Evo<span class="red">APPS</span> programme</a></li>
 <li><a href="#INDUSTRIALAPPLICATIONS">Industrial Applications Session</a></li>
 <li><a href="#STOCHASTICANDDYNAMICENVIRONMENTS"> Stochastic and Dynamic Environments Session</a></li>
@@ -41,6 +41,8 @@
       genetic and evolutionary computation and other related Computational Intelligence 
       fields. The following tracks will be running in 2017: </span> </p>
     <span id="logo"> 
+
+    <strong><p>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> (Impact Factor: 1.00)</p></strong>
     <ul>
      <li><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a> - Natural Computing Methods in Business Analytics and Finance</li>
          <li><a href="cfp_evobio.php">Evo<span class="red">BIO</span></a> 
