@@ -67,7 +67,7 @@ Universidad de Granada<br/>
 amorag(at)geneura.ugr.es</li>
 <li><strong>Alberto Tonda</strong><br/>
 INRA, France<br/>
-amorag(at)geneura.ugr.es</li>
+alberto.tonda(at)grignon.inra.fr</li>
 </ul>
 
 

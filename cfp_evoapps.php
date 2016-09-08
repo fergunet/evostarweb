@@ -36,14 +36,16 @@
       with three related conferences: <a href="cfp_eurogp.html">Euro<span class="red">GP</span></a>, <a href="cfp_evocop.html">Evo<span class="red">COP</span></a> 
       and <a href="cfp_evomusart.html">Evo<span class="red">MUSART</span></a>.<br />
       </span> </p>
+
+      <strong><p>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> (Impact Factor: 1.00)</p></strong>
+  
     <p><span id="logo">Evo<span class="red">Applications</span>
       2017 is composed of 13 tracks, each focusing on an area of application of 
       genetic and evolutionary computation and other related Computational Intelligence 
       fields. The following tracks will be running in 2017: </span> </p>
     <span id="logo"> 
 
-    <strong><p>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> (Impact Factor: 1.00)</p></strong>
-    <ul>
+      <ul>
      <li><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a> - Natural Computing Methods in Business Analytics and Finance</li>
          <li><a href="cfp_evobio.php">Evo<span class="red">BIO</span></a> 
         - Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
