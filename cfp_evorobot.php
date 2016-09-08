@@ -7,14 +7,7 @@
 
 <p><strong>Evolutionary Computation in Robotics</strong></p>
 <?php include('common_to_all.php') ?>
-<div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-			</div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 <p>The Evo<span class="red">ROBOT</span> track focusses on evolutionary robotics: the application of evolutionary computation techniques to automatically design the controllers and/or hardware of autonomous robots, real or simulated. This is by nature a multi-faceted field that combines approaches from other fields such as neuro-evolution, evolutionary design, artificial life, robotics, et cetera.
 We seek high quality contributions dealing with state-of-the-art research in the area of evolutionary robotics.</p>

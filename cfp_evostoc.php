@@ -5,14 +5,7 @@
 
 <h2>Evolutionary Algorithms and Meta-heuristics in Stochastic and Dynamic Environments</h2>
 <?php include('common_to_all.php') ?>
-<div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-			</div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 Following the success of previous events and the importance of the 
 

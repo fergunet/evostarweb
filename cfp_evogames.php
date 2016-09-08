@@ -5,14 +5,7 @@
 
 <h2>Bio-inspired Algorithms in Games</h2>
 <?php include('common_to_all.php') ?>
-<div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-			</div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 <p>Games, and especially video games, are now a major part of the finance and software industries, and an important field for cultural expression. They also provide an excellent testbed for and application of a wide range of computational intelligence methods including evolutionary computation, neural networks, fuzzy systems, swarm intelligence, and temporal difference learning. There has been a rapid growth in research in this area over the last few years.</p>
 

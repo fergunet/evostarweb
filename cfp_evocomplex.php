@@ -7,14 +7,7 @@
 
 <h2>Evolutionary Algorithms and Complex Systems</h2>
 <?php include('common_to_all.php') ?>
-<div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-      </div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 <p>
 Complex systems are ubiquitous in physics, economics, sociology, biology, computer science, and many other scientific areas. Typically, a complex system is composed of smaller aggregated components, whose interaction and interconnectedness are non-trivial (e.g., interactions can be high-dimensional and non-linear, and/or the connectivity can exhibit non-trivial topological features such as power-law degree distribution, and high clustering coefficient). This leads to emergent properties of the system, not anticipated by its isolated components. Furthermore, when the system behaviour is studied form a temporal perspective, self-organisation patterns typically arise.

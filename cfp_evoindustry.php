@@ -5,14 +5,7 @@
 
 <h2>Evolutionary and Bio-Inspired Computational Techniques within Real-World Industrial and Commercial Environments.</h2>
 <?php include('common_to_all.php') ?>
-<div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-			</div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 Evolutionary and Bio-Inspired Computation has established itself as a powerful technique for design, search and optimisation with applications in areas such as routing, scheduling, timetabling and planning.  There are a number of challenges in moving from academic research to use within industrial environments, these challenges are not only technical, but may also encompass issues such as user interaction and adoption within organisations. EvoIndustry seeks contributions from researchers, developers and industrialists who have utilised Evolutionary Computation within an industrial context.
 Topics of interest include (but are not limited to):

@@ -5,14 +5,7 @@
 
 <h2>Bio-inspired Algorithms for Continuous Parameter Optimisation</h2>
 <?php include('common_to_all.php') ?>
-<div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-			</div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 <blockquote>''The main application areas of EC techniques [in industry] are multi-objective optimization, classification, data mining and numerical optimization''. [1]</blockquote>
 

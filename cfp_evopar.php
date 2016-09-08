@@ -5,14 +5,7 @@
 
  <h2>Parallel Architectures and Distributed Infrastructures</h2>
 <?php include('common_to_all.php') ?>
- <div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-      </div>
-</div>
+<?php include('common_to_apps.php') ?>
     <p>There is growing interest in running evolutionary computation on Parallel 
       and Distributed Computing Infrastructures. A number of technologies are 
       already available. These include Grid and Cloud Computing, Internet Computing 

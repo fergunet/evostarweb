@@ -6,14 +6,7 @@
 
 <h2>Evolutionary Computation, Machine Learning and Data Mining for Biology and Medicine</h2>
 <?php include('common_to_all.php') ?>
-<div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-			</div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 Join us in Amsterdam  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics, Medical Applications and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in medical applications and biology, from the molecular and genomic dimension, to the individual and population level. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  
 

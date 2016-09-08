@@ -5,14 +5,7 @@
 
  <h2>Nature-inspired algorithms in Software Engineering and Testing</h2>
 <?php include('common_to_all.php') ?>
- <div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-      </div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 <p>We seek both theoretical developments and applications of Computational Intelligence to the design, the development, operation, and maintenance of software, with particular focus on testing for security and reliability. All bio-inspired computational paradigms are welcome, mainly Genetic and Evolutionary Computation, including Multi-Objective Approaches, but also Fuzzy Logic, Intelligent Agent Systems, Neural Networks, Cellular Automata, Artificial Immune Systems, Swarm Intelligence and others, including hybrids.
 </p><p>

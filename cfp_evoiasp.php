@@ -6,14 +6,7 @@
  <h2>Evolutionary Computation in Image Analysis, Signal Processing
 and Pattern Recognition</h2>
 <?php include('common_to_all.php') ?>
-<div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Submission link:</h3>
-            </div>
-            <div class="panel-body">
-TBA
-			</div>
-</div>
+<?php include('common_to_apps.php') ?>
 
 <p>
 Evolutionary algorithms have been shown to be tools which can be used
