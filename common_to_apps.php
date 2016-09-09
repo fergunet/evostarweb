@@ -7,4 +7,4 @@
 			</div>
 </div>
 
-<p><strong>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> (Impact Factor: 1.00)</strong></p>
+<p><strong>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> </strong></p>
