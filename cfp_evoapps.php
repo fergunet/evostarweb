@@ -100,7 +100,9 @@
     <p> Please provide up to five keywords in your Abstract</p>
     <p>Page limit: 16 pages.<span> 
       </span></p>
-    <strong>Submission link:</strong> TBA 
+    <strong>Submission link:</strong>  <a href="https://myreview.saclay.inria.fr/evoapps17/">https://myreview.saclay.inria.fr/evoapps17/</a>
+
+ 
     <h3> FURTHER INFORMATION </h3>
     <p> Further information on the conference and co-located events can be <br />
       found in: <a href="http://www.evostar.org/">http://www.evostar.org</a> </p>

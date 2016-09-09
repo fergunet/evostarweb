@@ -8,10 +8,10 @@
         <h3>Submission links</h3>
 
     <ul>
-        <li>Submission link for Euro<span class="red">GP</span>: TBA </li>
-        <li>Submission link for Evo<span class="red">COP</span>: TBA</li>
-        <li>Submission link for Evo<span class="red">MUSART</span>: TBA</li>
-        <li>Submission link for Evo<span class="red">APPS</span>: TBA </li>
+        <li>Submission link for Euro<span class="red">GP</span>: <a href="https://myreview.saclay.inria.fr/eurogp17">https://myreview.saclay.inria.fr/eurogp17</a> </li>
+        <li>Submission link for Evo<span class="red">COP</span>: <a href="https://myreview.saclay.inria.fr/evocop17/">https://myreview.saclay.inria.fr/evocop17/</a></li>
+        <li>Submission link for Evo<span class="red">MUSART</span>: <a href="https://myreview.saclay.inria.fr/evomusart17">https://myreview.saclay.inria.fr/evomusart17</a></li>
+        <li>Submission link for Evo<span class="red">APPS</span>: <a href="https://myreview.saclay.inria.fr/evoapps17/">https://myreview.saclay.inria.fr/evoapps17/</a> </li>
     </ul>
 
 

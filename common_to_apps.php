@@ -3,7 +3,7 @@
               <h3 class="panel-title">Submission link:</h3>
             </div>
             <div class="panel-body">
-TBA
+<a href="https://myreview.saclay.inria.fr/evoapps17/">https://myreview.saclay.inria.fr/evoapps17/</a>
 			</div>
 </div>
 

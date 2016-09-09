@@ -131,8 +131,7 @@ found in: http://www.evostar.org
 
 <h3> Track chairs </h3> 
 
-TBA
-<!--<ul>
+<ul>
 <li><strong>Trung Thanh Nguyen </strong><br/>
 Liverpool John Moores University, United Kingdom<br/> 
 T.T.Nguyen(at)ljmu.ac.uk</li>
@@ -141,5 +140,5 @@ T.T.Nguyen(at)ljmu.ac.uk</li>
 De Monfort University, United Kingdom<br/>
 Mmavrovouniotis(at)dmu.ac.uk;
 </li>
-</ul>-->
+</ul>
     <?php include('footer.php') ?>
