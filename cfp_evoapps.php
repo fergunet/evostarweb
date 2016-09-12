@@ -64,6 +64,9 @@
       <li><a href="cfp_evoindustry.php">Evo<span class="red">INDUSTRY</span></a> 
         - Evolutionary and Bio-Inspired Computational Techniques within Real-World 
         Industrial and Commercial Environments.</li>
+
+      <li><a href="cfp_evoknow.php">Evo<span class="red">KNOW</span></a> 
+        - Knowledge Incorporation in Evolutionary Computation.</li>
       <li><a href="cfp_evonum.php">Evo<span class="red">NUM</span></a> - Bio-inspired 
         algorithms for continuous parameter optimisation</li>
       <li><a href="cfp_evopar.php">Evo<span class="red">PAR</span></a> - Parallel 

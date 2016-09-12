@@ -17,6 +17,7 @@
 <li class="list-group-item"><a href="cfp_evogames.php">Evo<span class="red">GAMES</span></a></li>
 <li class="list-group-item"><a href="cfp_evoiasp.php">Evo<span class="red">IASP</span></a></li>
 <li class="list-group-item"><a href="cfp_evoindustry.php">Evo<span class="red">INDUSTRY</span></a></li>
+<li class="list-group-item"><a href="cfp_evoknow.php">Evo<span class="red">KNOW</span></a></li>
 <li class="list-group-item"><a href="cfp_evonum.php">Evo<span class="red">NUM</span></a></li>
 <li class="list-group-item"><a href="cfp_evopar.php">Evo<span class="red">PAR</span></a></li>
 <li class="list-group-item"><a href="cfp_evoset.php">Evo<span class="red">SET</span></a></li>
