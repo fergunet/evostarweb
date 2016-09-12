@@ -9,8 +9,8 @@
 <?php include('common_to_apps.php') ?>
 
 This track, organized under the aegis of the H2020 FET-OPEN project
-"PHOENIX: Exploring the Unknown through Reincarnation and Co-
-evolution", aims at bringing together researchers and practitioners from
+<a href="http://cordis.europa.eu/project/rcn/196968_en.html">"PHOENIX: Exploring the Unknown through Reincarnation and Co-
+evolution"</a>, aims at bringing together researchers and practitioners from
 all application domains dealing with the incorporation of knowledge into
 evolutionary techniques. We seek high-quality contributions focused on
 multi-disciplinary approaches combining Evolutionary Computation,
@@ -33,28 +33,30 @@ limited to:
 </ul>
 
 
+<h3>SUBMISSION DETAILS</h3>
+<p>Submissions must be original and not published elsewhere. They will be
+peer reviewed by at least three members of the program committee.
+The reviewing process will be double-blind, so please omit information
+about the authors in the submitted paper.</p>
+
+<p>Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer LNCS format</a>.</p>
+
+<p>Please provide up to five keywords in your Abstract</p>
+
+<p>Page limit: 16 pages.</p>
+
+
+
 <h3>PUBLICATION DETAILS</h3>
-
-Accepted papers will appear in the proceedings of EvoStar, published in a volume of the Springer Lecture Notes in Computer Science, which will be available at the Conference.Submissions must be original and not published elsewhere. The submissions will be peer reviewed by at least three members of the program committee. The authors of accepted papers will have to improve their paper on the basis of the reviewers comments and will be asked to send a camera ready version of their manuscripts. At least one author of each accepted work has to register for the conference and attend the conference and present the work.The reviewing process will be double-blind, please omit information about the authors in the submitted paper.
-
-<h3>Submission Details</h3>
-
-Submissions must be original and not published elsewhere. They will be peer reviewed by members of the program committee. The reviewing process will be double-blind, so please omit information about the authors in the submitted paper.
-</p>
-<p>
-Submit your manuscript in Springer LNCS format.
-</p>
-<p>
-Please provide up to five keywords in your Abstract
-</p>
-<p>
-Page limit: 16 pages.
-</p>
+<p>Accepted papers will appear in the proceedings of EvoStar, published in a volume of the Springer Lecture Notes in Computer Science, 
+which will be available at the Conference. The authors of accepted papers will have to improve their paper on the basis of the reviewers 
+comments and will be asked to send a camera ready version of their manuscripts. At least one author of each accepted work has to register for the 
+conference and attend the conference and present the work.</p>
 
 
 
 
-    <h3>Evo<span class="red">COMPLEX</span> Track Chairs</h3>
+    <h3>Evo<span class="red">KNOW</span> Track Chairs</h3>
     <ul>
       
       <li><strong>Giovanni Iacca</strong><br/>
