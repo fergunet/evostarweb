@@ -7,6 +7,9 @@
 			</div>
 </div>
 
+<?php if(!isset($notInJournal)){ ?>
 <p><strong>The recipients of the "EvoAPPLICATIONS Best Paper Awards" will be
 invited to submit an extended version of their works to a special
 issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a>. </strong></p>
+
+<?php } ?>
