@@ -137,8 +137,8 @@ Liverpool John Moores University, United Kingdom<br/>
 T.T.Nguyen(at)ljmu.ac.uk</li>
 <li>
 <strong>Michalis Mavrovouniotis</strong><br/>
-De Monfort University, United Kingdom<br/>
-Mmavrovouniotis(at)dmu.ac.uk;
+Nottingham Trent University, United Kingdom<br/>
+michalis.mavrovouniotis(at)ntu.ac.uk;
 </li>
 </ul>
     <?php include('footer.php') ?>
