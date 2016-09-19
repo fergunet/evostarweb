@@ -165,7 +165,7 @@ antonios.liapis(at)um.edu.mt</td>
 	<td><img src="organisers/jennifer_willies.jpg" width="100"></td>
 </tr>
 <tr>
-	<td>Jennifer Willies, Edinburgh Napier University, UK, j.willies(at)napier.ac.uk</td>
+	<td>Jennifer Willies, UK, jenniferwillies(at)gmail.com</td>
 </tr>
 </table>
 

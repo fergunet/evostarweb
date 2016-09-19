@@ -56,7 +56,7 @@
 <footer>
   <div class="well">
 
-<a href="http://www.napier.ac.uk/"><img src="img/EdNapUniLogoCMYK.png"></a>
+
 <a href="https://www.facebook.com/evostarconf"><img src="img/facebook.png"></a>
 <a href="http://www.linkedin.com/groups?gid=1908983"><img src="img/linkedin.png"></a>
 <br>

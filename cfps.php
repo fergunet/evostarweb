@@ -20,8 +20,8 @@
 <li class="list-group-item"><a href="cfp_evoknow.php">Evo<span class="red">KNOW</span></a></li>
 <li class="list-group-item"><a href="cfp_evonum.php">Evo<span class="red">NUM</span></a></li>
 <li class="list-group-item"><a href="cfp_evopar.php">Evo<span class="red">PAR</span></a></li>
-<li class="list-group-item"><a href="cfp_evoset.php">Evo<span class="red">SET</span></a></li>
 <li class="list-group-item"><a href="cfp_evorobot.php">Evo<span class="red">ROBOT</span></a></li>
+<li class="list-group-item"><a href="cfp_evoset.php">Evo<span class="red">SET</span></a></li>
 <li class="list-group-item"><a href="cfp_evostoc.php">Evo<span class="red">STOC</span></a></li>
 </ul>
 EvoStar Best Paper Candidates<br/>
