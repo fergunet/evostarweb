@@ -72,6 +72,29 @@ giovanniiacca@incas3.eu
 </li>
 </ul>
 
+<h3>PROGRAM COMMITTEE</h3>
+<ul>
+<li>Doina Bucur (University of Twente, The Netherlands)</li>
+<li>Stefano Coniglio (University of Southampton, United Kingdom)</li>
+<li>Rolf Hoffmann (Technical University Darmstadt, Germany)</li>
+<li>Andreas Kassler (Karlastd University, Sweden)</li>
+<li>Graham Kendall (University of Nottingham, UK)</li>
+<li>Farrukh Aslam Khan (National University of Computer & Emerging Sciences, Pakistan)</li>
+<li>Kenji Leibnitz (National Institute of Information and Communications Technology, Japan)</li>
+<li>Domenico Maisto (ICAR-CNR, Italy)</li>
+<li>Carlo Mannino (SINTEF Oslo, Norway)</li>
+<li>Roberto Montemanni (IDSIA, Switzerland)</li>
+<li>Mauricio Resende (Amazon, USA)</li>
+<li>Robert Schaefer (University of Science and Technology, Poland)</li>
+<li>Sevil Sen (Hacettepe University, Turkey)</li>
+<li>Chien-Chung Shen (University of Delaware, USA)</li>
+<li>Pawel Topa (AGH University of Science and Technology, Poland)</li>
+<li>Marco Villani (University of Modena and Reggio Emilia, Italy)</li>
+<li>Jaroslaw Was (AGH University of Science and Technology, Poland)</li>
+<li>Tony White (Carleton University, Canada)</li>
+<li>Nur Zincir-Heywood (Dalhousie University, Canada)</li>
+</ul>
+
 
 
     <?php include('footer.php') ?>
