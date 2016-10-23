@@ -66,6 +66,7 @@
     <table width="100%" border="0">
       <tr class="twoColFixLtHdr"> 
         <td> <ul>
+          <li>2016 <a href="http://www.springer.com/us/book/9783319306674">LNCS 9594</a></li>
         <li>2015 <a href="http://www.springer.com/us/book/9783319165004">LNCS 9025</a></li>
             <li>2014 <a href="http://www.springer.com/computer/theoretical+computer+science/book/978-3-662-44302-6">LNCS 8599</a>
 		</li>
@@ -78,6 +79,8 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
             <li>2011 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=6621">LNCS 
               6621</a> </li>
+          </ul></td>
+          <td> <ul>
             <li>2010 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=6021">LNCS 
               6021</a> </li>
@@ -87,8 +90,6 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
             <li>2008 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=4971">LNCS 
               4971</a> </li>
-          </ul></td>
-        <td> <ul>
             <li>2007 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=4445">LNCS 
               4445</a> </li>
@@ -101,14 +102,15 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
             <li>2004 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=3003">LNCS 
               3003</a> </li>
+          </ul></td>
+          <td> <ul>
             <li>2003 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2610">LNCS 
               2610</a> </li>
             <li>2002 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2278">LNCS 
               2278</a> </li>
-          </ul></td>
-        <td> <ul>
+
             <li>2001 <a
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2038">LNCS 
               2038</a> </li>
@@ -122,8 +124,7 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=1391">LNCS 
               1391</a> </li>
           </ul>
-          <p>&nbsp;</p>
-          <p>&nbsp;</p></td>
+</td>
       </tr>
     </table>
     <p>The papers which receive the best reviews will be nominated for the Best 
@@ -178,10 +179,91 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
     </div>
     <h2>Programme Committee </h2>
 
-
-  
-
-TBA
+<ul>
+<li>  Alexandros Agapitos, University College Dublin, Ireland</li>
+<li>Lee Altenberg, Konrad Lorenz Institute for Evolution and Cognition</li>
+<li>Research, Austria</li>
+<li>R. Muhammad Atif Azad, University of Limerick, Ireland</li>
+<li>Ignacio Arnaldo, MIT, USA</li>
+<li>Douglas Augusto, LNCC/UFJF, Brazil</li>
+<li>Wolfgang Banzhaf, Memorial University of Newfoundland, Canada</li>
+<li>Helio Barbosa, LNCC/UFJF, Brazil</li>
+<li>Heder Bernardino, LNCC/UFJF, Brazil</li>
+<li>Anthony Brabazon, University College Dublin, Ireland</li>
+<li>Stefano Cagnoni, University of Parma, Italy</li>
+<li>Ernesto Costa, University of Coimbra, Portugal</li>
+<li>Luis Da Costa, Université Paris-Sud XI, France</li>
+<li>Antonio Della Cioppa, University of Salerno, Italy</li>
+<li>Grant Dick, University of Otago, New Zealand</li>
+<li>Federico Divina, Pablo de Olavide University, Spain</li>
+<li>Marc Ebner,  Ernst-Moritz-Arndt Universität Greifswald, Germany</li>
+<li>Aniko Ekart, Aston University, UK</li>
+<li>Francisco Fernandez de Vega, Universidad de Extremadura, Spain</li>
+<li>Gianluigi Folino, ICAR-CNR, Italy</li>
+<li>James A. Foster, University of Idaho, USA</li>
+<li>Christian Gagné , Université Laval, Québec, Canada</li>
+<li>Steven Gustafson, GE Global Research, USA</li>
+<li>Jin-Kao Hao, LERIA, University of Angers, France</li>
+<li>Inman Harvey, University of Sussex, UK</li>
+<li>Erik Hemberg, MIT, USA</li>
+<li>Malcolm I. Heywood, Dalhousie University, Canada</li>
+<li>Ting Hu, Dartmouth College, USA</li>
+<li>David Jackson, University of Liverpool, UK</li>
+<li>Colin Johnson, University of Kent, UK</li>
+<li>Ahmed Kattan, Um Al Qura University, Saudi Arabia</li>
+<li>Graham Kendall, University of Nottingham, UK</li>
+<li>Michael Korns, Korns Associates, USA</li>
+<li>Jan Koutnik, IDSIA, Switzerland</li>
+<li>Krzysztof Krawiec, Poznan University of Technology, Poland</li>
+<li>Jiri Kubalik, Czech Technical University in Prague, Czech Republic</li>
+<li>William B. Langdon, University College London, UK</li>
+<li>Kwong Sak Leung, The Chinese University of Hong Kong, China</li>
+<li>John Levine, University of Strathclyde, UK</li>
+<li>Evelyne Lutton, INRIA, France</li>
+<li>Penousal Machado, University of Coimbra, Portugal</li>
+<li>James McDermott, University College Dublin, Ireland</li>
+<li>Andrew McIntyre, Dalhousie University, Canada</li>
+<li>Bob McKay, Seoul National University, Korea</li>
+<li>Jorn Mehnen, Cranfield University, UK</li>
+<li>Julian Miller, University of York, UK</li>
+<li>Uy Nguyen Quang, Military Technical Academy, Vietnam</li>
+<li>Xuan Hoai Nguyen, Hanoi University, Vietnam</li>
+<li>Miguel Nicolau, University College Dublin, Ireland</li>
+<li>Julio Cesar Nievola, Pontificia Universidade Catolica do Parana, Brazil</li>
+<li>Michael O'Neill, University College Dublin, Ireland</li>
+<li>Una-May O'Reilly, MIT, USA</li>
+<li>Fernando Otero, University of Kent, UK</li>
+<li>Ender Ozcan, University of Nottingham, UK</li>
+<li>Andrew J. Parkes, University of Nottingham, UK</li>
+<li>Gisele Pappa, Federal University of Minas Gerais, Brazil</li>
+<li>Tomasz Pawlak, Poznan University of Technology, Poland</li>
+<li>Clara Pizzuti, Institute for High Performance Computing and Networking, Italy</li>
+<li>Thomas Ray, University of Oklahoma, USA</li>
+<li>Peter Rockett, University of Sheffield, UK</li>
+<li>Denis Robilliard, Université Lille Nord de France, France</li>
+<li>Conor Ryan, University of Limerick, Ireland</li>
+<li>Marc Schoenauer, INRIA, France</li>
+<li>Lukas Sekanina, Brno University of Technology, Czech Republic</li>
+<li>Yin Shan, Medicare, Australia</li>
+<li>Sara Silva, INESC-ID Lisboa, Portugal</li>
+<li>Moshe Sipper, Ben-Gurion University, Israel</li>
+<li>Alexei N. Skurikhin, Los Alamos National Laboratory, USA</li>
+<li>Terence Soule, University of Idaho, USA</li>
+<li>Jerry Swan, University of York, UK</li>
+<li>Ivan Tanev, Doshisha University, Japan</li>
+<li>Ernesto Tarantino, ICAR-CNR, Italy</li>
+<li>Jorge Tavares, Microsoft, Germany</li>
+<li>Leonardo Trujillo, Instituto Tecnológico de Tijuana, Mexico</li>
+<li>Leonardo Vanneschi, Universidade Nova de Lisboa, Portugal, and</li>
+<li>University of Milano-Bicocca, Italy</li>
+<li>Ali Vahdat, Dalhousie University, Canada</li>
+<li>Bartosz Wieloch, Poznan University of Technology, Poland</li>
+<li>David R. White, University College London, UK</li>
+<li>Man Leung Wong, Lingnan University, Hong Kong</li>
+<li>Bing Xue, Victoria University of Wellington, New Zealand</li>
+<li>Mengjie Zhang, Victoria University of Wellington, New Zealand</li>
+<li>Nur Zincir-Heywood, Dalhousie University, Canada</li>
+</ul>
     <h2>Further Information</h2>
     <p>A comprehensive bibliography of genetic programming literature and links 
       to related material is accessible at the <a href="http://www.cs.bham.ac.uk/~wbl/biblio/">Genetic 
@@ -196,9 +278,9 @@ TBA
 <br/>
 <br/>
 
-<h3>Euro<span class="red">GP</span> abstracts</h3>
+<!--<h3>Euro<span class="red">GP</span> abstracts</h3>
 
-TBA
+TBA-->
 
 
     <?php include('footer.php') ?>
