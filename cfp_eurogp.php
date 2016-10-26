@@ -180,9 +180,8 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
     <h2>Programme Committee </h2>
 
 <ul>
-<li>  Alexandros Agapitos, University College Dublin, Ireland</li>
-<li>Lee Altenberg, Konrad Lorenz Institute for Evolution and Cognition</li>
-<li>Research, Austria</li>
+<li>Alexandros Agapitos, University College Dublin, Ireland</li>
+<li>Lee Altenberg, Konrad Lorenz Institute for Evolution and Cognition Research, Austria</li>
 <li>R. Muhammad Atif Azad, University of Limerick, Ireland</li>
 <li>Ignacio Arnaldo, MIT, USA</li>
 <li>Douglas Augusto, LNCC/UFJF, Brazil</li>
@@ -249,20 +248,19 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Moshe Sipper, Ben-Gurion University, Israel</li>
 <li>Alexei N. Skurikhin, Los Alamos National Laboratory, USA</li>
 <li>Terence Soule, University of Idaho, USA</li>
+<li>Lee Spector, Hampshire College, USA</li>
 <li>Jerry Swan, University of York, UK</li>
 <li>Ivan Tanev, Doshisha University, Japan</li>
 <li>Ernesto Tarantino, ICAR-CNR, Italy</li>
 <li>Jorge Tavares, Microsoft, Germany</li>
 <li>Leonardo Trujillo, Instituto Tecnológico de Tijuana, Mexico</li>
-<li>Leonardo Vanneschi, Universidade Nova de Lisboa, Portugal, and</li>
-<li>University of Milano-Bicocca, Italy</li>
+<li>Leonardo Vanneschi, Universidade Nova de Lisboa, Portugal, and University of Milano-Bicocca, Italy</li>
 <li>Ali Vahdat, Dalhousie University, Canada</li>
 <li>Bartosz Wieloch, Poznan University of Technology, Poland</li>
 <li>David R. White, University College London, UK</li>
 <li>Man Leung Wong, Lingnan University, Hong Kong</li>
 <li>Bing Xue, Victoria University of Wellington, New Zealand</li>
 <li>Mengjie Zhang, Victoria University of Wellington, New Zealand</li>
-<li>Nur Zincir-Heywood, Dalhousie University, Canada</li>
 </ul>
     <h2>Further Information</h2>
     <p>A comprehensive bibliography of genetic programming literature and links 
