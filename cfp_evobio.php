@@ -75,6 +75,24 @@ Memorial University, St. John’s, NL Canada <br/>
 
 <h3>Programme Committee</h3>
 
-TBA
+<ul>
+<li>Mengjie Zhang, Victoria University of Wellington, New Zealand</li>
+<li>Alex Freitas, University of Kent, UK</li>
+<li>Bing Xue, Victoria University of Wellington (VUW), New Zealand</li>
+<li>Casey Greene, University of Pennsylvania, USA</li>
+<li>Edward Keedwell, University of Exeter, UK</li>
+<li>Elena Marchiori, Radboud Universiteit van Nijmegen, Netherlands</li>
+<li>Florentino Fernandez, Universidad de Vigo, Spain</li>
+<li>Francisco A. Gómez Vela, Pablo de Olavide University, Spain</li>
+<li>Jin-Kao Hao, University of Angers, France</li>
+<li>Jitesh Dundas, Edencore Technologies, Indian Institue of Technology, India</li>
+<li>Jose Santos Reyes, Universidad de A Coruña, Spain</li>
+<li>Leonardo Vanneschi, Universidade Nova de Lisboa, Portugal</li>
+<li>Mario Giacobini, Universitá di Torino, Italy</li>
+<li>Nicola Lazzarini, Newcastle University, UK</li>
+<li>Raffaele Giancarlo, Università degli Studi di Palermo, Italy</li>
+<li>Ryan Urbanowicz, University of Pennsylvania, USA</li>
+<li>Simona Rombo, Università degli Studi di Palermo, Italy</li>
+</ul>
 
     <?php include('footer.php') ?>
