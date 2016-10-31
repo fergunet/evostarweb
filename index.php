@@ -10,6 +10,7 @@
         <h2>Latest <span class="red">news</span>:</h2>
  </div>
 <ul>
+	<li>DEADLINE EXTENSION: <strong><span class="red">15 November 2016</span></strong></li>
 	<li>Evostar 2017 will be held in Amsterdam! Stay tuned!</li>
 </ul>
 <h2>Evo<span class="red">star</span> 2017</h2>
