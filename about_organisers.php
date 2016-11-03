@@ -128,7 +128,7 @@ antonios.liapis(at)um.edu.mt</td>
 	
 </tr>
 <tr>
-	<td>Pablo García Sánchez, University of Granada, Spain, pablogarcia(at)ugr.es</td>
+	<td>Pablo García Sánchez, University of Cádiz, Spain, pablo.garciasanchez(at)uca.es</td>
 	
 </tr>
 </table>
