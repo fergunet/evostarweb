@@ -93,6 +93,12 @@ Memorial University, St. John’s, NL Canada <br/>
 <li>Raffaele Giancarlo, Università degli Studi di Palermo, Italy</li>
 <li>Ryan Urbanowicz, University of Pennsylvania, USA</li>
 <li>Simona Rombo, Università degli Studi di Palermo, Italy</li>
+<li>Christian Darabos, University of Pennsylvania, USA</li>
+<li>Rosalba Giugno, University of Verona, Italy</li>
+<li>Vincent Moulton, University of East Anglia, UK</li>
+<li>Carlotta Orsenigo, Politecnico di Milano, Italy</li>
+<li>Michael Raymer, Wright State University, USA</li>
+
 </ul>
 
     <?php include('footer.php') ?>
