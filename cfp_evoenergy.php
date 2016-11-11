@@ -75,5 +75,18 @@ Page limit: 16 pages<br/>
 <li><strong>Kyrre Glette</strong>, University of Oslo, kyrrehg(at)ifi.uio.no</li>
 </ul>
 
+<h3>Programme Committee</h3>
+
+<ul>
+<li>Oliver Kramer, oliver.kramer(at)uni-oldenburg.de</li>
+<li>Chenjie Ma,    Chenjie.Ma(at)iwes.fraunhofer.de</li>
+<li>Ingo Mauser,   ingo.mauser(at)kit.edu</li>
+<li>Martin Middendorf,     middendorf(at)informatik.uni-leipzig.de</li>
+<li>Frank Neumann, frank.neumann(at)adelaide.edu.au</li>
+<li>Peter Palensky,        P.Palensky(at)tudelft.nl</li>
+<li>Markus Wagner, markus.wagner(at)adelaide.edu.au</li>
+<li>Maizura Mokhtar,       m.mokhtar(at)napier.ac.uk</li>
+<li>Ana Soares,    argsoares(at)gmail.com</li>
+</ul>
 
     <?php include('footer.php') ?>

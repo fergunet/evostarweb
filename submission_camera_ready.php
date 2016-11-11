@@ -6,10 +6,11 @@
 <p>
    <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before INSERT DATE HERE), and also ATTEND to present his/her paper.</strong> 
 </p>
-Please follow Springer's LNCS instructions when preparing your paper.
+Please follow Springer's LNCS instructions when preparing your paper. 
 
 <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>
 
+<p>The instructions described in this page are only for accepted papers (that will be notified on 9 January 2017), not for the blind submissions stage (15 November 2016). For specific information on that stage, please refer to each conference page.</p>
 <p>Remember that references should be ordered by appearance in the paper, using 'splncs.bst'
 as BibTeX style (if you use LaTeX) or generating a list with this order if
 you use Word.</p>
@@ -28,7 +29,7 @@ Papers which are not formatted according to those guidelines, or do not respect 
 
 Submit your final camera-ready paper NO LATER than
 
-<strong><span class="red">18 January 2016</span></strong>
+<strong><span class="red">25 January 2017</span></strong>
 
 through the appropriate submission system at
 
@@ -88,7 +89,10 @@ remaining lines: abstract of the paper (in ASCII without line breaks).</br>
 <em>[last_name_of_first_author]cr.pdf<br/></em>
 (one author may sign on behalf of all authors of a paper).<br/>
 
+Download the <a href="ftp://ftp.springer.de/pub/tex/latex/llncs/LNCS-Springer_Copyright_Form.pdf">LNCS Copyright form from here</a>.
+<!--
 Download your specific form from:
+
 <ul>
 <li><a href="pdfs/LNCS-Springer_Copyright_Form_EuroGP_2016.pdf">Euro<span class="red">GP</span> copyright form</a></li>
 <li><a href="pdfs/LNCS-Springer_Copyright_Form_EvoCOP_2016.pdf">Evo<span class="red">COP</span> copyright form</a></li>
@@ -97,6 +101,7 @@ Download your specific form from:
  </ul>
 </li>
 </ul>
+-->
 
 
 Other considerations:<br/>
@@ -123,12 +128,12 @@ specifications without activating headers.
 <p>Authors not following the instructions may result in the paper being excluded from the proceedings.</p>
 
 
-Also, before <strong>18 January 2016</strong>, you also have to send an <strong>E-mail</strong> to j.willies@napier.ac.uk with the title:
+Also, before <strong>25 January 2017</strong>, you also have to send an <strong>E-mail</strong> to j.willies@napier.ac.uk with the title:
 
 <p>
-"EvoStar16 attendance confirmation"<br/>
+"EvoStar17 attendance confirmation"<br/>
 which includes the following information:<br/>
-1. Name of (co)author who will attend EvoStar2016 ________<br/>
+1. Name of (co)author who will attend EvoStar2017 ________<br/>
 2. If attendee is a student, their advisor ___________ has been cc-ed into this mail<br/>
 3. If a VISA is required for the attendee, the application process has started: Not-required / Yes / No.<br/>
 </p>

@@ -244,7 +244,7 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 <li>Marc Schoenauer, INRIA, France</li>
 <li>Lukas Sekanina, Brno University of Technology, Czech Republic</li>
 <li>Yin Shan, Medicare, Australia</li>
-<li>Sara Silva, INESC-ID Lisboa, Portugal</li>
+<li>Sara Silva, University of Lisbon, Portugal</li>
 <li>Moshe Sipper, Ben-Gurion University, Israel</li>
 <li>Alexei N. Skurikhin, Los Alamos National Laboratory, USA</li>
 <li>Terence Soule, University of Idaho, USA</li>
