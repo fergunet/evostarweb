@@ -12,7 +12,7 @@
             <div class="panel-body">
               
               <strong>Submission Deadline:</strong> 1 November 2016<br/>
-              <span class="red"><strong>EXTENDED DEADLINE:</strong> 15 November 2016</span><br/> <em>(site remains open for final changes until 15 Nov)</em><br/>
+              <span class="red"><strong>EXTENDED DEADLINE:</strong> 15 November 2016</span><br/> <em>(site remains open for final changes until 21 Nov)</em><br/>
               <strong>Notification:</strong> 9 January 2017<br/>
               <strong>Camera-ready:</strong> 25 January 2017<br/>
               <strong>Mandatory registration per paper:</strong> 1 February 2017</br>
