@@ -152,9 +152,11 @@ antonios.liapis(at)um.edu.mt</td>
 <tr>
 	
 	<td><img src="organisers/evert_haasdijk.jpg" width="100"></td>
+	<td><img src="organisers/jacqueline_heinerman.jpg" width="100"></td>
 </tr>
 <tr>
 	<td>Evert Haasdijk, VU University Amsterdam, Netherlands, e.haasdijk(at)vu.nl </td>
+	<td>Jacqueline Heinerman, VU University Amsterdam, Netherlands, j.v.heinerman(at)vu.nl</td>
 </tr>
 </table>
  
