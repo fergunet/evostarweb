@@ -10,8 +10,18 @@
       evo<span class="red">*</span>: <a href="http://www.evostar.org">http://www.evostar.org</a></p>
     
 
+<h3>News</h3>
 
+<strong>New this year: Index Website:</strong>
+<p>
+For the 20th year anniversary of the evo* conference, a website was made available with all the
+information on the evoMUSART papers since 2003. The idea is to bring together all the publications
+in a handy web page that allows the visitors to navigate through all papers, best papers, authors,
+keywords, and years of the conference, while providing quick access to the Springer’s web page
+links. Feel free to browse, search and bookmark: <a href="http://evomusart-index.dei.uc.pt/">http://evomusart-index.dei.uc.pt/</a>.
+</p>
 
+<h3>About Evo<span class="red">MUSART</span></h3>
 
 <p>Following the success of previous events and the importance of the field of computational intelligence, specifically, evolutionary and biologically inspired (artificial neural network, swarm, alife) music, sound, art and design, evo<span class="red">MUSART</span> has become an evo* conference with independent proceedings since 2012. Thus, evo<span class="red">MUSART</span> 2017 is the sixth International Conference on Computational Intelligence in Music, Sound, Art and Design.
 </p><p>
@@ -81,9 +91,6 @@ The reviewing process will be double-blind; please omit information about the au
 
 
 
-
-
-
     <h2>Evo<span class="red">MUSART</span> Conference chairs </h2>
         <p><strong>Jo&atilde;o Correia</strong><br />
       University of Coimbra, Portugal<br />
@@ -97,6 +104,72 @@ The reviewing process will be double-blind; please omit information about the au
        Institute of Digital Games, University of Malta<br />
       <em>antonios.liapis(at)um.edu.mt </em>
     </p>
+
+
+
+<h2>Programme Commitee</h2>
+
+
+<ul>
+<li>Dan Ashlock , University of Guelph , Canada</li>
+<li>Peter Bentley , University College London  , UK</li>
+<li>Daniel Bisig , University of Zurich , Switzerland</li>
+<li>Tim Blackwell , Goldsmiths College,  University of London , UK</li>
+<li>Andrew Brown , Griffith University , Australia</li>
+<li>Adrian Carballal , University of A Coruna , Spain</li>
+<li>Amilcar Cardoso , University of Coimbra , Portugal</li>
+<li>Peter Cariani , University of Binghamton , USA</li>
+<li>Vic Ciesielski , RMIT , Australia</li>
+<li>João Correia , University of Coimbra , Portugal</li>
+<li>Palle Dahlstedt , Göteborg University , Sweden</li>
+<li>Hans Dehlinger , Independent Artist , Germany</li>
+<li>Eelco den Heijer , Vrije Universiteit Amsterdam , Netherlands</li>
+<li>Alan Dorin , Monash University , Australia</li>
+<li>Arne Eigenfeldt , Simon Fraser University , Canada</li>
+<li>José Fornari , NICS/Unicamp , Brazil</li>
+<li>Marcelo Freitas Caetano , IRCAM , France</li>
+<li>Philip Galanter , Texas A&M College of Architecture , USA</li>
+<li>Andrew Gildfind , Google, Inc. , Australia</li>
+<li>Gary Greenfield , University of Richmond , USA</li>
+<li>Carlos Grilo , Instituto Politécnico de Leiria , Portugal</li>
+<li>Andrew Horner , University of Science & Technology , Hong Kong</li>
+<li>Patrick Janssen , National University of Singapure , Singapure</li>
+<li>Colin Johnson , University of Kent , UK</li>
+<li>Daniel Jones , Goldsmiths College,  University of London , UK</li>
+<li>Anna Jordanous , University of Kent , UK</li>
+<li>Amy K. Hoover , University of Central Florida , USA</li>
+<li>Maximos Kaliakatsos-Papakostas , Department of Music, Aristotle University of Thessaloniki , Greece</li>
+<li>Matthew Lewis , Ohio State University , USA</li>
+<li>Yang Li , University of Science and Technology Beijing , China</li>
+<li>Antonios Liapis , IT University of Copenhagen  , Denmark</li>
+<li>Alain Lioret , Paris 8 University , France</li>
+<li>Louis Philippe Lopes , Institute of Digital Games, University of Malta , Malta</li>
+<li>Roisin Loughran , University College Dublin , Ireland</li>
+<li>Penousal Machado , University of Coimbra , Portugal</li>
+<li>Tiago Martins , University of Coimbra , Portugal</li>
+<li>Jon McCormack , Monash University , Australia</li>
+<li>Eduardo Miranda , University of Plymouth , UK</li>
+<li>Nicolas Monmarché , University of Tours , France</li>
+<li>Marcos Nadal , University of Vienna  , Austria</li>
+<li>Gary Nelson , Oerlin College , USA</li>
+<li>Michael O'Neill , University College Dublin , Ireland</li>
+<li>Philippe Pasquier , Simon Fraser University , Canada</li>
+<li>Somnuk Phon-Amnuaisuk , Brunei Institute of Technology , Malaysia</li>
+<li>Jane Prophet , City University, Hong Kong , China</li>
+<li>Douglas Repetto , Columbia University , USA</li>
+<li>Juan Romero , University of A Coruna , Spain</li>
+<li>Brian Ross , Brock University , Canada</li>
+<li>Jonathan E. Rowe , University of Birmingham , UK</li>
+<li>Antonino Santos , University of A Coruna , Spain</li>
+<li>Marco Scirea , IT University of Copenhagen , Denmark</li>
+<li>Daniel Silva , University of Coimbra , Portugal</li>
+<li>Benjamin Smith , Indianapolis University, Purdue University,Indianapolis , USA</li>
+<li>Gillian Smith , Northeastern University , USA</li>
+<li>Stephen Todd , IBM , UK</li>
+<li>Paulo Urbano , Universidade de Lisboa , Portugal</li>
+<li>Anna Ursyn , University of Northern Colorado , USA</li>
+<li>Dan Ventura , Brigham Young University , USA</li>
+</ul>
 
 
 <a name="abstracts"></a>
