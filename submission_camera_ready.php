@@ -4,7 +4,7 @@
    </div>
 
 <p>
-   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before INSERT DATE HERE), and also ATTEND to present his/her paper.</strong> 
+   <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 1 February 2017), and also ATTEND to present his/her paper.</strong> 
 </p>
 Please follow Springer's LNCS instructions when preparing your paper. 
 
@@ -128,7 +128,7 @@ specifications without activating headers.
 <p>Authors not following the instructions may result in the paper being excluded from the proceedings.</p>
 
 
-Also, before <strong>25 January 2017</strong>, you also have to send an <strong>E-mail</strong> to j.willies@napier.ac.uk with the title:
+Also, before <strong>25 January 2017</strong>, you also have to send an <strong>E-mail</strong> to jenniferwillies@gmail.com with the title:
 
 <p>
 "EvoStar17 attendance confirmation"<br/>
@@ -139,14 +139,14 @@ which includes the following information:<br/>
 </p>
 
 <hr/>
-In summary, you have to do each of the following 5 tasks no later than <strong>INSERT DATE HERE</strong>
+In summary, you have to do each of the following 5 tasks no later than <strong>1 February</strong>
 <ul>
 <li>Submit the paper including all source files (see above for details)</li>
 <li>Submit an authors.txt file</li>
 <li>Submit an abstract.txt file</li>
 <li>Complete and submit a signed copyright form as PDF</li>
 <li>Send an email with the name of the (co)author who will attend and register at Evo<span class="red">Star</span> 2017</li>
-<li>At least one author must register and pay the conference fee by the <strong>INSERT DATE HERE</strong> 2017. Failure to do so could result in the paper being excluded from publication.</li>
+<li>At least one author must register and pay the conference fee by the <strong>1 February</strong> 2017. Failure to do so could result in the paper being excluded from publication.</li>
 </ul>
 
 
