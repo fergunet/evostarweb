@@ -78,15 +78,15 @@ Page limit: 16 pages<br/>
 <h3>Programme Committee</h3>
 
 <ul>
-<li>Oliver Kramer, oliver.kramer(at)uni-oldenburg.de</li>
-<li>Chenjie Ma,    Chenjie.Ma(at)iwes.fraunhofer.de</li>
-<li>Ingo Mauser,   ingo.mauser(at)kit.edu</li>
-<li>Martin Middendorf,     middendorf(at)informatik.uni-leipzig.de</li>
-<li>Frank Neumann, frank.neumann(at)adelaide.edu.au</li>
-<li>Peter Palensky,        P.Palensky(at)tudelft.nl</li>
-<li>Markus Wagner, markus.wagner(at)adelaide.edu.au</li>
-<li>Maizura Mokhtar,       m.mokhtar(at)napier.ac.uk</li>
-<li>Ana Soares,    argsoares(at)gmail.com</li>
+<li>Oliver Kramer,   University of Oldenburg, Germany</li>
+<li>Chenjie Ma,      Fraunhofer Institute for Wind Energy and Energy System Technology, Germany</li>
+<li>Ingo Mauser,     Karlsruhe Institute of Technology, Germany</li>
+<li>Martin Middendorf,       University of Leipzig, Germany</li>
+<li>Frank Neumann,   University of Adelaide, Australia</li>
+<li>Peter Palensky,  Technical University of Delft, Netherlands</li>
+<li>Markus Wagner,   University of Adelaide, Australia</li>
+<li>Maizura Mokhtar, Edinburgh Napier University, United Kingdom</li>
+<li>Ana Soares,      EnergyVille, VITO, Belgium</li>
 </ul>
 
     <?php include('footer.php') ?>
