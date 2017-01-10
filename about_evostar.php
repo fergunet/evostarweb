@@ -3,10 +3,14 @@
 <h2>About Evo<span class="red">star</span></h2>
 </div>
 
-Evo<span class="red">Star</span> comprises of four co-located conferences run each spring at different locations throughout Europe.  These events arose out of workshops originally developed by EvoNet, the Network of Excellence in Evolutionary Computing, established by the Information Societies Technology Programme of the European Commission, and they represent a continuity of research collaboration stretching back nearly 20 years.
-The four conferences include
+<p>Evo<span class="red">Star</span> comprises of four co-located conferences run each spring at different locations throughout Europe. These events arose out of workshops originally developed by EvoNet, the Network of Excellence in Evolutionary Computing, established by the Information Societies Technology Programme of the European Commission, and they represent a continuity of research collaboration stretching back over 20 years. </p>
 
-<ul><!--I've updated the event numbers-->
+<p>EvoStar is organised by <a href="http://species-society.dei.uc.pt/"><strong>SPECIES</strong></a>,  the <em>Society for the Promotion of Evolutionary Computation in Europe and its Surroundings</em>.  This non-profit academic society is committed to promoting evolutionary algorithmic thinking, with inspiration of parallel algorithms derived from natural processes.  It provides a forum for information and exchange.</p>
+<p><img width="50%" src="img/species.png"></p>
+
+The four conferences include:
+
+<ul>
 <li>Euro<span class="red">GP</span> 19th European Conference on Genetic Programming</li>
 
 <li>Evo<span class="red">COP</span> 16th European Conference on Evolutionary Computation in Combinatorial Optimisation</li>
