@@ -79,7 +79,6 @@ giovanniiacca@incas3.eu
 <li>Rolf Hoffmann (Technical University Darmstadt, Germany)</li>
 <li>Andreas Kassler (Karlastd University, Sweden)</li>
 <li>Graham Kendall (University of Nottingham, UK)</li>
-<li>Farrukh Aslam Khan (National University of Computer & Emerging Sciences, Pakistan)</li>
 <li>Kenji Leibnitz (National Institute of Information and Communications Technology, Japan)</li>
 <li>Domenico Maisto (ICAR-CNR, Italy)</li>
 <li>Carlo Mannino (SINTEF Oslo, Norway)</li>

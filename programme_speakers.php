@@ -14,7 +14,9 @@
 </p>	
 
 <p>
-<strong>Abstract:</strong> TBA </p>
+<strong>Abstract:</strong> 
+ 
+I’ve had the privilege of involvement in this field from its early days.  The result is a rather unique and comprehensive perspective on its development and growth.   In this talk I use that perspective to highlight some important milestones, discuss some current issues and suggest some directions for the future. </p>
 
 <div>
 

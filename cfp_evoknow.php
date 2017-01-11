@@ -54,6 +54,18 @@ comments and will be asked to send a camera ready version of their manuscripts. 
 conference and attend the conference and present the work.</p>
 
 
+<h3>Programme Committee</h3>
+<ul>
+<li>  Jarosław Arabas (Warsaw University of Technology, Poland)</li>
+<li>János Botzheim (Tokyo Metropolitan University, Japan)</li>
+<li>Doina Bucur (University of Twente, The Netherlands)</li>
+<li>Fabio Caraffini (De Montfort University, UK)</li>
+<li>Ahmed Hallawa (RWTH Aachen University, Germany)</li>
+<li>Ferrante Neri (De Montfort University, UK)</li>
+<li>Vinícius Veloso de Melo (UNIFESP-SJC, Brazil)</li>
+<li>Anil Yaman (Technical University of Eindhoven, The Netherlands)</li>
+<li>Aleš Zamuda (University of Maribor, Slovenia)</li>
+</ul>
 
 
     <h3>Evo<span class="red">KNOW</span> Track Chairs</h3>
