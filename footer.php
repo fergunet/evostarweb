@@ -16,7 +16,7 @@
               <strong>Notification:</strong> 9 January 2017<br/>
               <strong>Camera-ready:</strong> 25 January 2017<br/>
               <strong>Mandatory registration per paper:</strong> 1 February 2017</br>
-              <strong>Student bursary deadline:</strong> 15 February 2017 <br/>
+              <strong>Student bursary deadline:</strong> 20 February 2017 <br/>
               <strong>Early registration discount:</strong> 1 March 2017<br/>
               <strong>Registration deadline:</strong> 10 April 2017<br/>
               <strong>EvoStar dates:</strong> 19-21 April 2017<br/>
