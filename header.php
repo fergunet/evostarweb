@@ -119,7 +119,7 @@
                         <h1>Evostar 2017</h1>
                         <hr class="small">
                         <span class="subheading">The Leading European Event on Bio-Inspired Computation.</span>
-			<span class="subheading">April 2017</span>
+			<span class="subheading">Amsterdam. 19-21 April 2017.</span>
                     </div>
                 </div>
             </div>

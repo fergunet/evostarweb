@@ -11,9 +11,11 @@
             </div>
             <div class="panel-body">
               
+              <span class="gray">
               <strong>Submission Deadline:</strong> 1 November 2016<br/>
-              <span class="red"><strong>EXTENDED DEADLINE:</strong> 15 November 2016</span><br/> <em>(site remains open for final changes until 21 Nov)</em><br/>
+              <strong>EXTENDED DEADLINE:</strong> 15 November 2016<br/> <em>(site remains open for final changes until 21 Nov)</em><br/>
               <strong>Notification:</strong> 9 January 2017<br/>
+            </span>
               <strong>Camera-ready:</strong> 25 January 2017<br/>
               <strong>Mandatory registration per paper:</strong> 1 February 2017</br>
               <strong>Student bursary deadline:</strong> 20 February 2017 <br/>
