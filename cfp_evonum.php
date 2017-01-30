@@ -57,6 +57,21 @@ Universitat Politècnica de València, Spain <br/>
 aesparcia(at)pros.upv.es</li>
 </ul>
 
+<h3>Programme Committee</h3>
+<ul>
+<li>Hans-Georg Beyer, Vorarlberg University of Applied Sciences, Austria</li>
+<li>Şima Etaner-Uyar, Istanbul Technical University, Turkey</li>
+<li>Bill Langdon, University College London, UK </li>
+<li>JJ Merelo, Universidad de Granada, Spain </li>
+<li>Boris Naujoks, TH - Köln University of Applied Sciences, Germany</li>
+<li>Ferrante Neri, De Montfort University, UK</li>
+<li>Petr Pošík, Czech Technical University in Prague, Czech Republic</li>
+<li>Mike Preuss, WWU Münster, Germany</li>
+<li>Guenter Rudolph, University of Dortmund, Germany</li>
+<li>Ivo Fabian Sbalzarini, Max Planck Institute of Molecular Cell Biology and Genetics, Germany</li>
+<li>Ke Tang, University of Science and Technology of China (USTC), China</li>
+</ul>
+
 
 
     <?php include('footer.php') ?>
