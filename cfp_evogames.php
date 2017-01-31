@@ -63,6 +63,28 @@ INRA, France<br/>
 alberto.tonda(at)grignon.inra.fr</li>
 </ul>
 
+<h3>Programme Committee</h3>
+<ul>
+<li>Buche, Cédric; ENIB, France</li>
+<li>Camacho, David; Universidad Autónoma de Madrid, Spain</li>
+<li>Fernández Ares, Antonio; University Of Granada, Spain</li>
+<li>Fernández Leiva, Antonio; University of Málaga, Spain</li>
+<li>García Sánchez, Pablo; University of Cádiz, Spain</li>
+<li>González Pardo, Antonio; Universidad Autónoma de Madrid, Spain</li>
+<li>Gutiérrez Vela, Francisco Luis; University Of Granada, Spain</li>
+<li>Hagelback, Johan; Blekinge Tekniska Hogskola, Sweden</li>
+<li>Hallam, John; University of Southern Denmark, Denmark</li>
+<li>Lara Cabrera, Raúl; Universidad Autónoma de Madrid, Spain</li>
+<li>Liapis, Antonios; University Of Malta, Malta</li>
+<li>Liberatore, Federico; Universidad Carlos III, Spain</li>
+<li>Mahlmann, Tobias; Lund University, Sweden</li>
+<li>Paderewski Rodriguez, Patricia; University Of Granada, Spain</li>
+<li>Preuss, Mike; TU Dortmund, Germany</li>
+<li>Sipper, Moshe; Ben-Gurion University, Israel</li>
+<li>Togelius, Julian; New York University, USA</li>
+<li>Urli, Tommaso; Csiro Data61, Australia</li>
+<li>Yannakakis, Georgios N.; University Of Malta, Malta</li>
+</ul>
 
 
     <?php include('footer.php') ?>

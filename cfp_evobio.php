@@ -76,28 +76,26 @@ Memorial University, St. John’s, NL Canada <br/>
 <h3>Programme Committee</h3>
 
 <ul>
-<li>Mengjie Zhang, Victoria University of Wellington, New Zealand</li>
-<li>Alex Freitas, University of Kent, UK</li>
-<li>Bing Xue, Victoria University of Wellington (VUW), New Zealand</li>
-<li>Casey Greene, University of Pennsylvania, USA</li>
-<li>Edward Keedwell, University of Exeter, UK</li>
-<li>Elena Marchiori, Radboud Universiteit van Nijmegen, Netherlands</li>
-<li>Florentino Fernandez, Universidad de Vigo, Spain</li>
-<li>Francisco A. Gómez Vela, Pablo de Olavide University, Spain</li>
-<li>Jin-Kao Hao, University of Angers, France</li>
-<li>Jitesh Dundas, Edencore Technologies, Indian Institue of Technology, India</li>
-<li>Jose Santos Reyes, Universidad de A Coruña, Spain</li>
-<li>Leonardo Vanneschi, Universidade Nova de Lisboa, Portugal</li>
-<li>Mario Giacobini, Universitá di Torino, Italy</li>
-<li>Nicola Lazzarini, Newcastle University, UK</li>
-<li>Raffaele Giancarlo, Università degli Studi di Palermo, Italy</li>
-<li>Ryan Urbanowicz, University of Pennsylvania, USA</li>
-<li>Simona Rombo, Università degli Studi di Palermo, Italy</li>
-<li>Christian Darabos, University of Pennsylvania, USA</li>
-<li>Rosalba Giugno, University of Verona, Italy</li>
-<li>Vincent Moulton, University of East Anglia, UK</li>
-<li>Carlotta Orsenigo, Politecnico di Milano, Italy</li>
-<li>Michael Raymer, Wright State University, USA</li>
+<li>Bacardit, Jaume; Newcastle University, UK</li>
+<li>Darabos, Christian; Dartmouth College, USA</li>
+<li>Divina, Federico; Universidad Pablo de Olavide, Spain</li>
+<li>Fernandez, Florentino; Universidad de Vigo, Spain</li>
+<li>Freitas, Alex; University of Kent, UK</li>
+<li>Giacobini, Mario; Universita di Torino, Italy</li>
+<li>Giancarlo, Raffaele; Università degli Studi di Palermo, Italy</li>
+<li>Gomez Vela, Francisco; Universidad Pablo de Olavide, Spain</li>
+<li>Greene, Casey; University of Pennsylvania, USA</li>
+<li>Hao, Jin-Kao; University of Angers, France</li>
+<li>Hu, Ting; Memorial University, Canada</li>
+<li>Qi, Jianlong; Ancestry, USA</li>
+<li>Marchiori, Elena; Radboud Universiteit van Nijmegen, Netherlands</li>
+<li>Orsenigo, Carlotta; Politecnico di Milano, Italy</li>
+<li>Pizzuti, Clara; ICAR-CNR, Italy</li>
+<li>Rombo, Simona; Università degli Studi di Palermo, Italy</li>
+<li>Santos Reyes, Jose; Universidad de A Coruña, Spain</li>
+<li>Vanneschi, Leonardo; Universidade Nova de Lisboa, Portugal</li>
+<li>Xue, Bing; Victoria University of Wellington, New Zealand</li>
+<li>Zhang, Mengjie; Victoria University of Wellington, New Zealand</li>
 
 </ul>
 
