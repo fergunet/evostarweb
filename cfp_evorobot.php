@@ -48,7 +48,26 @@ VU University Amsterdam<br/>
 j.v.heinerman(at)vu.nl
 </ul>
 
-
+<h3>Programme Committee</h3>
+<ul>
+<li>Auerbach, Joshua ; Champlain College, United States</li>
+<li>Bredeche, Nicolas ; Institut des Systèmes Intelligents et de Robotique, France</li>
+<li>Christensen, Anders; University Institute of Lisbon, ISCTE-IUL, Portugal</li>
+<li>Doncieux, Stephane ; Institut des Systèmes Intelligents et de Robotique, France</li>
+<li>Glette, Kyrre; University of Oslo, Norway</li>
+<li>Haasdijk, Evert; Vrije Universiteit Amsterdam, The Netherlands</li>
+<li>Hamann, Heiko; University of Paderborn, Germany</li>
+<li>Heinerman, Jacqueline; Vrije Universiteit Amsterdam, The Netherlands</li>
+<li>Huizinga, Joost; University of Wyoming, United States</li>
+<li>Montanier, Jean-Marc ; Softbank Robotics Europe, France</li>
+<li>Mouret, Jean-Baptiste ; INRIA Larsen Team, France</li>
+<li>Nitschke, Geoff ; University of Cape Town, South Africa</li>
+<li>Nolfi, Stefano ; Institute of Cognitive Sciences and Technologies, Italy</li>
+<li>Olav Ellefsen, Kai ; University of Wyoming, United States</li>
+<li>Prieto, Abraham ; University of La Coruña, Spain</li>
+<li>Rossi, Claudio ; Universidad Politecnica De Madrid, Spain</li>
+<li>Schmickl, Thomas ; University of Graz, Austria</li>
+</ul>
 
     <?php include('footer.php') ?>
 
