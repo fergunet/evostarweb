@@ -5,7 +5,9 @@
 
 <h2>20th European Conference on Genetic Programming</h2>
 
-<?php include('common_to_all.php') ?>
+<!--
+<?php include('common_to_all.php') ?> 
+-->
 <ul>
 <li><a href="#abstracts">Accepted paper abstracts</a></li>
 <!--<li><a href="#best">Best Paper Nominees</a></li> -->
@@ -54,105 +56,6 @@
 <li>Automatic software maintenance</li>
 <li>Evolutionary inductive programming</li>
 
-
-
-    </ul>
-    <h2>Publication Details</h2>
-    <p>Accepted papers will be presented orally or as posters at the Conference 
-      and will be printed in the proceedings published by Springer Verlag in the 
-      Lecture Notes in Computer Science (LNCS) series.</p>
-    <p>Previous editions of Euro<span class="red">GP</span> were published in 
-      the following Springer Verlag LNCS volumes</p>
-    <table width="100%" border="0">
-      <tr class="twoColFixLtHdr"> 
-        <td> <ul>
-          <li>2016 <a href="http://www.springer.com/us/book/9783319306674">LNCS 9594</a></li>
-        <li>2015 <a href="http://www.springer.com/us/book/9783319165004">LNCS 9025</a></li>
-            <li>2014 <a href="http://www.springer.com/computer/theoretical+computer+science/book/978-3-662-44302-6">LNCS 8599</a>
-		</li>
-            <li>2013 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=7831">LNCS 
-              7831</a></li>
-            <li>2012 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=7244">LNCS 
-              7244</a> </li>
-            <li>2011 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=6621">LNCS 
-              6621</a> </li>
-          </ul></td>
-          <td> <ul>
-            <li>2010 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=6021">LNCS 
-              6021</a> </li>
-            <li>2009 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=5481">LNCS 
-              5481</a> </li>
-            <li>2008 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=4971">LNCS 
-              4971</a> </li>
-            <li>2007 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=4445">LNCS 
-              4445</a> </li>
-            <li>2006 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=3905">LNCS 
-              3905</a> </li>
-            <li>2005 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=3447">LNCS 
-              3447</a> </li>
-            <li>2004 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=3003">LNCS 
-              3003</a> </li>
-          </ul></td>
-          <td> <ul>
-            <li>2003 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2610">LNCS 
-              2610</a> </li>
-            <li>2002 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2278">LNCS 
-              2278</a> </li>
-
-            <li>2001 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2038">LNCS 
-              2038</a> </li>
-            <li>2000 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=1802">LNCS 
-              1802</a> </li>
-            <li>1999 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=1598">LNCS 
-              1598</a> </li>
-            <li>1998 <a
-href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=1391">LNCS 
-              1391</a> </li>
-          </ul>
-</td>
-      </tr>
-    </table>
-    <p>The papers which receive the best reviews will be nominated for the Best 
-      Paper Award.</p>
-    <h2>Submission Details</h2>
-    <p> Submissions must be original and not published elsewhere. They will be 
-      peer reviewed by at least three members of the program committee. The reviewing 
-      process will be double-blind, so please omit information about the authors 
-      in the submitted paper. Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
-      LNCS format</a>. </p>
-    <p>Page limit: <strong>16 pages</strong> (this number has been increased for all conferences in Evostar 2017)<br />
-      <br />
-      The authors of accepted papers will have to improve their paper on the basis 
-      of the reviewers' comments and will be asked to send a camera ready version 
-      of their manuscripts. At least one author of each accepted work has to register 
-      for the conference, attend the conference and present the work.</p>
-    
-    <p>Submission link: <a href="https://myreview.saclay.inria.fr/eurogp17">https://myreview.saclay.inria.fr/eurogp17</a>
-      <br /><!--
-      <strong>Important Dates</strong><br />
-      <br />
-      Submission deadline: <del>1 November 2013</del><strong> 11 November 2013</strong><br />
-	   Notification: 06 January 2014<br />
-      Camera ready: 01 February 2014<br />
-      Conference dates: 23-25 April 2014</p>-->
-
-
-
     <div id="logo"> 
       <h2>Euro<span class="red">GP</span></a> programme 
         chairs : </h2>
@@ -177,6 +80,13 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
           <em> sekanina(at)fit.vutbr.cz </em> </span></li>
       </ul>
     </div>
+
+    </ul>
+
+
+
+
+
     <h2>Programme Committee </h2>
 
 <ul>
@@ -966,6 +876,95 @@ implementations of neural networks. During these experiments, we automatically r
 method was implemented as an extension of an existing platform supporting
 
 concurrent evolution of hardware and software of embedded systems.
+
+    <h2>Publication Details</h2>
+    <p>Accepted papers will be presented orally or as posters at the Conference 
+      and will be printed in the proceedings published by Springer Verlag in the 
+      Lecture Notes in Computer Science (LNCS) series.</p>
+    <p>Previous editions of Euro<span class="red">GP</span> were published in 
+      the following Springer Verlag LNCS volumes</p>
+    <table width="100%" border="0">
+      <tr class="twoColFixLtHdr"> 
+        <td> <ul>
+          <li>2016 <a href="http://www.springer.com/us/book/9783319306674">LNCS 9594</a></li>
+        <li>2015 <a href="http://www.springer.com/us/book/9783319165004">LNCS 9025</a></li>
+            <li>2014 <a href="http://www.springer.com/computer/theoretical+computer+science/book/978-3-662-44302-6">LNCS 8599</a>
+		</li>
+            <li>2013 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=7831">LNCS 
+              7831</a></li>
+            <li>2012 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=7244">LNCS 
+              7244</a> </li>
+            <li>2011 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=6621">LNCS 
+              6621</a> </li>
+          </ul></td>
+          <td> <ul>
+            <li>2010 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=6021">LNCS 
+              6021</a> </li>
+            <li>2009 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=5481">LNCS 
+              5481</a> </li>
+            <li>2008 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=4971">LNCS 
+              4971</a> </li>
+            <li>2007 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=4445">LNCS 
+              4445</a> </li>
+            <li>2006 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=3905">LNCS 
+              3905</a> </li>
+            <li>2005 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=3447">LNCS 
+              3447</a> </li>
+            <li>2004 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=3003">LNCS 
+              3003</a> </li>
+          </ul></td>
+          <td> <ul>
+            <li>2003 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2610">LNCS 
+              2610</a> </li>
+            <li>2002 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2278">LNCS 
+              2278</a> </li>
+
+            <li>2001 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=2038">LNCS 
+              2038</a> </li>
+            <li>2000 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=1802">LNCS 
+              1802</a> </li>
+            <li>1999 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=1598">LNCS 
+              1598</a> </li>
+            <li>1998 <a
+href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp;volume=1391">LNCS 
+              1391</a> </li>
+          </ul>
+</td>
+      </tr>
+    </table>
+    <p>The papers which receive the best reviews will be nominated for the Best 
+      Paper Award.</p>
+    <h2>Submission Details</h2>
+    <p> Submissions must be original and not published elsewhere. They will be 
+      peer reviewed by at least three members of the program committee. The reviewing 
+      process will be double-blind, so please omit information about the authors 
+      in the submitted paper. Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
+      LNCS format</a>. </p>
+    <p>Page limit: <strong>16 pages</strong> (this number has been increased for all conferences in Evostar 2017)<br />
+      <br />
+      The authors of accepted papers will have to improve their paper on the basis 
+      of the reviewers' comments and will be asked to send a camera ready version 
+      of their manuscripts. At least one author of each accepted work has to register 
+      for the conference, attend the conference and present the work.</p>
+    
+    <p>Submission link: <a href="https://myreview.saclay.inria.fr/eurogp17">https://myreview.saclay.inria.fr/eurogp17</a>
+      <br />
+
 
 
     <?php include('footer.php') ?>
