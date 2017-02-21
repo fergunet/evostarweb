@@ -9,7 +9,7 @@
 
 <!--h2><span class="red">NOTE: APPLICATION IS NOW CLOSED</span></h2>-->
 
-<h3>Application deadline:  20 February 2017</h3>
+<h3>Application deadline: <strike> 20 February 2017</strike> APPLICATIONS NOW CLOSED</h3>
  
 <p>A limited number of student travel bursaries will be available to those whose papers have been accepted for EuroGP, EvoCOP, EvoMUSART and EvoAPPLICATIONS 2017.  We aim to offer assistance to as many students as possible and <span class="red" style="font-weight:bold;">applications will only be accepted from those who have already registered for the EvoStar conferences</span>.  Do not apply for an EvoStar bursary until you have completed the registration process, otherwise your application will be automatically rejected.  
  </p>
