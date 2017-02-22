@@ -5,7 +5,7 @@
 
 <h2>20th European Conference on the Applications of Evolutionary Computation</h2>
 
-<?php include('common_to_all.php') ?>
+<!-- <?php include('common_to_all.php') ?>-->
 <ul>
 <!--<li><a href="#abstracts">Accepted paper abstracts</a></li>
 <li><a href="#best">Best Paper Nominees</a></li> 
@@ -82,28 +82,7 @@
     <p>Join the the EVOstar group on LinkedIn for more details and updates.</p>
     </span> 
     
-    <h3>PUBLICATION DETAILS</h3>
-    <p>Accepted papers will appear in the proceedings of Evo<span class="red">Star</span>, 
-      published in a volume of the Springer Lecture Notes in Computer Science, 
-      which will be available at the Conference.Submissions must be original and 
-      not published elsewhere. The submissions will be peer reviewed by at least 
-      three members of the program committee. The authors of accepted papers will 
-      have to improve their paper on the basis of the reviewers comments and will 
-      be asked to send a camera ready version of their manuscripts. At least one 
-      author of each accepted work has to register for the conference and attend 
-      the conference and present the work.The reviewing process will be double-blind, 
-      please omit information about the authors in the submitted paper. </p>
-    <h2>Submission Details</h2>
-    <p>Submissions must be original and not published elsewhere. They will be 
-      peer reviewed by members of the program committee. The reviewing process 
-      will be double-blind, so please omit information about the authors in the 
-      submitted paper. </p>
-    <p>Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
-      LNCS format</a>. </p>
-    <p> Please provide up to five keywords in your Abstract</p>
-    <p>Page limit: 16 pages.<span> 
-      </span></p>
-    <strong>Submission link:</strong>  <a href="https://myreview.saclay.inria.fr/evoapps17/">https://myreview.saclay.inria.fr/evoapps17/</a>
+   
 
  
     <h3> FURTHER INFORMATION </h3>
@@ -193,5 +172,29 @@ EvoAPPS 7 : CONTENT GENERATION AND LEARNING IN GAMES, THURS 14:30-16:10
 <h3>EvoAPPS 12 : CONTINUOUS PARAMETER OPTIMISATION, FRI 09:30-11:10
 (APPs topics: NUM+STOC)</h3>
 -->
+
+ <h3>PUBLICATION DETAILS</h3>
+    <p>Accepted papers will appear in the proceedings of Evo<span class="red">Star</span>, 
+      published in a volume of the Springer Lecture Notes in Computer Science, 
+      which will be available at the Conference.Submissions must be original and 
+      not published elsewhere. The submissions will be peer reviewed by at least 
+      three members of the program committee. The authors of accepted papers will 
+      have to improve their paper on the basis of the reviewers comments and will 
+      be asked to send a camera ready version of their manuscripts. At least one 
+      author of each accepted work has to register for the conference and attend 
+      the conference and present the work.The reviewing process will be double-blind, 
+      please omit information about the authors in the submitted paper. </p>
+    <h2>Submission Details</h2>
+    <p>Submissions must be original and not published elsewhere. They will be 
+      peer reviewed by members of the program committee. The reviewing process 
+      will be double-blind, so please omit information about the authors in the 
+      submitted paper. </p>
+    <p>Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
+      LNCS format</a>. </p>
+    <p> Please provide up to five keywords in your Abstract</p>
+    <p>Page limit: 16 pages.<span> 
+      </span></p>
+    <strong>Submission link:</strong>  <a href="https://myreview.saclay.inria.fr/evoapps17/">https://myreview.saclay.inria.fr/evoapps17/</a>
+
 
  <?php include('footer.php') ?>

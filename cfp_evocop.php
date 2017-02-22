@@ -5,7 +5,7 @@
 
 <h2>The 17th European Conference on Evolutionary Computation in Combinatorial 
       Optimisation</h2>
-<?php include('common_to_all.php') ?>
+<!-- <?php include('common_to_all.php') ?> -->
       <ul>
       <li><a href="pdfs/EvoCop2017flyer.pdf">Download Flyer</a></li>
 <li><a href="#abstracts">Accepted paper abstracts</a></li>
@@ -67,27 +67,6 @@
 <li>Optimisation in Cloud computing</li>
 <li>Search-based software engineering</li>
     </ul>
-
-
-
-    <p><strong>Publication Details</strong></p>
-    <p>All accepted papers will be presented orally at the conference and printed 
-      in the proceedings published by Springer in the LNCS series (see LNCS volumes 
-      2037, 2279, 2611, 3004, 3448, 3906, 4446, 4972, 5482, 6022, 6622, 7245, 
-      7832, 8600 and 9026 for the previous proceedings).</p>
-    <p><strong>Submission Details</strong></p>
-    <p>Submissions must be original and not published elsewhere. The submissions will be peer reviewed by members of the program committee. The authors of accepted papers will have to improve their paper on the basis of the reviewers comments and will be asked to send a camera ready version of their manuscripts. At least one author of each accepted work has to register for the conference, attend the conference and present the work.</p>
-<p>
-The reviewing process will be double-blind, please omit information about the authors in the submitted paper. Submit your manuscript in Springer LNCS format.</p>
-    <p>
-      Page limit: <strong>16 pages</strong>
-</p>
-<p><strong>Submission link</strong>: <a href="https://myreview.saclay.inria.fr/evocop17/">https://myreview.saclay.inria.fr/evocop17/</a><br /></p>
-    <!--<p><strong>Important Dates</strong><br />
-      Submission deadline: <del>1 November 2013</del><strong> 11 November 2013</strong><br />
-     Notification: 06 January 2014<br />
-      Camera ready: 01 February 2014<br />
-      Evo<span class="red">*</span> event: April 23-25, 2014</p>-->
 
 
       
@@ -179,5 +158,23 @@ List of EvoCOP accepted papers (all are long papers)
 
 <a name="best"></a>
 <br/>
+
+
+
+    <p><strong>Publication Details</strong></p>
+    <p>All accepted papers will be presented orally at the conference and printed 
+      in the proceedings published by Springer in the LNCS series (see LNCS volumes 
+      2037, 2279, 2611, 3004, 3448, 3906, 4446, 4972, 5482, 6022, 6622, 7245, 
+      7832, 8600 and 9026 for the previous proceedings).</p>
+    <p><strong>Submission Details</strong></p>
+    <p>Submissions must be original and not published elsewhere. The submissions will be peer reviewed by members of the program committee. The authors of accepted papers will have to improve their paper on the basis of the reviewers comments and will be asked to send a camera ready version of their manuscripts. At least one author of each accepted work has to register for the conference, attend the conference and present the work.</p>
+<p>
+The reviewing process will be double-blind, please omit information about the authors in the submitted paper. Submit your manuscript in Springer LNCS format.</p>
+    <p>
+      Page limit: <strong>16 pages</strong>
+</p>
+<p><strong>Submission link</strong>: <a href="https://myreview.saclay.inria.fr/evocop17/">https://myreview.saclay.inria.fr/evocop17/</a><br /></p>
+
+
 
     <?php include('footer.php') ?>
