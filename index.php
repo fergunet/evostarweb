@@ -10,6 +10,7 @@
         <h2>Latest <span class="red">news</span>:</h2>
  </div>
 <ul>
+	<li>Download the <a href="pdfs/StarProgDraft.pdf">draft online programme</a>.</li>
 	<li><strong>Online registration and payment system is open <a href="participants_registration.php">HERE</a></strong></li>
 	<li>Visit the <a href="https://smartbyreservations.nl/Eventguest/Register?ID=7kKA2Hjo8f4=&key=1">accommodation reservation system</a> with reduced rates for attendees.</li>
 	<li><a href="participants_letter.php">Invitation letter request</a></li>
