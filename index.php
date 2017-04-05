@@ -10,6 +10,16 @@
         <h2>Latest <span class="red">news</span>:</h2>
  </div>
 <ul>
+	<li>Online access to SpringerLink to access EvoStar proceedings. These links will be available only through this website, and from 12 April to 10 May 2017.</li>
+	<ul>
+ <li><a href="https://link.springer.com/book/10.1007/978-3-319-55696-3"> LNCS 10196: Euro<span class="red">GP</span> 2017</a></li>
+ <li><a href="https://link.springer.com/book/10.1007/978-3-319-55453-2"> LNCS 10197: Evo<span class="red">COP</span> 2017</a></li>
+ <li><a href="https://link.springer.com/book/10.1007/978-3-319-55750-2"> LNCS 10198: Evo<span class="red">MUSART</span> 2017</a></li>
+ <li><a href="https://link.springer.com/book/10.1007/978-3-319-55849-3"> LNCS 10199: Evo<span class="red">APPS</span> 2017 (I)</a></li>
+ <li><a href="https://link.springer.com/book/10.1007/978-3-319-55792-2"> LNCS 10200: Evo<span class="red">APPS</span> 2017 (II)</a></li>
+    </ul>
+
+
 	<li>Download the <a href="pdfs/StarProgDraft.pdf">draft online programme</a>.</li>
 	<li><strong>Online registration and payment system is open <a href="participants_registration.php">HERE</a></strong></li>
 	<li>Visit the <a href="https://smartbyreservations.nl/Eventguest/Register?ID=7kKA2Hjo8f4=&key=1">accommodation reservation system</a> with reduced rates for attendees.</li>
