@@ -10,6 +10,7 @@
         <h2>Latest <span class="red">news</span>:</h2>
  </div>
 <ul>
+<li>Download <a href="pdfs/EvoStarConferenceHandbook.pdf">Conference Handbook</a>.</li>
 	<li>Online access to SpringerLink to access EvoStar proceedings. These links will be available only through this website, and from 12 April to 10 May 2017.</li>
 	<ul>
  <li><a href="https://link.springer.com/book/10.1007/978-3-319-55696-3"> LNCS 10196: Euro<span class="red">GP</span> 2017</a></li>
