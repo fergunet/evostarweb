@@ -11,8 +11,9 @@
  </div>
 
 <ul>
-	 <li>Programme <a href="programme_overview.php">available here</a>.</li>
+
 	<li>Online access to SpringerLink to access EvoStar proceedings. These links will be available only through this website, and from 12 April to 10 May 2017.</li>
+	<li>Programme <a href="programme_overview.php">available here</a>.</li>
 	<ul>
  <li><a href="https://link.springer.com/book/10.1007/978-3-319-55696-3"> LNCS 10196: Euro<span class="red">GP</span> 2017</a></li>
  <li><a href="https://link.springer.com/book/10.1007/978-3-319-55453-2"> LNCS 10197: Evo<span class="red">COP</span> 2017</a></li>
