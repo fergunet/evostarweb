@@ -11,7 +11,7 @@
  </div>
 
 <ul>
-
+<li><a href="#faq">FAQ section</a> added.</li>
 <li>Download <a href="pdfs/EvoStarConferenceHandbook.pdf">Conference Handbook</a>.</li>
 	 <li>Programme <a href="programme_overview.php">available here</a>.</li>
 
@@ -40,18 +40,42 @@
 	<p>This year, Evo<span class="red">star</span> conferences will be held in Amsterdam, The Netherlands, from 19 to 21 April 2017. Read more about Evo<span class="red">star</a> <a href="about_evostar.php">here</a>.</p>
 <p>
 
-<h3>Location Venue</h3>
+
+
+
+<a name="faq"></a>
+<h3>FAQ</h3>
+
+<h4>What are the conference dates?</h4>
 EvoStar 2017 will be held from 9am on Wednesday 19 April until 2pm on Friday 21 April, with an optional Friday afternoon local excursion.
- 
-<p><strong> 
+
+
+<h4>Where is the location Venue?</h4>
+
 The conference venue is the the Bazel, Vijzelstraat 32, Amsterdam.
- </strong></p>
 
 
-<h3>Special Issues</h3>
 
+
+<h4>Do I need to present a poster?</h4>
+Authors who have been allocated an Interactive Presentation must present a poster in the poster session.
+Authors with a regular presentation can optionally bring one too. 
+
+
+<h4>How long are the talks?</h4>
+Regular talks are 20 min long, plus questions.
+
+<h4>Can I print my poster there?</h4>
+It is possible, <a href="location_posters.php">visit this page</a> for more information about posters size, storage and printing.
+
+<h4>Is there free WiFi available?</h4>
+Yes.
+
+<h4>Should I bring my laptop for my presentation?</h4>
+It is recommended.
+
+<h4>Is there any Special Issue?</h4>
 Authors of selected papers will be invited to submit extended versions of their papers to some JCR journals. More information available in each conference page.
-</p>
 
 
 

@@ -286,7 +286,7 @@ hidden Markov models for incorporating those patterns into a similarity model.
 
 </p><p><strong>Title:</strong> Evolved Aesthetic Analogies to Improve Artistic Experience
 
-<br/><strong>Authors:</strong> Aidan Breen, Colm OíRiordan, and Jerome Sheahan
+<br/><strong>Authors:</strong> Aidan Breen, Colm O'Riordan, and Jerome Sheahan
 
 <br/><strong>Abstract:</strong> It has been demonstrated that computational evolution can be utilised in the
 
@@ -368,9 +368,9 @@ preferences, especially in music genres where the improvisation plays an importa
 
 role. In this paper we propose a new approach for both recognition and automatic
 
-composition of music of a specific performerís style. Such a system exploits: (1) a
+composition of music of a specific performer's style. Such a system exploits: (1) a
 
-one-class machine learning classifier to learn a specific music performerís style, (2) a
+one-class machine learning classifier to learn a specific music performer's style, (2) a
 
 music splicing system to compose melodic lines in the learned style, and (3) a LSTM
 
@@ -507,11 +507,11 @@ melodies created by the system.
 
 </p><p><strong>Title:</strong> EvoFashion: Customising Fashion Through Evolution
 
-<br/><strong>Authors:</strong> Nuno Lourenco, Filipe Assuncòao, Catarina Macòas, and Penousal
+<br/><strong>Authors:</strong> Nuno Lourenco, Filipe Assunção, Catarina Maçãs, and Penousal
 
 Machado
 
-<br/><strong>Abstract:</strong> In todayís society, where everyone desires unique and fashionable
+<br/><strong>Abstract:</strong> In todays society, where everyone desires unique and fashionable
 
 products, the ability to customise products is almost mandatory in every online store.
 
@@ -519,7 +519,7 @@ Despite of many stores allowing the users to personalize their products, they do
 
 always do it in the most efficient and user-friendly manner. In order to have products
 
-that reflect the userís design preferences, they have to go through a laborious process
+that reflect the user's design preferences, they have to go through a laborious process
 
 of picking the components that they want to customise. In this paper we propose a
 
@@ -716,7 +716,7 @@ Since most of these consumers are not professional designers, they contact a
 
 designer to help them with the process. This approach, however, is not efficient in
 
-terms of time and cost and it does not reflect the consumerís personal taste as much
+terms of time and cost and it does not reflect the consumer's personal taste as much
 
 as desired. This study proposes a design system using Interactive Genetic Algorithm
 
@@ -724,7 +724,7 @@ as desired. This study proposes a design system using Interactive Genetic Algori
 
 by leaving the fitness function to the personal preference of the user. The proposed
 
-system uses userís taste as a fitness value to create a large number of design
+system uses user's taste as a fitness value to create a large number of design
 
 options, and it is based on an encoding scheme either describing a dress as a whole
 
