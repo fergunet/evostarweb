@@ -63,7 +63,8 @@ Authors with a regular presentation can optionally bring one too.
 
 
 <h4>How long are the talks?</h4>
-Regular talks are 20 min long, plus questions.
+A mixture of long and short talks are presented over two and a half days, and your conference chair should have informed you when your talk takes place and its duration.  If you are unclear, contact your programme chair to clarify these details.  
+Contact details are at <a href="http://www.evostar.org/2017/about_organisers.php">http://www.evostar.org/2017/about_organisers.php</a>
 
 <h4>Can I print my poster there?</h4>
 It is possible, <a href="location_posters.php">visit this page</a> for more information about posters size, storage and printing.
