@@ -24,6 +24,6 @@
 <li class="list-group-item"><a href="cfp_evoset.php">Evo<span class="red">SET</span></a></li>
 <li class="list-group-item"><a href="cfp_evostoc.php">Evo<span class="red">STOC</span></a></li>
 </ul>
-EvoStar Best Paper Candidates<br/>
+<a href="programme_bestpapers.php">EvoStar Best Paper Candidates</a><br/>
 EvoStar Best Paper Awards 2017<br/>
 </ul>
