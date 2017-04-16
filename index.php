@@ -11,6 +11,7 @@
  </div>
 
 <ul>
+	<li>The <a href="programme_scavenger.php">great Evostar 2017 Student Scavenger Hunt</a></li>
 <li><a href="#faq">FAQ section</a> added.</li>
 <li>Download <a href="pdfs/EvoStarConferenceHandbook.pdf">Conference Handbook</a>.</li>
 	 <li>Programme <a href="programme_overview.php">available here</a>.</li>
