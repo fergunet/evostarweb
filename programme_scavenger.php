@@ -10,14 +10,14 @@
 <h3>Instructions</h3>
 
 <ul>
-<li>Arrange yourselves into a team of than 4 – at least three of the team members must be students</li>
+<li>Arrange yourselves into a team of 3 or 4 people – at least three of the team members must be students</li>
 <li>Come up with a Team Name (extra points for creativity)</li>
 <li>All tasks are worth one point.</li>
-<li>You must submit your answers, including photographs as a PDF file to n.urquhart@napier.ac.uk no later than 10pm on Thursday</li>
+<li>You must submit your answers, including photographs as a PDF file to <strong><a href="mailto:students AT species-society DOT org">students AT species-society DOT org</a></strong>  no later than 10pm on Thursday</li>
 <li>You should try and complete as many of the tasks as you can-don’t worry if you can’t manage all of them.</li>
 </ul>
 
-Our team of judges will decide the winners and present prizes at the
+Our team of judges (Aniko Ekart, Anna I Esparcia, Neil Urquhart, and Jennifer Willies) will decide the winners and present prizes at the
 closing session
 
 <ol>
@@ -36,4 +36,6 @@ closing session
 <li> Stand under a street sign beginning with the letter "W"</li>
 <li> Get a team pic in front of the two remaining wooden houses in Amsterdam</li>
 </ol>
+
+Special thanks to Emily Lucie for the <a href="http://www.instructables.com/member/emilylucie/">photo scavenger hunt ideas for Amsterdam</a>.
 <?php include('footer.php') ?>
