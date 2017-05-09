@@ -4,6 +4,7 @@
         <h2>Best Paper <span class="red">Candidates</span> <h2>
    </div>
 
+
 <h2>Euro<span class="red">GP</span></h2>
 <ul>
 <li>"Symbolic Regression on Network Properties" by Marcus Märtens, Fernando Kuipers, Piet Van Mieghem</li>
