@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Evostar 2017 Amsterdam</title>
+    <title>Evostar 2018 Parma</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -97,8 +97,8 @@
              <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Local Information<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="location_about_amsterdam.php">About Amsterdam</a></li>
-                <li><a href="location_amsterdam.php">Getting to Amsterdam</a></li>
+                <li><a href="location_about_parma.php">About Parma</a></li>
+                <li><a href="location_parma.php">Getting to Amsterdam</a></li>
                 <li><a href="location_venue.php">Getting to the venue</a></li>                
                 <li><a href="location_accommodation.php">Accommodation</a></li>
                 <li><a href="location_posters.php">Posters/WI-FI</a></li>
@@ -118,10 +118,10 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
-                        <h1>Evostar 2017</h1>
+                        <h1>Evostar 2018</h1>
                         <hr class="small">
                         <span class="subheading">The Leading European Event on Bio-Inspired Computation.</span>
-			<span class="subheading">Amsterdam. 19-21 April 2017.</span>
+			<span class="subheading">Parma, Italy. 4-6 April 2018.</span>
                     </div>
                 </div>
             </div>
