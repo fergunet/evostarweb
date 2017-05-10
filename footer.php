@@ -11,11 +11,11 @@
             </div>
             <div class="panel-body">
               
-              <span class="gray">
+             <!-- <span class="gray"> ESTO PONE EN GRIS LAS FECHAS PASADAS!-->
               <strong>Submission Deadline:</strong> 1 November 2017<br/>
               <!--<strong>EXTENDED DEADLINE:</strong> 10 November 2017<br/> <em>(site remains open for final changes until 21 Nov)</em><br/>-->
               <strong>Notification:</strong> 23 December 2017<br/>
-            </span>
+            
               <strong>Camera-ready:</strong> 15 January 2018<br/>
               <strong>Mandatory registration per paper:</strong> 1 February 2017</br>
               <strong>Student bursary deadline:</strong> TBA <br/>
@@ -65,6 +65,7 @@
 <br>
 
 </div>
+Banner photo by <a href="https://commons.wikimedia.org/wiki/File:Piazza_Duomo_Parma_2009-08.jpg">Filippo Aneli</a> - CC-BY
 </footer>
 
 </div>
