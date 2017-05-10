@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">ROBOT</span> 2017<h2>
+        <h2>Evo<span class="red">ROBOT</span> 2018<h2>
    </div>
 
 
@@ -33,41 +33,16 @@ Topics include but are not limited to:
 
 <a href="http://www.frontiersin.org/robotics_and_ai">Frontiers in Robotics and AI</a> is offering the best paper award at the upcoming Evo<span class="red">ROBOT</span> track in EvoApplications. 
 The <a href="http://www.frontiersin.org/evolutionary_robotics">Evolutionary Robotics</a> specialty grants the winner a full waiver of the publication fee for 
-the submission of an extended version of the work presented at Evo<span class="red">ROBOT</span> in Amsterdam this year. Naturally, the final decision to publish the extended version 
+the submission of an extended version of the work presented at Evo<span class="red">ROBOT</span> in Parma this year. Naturally, the final decision to publish the extended version 
 will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a> policies of originality and review.
 
 </p>
 
 <h3>Evo<span class="red">ROBOT</span> track chairs</h3>
-<ul>
-<li><strong>Evert Haasdijk</strong></li>
-VU University Amsterdam<br/>
-e.haasdijk(at)vu.nl
-<li><strong>Jacqueline Heinerman</strong></li>
-VU University Amsterdam<br/>
-j.v.heinerman(at)vu.nl
-</ul>
+TBA
 
 <h3>Programme Committee</h3>
-<ul>
-<li>Auerbach, Joshua ; Champlain College, United States</li>
-<li>Bredeche, Nicolas ; Institut des Systèmes Intelligents et de Robotique, France</li>
-<li>Christensen, Anders; University Institute of Lisbon, ISCTE-IUL, Portugal</li>
-<li>Doncieux, Stephane ; Institut des Systèmes Intelligents et de Robotique, France</li>
-<li>Glette, Kyrre; University of Oslo, Norway</li>
-<li>Haasdijk, Evert; Vrije Universiteit Amsterdam, The Netherlands</li>
-<li>Hamann, Heiko; University of Paderborn, Germany</li>
-<li>Heinerman, Jacqueline; Vrije Universiteit Amsterdam, The Netherlands</li>
-<li>Huizinga, Joost; University of Wyoming, United States</li>
-<li>Montanier, Jean-Marc ; Softbank Robotics Europe, France</li>
-<li>Mouret, Jean-Baptiste ; INRIA Larsen Team, France</li>
-<li>Nitschke, Geoff ; University of Cape Town, South Africa</li>
-<li>Nolfi, Stefano ; Institute of Cognitive Sciences and Technologies, Italy</li>
-<li>Olav Ellefsen, Kai ; University of Wyoming, United States</li>
-<li>Prieto, Abraham ; University of La Coruña, Spain</li>
-<li>Rossi, Claudio ; Universidad Politecnica De Madrid, Spain</li>
-<li>Schmickl, Thomas ; University of Graz, Austria</li>
-</ul>
+TBA
 
     <?php include('footer.php') ?>
 

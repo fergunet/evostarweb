@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
-        <h2>Camera ready instructions<h2>
+        <h2>Getting About <span class="red">Parma</span><h2>
    </div>
-TBA
 
+TBA
     <?php include('footer.php') ?>

@@ -55,34 +55,11 @@ conference and attend the conference and present the work.</p>
 
 
 <h3>Programme Committee</h3>
-<ul>
-<li>  Jarosław Arabas (Warsaw University of Technology, Poland)</li>
-<li>János Botzheim (Tokyo Metropolitan University, Japan)</li>
-<li>Doina Bucur (University of Twente, The Netherlands)</li>
-<li>Fabio Caraffini (De Montfort University, UK)</li>
-<li>Ahmed Hallawa (RWTH Aachen University, Germany)</li>
-<li>Ferrante Neri (De Montfort University, UK)</li>
-<li>Vinícius Veloso de Melo (UNIFESP-SJC, Brazil)</li>
-<li>Anil Yaman (Technical University of Eindhoven, The Netherlands)</li>
-<li>Aleš Zamuda (University of Maribor, Slovenia)</li>
-</ul>
+TBA
 
 
     <h3>Evo<span class="red">KNOW</span> Track Chairs</h3>
-    <ul>
-      
-      <li><strong>Giovanni Iacca</strong><br/>
-	<em> INCAS3, The Netherlands <br />
-      </em>giovanniiacca(at)incas3.eu<br />
-	</li>
-        <li><strong>Matt Coler</strong><br />
-        <em>INCAS3, The Netherlands </em><br />
-           mattcoler(at)incas3.eu</li>
-	<li><strong>Gerd Ascheid</strong><br />
-        <em> RWTH Aachen University, Germany</em><br />
-            gerd.ascheid(at)ice.rwth-aachen.de</li>
-
-    </ul>
+TBA
 
     <?php include('footer.php') ?>
 

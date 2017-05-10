@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">BIO</span> 2017<h2>
+        <h2>Evo<span class="red">BIO</span> 2018<h2>
    </div>
 
 
@@ -8,7 +8,7 @@
 <?php include('common_to_all.php') ?>
 <?php include('common_to_apps.php') ?>
 
-Join us in Amsterdam  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics, Medical Applications and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in medical applications and biology, from the molecular and genomic dimension, to the individual and population level. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  
+Join us in Parma  for Evo<span class="red">BIO</span>, a multidisciplinary track that brings together researchers working in Bioinformatics, Medical Applications and Computational Biology that apply advanced techniques coming from Evolutionary Computation, Machine Learning, and Data Mining to address important problems in medical applications and biology, from the molecular and genomic dimension, to the individual and population level. Each accepted paper will be presented orally or as a poster at the conference and will be printed in the proceedings published by Springer Verlag in the LNCS series.  
 
 
 
@@ -36,7 +36,7 @@ Possible topics of interest include, but are not limited to:
 </ul>
 
 <p>
-For more information, visit our web page at <a href="http://www.evostar.org/2017/">http://www.evostar.org/2017/</a>, or follow us on Twitter @EVOBio2017, join our evobio2017 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
+For more information, visit our web page at <a href="http://www.evostar.org/2018/">http://www.evostar.org/2018/</a>, or follow us on Twitter @EVOBio2018, join our evobio2018 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
 </p>
 
 
@@ -50,52 +50,13 @@ Submissions must be original and not published elsewhere.  They will be peer rev
 <h3>Evo<span class="red">BIO</span> Track Chairs</h3>
 
 
-
-
-<ul>
-<li>
-<strong>Jaume Bacardit</strong><br/>
-Newcastle University, Newcastle, UK<br/>
-<em>jaume.bacardit(at)newcastle.ac.uk</em>
-</li>
-
-<li>
-<strong>Federico Divina</strong><br/>
-Universidad Pablo de Olavide, Sevilla, Spain <br/>
-<em>fdivina(at)upo.es</em>
-</li>
-
-<li>
-<strong>Ting Hu</strong><br/>
-Memorial University, St. John’s, NL Canada <br/>
-<em>ting.hu(at)mun.ca</em>
-</li>
-</ul>
+TBA
 
 
 <h3>Programme Committee</h3>
-
+TBA
 <ul>
-<li>Bacardit, Jaume; Newcastle University, UK</li>
-<li>Darabos, Christian; Dartmouth College, USA</li>
-<li>Divina, Federico; Universidad Pablo de Olavide, Spain</li>
-<li>Fernandez, Florentino; Universidad de Vigo, Spain</li>
-<li>Freitas, Alex; University of Kent, UK</li>
-<li>Giacobini, Mario; Universita di Torino, Italy</li>
-<li>Giancarlo, Raffaele; Università degli Studi di Palermo, Italy</li>
-<li>Gomez Vela, Francisco; Universidad Pablo de Olavide, Spain</li>
-<li>Greene, Casey; University of Pennsylvania, USA</li>
-<li>Hao, Jin-Kao; University of Angers, France</li>
-<li>Hu, Ting; Memorial University, Canada</li>
-<li>Qi, Jianlong; Ancestry, USA</li>
-<li>Marchiori, Elena; Radboud Universiteit van Nijmegen, Netherlands</li>
-<li>Orsenigo, Carlotta; Politecnico di Milano, Italy</li>
-<li>Pizzuti, Clara; ICAR-CNR, Italy</li>
-<li>Rombo, Simona; Università degli Studi di Palermo, Italy</li>
-<li>Santos Reyes, Jose; Universidad de A Coruña, Spain</li>
-<li>Vanneschi, Leonardo; Universidade Nova de Lisboa, Portugal</li>
-<li>Xue, Bing; Victoria University of Wellington, New Zealand</li>
-<li>Zhang, Mengjie; Victoria University of Wellington, New Zealand</li>
+
 
 </ul>
 

@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">BAFIN</span> 2017<h2>
+        <h2>Evo<span class="red">BAFIN</span> 2018<h2>
    </div>
 
 <h3>Natural Computing Methods in Business Analytics and Finance</h3>

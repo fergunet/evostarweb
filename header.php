@@ -98,7 +98,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Local Information<b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="location_about_parma.php">About Parma</a></li>
-                <li><a href="location_parma.php">Getting to Amsterdam</a></li>
+                <li><a href="location_parma.php">Getting to Parma</a></li>
                 <li><a href="location_venue.php">Getting to the venue</a></li>                
                 <li><a href="location_accommodation.php">Accommodation</a></li>
                 <li><a href="location_posters.php">Posters/WI-FI</a></li>

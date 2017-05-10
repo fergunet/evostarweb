@@ -16,7 +16,7 @@ Complex systems are ubiquitous in physics, economics, sociology, biology, comput
 Studying complex systems requires composite strategies that employ various different algorithms to solve a single difficult problem. Components of such strategies may solve consecutive phases leading to the main goal (for example, consider an oil deposit exploration strategy composed of a complex memetic search algorithm and of a direct FEM solver), may be used to approach particular sub-tasks from different perspectives (as, for example, in multi-scale approaches), or may solve the main problem in different ways that are aggregated to form the final solution (as, for example, in hyper-heuristics, island GAs or multi-physics approaches).
 </p>
 <p>
-Evo<span class="red">COMPLEX</span> 2017 covers all aspects of the interaction of evolutionary algorithms -and metaheuristics in general- with complex systems. Topics of interest include, but are not limited to, the use of evolutionary algorithms for the analysis or design of complex systems, such as for example:
+Evo<span class="red">COMPLEX</span> 2018 covers all aspects of the interaction of evolutionary algorithms -and metaheuristics in general- with complex systems. Topics of interest include, but are not limited to, the use of evolutionary algorithms for the analysis or design of complex systems, such as for example:
 
 <ul>
 <li>complex networks, e.g., social networks, ecological networks, interaction networks, etc.</li>
@@ -63,15 +63,6 @@ Page limit: 16 pages.
 
 
     <h3>Evo<span class="red">COMPLEX</span> Track Chairs</h3>
-    <ul>
-      
-      <li><strong>Carlos Cotta</strong><br/>
-	<em>Universidad de Málaga, Spain <br />
-      </em>ccottap(at)lcc.uma.es <br />
-	</li>
-        <li><strong>Robert Schaefer</strong><br />
-        <em>AGH University of Science and Technology, Poland</em><br />
-        schaefer(at)agh.edu.pl</li>
-    </ul>
+TBA
 
     <?php include('footer.php') ?>

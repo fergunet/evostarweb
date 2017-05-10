@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">ENERGY</span> 2017<h2>
+        <h2>Evo<span class="red">ENERGY</span> 2018<h2>
    </div>
 
 
@@ -70,23 +70,10 @@ Page limit: 16 pages<br/>
 
 <h3>Chairs</h3>
 
-<ul>
-<li><strong>Paul Kaufmann</strong>, University of Paderborn, paul.kaufmann(at)gmail.com</li>
-<li><strong>Kyrre Glette</strong>, University of Oslo, kyrrehg(at)ifi.uio.no</li>
-</ul>
+TBA
 
 <h3>Programme Committee</h3>
 
-<ul>
-<li>Oliver Kramer,   University of Oldenburg, Germany</li>
-<li>Chenjie Ma,      Fraunhofer Institute for Wind Energy and Energy System Technology, Germany</li>
-<li>Ingo Mauser,     Karlsruhe Institute of Technology, Germany</li>
-<li>Martin Middendorf,       University of Leipzig, Germany</li>
-<li>Frank Neumann,   University of Adelaide, Australia</li>
-<li>Peter Palensky,  Technical University of Delft, Netherlands</li>
-<li>Markus Wagner,   University of Adelaide, Australia</li>
-<li>Maizura Mokhtar, Edinburgh Napier University, United Kingdom</li>
-<li>Ana Soares,      EnergyVille, VITO, Belgium</li>
-</ul>
+TBA
 
     <?php include('footer.php') ?>

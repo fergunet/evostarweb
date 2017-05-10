@@ -11,7 +11,7 @@ Following the success of previous events and the importance of the
 
 field of evolutionary and bio-inspired computation for dynamic 
 
-optimization problems, the Evo<span class="red">STOC</span> 2017 will run its 14th edition 
+optimization problems, the Evo<span class="red">STOC</span> 2018 will run its 15th edition 
 
 as a track of EvoApplications, the 20th European Conference on the 
 
@@ -131,14 +131,5 @@ found in: http://www.evostar.org
 
 <h3> Track chairs </h3> 
 
-<ul>
-<li><strong>Trung Thanh Nguyen </strong><br/>
-Liverpool John Moores University, United Kingdom<br/> 
-T.T.Nguyen(at)ljmu.ac.uk</li>
-<li>
-<strong>Michalis Mavrovouniotis</strong><br/>
-Nottingham Trent University, United Kingdom<br/>
-michalis.mavrovouniotis(at)ntu.ac.uk;
-</li>
-</ul>
+TBA
     <?php include('footer.php') ?>

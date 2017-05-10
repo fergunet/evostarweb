@@ -23,11 +23,7 @@ Topics of interest include (but are not limited to):
 
 
 <h3>Chairs</h3>
-
-<ul>
-<li><strong>Neil Urquhart</strong>, Edinburgh Napier University, United Kingdom, n.urquhart(at)napier.ac.uk</li>
-<li><strong>Kevin Sim</strong>, Edinburgh Napier University, United Kingdom, k.sim@napier.ac.uk</li>
-</ul>
+TBA
 
 
 
