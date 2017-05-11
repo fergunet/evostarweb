@@ -53,6 +53,34 @@
 </table>
 
 
+
+
+<h3>Evo<span class="red">APPLICATIONS</span></h3>
+<h4>21th European Conference on the Applications of Evolutionary Computation</h4>
+<strong>Evo<span class="red">Applications</span> coordinator :</strong>
+
+<table class="organisers">
+<tr>
+	<td><img src="organisers/kevin_sim.jpg" width="100"></td>
+</tr>
+<tr>
+	<td>Kevin Sim, Edinburgh Napier University, Scotland, k.sim (at) napier.ac.uk</td>
+</tr>
+</table>
+ 
+<strong>Evo<span class="red">APPS</span> deputy coordinator :</strong>
+<table class="organisers">
+<tr>
+	<td><img src="organisers/paul_kaufmann.jpg" width="100"></td>
+</tr>
+<tr>
+	<td>Paul Kaufmann, Paderborn University, Germany, paul.kaufmann (at) gmail.com
+</td>
+</tr>
+</table>
+
+
+
  
  
 <h3>Evo<span class="red">COP</span></h3>
@@ -112,31 +140,6 @@
 
  
  
-<h3>Evo<span class="red">APPLICATIONS</span></h3>
-<h4>21th European Conference on the Applications of Evolutionary Computation</h4>
-<strong>Evo<span class="red">Applications</span> coordinator :</strong>
-
-<table class="organisers">
-<tr>
-	<td><img src="organisers/kevin_sim.jpg" width="100"></td>
-</tr>
-<tr>
-	<td>Kevin Sim, Edinburgh Napier University, Scotland, k.sim (at) napier.ac.uk</td>
-</tr>
-</table>
- 
-<strong>Evo<span class="red">APPS</span> deputy coordinator :</strong>
-<table class="organisers">
-<tr>
-	<td><img src="organisers/paul_kaufmann.jpg" width="100"></td>
-</tr>
-<tr>
-	<td>Paul Kaufmann, Paderborn University, Germany, paul.kaufmann (at) gmail.com
-</td>
-</tr>
-</table>
-
-
  
 <h3>Evo<span class="red">Star</span> 2018 publicity chair</h3>
 <table class="organisers">
@@ -176,54 +179,38 @@
 </tr>
 </table>
 
-<h3>SPECIES EXECUTIVE<span class="red">Star</span> coordinator</h3>
+<h3>SPECIES EXECUTIVE</h3>
 <table class="organisers">
 <tr>
 	<td><img src="organisers/marc_scho.jpg" width="100"></td>
-</tr>
-<tr>
-	<td></td>
-</tr>
-<tr>
 	<td><img src="organisers/anna_esparcia.jpg" width="100"></td>
 </tr>
 <tr>
-	<td>Anna Esparcia</td>
+	<td>Marc Schoenauer, INRIA, France, marc.schoenauer(at)inria.fr </td>
+	<td>Anna Esparcia, Universitat Politècnica de València, Spain, esparcia (at) upv.es </td>
 </tr>
 <tr>
 	<td><img src="organisers/wolfgang_banzhaf.jpg" width="100"></td>
-</tr>
-<tr>
-	<td>Wolfgang Banzhaf</td>
-</tr>
-<tr>
 	<td><img src="organisers/ignacio_hidalgo.jpg" width="100"></td>
 </tr>
 <tr>
+	<td>Wolfgang Banzhaf</td>
 	<td>Ignacio Hidalgo</td>
 </tr>
 <tr>
 	<td><img src="organisers/gabriela_ochoa.jpg" width="100"></td>
-</tr>
-<tr>
-	<td>Gabriela Ochoa</td>
-</tr>
-<tr>
 	<td><img src="organisers/penousal_machado.jpg" width="100"></td>
 </tr>
 <tr>
+	<td>Gabriela Ochoa</td>
 	<td>Penousal Machado</td>
 </tr>
 <tr>
 	<td><img src="organisers/neil_urquhart.jpg" width="100"></td>
-</tr>
-<tr>
-	<td>Neil Urquhart, Edinburgh Napier University, UK, n.urquhart (at) napier.ac.uk</td>
-</tr>
-<tr>
 	<td><img src="organisers/ernesto_costa.png" width="100"></td>
 </tr>
 <tr>
+	<td>Neil Urquhart, Edinburgh Napier University, UK, n.urquhart (at) napier.ac.uk</td>
 	<td>Ernesto Costa, Universidade de Coimbra, Portugal, ernesto (at) dei.uc.pt</td>
 </tr>
 
