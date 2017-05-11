@@ -179,7 +179,7 @@
 </tr>
 </table>
 
-<h3>SPECIES EXECUTIVE</h3>
+<h3>SPECIES EXECUTIVE BOARD</h3>
 <table class="organisers">
 <tr>
 	<td><img src="organisers/marc_scho.jpg" width="100"></td>
