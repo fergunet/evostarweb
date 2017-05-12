@@ -14,7 +14,7 @@
              <!-- <span class="gray"> ESTO PONE EN GRIS LAS FECHAS PASADAS!-->
               <strong>Submission Deadline:</strong> 1 November 2017<br/>
               <!--<strong>EXTENDED DEADLINE:</strong> 10 November 2017<br/> <em>(site remains open for final changes until 21 Nov)</em><br/>-->
-              <strong>Notification:</strong> 23 December 2017<br/>
+              <strong>Notification:</strong> 3 January 2018<br/>
             
               <strong>Camera-ready:</strong> 15 January 2018<br/>
               <strong>Mandatory registration per paper:</strong> 1 February 2017</br>
