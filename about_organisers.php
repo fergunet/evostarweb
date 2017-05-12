@@ -202,7 +202,7 @@
 	<td><img src="organisers/penousal_machado.jpg" width="100"></td>
 </tr>
 <tr>
-	<td>Gabriela Ochoa</td>
+	<td>Gabriela Ochoa, University of Stirling, Scotland, UK, goc (at) cs.stir.ac.uk</td>
 	<td>Penousal Machado</td>
 </tr>
 <tr>
