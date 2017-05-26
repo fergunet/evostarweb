@@ -115,11 +115,11 @@
 <table class="organisers">
 <tr>
 	<td><img src="organisers/antonios_liapis.jpg" width="100"></td>
-	<td><img src="organisers/juan_romero.jpg" width="100"></td>
+	<td><img src="organisers/juan_romero.png" width="100"></td>
 </tr>
 <tr>
 	<td>Antonios Liapis, Institute of Digital Games, University of Malta, Malta, antonios.liapis (at) um.edu.mt</td>
-	<td>Juan Romero</td>
+	<td>Juan Romero, Faculty of Computer Science, University of A Coruña, Spain, jj (at) udc.es</td>
 </tr>
 </table>
 
