@@ -105,6 +105,7 @@ TBA
     <table width="100%" border="0">
       <tr class="twoColFixLtHdr"> 
         <td> <ul>
+        <li>2017 <a href="http://www.springer.com/gp/book/9783319556956">LNCS 10196</a></li>
           <li>2016 <a href="http://www.springer.com/us/book/9783319306674">LNCS 9594</a></li>
         <li>2015 <a href="http://www.springer.com/us/book/9783319165004">LNCS 9025</a></li>
             <li>2014 <a href="http://www.springer.com/computer/theoretical+computer+science/book/978-3-662-44302-6">LNCS 8599</a>
