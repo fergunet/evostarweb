@@ -11,6 +11,9 @@
  </div>
 
 <ul>
+	<li><a href="awards_outstanding.php">Award for Outstanding Contribution to Evolutionary Computation in Europe 2017</a></li>
+    <li><a href="cfp_evorobot.php">EvoRobot Best Paper Award</a></li>
+	<li><a href="programme_bestpapers.php">Best Paper Award Winners</a></li>
 	<li>The <a href="programme_scavenger.php">great Evostar 2017 Student Scavenger Hunt</a></li>
 <li><a href="#faq">FAQ section</a> added.</li>
 <li>Download <a href="pdfs/EvoStarConferenceHandbook.pdf">Conference Handbook</a>.</li>

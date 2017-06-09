@@ -4,8 +4,20 @@
         <h3>The Great EvoStar <span class="red">Scavenger Hunt 2017</span> <h3>
    </div>
    
+The EvoStar student mentoring initiative got underway this year and it will be further developed in future years. Twenty students were supported at Amsterdam and the student mentoring team at EvoStar2017 included:
+<ul>
+<li>Anna Esparcia-Alcázar</li>
+<li>Neil Urquhart</li>
+<li>Aniko Ekart</li>
+<li>Jaume Bacardit</li>
+<li>Penousal Machado</li>
+<li>James Foster</li>
+</ul>
 
+<h3>Student scavenger hunt winners 2017</h3>
 
+ Uriel Lopez & Thomas D Griffiths(middle) with Aniko Ekart, Anna Esparcia and Neil Urquhart
+<img src="img/winners/scavenger.jpg" width="100%">
 
 <h3>Instructions</h3>
 

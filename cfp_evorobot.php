@@ -11,6 +11,8 @@
 $notInJournal = true;
 include('common_to_apps.php') ?>
 
+
+
 <p>The Evo<span class="red">ROBOT</span> track focusses on evolutionary robotics: the application of evolutionary computation techniques to automatically design the controllers and/or hardware of autonomous robots, real or simulated. This is by nature a multi-faceted field that combines approaches from other fields such as neuro-evolution, evolutionary design, artificial life, robotics, et cetera.
 We seek high quality contributions dealing with state-of-the-art research in the area of evolutionary robotics.</p>
 
@@ -35,6 +37,14 @@ Topics include but are not limited to:
 The <a href="http://www.frontiersin.org/evolutionary_robotics">Evolutionary Robotics</a> specialty grants the winner a full waiver of the publication fee for 
 the submission of an extended version of the work presented at Evo<span class="red">ROBOT</span> in Amsterdam this year. Naturally, the final decision to publish the extended version 
 will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a> policies of originality and review.
+
+<h3>Best paper award WINNER</h3>
+<p>
+<strong>Continual and One-Shot Learning through Neural Networks with Dynamic External Memory</strong><br/>
+Benno Lüders, Mikkel Schläger, Aleksandra Korach, Sebastian Risi
+</p>
+presented to Sebastian Risi by EvoRobot chair Evert Haasdijk.
+<img src="img/winners/RobotPrize.jpg" width="100%" />
 
 </p>
 

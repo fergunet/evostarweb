@@ -7,7 +7,11 @@
 
 <h2>Winners: </h2>
 
-To be decided
+<h3>James Foster and Gusz Eiben</h3>
+
+<img src="img/winners/outstanding1.jpg" width="100%">
+<img src="img/winners/outstanding2.jpg" width="100%">
+<img src="img/winners/outstanding3.jpg" width="100%">
 
 <h3>Previous awarded:</h3>
 
