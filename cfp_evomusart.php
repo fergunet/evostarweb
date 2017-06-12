@@ -12,11 +12,14 @@
 
 <h3>News</h3>
 <ul>
-<li><a href="#abstracts">Accepted paper abstracts</a></li>
+<!--<li><a href="#abstracts">Accepted paper abstracts</a></li>-->
 <li><strong>New this year: Index Website:</strong></li>
 <p>
 For the 20th year anniversary of the evo* conference, a website was made available with all the
-information on the evoMUSART papers since 2003. The idea is to bring together all the publications
+information on the evoMUSART papers since 2003. 
+</p>
+<p>
+The idea is to bring together all the publications
 in a handy web page that allows the visitors to navigate through all papers, best papers, authors,
 keywords, and years of the conference, while providing quick access to the Springer’s web page
 links. Feel free to browse, search and bookmark: <a href="http://evomusart-index.dei.uc.pt/">http://evomusart-index.dei.uc.pt/</a>.
@@ -82,8 +85,23 @@ Submissions should concern the use of which use of Computational Intelligence te
 
 
     <h2>Evo<span class="red">MUSART</span> Conference chairs </h2>
-TBA
 
+<p>
+<strong>Juan Romero</strong><br/>
+<em>University of A Coruña</em><br/>
+jj(at)udc.es
+</p>
+<p>
+<strong>Antonios Liapis</strong><br/>
+<em>Institute of Digital Games, University of Malta</em><br/>
+antonios.liapis(at)um.edu.mt
+</p>
+<p>
+<strong class="red">Publication Chair:</strong><br/>
+<strong>Aniko Ekárt</strong><br/>
+<em>Aston University</em><br/>
+a.ekart(at)aston.ac.uk
+</p>
 
 
 <h2>Programme Commitee</h2>
