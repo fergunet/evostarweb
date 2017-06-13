@@ -2,7 +2,7 @@
 
         <h2>Evo<span class="red">MUSART</span><h2>
    </div> 
- <h2>6th International Conference on Computational Intelligence in Music, Sound, Art and Design.
+ <h2>7th International Conference on Computational Intelligence in Music, Sound, Art and Design.
 </h2>
  <?php include('common_to_all.php') ?>
     <p>April 2018, Parma, Italy<br />
@@ -13,17 +13,7 @@
 <h3>News</h3>
 <ul>
 <!--<li><a href="#abstracts">Accepted paper abstracts</a></li>-->
-<li><strong>New this year: Index Website:</strong></li>
-<p>
-For the 20th year anniversary of the evo* conference, a website was made available with all the
-information on the evoMUSART papers since 2003. 
-</p>
-<p>
-The idea is to bring together all the publications
-in a handy web page that allows the visitors to navigate through all papers, best papers, authors,
-keywords, and years of the conference, while providing quick access to the Springer’s web page
-links. Feel free to browse, search and bookmark: <a href="http://evomusart-index.dei.uc.pt/">http://evomusart-index.dei.uc.pt/</a>.
-</p>
+
 </ul>
 
 <h3>About Evo<span class="red">MUSART</span></h3>
@@ -78,7 +68,17 @@ Submissions should concern the use of which use of Computational Intelligence te
 </ul>
 
 
-
+<h2>Evo<span class="red">MUSART</span> Index</h2>
+<p>
+For the 20th year anniversary of the evo* conference, a website was made available with all the
+information on the evoMUSART papers since 2003. 
+</p>
+<p>
+The idea is to bring together all the publications
+in a handy web page that allows the visitors to navigate through all papers, best papers, authors,
+keywords, and years of the conference, while providing quick access to the Springer’s web page
+links. Feel free to browse, search and bookmark: <a href="http://evomusart-index.dei.uc.pt/">http://evomusart-index.dei.uc.pt/</a>.
+</p>
 
 
 
