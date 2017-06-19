@@ -18,7 +18,7 @@
 
 <h3>About Evo<span class="red">MUSART</span></h3>
 
-<p>Following the success of previous events and the importance of the field of computational intelligence, specifically, evolutionary and biologically inspired (artificial neural network, swarm, alife) music, sound, art and design, evo<span class="red">MUSART</span> has become an evo* conference with independent proceedings since 2012. Thus, evo<span class="red">MUSART</span> 2018 is the sixth International Conference on Computational Intelligence in Music, Sound, Art and Design.
+<p>Following the success of previous events and the importance of the field of computational intelligence, specifically, evolutionary and biologically inspired (artificial neural network, swarm, alife) music, sound, art and design, evo<span class="red">MUSART</span> has become an evo* conference with independent proceedings since 2012. Thus, evo<span class="red">MUSART</span> 2018 is the seventh International Conference on Computational Intelligence in Music, Sound, Art and Design.
 </p><p>
 The use of Computational Intelligence for the development of artistic systems is a recent, exciting and significant area of research. There is a growing interest in the application of these techniques in fields such as: visual art and music generation, analysis, and interpretation; sound synthesis; architecture; video; poetry; design; and other creative tasks.
 </p><p>
@@ -118,7 +118,7 @@ TBA
 <h3>Additional information and submission details</h3>
 
 Submit your manuscript, at most 16 A4 pages long, in Springer LNCS format (instructions downloadable from <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>)<br/>
-Submission link: <a href="https://myreview.saclay.inria.fr/evomusart18">https://myreview.saclay.inria.fr/evomusart18</a>
+Submission link: TBD <!--<a href="https://myreview.saclay.inria.fr/evomusart18">https://myreview.saclay.inria.fr/evomusart18</a>-->
 page limit: 16 pages<br/>
 The reviewing process will be double-blind; please omit information about the authors in the submitted paper.
 
