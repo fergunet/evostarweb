@@ -9,6 +9,8 @@
       Part of evo<span class="red">*</span> 2018<br />
       evo<span class="red">*</span>: <a href="http://www.evostar.org">http://www.evostar.org</a></p>
     
+<h4>Evomusart is published in Springer Lecture Notes in Computer Science
+(LNCS) since 2003</h4>
 
 <h3>News</h3>
 <ul>
