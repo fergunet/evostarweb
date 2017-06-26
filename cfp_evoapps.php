@@ -20,10 +20,10 @@
       and <a href="cfp_evomusart.html">Evo<span class="red">MUSART</span></a>.<br />
       </span> </p>
 
-      <strong><p>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> (Impact Factor: 1.00)</p></strong>
-  
+     <!-- <strong><p>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> (Impact Factor: 1.00)</p></strong>
+  -->
     <p><span id="logo">Evo<span class="red">Applications</span>
-      2018 is composed of 13 tracks, each focusing on an area of application of 
+      2018 is composed of 14 tracks, each focusing on an area of application of 
       genetic and evolutionary computation and other related Computational Intelligence 
       fields. The following tracks will be running in 2018: </span> </p>
     <span id="logo"> 
@@ -75,13 +75,19 @@
     <h3>Evo<span class="red">Applications</span> 
       coordinator</h3>
     <blockquote> 
-      <p><span><strong>Giovanni Squillero</strong> <br />
-        Politecnico di Torino, Italy <br />
-        <em>giovanni.squillero@polito.it </em></span></p>
+      <p><span><strong>Kevin Sim</strong> <br />
+        Edinburgh Napier University,  Scotland<br />
+        <em>k.sim (at) napier.ac.uk </em></span></p>
     </blockquote>
 
 <h3>Evo<span class="red">Applications</span> Publication Chair</h3>
-TBA
+    <blockquote> 
+      <p><span><strong>Paul Kaufmann </strong> <br />
+       Paderborn University, Germany<br />
+        <em>paul.kaufmann (at) gmail.com </em></span></p>
+    </blockquote>
+
+
 
 
 
