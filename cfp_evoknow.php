@@ -59,7 +59,14 @@ TBA
 
 
     <h3>Evo<span class="red">KNOW</span> Track Chairs</h3>
-TBA
+    <ul>
+<li><strong>Giovanni Iacca</strong><br/></li>
+RWTH Aachen University, Germany<br/>
+giovanni.iacca(At)gmail.com
 
+<li><strong>Gerd Ascheid</strong><br/></li>
+RWTH Aachen University, Germany<br/>
+gerd.ascheid(At)ice.rwth-aachen.de
+</ul>
     <?php include('footer.php') ?>
 

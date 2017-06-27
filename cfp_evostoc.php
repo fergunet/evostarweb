@@ -131,5 +131,13 @@ found in: http://www.evostar.org
 
 <h3> Track chairs </h3> 
 
-TBA
+<ul>
+<li><strong>Michalis Mavrovouniotis</strong><br/></li>
+Nottingham Trent University<br/>
+michalis.mavrovouniotis(At)ntu.ac.uk
+
+<li><strong>Trung Thanh Nguyen</strong><br/></li>
+Liverpool John Moores University<br/>
+T.T.Nguyen(At)ljmu.ac.uk
+</ul>
     <?php include('footer.php') ?>

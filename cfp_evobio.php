@@ -54,9 +54,15 @@ TBA
 
 
 <h3>Programme Committee</h3>
-TBA
-<ul>
 
+<ul>
+<li><strong>Federico Divina</strong><br/></li>
+Pablo de Olavide University, Spain<br/>
+fdiv(At)upo.es
+
+<li><strong>Jaume Bacardit</strong><br/></li>
+Newcastle University,UK<br/>
+jaume.bacardit(At)newcastle.ac.uk
 
 </ul>
 

@@ -51,7 +51,15 @@ Page limit: 16 pages.<br/>
 
 <h3>Evo<span class="red">GAMES</span> track chairs</h3>
 
-TBA
+<ul>
+<li><strong>Antonio Mora</strong><br/></li>
+University of Granada, Spain<br/>
+amorag(At)geneura.ugr.es
+
+<li><strong>Alberto Tonda</strong><br/></li>
+Université Paris-Saclay, INRA, France<br/>
+alberto.tonda(At)inra.fr
+</ul>
 
 <h3>Programme Committee</h3>
 TBA

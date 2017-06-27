@@ -23,7 +23,15 @@ Topics of interest include (but are not limited to):
 
 
 <h3>Chairs</h3>
-TBA
+<ul>
+	<li><strong>Kevin Sim</strong><br/></li>
+Edinburgh Napier University, Scotland<br/>
+k.sim(At)napier.ac.uk
+
+<li><strong>Neil Urquhart</strong><br/></li>
+Edinburgh Napier University, Scotland<br/>
+n.urquhart(At)napier.ac.uk
+</ul>
 
 
 

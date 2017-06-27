@@ -70,7 +70,15 @@
       found in: <a href="http://www.evostar.org/">http://www.evostar.org</a> </p>
 
       <h2>Evo<span class="red">PAR</span> track chairs 
-TBA
+<ul>
+<li><strong>Francisco Fernández</strong><br/></li>
+Universidad de Extremadura, Spain<br/>
+fcofdez(At)unex.es
+
+<li><strong>Ignacio Hidalgo</strong><br/></li>
+Universidad Complutense de Madrid, Spain<br/>
+hidalgo(At)ucm.es
+</ul>
 
   <h3>Programme Committee</h3>
 TBA

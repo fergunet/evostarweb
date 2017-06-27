@@ -63,6 +63,14 @@ Page limit: 16 pages.
 
 
     <h3>Evo<span class="red">COMPLEX</span> Track Chairs</h3>
-TBA
+<ul>
+	<li><strong>Carlos Cotta</strong><br/></li>
+Universidad de Málaga, Spain<br/>
+ccottap(At)lcc.uma.es
+
+<li><strong>Robert Schaefer</strong><br/></li>
+AGH University of Science and Technology,Poland<br/>
+schaefer(At)agh.edu.pl
+</ul>	
 
     <?php include('footer.php') ?>

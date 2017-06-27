@@ -47,5 +47,14 @@ Topics of interest include, but are not limited to:
 TBA
 
 <h3>Evo<span class="red">IASP</span> track chairs</h3>
-TBA
+<ul>
+<li><strong>Stefano Cagnoni</strong><br/></li>
+University of Parma, Italy<br/>
+cagnoni(At)ce.unipr.it
+
+<li><strong>Mengjie Zhang, </strong><br/></li>
+Victoria University of Wellington, New Zealand<br/>
+Mengjie.Zhang(At)ecs.vuw.ac.nz
+</ul>
+
     <?php include('footer.php') ?>

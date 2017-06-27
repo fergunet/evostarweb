@@ -39,7 +39,15 @@ will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a>
 </p>
 
 <h3>Evo<span class="red">ROBOT</span> track chairs</h3>
-TBA
+<ul>
+<li><strong>Kyrre Glette</strong><br/></li>
+University of Oslo, Norway<br/>
+kyrrehg(At)ifi.uio.no
+
+<li><strong>Julien Hubert</strong><br/></li>
+Vrije Universiteit Amsterdam, Netherlands<br/>
+jghubert(At)gmail.com
+</ul>
 
 <h3>Programme Committee</h3>
 TBA

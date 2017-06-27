@@ -69,9 +69,15 @@ Page limit: 16 pages<br/>
 
 
 <h3>Chairs</h3>
+<ul>
+<li><strong>Paul Kaufmann</strong><br/></li>
+Paderborn University, Germany<br/>
+paul.kaufmann(At)gmail.com
 
-TBA
-
+<li><strong>Oliver Kramer</strong><br/></li>
+University of Oldenburg, Germany<br/>
+oliver.kramer(At)uni-oldenburg.de
+</ul>
 <h3>Programme Committee</h3>
 
 TBA

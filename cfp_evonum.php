@@ -51,7 +51,11 @@ Further information on the conference and co-located events can be
 found in: http://www.evostar.org
 
 <h3>Evo<span class="red">NUM</span> track chair</h3>
-TBA
+<ul>
+<li><strong>Anna I Esparcia-Alcázar</strong><br/></li>
+Universitat Politècnica de València, Spain<br/>
+esparcia(At)upv.es
+</ul>
 
 <h3>Programme Committee</h3>
 TBA

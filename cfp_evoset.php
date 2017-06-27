@@ -24,7 +24,15 @@ Topics include but are not limited to:
 </ul>
 
   <h2>Chairs: </h2>
-TBA
+<ul>
+<li><strong>Anna I Esparcia-Alcázar</strong><br/></li>
+Universitat Politècnica de València, Spain<br/>
+esparcia(At)upv.es
+
+<li><strong>Sara Silva</strong><br/></li>
+Faculdade de Ciências, Universidade de Lisboa, Portugal<br/>
+sara(At)fc.ul.pt
+</ul>
 
   <h2>Programme Committee</h2>
 TBA
