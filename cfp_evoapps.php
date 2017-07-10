@@ -31,7 +31,7 @@
       <ul>
      <li><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a> - Natural Computing Methods in Business Analytics and Finance</li>
          <li><a href="cfp_evobio.php">Evo<span class="red">BIO</span></a> 
-        - Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
+        - Evolutionary Computation, Machine Learning and Data Mining for Biology and Medicine</li>
          <li><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a> - 
         Nature-inspired Techniques for Communication Networks and other Parallel 
         and Distributed Systems.</li>
@@ -59,8 +59,7 @@
       <li><a href="cfp_evoset.php">Evo<span class="red">SET</span></a> - Nature-inspired algorithms in Software Engineering and Testing</li>
       <li><a href="cfp_evorobot.php">Evo<span class="red">ROBOT</span></a> - Evolutionary 
         Robotics</li>
-      <li><a href="cfp_evostoc.php">Evo<span class="red">STOC</span></a> - Evolutionary 
-        Algorithms in Stochastic and Dynamic Environments</li>
+      <li><a href="cfp_evostoc.php">Evo<span class="red">STOC</span></a> - Evolutionary Algorithms and Meta-heuristics in Stochastic and Dynamic Environments</li>
     </ul>
     <p>Join the the EVOstar group on LinkedIn for more details and updates.</p>
     </span> 
