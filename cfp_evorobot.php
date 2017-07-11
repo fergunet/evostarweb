@@ -27,6 +27,7 @@ Topics include but are not limited to:
 <li>Evolutionary and co-evolutionary approaches.</li>
 </ul>
 
+<!--
 <h3>Best paper award</h3>
 <img align="right" src="img/frontiers.jpg" width="250px" />
 <p>
@@ -37,7 +38,7 @@ the submission of an extended version of the work presented at Evo<span class="r
 will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a> policies of originality and review.
 
 </p>
-
+-->
 <h3>Evo<span class="red">ROBOT</span> track chairs</h3>
 <ul>
 <li><strong>Kyrre Glette</strong><br/></li>
