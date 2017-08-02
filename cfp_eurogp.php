@@ -84,7 +84,89 @@
 
 
     <h2>Programme Committee </h2>
-TBA
+    <ul>
+<li>Alexandros Agapitos, University College Dublin, Ireland</li>
+<li>Lee Altenberg, Konrad Lorenz Institute for Evolution and Cognition Research, Austria</li>
+<li>R. Muhammad Atif Azad, University of Limerick, Ireland</li>
+<li>Ignacio Arnaldo, MIT, USA</li>
+<li>Douglas Augusto, LNCC/UFJF, Brazil</li>
+<li>Wolfgang Banzhaf, Memorial University of Newfoundland, Canada</li>
+<li>Helio Barbosa, LNCC/UFJF, Brazil</li>
+<li>Heder Bernardino, LNCC/UFJF, Brazil</li>
+<li>Anthony Brabazon, University College Dublin, Ireland</li>
+<li>Stefano Cagnoni, University of Parma, Italy</li>
+<li>Mauro Castelli, Universidade Nova de Lisboa, Portugal</li>
+<li>Ernesto Costa, University of Coimbra, Portugal</li>
+<li>Luis Da Costa, Université Paris-Sud XI, France</li>
+<li>Antonio Della Cioppa, University of Salerno, Italy</li>
+<li>Grant Dick, University of Otago, New Zealand</li>
+<li>Federico Divina, Pablo de Olavide University, Spain</li>
+<li>Marc Ebner, Ernst-Moritz-Arndt Universität Greifswald, Germany</li>
+<li>Aniko Ekart, Aston University, UK</li>
+<li>Francisco Fernandez de Vega, Universidad de Extremadura, Spain</li>
+<li>Gianluigi Folino, ICAR-CNR, Italy</li>
+<li>James A. Foster, University of Idaho, USA</li>
+<li>Christian Gagné , Université Laval, Québec, Canada</li>
+<li>Steven Gustafson, GE Global Research, USA</li>
+<li>Jin-Kao Hao, LERIA, University of Angers, France</li>
+<li>Inman Harvey, University of Sussex, UK</li>
+<li>Erik Hemberg, MIT, USA</li>
+<li>Malcolm I. Heywood, Dalhousie University, Canada</li>
+<li>Ting Hu, Dartmouth College, USA</li>
+<li>David Jackson, University of Liverpool, UK</li>
+<li>Colin Johnson, University of Kent, UK</li>
+<li>Ahmed Kattan, Um Al Qura University, Saudi Arabia</li>
+<li>Graham Kendall, University of Nottingham, UK</li>
+<li>Michael Korns, Korns Associates, USA</li>
+<li>Jan Koutnik, IDSIA, Switzerland</li>
+<li>Krzysztof Krawiec, Poznan University of Technology, Poland</li>
+<li>Jiri Kubalik, Czech Technical University in Prague, Czech Republic</li>
+<li>William B. Langdon, University College London, UK</li>
+<li>Kwong Sak Leung, The Chinese University of Hong Kong, China</li>
+<li>John Levine, University of Strathclyde, UK</li>
+<li>Evelyne Lutton, INRIA, France</li>
+<li>Penousal Machado, University of Coimbra, Portugal</li>
+<li>James McDermott, University College Dublin, Ireland</li>
+<li>Andrew McIntyre, Dalhousie University, Canada</li>
+<li>Bob McKay, Seoul National University, Korea</li>
+<li>Eric Medvet, University of Trieste, Italy</li>
+<li>Julian Miller, University of York, UK</li>
+<li>Uy Nguyen Quang, Military Technical Academy, Vietnam</li>
+<li>Xuan Hoai Nguyen, Hanoi University, Vietnam</li>
+<li>Miguel Nicolau, University College Dublin, Ireland</li>
+<li>Julio Cesar Nievola, Pontificia Universidade Catolica do Parana, Brazil</li>
+<li>Michael O'Neill, University College Dublin, Ireland</li>
+<li>Una-May O'Reilly, MIT, USA</li>
+<li>Fernando Otero, University of Kent, UK</li>
+<li>Ender Ozcan, University of Nottingham, UK</li>
+<li>Andrew J. Parkes, University of Nottingham, UK</li>
+<li>Gisele Pappa, Federal University of Minas Gerais, Brazil</li>
+<li>Tomasz Pawlak, Poznan University of Technology, Poland</li>
+<li>Clara Pizzuti, Institute for High Performance Computing and Networking, Italy</li>
+<li>Thomas Ray, University of Oklahoma, USA</li>
+<li>Peter Rockett, University of Sheffield, UK</li>
+<li>Denis Robilliard, Université Lille Nord de France, France</li>
+<li>Álvaro Rubio-Largo, Universidad de Extremadura, Spain</li>
+<li>Conor Ryan, University of Limerick, Ireland</li>
+<li>Marc Schoenauer, INRIA, France</li>
+<li>Lukas Sekanina, Brno University of Technology, Czech Republic</li>
+<li>Yin Shan, Medicare, Australia</li>
+<li>Sara Silva, University of Lisbon, Portugal</li>
+<li>Moshe Sipper, Ben-Gurion University, Israel</li>
+<li>Alexei N. Skurikhin, Los Alamos National Laboratory, USA</li>
+<li>Terence Soule, University of Idaho, USA</li>
+<li>Lee Spector, Hampshire College, USA</li>
+<li>Jerry Swan, University of York, UK</li>
+<li>Ernesto Tarantino, ICAR-CNR, Italy</li>
+<li>Jorge Tavares, Microsoft, Germany</li>
+<li>Leonardo Trujillo, Instituto Tecnológico de Tijuana, Mexico</li>
+<li>Leonardo Vanneschi, Universidade Nova de Lisboa, Portugal</li>
+<li>Bartosz Wieloch, Poznan University of Technology, Poland</li>
+<li>David R. White, University College London, UK</li>
+<li>Man Leung Wong, Lingnan University, Hong Kong</li>
+<li>Bing Xue, Victoria University of Wellington, New Zealand</li>
+<li>Mengjie Zhang, Victoria University of Wellington, New Zealand</li>
+</ul>
     <h2>Further Information</h2>
     <p>A comprehensive bibliography of genetic programming literature and links 
       to related material is accessible at the <a href="http://www.cs.bham.ac.uk/~wbl/biblio/">Genetic 
