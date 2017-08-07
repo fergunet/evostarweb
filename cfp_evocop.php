@@ -65,8 +65,11 @@
 
       
     <h3>Evo<span class="red">COP</span> Programme Chairs</h3>
-TBA
 
+<ul>
+  <li><strong>Manuel López-Ibáñez</strong>, University of Manchester, UK, manuel.lopez-ibanez (at) manchester.ac.uk</li>
+  <li><strong>Arnaud Liefooghe</strong>, University of Lille, France, arnaud.liefooghe (at) univ-lille1.fr</li>
+</ul>
 
 
 

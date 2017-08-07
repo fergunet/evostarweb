@@ -92,12 +92,12 @@
 <tr>
 
 	<td><img src="organisers/manuel_lopez_ibanez.jpg" width="100"></td>
-		<td><img src="organisers/TBA.jpg" width="100"></td>
+		<td><img src="organisers/arnaud.jpg" width="100"></td>
 </tr>
 <tr>
 
 	<td>Manuel López-Ibáñez, University of Manchester, UK, manuel.lopez-ibanez (at) manchester.ac.uk</td>
-	<td>TBA</td>
+	<td>Arnaud Liefooghe, University of Lille, France, arnaud.liefooghe (at) univ-lille1.fr</td>
 </tr>
 </table>
 
