@@ -120,8 +120,8 @@ TBA
 <h3>Additional information and submission details</h3>
 
 Submit your manuscript, at most 16 A4 pages long, in Springer LNCS format (instructions downloadable from <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>)<br/>
-Submission link: TBD <!--<a href="https://myreview.saclay.inria.fr/evomusart18">https://myreview.saclay.inria.fr/evomusart18</a>-->
-page limit: 16 pages<br/>
+Submission link:  <a href="https://myreview.saclay.inria.fr/evomusart18">https://myreview.saclay.inria.fr/evomusart18</a><br/>
+Page limit: 16 pages<br/>
 The reviewing process will be double-blind; please omit information about the authors in the submitted paper.
 
 
