@@ -15,7 +15,11 @@
 <h3>News</h3>
 <ul>
 <!--<li><a href="#abstracts">Accepted paper abstracts</a></li>-->
-
+<span class="red">
+This year some papers from Evomusart will be selected for a
+new Springer book titled “The handbook of Artificial intelligence
+ and the Arts” edited by Juan Romero, Penousal Machado and Gary Greenfield.
+</span>
 </ul>
 
 <h3>About Evo<span class="red">MUSART</span></h3>
