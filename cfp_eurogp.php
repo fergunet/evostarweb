@@ -52,7 +52,7 @@
 <li>Evolutionary inductive programming</li>
 
     <div id="logo"> 
-      <h2>Euro<span class="red">GP</span></a> programme 
+      <h2>Euro<span class="red">GP</span> programme 
         chairs : </h2>
 
       <ul>
@@ -60,19 +60,21 @@
           NOVA IMS, Universidade Nova de Lisboa, Portugal<br />
           <em>mcastelli(at)isegi.unl.pt</em> </span></li>
 
-        <li><span><strong>James McDermott</strong><br />
-          University College Dublin, Ireland<br />
-          <em>jmmcd(at)jmmcd.net</em> </span></li>
+
+          <li><span><strong>Lukas Sekanina</strong><br />
+          Brno University of Technology, Czech Republic<br />
+          <em> sekanina(at)fit.vutbr.cz </em> </span></li>
+
+        
       
       </ul>
 
     </div>
-    <div id="logo"> <strong>Euro<span class="red">GP</span></a> 
-      publication chair : </strong> 
+    <div id="logo"> <h2>Euro<span class="red">GP</span> publication chair : </h2> 
       <ul>
-        <li><span><strong>Lukas Sekanina</strong><br />
-          Brno University of Technology, Czech Republic<br />
-          <em> sekanina(at)fit.vutbr.cz </em> </span></li>
+        <li><span><strong>Mengjie Zhang </strong><br />
+          Victoria University of Wellington, New Zealand<br />
+          <em>mengjie.zhang (at) ecs.vuw.ac.nz</em> </span></li>
       </ul>
     </div>
 
