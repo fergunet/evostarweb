@@ -18,8 +18,7 @@
       papers describing new original research are sought on topics strongly related 
       to the evolution of computer programs, ranging from theoretical work to 
       innovative applications. The conference will feature a mixture of oral presentations 
-      and poster sessions. In 2015, the Euro<span class="red">GP</span> acceptance 
-      rate was 50% (33.3% for oral presentations).</p>
+      and poster sessions. </p>
     <h2> Areas of Interest and Contributions</h2>
     <p>Topics include but are not limited to:</p>
     <ul>
@@ -257,14 +256,24 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
       process will be double-blind, so please omit information about the authors 
       in the submitted paper. Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
       LNCS format</a>. </p>
-    <p>Page limit: <strong>16 pages</strong> (this number has been increased for all conferences in Evostar 2018)<br />
-      <br />
+
+      <p>EuroGP accepts two kind of submissions: full papers and short papers.
+Full papers require novel and complete research work and have a limit of
+16 pages. Short papers should
+present complete research or interesting preliminary results and have a limit
+of 8 pages. Both types of submission will undergo the same blind review
+process and all accepted papers will be
+included in the LNCS proceedings. Full papers will be presented as regular
+talks, while short papers will be presented as short talks and in poster
+sessions.</p>
+    
+<p>
       The authors of accepted papers will have to improve their paper on the basis 
       of the reviewers' comments and will be asked to send a camera ready version 
       of their manuscripts. At least one author of each accepted work has to register 
       for the conference, attend the conference and present the work.</p>
-    
-    <p>Submission link: <a href="https://myreview.saclay.inria.fr/eurogp18">https://myreview.saclay.inria.fr/eurogp18</a>
+ </p>   
+    <p>Submission link: <a href="https://myreview.saclay.inria.fr/eurogp18">https://myreview.saclay.inria.fr/eurogp18</a></p>
       <br />
 
 
