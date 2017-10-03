@@ -7,7 +7,7 @@
 <?php include('common_to_all.php') ?>
 <?php include('common_to_apps.php') ?>
 
-Evo<span class="red">BAFIN</span> is the only European event specifically dedicated to the application of Evolutionary Computation, and other Natural Computing methodologies to business analytics and finance. It gives researchers in those fields, as well as people from industry, an opportunity to present their latest research and to discuss current developments and applications. Topics of interest include (but not limited to):
+Evo<span class="red">BAFIN</span>  is an event specifically dedicated to the application of Computational Intelligence methodologies to business analytics and finance.
 
 <ul>
 <li>Operations research</li>
@@ -44,16 +44,20 @@ found in: http://www.evostar.org
 <h3>Evo<span class="red">BAFIN</span> track chairs</h3>
 
 <ul>
-<li>
-<strong>Anthony Brabazon </strong><br/>
-University College Dublin, Ireland <br/>
-<em>anthony.brabazon(at)ucd.ie</em>
 
 <li>
 <strong>Michael Kampouridis</strong><br/>
  University of Kent, UK<br/>
 <em>m.kampouridis(at)kent.ac.uk</em>
 </li>
+
+<li>
+<strong>Fernando Otero </strong><br/>
+University of Kent, UK<br/>
+<em>F.E.B.Otero(at)kent.ac.uk</em>
+</li>
+
+
 </ul>
 
 
