@@ -39,6 +39,9 @@ will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a>
 
 </p>
 -->
+
+ <?php include('common_to_apps_publication.php') ?>
+
 <h3>Evo<span class="red">ROBOT</span> track chairs</h3>
 <ul>
 <li><strong>Kyrre Glette</strong><br/></li>

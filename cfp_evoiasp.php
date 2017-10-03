@@ -41,7 +41,7 @@ Topics of interest include, but are not limited to:
 <li>time series analysis by means of EC techniques</li>
 </ul>
 
-
+ <?php include('common_to_apps_publication.php') ?>
 
 <h3>Programme Committee</h3>
 TBA

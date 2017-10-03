@@ -39,13 +39,7 @@ Possible topics of interest include, but are not limited to:
 For more information, visit our web page at <a href="http://www.evostar.org/2018/">http://www.evostar.org/2018/</a>, or follow us on Twitter @EVOBio2018, join our evobio2018 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
 </p>
 
-
-<h3>Submission Details</h3>
-
-EvoBIO is interested in papers in full research articles (maximum 16 pages) describing new methodologies, approaches, and/or applications (oral or poster presentation).
-
-Submissions must be original and not published elsewhere.  They will be peer reviewed by members of the program committee.  Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer LNCS format</a>.
-
+<?php include('common_to_apps_publication.php') ?>
 
 <h3>Evo<span class="red">BIO</span> Track Chairs</h3>
 

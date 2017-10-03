@@ -23,6 +23,8 @@ Topics include but are not limited to:
 
 </ul>
 
+ <?php include('common_to_apps_publication.php') ?>
+
   <h2>Chairs: </h2>
 <ul>
 <li><strong>Anna I Esparcia-Alcázar</strong><br/></li>

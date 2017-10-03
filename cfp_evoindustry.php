@@ -20,6 +20,8 @@ Topics of interest include (but are not limited to):
 </ul>
 
 
+ <?php include('common_to_apps_publication.php') ?>
+
 
 
 <h3>Chairs</h3>

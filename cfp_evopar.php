@@ -43,33 +43,10 @@
       <li>Case studies showing the role of Parallel and Distributed Infrastructures 
         in conjunction with Distributed EAs when solving hard real-life problems.</li>
     </ul>
-    <h2>PUBLICATION DETAILS</h2>
-    <p>Accepted papers will appear in the proceedings of Evo<span class="red">Star</span>, 
-      published in a volume of the Springer Lecture Notes in Computer Science, 
-      which will be available at the Conference.Submissions must be original and 
-      not published elsewhere. The submissions will be peer reviewed by at least 
-      three members of the program committee. The authors of accepted papers will 
-      have to improve their paper on the basis of the reviewers comments and will 
-      be asked to send a camera ready version of their manuscripts. At least one 
-      author of each accepted work has to register for the conference and attend 
-      the conference and present the work.The reviewing process will be double-blind, 
-      please omit information about the authors in the submitted paper. </p>
-    <h2>Submission Details</h2>
-    <p>Submissions must be original and not published elsewhere. They will be 
-      peer reviewed by members of the program committee. The reviewing process 
-      will be double-blind, so please omit information about the authors in the 
-      submitted paper. </p>
-    <p>Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
-      LNCS format</a>. </p>
-    <p> Please provide up to five keywords in your Abstract</p>
-    <p>Page limit: 16 pages</p>
 
-    
-    <h2> FURTHER INFORMATION </h2>
-    <p> Further information on the conference and co-located events can be <br />
-      found in: <a href="http://www.evostar.org/">http://www.evostar.org</a> </p>
+<?php include('common_to_apps_publication.php') ?>
 
-      <h2>Evo<span class="red">PAR</span> track chairs 
+      <h2>Evo<span class="red">PAR</span> track chairs </h2>
 <ul>
 <li><strong>Francisco Fernández</strong><br/></li>
 Universidad de Extremadura, Spain<br/>
