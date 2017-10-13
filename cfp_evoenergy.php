@@ -53,7 +53,7 @@ Topics of interest include, but are not limited to:
 <h3>Chairs</h3>
 <ul>
 <li><strong>Paul Kaufmann</strong><br/></li>
-Paderborn University, Germany<br/>
+Mainz University, Germany<br/>
 paul.kaufmann(At)gmail.com
 
 <li><strong>Oliver Kramer</strong><br/></li>
@@ -62,6 +62,15 @@ oliver.kramer(At)uni-oldenburg.de
 </ul>
 <h3>Programme Committee</h3>
 
-TBA
-
+<ul>
+<li> Jörg Bremer   (University of Oldenburg, Germany)</li>
+<li> Kyrre Glette  (University of Oslo, Norway)</li>
+<li> Jörg Lässig   (University of Applied Sciences Zittau/Görlitz, Görlitz, Germany)</li>
+<li> Chenjie Ma    (Fraunhofer Institute for Wind Energy and Energy System Technology, Germany)</li>
+<li> Ingo Mauser   (FZI Karlsruhe, Germany)</li>
+<li> Martin Middendorf     (University of Leipzig, Germany)</li>
+<li> Maizura Mokhtar       (Heriot-Watt University, UK)</li>
+<li> Peter Palensky        (Technical University of Delft, Netherlands)</li>
+<li> Ana Soares    (EnergyVille, VITO, Belgium)</li>
+</ul>
     <?php include('footer.php') ?>
