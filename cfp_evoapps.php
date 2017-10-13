@@ -3,7 +3,7 @@
         <h2>Evo<span class="red">Applications</span><h2>
    </div>
 
-<h2>21th European Conference on the Applications of Evolutionary Computation</h2>
+<h2>21st European Conference on the Applications of Evolutionary Computation</h2>
 
 <?php include('common_to_all.php') ?>
 

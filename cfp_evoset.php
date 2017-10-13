@@ -37,5 +37,19 @@ sara(At)fc.ul.pt
 </ul>
 
   <h2>Programme Committee</h2>
-TBA
+  <ul>
+<li>Chicano, Francisco, Universidad de Málaga, Spain</li>
+<li>Cohen, Myra, University of Nebraska</li>
+<li>Fraser, Gordon, University of Sheffield, UK</li>
+<li>Gay, Gregory, University of South Carolina</li>
+<li>Kessentini, Marouane, University of Michigan, USA</li>
+<li>Le Goues, Claire, Carnegie Mellon University, USA</li>
+<li>Menzies, Tim, University of Nebraska</li>
+<li>Mkaouer, Wiem, University of Michigan, USA</li>
+<li>Ochoa, Gabriela, University of Stirling</li>
+<li>Petke, Justyna, University College London, UK</li>
+<li>Sarro, Federica, University College London, UK</li>
+<li>Vos, Tanja, Open University, The Netherlands</li>
+<li>White, David, University College London, UK</li>
+</ul>
     <?php include('footer.php') ?>

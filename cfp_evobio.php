@@ -43,12 +43,6 @@ For more information, visit our web page at <a href="http://www.evostar.org/2018
 
 <h3>Evo<span class="red">BIO</span> Track Chairs</h3>
 
-
-TBA
-
-
-<h3>Programme Committee</h3>
-
 <ul>
 <li><strong>Federico Divina</strong><br/></li>
 Pablo de Olavide University, Spain<br/>
@@ -59,5 +53,8 @@ Newcastle University,UK<br/>
 jaume.bacardit(At)newcastle.ac.uk
 
 </ul>
+
+<h3>Programme Committee</h3>
+TBA
 
     <?php include('footer.php') ?>

@@ -3,7 +3,7 @@
         <h2>Euro<span class="red">GP</span><h2>
    </div>
 
-<h2>21th European Conference on Genetic Programming</h2>
+<h2>21st European Conference on Genetic Programming</h2>
 
 
 <?php include('common_to_all.php') ?> 

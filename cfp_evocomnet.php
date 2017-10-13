@@ -53,8 +53,15 @@ found in: <a href="http://www.evostar.org">http://www.evostar.org</a>.
 
 
 <h3>Evo<span class="red">COMNET</span> track chairs</h3>
-TBA
-
+<ul>
+<li>Fabio D'Andreagiovanni <br/>
+CNRS,  UTC - Sorbonne University, France  <br/>          
+d.andreagiovanni@hds.utc.fr</li>    
+ 
+<li>Giovanni Iacca  <br/>
+RWTH Aachen University, Germany   <br/>     
+giovanni.iacca@gmail.com</li>
+</ul>
 <h3>PROGRAM COMMITTEE</h3>
 <ul>
 TBA

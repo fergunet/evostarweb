@@ -3,7 +3,7 @@
         <h2>Evo<span class="red">BAFIN</span> 2018<h2>
    </div>
 
-<h3>Natural Computing Methods in Business Analytics and Finance</h3>
+<h3>Computational Intelligence Methods in Business Analytics and Finance</h3>
 <?php include('common_to_all.php') ?>
 <?php include('common_to_apps.php') ?>
 
@@ -49,7 +49,6 @@ University of Kent, UK<br/>
 
 <h3>Programme Committee</h3>
 <ul>
-<li>Eva Alfaro (Instituto Technologico de Informatica, Spain)</li>
 <li>Anthony Brabazon (University College Dublin, Ireland)</li>
 <li>Sam Cramer (University of Kent, UK)</li>
 <li>Malcom Heywood (Dalhousie University, Canada)</li>
@@ -61,6 +60,7 @@ University of Kent, UK<br/>
 <li>Krzysztof Michalak (Wroclaw University of Economics, Poland)</li>
 <li>Michael O'Neill (University Collge Dublin, Ireland)</li>
 <li>Conall O’Sullivan (University Collge Dublin, Ireland)</li>
+<li>Fernando Otero (University of Kent, UK)</li>
 <li>Andrea Tettamanzi (Univ. Nice Sophia Antipolis / I3S, France)</li>
 <li>Ruppa Thulasiram (University of Manitoba, Cananda)</li>
 </ul>
