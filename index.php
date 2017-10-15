@@ -45,8 +45,9 @@ Authors with a regular presentation can optionally bring one too.
 A mixture of long and short talks are presented over two and a half days, and your conference chair should have informed you when your talk takes place and its duration.  If you are unclear, contact your programme chair to clarify these details.  
 Contact details are at <a href="http://www.evostar.org/2018/about_organisers.php">http://www.evostar.org/2018/about_organisers.php</a>
 
-<h4>Can I print my poster there?</h4>
+<!--<h4>Can I print my poster there?</h4>
 It is possible, <a href="location_posters.php">visit this page</a> for more information about posters size, storage and printing.
+-->
 
 <h4>Is there free WiFi available?</h4>
 Yes.
@@ -55,9 +56,12 @@ Yes.
 It is recommended.
 
 <h4>Is there any Special Issue?</h4>
-Authors of selected papers will be invited to submit extended versions of their papers to some JCR journals. More information available in each conference page.
-
-
+<p>
+This year some papers from Evomusart will be selected for a new Springer book titled “The handbook of Artificial intelligence and the Arts” edited by Juan Romero, Penousal Machado and Gary Greenfield.
+</p>
+ <p>
+Selected EvoApplications papers will be invited to submit to a special issue of the Genetic Programming and Evolvable Machines  (2016 Impact Factor: 1.514)
+</p>
 
 <h3>Submission links</h3>
 Submissions links are available in each conference page (on the left menu) and <a href="submission_details.php">here</a>.
