@@ -17,7 +17,7 @@
               <strong>Notification:</strong> 3 January 2018<br/>
             
               <strong>Camera-ready:</strong> 15 January 2018<br/>
-              <strong>Mandatory registration per paper:</strong> 1 February 2017</br>
+              <!--<strong>Mandatory registration per paper:</strong> 1 February 2018</br>-->
               <strong>Student bursary deadline:</strong> TBA <br/>
               <strong>Early registration discount:</strong> TBA<br/>
               <strong>Registration deadline:</strong> TBA <br/>
