@@ -54,7 +54,26 @@ jghubert(At)gmail.com
 </ul>
 
 <h3>Programme Committee</h3>
-TBA
+<ul>
+<li>Auerbach, Joshua ; Champlain College, United States</li>
+<li>Bredeche, Nicolas ; Institut des Systèmes Intelligents et de Robotique, France</li>
+<li>Christensen, Anders; University Institute of Lisbon, ISCTE-IUL, Portugal</li>
+<li>Doncieux, Stephane ; Institut des Systèmes Intelligents et de Robotique, France</li>
+<li>Haasdijk, Evert ; VU University Amsterdam, The Netherlands</li>
+<li>Hamann, Heiko ; University of Paderborn, Germany</li>
+<li>Heinerman, Jacqueline ; VU University Amsterdam, The Netherlands</li>
+<li>Huizinga, Joost ; University of Wyoming, United States</li>
+<li>Montanier, Jean-Marc ; Softbank Robotics Europe, France</li>
+<li>Mouret, Jean-Baptiste ; INRIA Larsen Team, France</li>
+<li>Nitschke, Geoff ; University of Cape Town, South Africa</li>
+<li>Nolfi, Stefano ; Institute of Cognitive Sciences and Technologies, Italy</li>
+<li>Ellefsen, Kai Olav; University of Oslo, Norway</li>
+<li>Rossi, Claudio ; Universidad Politecnica De Madrid, Spain</li>
+<li>Schmickl , Thomas ; University of Graz, Austria</li>
+<li>Witkowski, Olaf ; Earth-Life Science Institute, Tokyo, Japan</li>
+<li>Clark, Anthony ; Michigan State University, United States</li>
+<li>Moore, Jared ; Grand Valley State University, United States</li>
+</ul>
 
     <?php include('footer.php') ?>
 

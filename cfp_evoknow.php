@@ -37,7 +37,18 @@ limited to:
 
 
 <h3>Programme Committee</h3>
-TBA
+<ul>
+<li>Jarosław Arabas (Warsaw University of Technology, Poland)</li>
+<li>János Botzheim (Tokyo Metropolitan University, Japan)</li>
+<li>Doina Bucur (University of Twente, The Netherlands)</li>
+<li>Fabio Caraffini (De Montfort University, UK)</li>
+<li>Ahmed Hallawa (RWTH Aachen University, Germany)</li>
+<li>Ferrante Neri (De Montfort University, UK)</li>
+<li>Vinícius Veloso de Melo (UNIFESP-SJC, Brazil)</li>
+<li>Anil Yaman (Technical University of Eindhoven, The Netherlands)</li>
+<li>Aleš Zamuda (University of Maribor, Slovenia)</li>
+<li>Fergal Lane (University of Limerick, Ireland)</li>
+</ul>
 
 
     <h3>Evo<span class="red">KNOW</span> Track Chairs</h3>

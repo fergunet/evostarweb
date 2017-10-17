@@ -55,6 +55,20 @@ jaume.bacardit(At)newcastle.ac.uk
 </ul>
 
 <h3>Programme Committee</h3>
-TBA
-
+<ul>
+<li>Jitesh Dundas (Indian Institute of Technology, India)</li>
+<li>Florentino Fernández Riverola (Universidad de Vigo, Spain)</li>
+<li>Alex Freitas (University of Kent, U.K.)</li>
+<li>Mario Giacobini (Universitá di Torino, Italy)</li>
+<li>Raffaele Giancarlo (Università degli Studi di Palermo, Italy)</li>
+<li>Rosalba Giugno (University of Verona, Italy)                 </li>
+<li>Jin-Kao Hao (University of Angers, France)        </li>
+<li>Elena Marchiori (Radboud Universiteit van Nijmegen, The Netherlands)                             </li>
+<li>Carlotta Orsenigo (Politecnico di Milano, Italy)</li>
+<li>Clara Pizzuti (ICAR-CNR, Italy)                            </li>
+<li>Simona Rombo (Università degli Studi di Palermo, Italy)</li>
+<li>Jose Santos Reyes (Universidad de A Coruña, Spain)                             </li>
+<li>Ryan Urbanowicz (University of Pennsylvania, USA)                            </li>
+<li>Bing Xue Victoria (University of Wellington, New Zeland) </li>
+</ul>
     <?php include('footer.php') ?>

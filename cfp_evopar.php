@@ -58,6 +58,20 @@ hidalgo(At)ucm.es
 </ul>
 
   <h3>Programme Committee</h3>
-TBA
+  <ul>
+<li>Raffaele Perego (ISTI-CNR, Italy)</li>
+<li>Daniel Hernández (Instituto Tecnológico Nacional, Mexico)</li>
+<li>Gustavo Olague (CICESE, México)</li>
+<li>Rafael Villanueva(Universitat Politecnica de Valencia, Spain)</li>
+<li>Jose Carlos Ribeiro (Politechnique Institute of Leiria, Portugal)</li>
+<li>José Manuel Colmenar (Universidad Rey Juan Carlos, Spain)</li>
+<li>Juan-Luis Jiménez-Laredo (ILNAS/ANEC Normalisation, Luxembourg)</li>
+<li>Sebastien Varrete(Université du Luxemburg, Luxemburg)</li>
+<li>Francisco Luna (Universidad de Málaga, Spain)</li>
+<li>Gianluigui Folino (ICAR-CNR, Italy)</li>
+<li>Ignacio Arnaldo (PatternEx, USA)</li>
+<li>Willian Langdon, (University College of London, UK)</li>
+<li>José Manuel Velasco (Universidad Complutense de Madrid, Spain)</li>
+</ul>
 
     <?php include('footer.php') ?>
