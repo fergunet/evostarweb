@@ -44,7 +44,33 @@ Topics of interest include, but are not limited to:
  <?php include('common_to_apps_publication.php') ?>
 
 <h3>Programme Committee</h3>
-TBA
+<ul>
+<li>Michele Amoretti (University of Parma, Italy)</li>
+<li>Lucia Ballerini (University of Dundee, UK)</li>
+<li>Vitoantonio Bevilacqua (Politecnico di Bari, Italy)</li>
+<li>Leonardo Bocchi (University of Florence, Italy)</li>
+<li>Nicola Bova (Opportunity Network, Spain)</li>
+<li>Fabio Daolio (Shinshu University, Japan)</li>
+<li>Ivanoe De Falco (ICAR - CNR, Italy)</li>
+<li>Antonio Della Cioppa (University of Salerno, Italy)</li>
+<li>Laura Dipietro (Cambridge, USA)</li>
+<li>Marc Ebner (Ernst Moritz Arndt University, Greifswald, Germany)</li>
+<li>Francesco Fontanella (University of Cassino, Italy)</li>
+<li>Oscar Ibañez (University of Granada, Spain)</li>
+<li>Mario Koeppen (Kyushu Institute of Technology, Japan)</li>
+<li>Evelyne Lutton (INRIA, France)</li>
+<li>Pablo Mesejo Santiago (INRIA, France)</li>
+<li>Ferrante Neri (De Monfort University, UK)</li>
+<li>Riccardo Poli (University of Essex, UK)</li>
+<li>Sara Silva (INESC-ID Lisbon, Portugal)</li>
+<li>Stephen Smith (University of York, UK)</li>
+<li>Andy Song (RMIT, Australia)</li>
+<li>Giovanni Squillero (Politecnico di Torino, Italy)</li>
+<li>Andrea Valsecchi (European Center of Soft Computing, Spain)</li>
+<li>Leonardo Vanneschi (Universidade Nova de Lisboa, Portugal)</li>
+<li>Bing Xue (Victoria University of Wellington, New Zealand)</li>
+
+</ul>
 
 <h3>Evo<span class="red">IASP</span> track chairs</h3>
 <ul>

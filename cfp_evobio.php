@@ -56,6 +56,7 @@ jaume.bacardit(At)newcastle.ac.uk
 
 <h3>Programme Committee</h3>
 <ul>
+<li>Christian Darabos (University of Pennsylvania, USA)</li>
 <li>Jitesh Dundas (Indian Institute of Technology, India)</li>
 <li>Florentino Fernández Riverola (Universidad de Vigo, Spain)</li>
 <li>Alex Freitas (University of Kent, U.K.)</li>
@@ -70,5 +71,7 @@ jaume.bacardit(At)newcastle.ac.uk
 <li>Jose Santos Reyes (Universidad de A Coruña, Spain)                             </li>
 <li>Ryan Urbanowicz (University of Pennsylvania, USA)                            </li>
 <li>Bing Xue Victoria (University of Wellington, New Zeland) </li>
+
+
 </ul>
     <?php include('footer.php') ?>
