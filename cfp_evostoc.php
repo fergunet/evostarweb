@@ -122,4 +122,29 @@ michalis.mavrovouniotis(At)ntu.ac.uk
 Liverpool John Moores University<br/>
 T.T.Nguyen(At)ljmu.ac.uk
 </ul>
+
+<h3>Programme Committee</h3>
+<ul>
+<li>	Juergen Branke (University of Warwick, United Kingdom) </li>
+<li>Hui Cheng (Liverpool John Moores University, United Kingdom) </li>
+<li>Ernesto Costa (University of Coimbra, Portugal) </li>
+<li>Andries P Engelbrecht (University of Pretoria, South Africa) </li>
+<li>Shayan Kavakeb (AECOM, United Kingdom) </li>
+<li>Changhe Li (China University of Geosciences, China) </li>
+<li>Michalis Mavrovouniotis (Nottingham Trent University, United Kingdom) </li>
+<li>Ferrante Neri (De Montfort University, United Kingdom) </li>
+<li>David Pelta (University of Granada, Spain) </li>
+<li>Hendrik Richter (Leipzig University of Applied Sciences, Germany) </li>
+<li>Anabela Simões (Institute Polytechnic of Coimbra, Portugal) </li>
+<li>Renato Tinós (Universidade de São Paulo, Brazil) </li>
+<li>Trung Thanh Nguyen (Liverpool John Moores University, United Kingdom) </li>
+<li>Krzysztof Trojanowski (Cardinal Stefan Wyszyński University in Warsaw, Poland) </li>
+<li>Shengxiang Yang (De Montfort University, United Kingdom) </li>
+<li>Danial Yazdani (Liverpool John Moores University, United Kingdom) </li>
+<li>Charly Lersteau (Liverpool John Moores University, United Kingdom) </li>
+<li>Mario Garza (Liverpool John Moores University, United Kingdom) </li>
+
+
+</ul>
+
     <?php include('footer.php') ?>
