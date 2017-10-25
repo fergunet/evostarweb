@@ -14,7 +14,7 @@
 
 <ul>
 	
-	<li>EXTENDED SUBMISSION DEADLINE: 10 November</li>
+	<li><spacn class="red"><strong>EXTENDED SUBMISSION DEADLINE</strong></span>: 10 November</li>
 </ul>
 <h2>Evo<span class="red">star</span> 2018</h2>
 
