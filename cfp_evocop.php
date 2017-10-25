@@ -224,6 +224,7 @@ Submission link: http://myreview.saclay.inria.fr/evocop18/
 <p><strong>Important Dates</strong></p>
 <ul>
 <li>Submission deadline (Regular papers): November 1, 2017</li>
+<li>EXTENDED Submission deadline (Regular papers): November 10, 2017</li>
 <li>Notification (Regular papers): 3 January 2018</li>
 <li>Camera-ready (Regular papers): 15 January 2018</li>
 

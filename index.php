@@ -8,11 +8,13 @@
 
 
         <h2>Latest <span class="red">news</span>:</h2>
+
+        
  </div>
 
 <ul>
 	
-	
+	<li>EXTENDED SUBMISSION DEADLINE: 10 November</li>
 </ul>
 <h2>Evo<span class="red">star</span> 2018</h2>
 
