@@ -82,7 +82,7 @@
 <h3>Evo<span class="red">Applications</span> Publication Chair</h3>
     <blockquote> 
       <p><span><strong>Paul Kaufmann </strong> <br />
-       Paderborn University, Germany<br />
+       Mainz University, Germany<br />
         <em>paul.kaufmann (at) gmail.com </em></span></p>
     </blockquote>
 
