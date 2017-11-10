@@ -34,7 +34,7 @@ EvoStar 2018 will be held from 9am on Wednesday 4 April until 2pm on Friday 6 Ap
 
 <h4>Where is the location Venue?</h4>
 
-TBA
+See the <a href="location_venue.php">Venue information page</a>.
 
 
 
