@@ -46,7 +46,6 @@ sara(At)fc.ul.pt
 <li>Le Goues, Claire, Carnegie Mellon University, USA</li>
 <li>Menzies, Tim, University of Nebraska</li>
 <li>Mkaouer, Wiem, University of Michigan, USA</li>
-<li>Ochoa, Gabriela, University of Stirling</li>
 <li>Petke, Justyna, University College London, UK</li>
 <li>Sarro, Federica, University College London, UK</li>
 <li>Vos, Tanja, Open University, The Netherlands</li>

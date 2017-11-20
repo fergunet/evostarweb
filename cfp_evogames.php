@@ -50,7 +50,27 @@ alberto.tonda(At)inra.fr
 </ul>
 
 <h3>Programme Committee</h3>
-TBA
+<ul>
+<li>Antonio J. Fernández Leiva	,	 Universidad de Málaga	,	 Spain</li>
+<li>Raúl Lara Cabrera	,	 Universidad Autónoma de Madrid	,	 Spain</li>
+<li>Cédric Buche	,	 ENIB	,	 France</li>
+<li>Tobias Mahlmann	,	 Lund University	,	 Sweden</li>
+<li>Moshe Sipper	,	 Ben-Gurion University	,	 Israel</li>
+<li>Julian Togelius	,	 New York University	,	 USA</li>
+<li>Mike Preuss	,	 University of Munster	,	 Germany</li>
+<li>David Camacho	,	  Universidad Autónoma de Madrid	,	 Spain</li>
+<li>Federico Liberatore	,	 Universidad Carlos III	,	 Spain</li>
+<li>Pablo García Sánchez	,	 Universidad de Cádiz	,	 Spain</li>
+<li>Antonio               González Pardo	,	 Universidad Autónoma de Madrid	,	 Spain</li>
+<li>Antonios Liapis	,	 University Of Malta	,	 Malta</li>
+<li>Georgios Yannakakis	,	 University of Malta	,	 Malta</li>
+<li>Giovanni Squillero	,	 Politecnico di Torino	,	 Italy</li>
+<li>Antonio               J. Fernández Ares	,	 Universidad de Granada	,	 Spain</li>
+<li>Mihai Polceanu	,	 ENIB	,	 France</li>
+<li>Juan J.  Merelo Guervós	,	 Universidad de Granada	,	 Spain</li>
+<li>Mohammed Salem	,	 University of Mascara	,	 Algeria</li>
+</ul>
+
 
 
     <?php include('footer.php') ?>

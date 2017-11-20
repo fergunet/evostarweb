@@ -49,7 +49,6 @@ esparcia(At)upv.es
 <li> Petr Pošík, Czech Technical University in Prague, Czech Republic</li>
 <li> Mike Preuss, WWU Münster, Germany</li>
 <li> Guenter Rudolph, University of Dortmund, Germany</li>
-<li> Ivo Fabian Sbalzarini, Max Planck Institute of Molecular Cell Biology and Genetics, Germany</li>
 <li> Ke Tang, University of Science and Technology of China (USTC), China</li>
 </ul>
 

@@ -61,4 +61,25 @@ AGH University of Science and Technology,Poland<br/>
 schaefer(At)agh.edu.pl
 </ul>	
 
+<h3>Programme Committee</h3>
+<ul>
+<li>Jhon Amaya, UNET, Venezuela</li>
+<li>Anca Andreica, Universitatea Babe&scedil;-Bolyai, Romania</li>
+<li>Tiago Baptista, Universidade de Coimbra, Portugal</li>
+<li>Aleksander Byrski, AGH University of Science and Technology, Poland</li>
+<li>Antonio Córdoba, Universidad de Sevilla, Spain</li>
+<li>Bernabé Dorronsoro, Universidad de Cádiz, Spain</li>
+<li>Carlos Fernandes, University of Lisbon, Portugal</li>
+<li>Juan Luis Jiménez Laredo, Université du Havre, France</li>
+<li>Wac&#0322;aw Ku&scedil;, Silesian University of Technology, Poland</li>
+<li>JJ Merelo, Universidad de Granada, Spain</li>
+<li>Antonio Nebro, Universidad de Málaga, Spain</li>
+<li>Rafael Nogueras, Universidad de Málaga, Spain</li>
+<li>Anna Paszy&nacute;ska, Jagiellonian University, Poland</li>
+<li>Arkadiusz Poteralski, Silesian University of Technology, Poland</li>
+<li>Maciej Smo&#0322;ka, AGH University of Science and Technology, Poland</li>
+<li>Wojciech Turek, AGH University of Science and Technology, Poland</li>
+</ul>
+
+
     <?php include('footer.php') ?>

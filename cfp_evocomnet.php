@@ -64,19 +64,24 @@ giovanni.iacca@gmail.com</li>
 </ul>
 <h3>PROGRAM COMMITTEE</h3>
 <ul>
+<li>Thomas Bauschert (Technical University Chemnitz, Germany)</li>
 <li>Doina Bucur (University of Twente, The Netherlands)</li>
 <li>Luca Chiaraviglio (University of Rome Tor Vergata)</li>
+<li>Stefano Coniglio (University of Southampton, United Kingdom)</li>
 <li>Rolf Hoffmann (Technical University Darmstadt, Germany)</li>
 <li>Andreas Kassler (Karlastd University, Sweden)</li>
+<li>Carlo Mannino (Sintef, Norway)</li>
 <li>Roberto Montemanni (IDSIA, Switzerland)</li>
 <li>Enrico Natalizio (UTC - Sorbonne University, France)</li>
 <li>Riccardo Pecori (eCampus University, Italy)</li>
+<li>Mauricio Resende (Amazon, USA)</li>
 <li>Robert Schaefer (University of Science and Technology, Poland)</li>
 <li>Sevil Sen (Hacettepe University, Turkey)</li>
 <li>Chien-Chung Shen (University of Delaware, USA)</li>
 <li>Marco Villani (University of Modena and Reggio Emilia, Italy)</li>
 <li>Jaroslaw Was (AGH University of Science and Technology, Poland)</li>
 <li>Nur Zincir-Heywood (Dalhousie University, Canada)</li>
+
 
 </ul>
 
