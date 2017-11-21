@@ -63,6 +63,7 @@ jaume.bacardit(At)newcastle.ac.uk
 <li>Mario Giacobini (Universitá di Torino, Italy)</li>
 <li>Raffaele Giancarlo (Università degli Studi di Palermo, Italy)</li>
 <li>Rosalba Giugno (University of Verona, Italy)                 </li>
+<li>Francisco A. Goméz Vela (Pablo de Olavide University, Spain)</li>
 <li>Jin-Kao Hao (University of Angers, France)        </li>
 <li>Elena Marchiori (Radboud Universiteit van Nijmegen, The Netherlands)                             </li>
 <li>Vincent Moulton (University of East Anglia, UK)</li>
