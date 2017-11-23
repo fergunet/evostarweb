@@ -11,15 +11,18 @@
 The four conferences include:
 
 <ul>
-<li>Euro<span class="red">GP</span> 21th European Conference on Genetic Programming</li>
+<li>Euro<span class="red">GP</span> 21st European Conference on Genetic Programming</li>
 
 <li>Evo<span class="red">COP</span> 18th European Conference on Evolutionary Computation in Combinatorial Optimisation</li>
 
 <li>Evo<span class="red">MUSART</span> 7th International Conference (and 13th European event) on Evolutionary and Biologically Inspired Music, Sound, Art and Design</li>
 
-<li>Evo<span class="red">Applications</span>  20th European Conference on the Applications of Evolutionary and bio-inspired Computation including the following tracks</li>
+<li>Evo<span class="red">Applications</span>  21st European Conference on the Applications of Evolutionary and bio-inspired Computation including the following tracks</li>
 <ul>
-	<li>Evo<span class="red">BIO</span>  Evolutionary Computation, Machine Learning and Data Mining in Computational Biology</li>
+
+	<li>Evo<span class="red">BAFIN</span> Computational Intelligence Methods in Business Analytics and Finance</li>
+
+	<li>Evo<span class="red">BIO</span>  Evolutionary Computation, Machine Learning and Data Mining for Biology and Medicine</li>
 
 <li>Evo<span class="red">COMNET</span> Application of Nature-inspired Techniques for Communication Networks and other Parallel and Distributed Systems</li>
 
@@ -27,23 +30,24 @@ The four conferences include:
 
 <li>Evo<span class="red">ENERGY </span> Evolutionary Algorithms in Energy Applications</li>
 
-<li>Evo<span class="red">FIN</span> Track on Evolutionary Computation in Finance and Economics</li>
-
 <li>Evo<span class="red">GAMES </span>  Bio-inspired Algorithms in Games</li>
 
 <li>Evo<span class="red">IASP</span>  Evolutionary computation in image analysis, signal processing and pattern recognition</li>
 
-<li>Evo<span class="red">INDUSTRY</span> The application of Nature-Inspired Techniques in industrial settings</li>
+<li>Evo<span class="red">INDUSTRY</span> Evolutionary and Bio-Inspired Computational Techniques within Real-World Industrial and Commercial Environments</li>
 
+<li>Evo<span class="red">KNOW</span> Knowledge Incorporation in Evolutionary Computation
+</li>
 <li>Evo<span class="red">NUM</span> Bio-inspired algorithms for continuous parameter optimisation</li>
 
 <li>Evo<span class="red">PAR</span>  Parallel and distributed Infrastructures</li>
 
-<li>Evo<span class="red">RISK</span> Computational Intelligence for Risk Management, Security and Defense Applications</li>
+
 
 <li>Evo<span class="red">ROBOT</span> Evolutionary Computation in Robotics</li>
+<li>Evo<span class="red">SET</span> Nature-inspired algorithms in Software Engineering and Testing</li>
 
-<li>Evo<span class="red">STOC</span> Evolutionary Algorithms in Stochastic and Dynamic Environments</li>
+<li>Evo<span class="red">STOC</span> Evolutionary Algorithms and Meta-heuristics in Stochastic and Dynamic Environments</li>
 </ul>
 </ul>
 
