@@ -47,7 +47,6 @@ sara(At)fc.ul.pt
 <li>Menzies, Tim, University of Nebraska</li>
 <li>Mkaouer, Wiem, University of Michigan, USA</li>
 <li>Petke, Justyna, University College London, UK</li>
-<li>Sarro, Federica, University College London, UK</li>
 <li>Vos, Tanja, Open University, The Netherlands</li>
 <li>White, David, University College London, UK</li>
 </ul>
