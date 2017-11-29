@@ -68,9 +68,6 @@ Selected EvoApplications papers will be invited to submit to a special issue of 
 <h3>Submission links</h3>
 Submissions links are available in each conference page (on the left menu) and <a href="submission_details.php">here</a>.
 
-<h3>Download flyer</h3>
-TBA
-
 <?php include('footer.php') ?>
 
 
