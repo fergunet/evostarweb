@@ -113,7 +113,7 @@
 <li>Inman Harvey, University of Sussex, UK</li>
 <li>Erik Hemberg, MIT, USA</li>
 <li>Malcolm I. Heywood, Dalhousie University, Canada</li>
-<li>Ting Hu, Dartmouth College, USA</li>
+<li>Ting Hu, Memorial University, Canada</li>
 <li>David Jackson, University of Liverpool, UK</li>
 <li>Colin Johnson, University of Kent, UK</li>
 <li>Ahmed Kattan, Um Al Qura University, Saudi Arabia</li>

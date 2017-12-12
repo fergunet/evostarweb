@@ -65,13 +65,14 @@ jaume.bacardit(At)newcastle.ac.uk
 <li>Rosalba Giugno (University of Verona, Italy)                 </li>
 <li>Francisco A. Goméz Vela (Pablo de Olavide University, Spain)</li>
 <li>Jin-Kao Hao (University of Angers, France)        </li>
-<li>Elena Marchiori (Radboud Universiteit van Nijmegen, The Netherlands)                             </li>
+<li>Ting Hu (Memorial University, Canada)</li>
+<li>Elena Marchiori (Radboud Universiteit van Nijmegen, The Netherlands)   </li>
 <li>Vincent Moulton (University of East Anglia, UK)</li>
 <li>Carlotta Orsenigo (Politecnico di Milano, Italy)</li>
 <li>Clara Pizzuti (ICAR-CNR, Italy)                            </li>
 <li>Simona Rombo (Università degli Studi di Palermo, Italy)</li>
-<li>Jose Santos Reyes (Universidad de A Coruña, Spain)                             </li>
-<li>Ryan Urbanowicz (University of Pennsylvania, USA)                            </li>
+<li>Jose Santos Reyes (Universidad de A Coruña, Spain)   </li>
+<li>Ryan Urbanowicz (University of Pennsylvania, USA)   </li>
 <li>Bing Xue Victoria (University of Wellington, New Zeland) </li>
 
 
