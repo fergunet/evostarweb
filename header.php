@@ -101,7 +101,7 @@
               <ul class="dropdown-menu">
                 <li><a href="participants_registration.php">Registration</a></li>
                 <li><a href="participants_letter.php">Letter of invitation</a></li>
-                <li><a href="participants_bursaries.php">Student bursaries</a></li>
+                <!--<li><a href="participants_bursaries.php">Student bursaries</a></li>-->
               </ul>
             </li>
              <li class="dropdown">

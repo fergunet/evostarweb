@@ -18,10 +18,10 @@
               <strong>Notification:</strong> 3 January 2018<br/>
             
               <strong>Camera-ready:</strong> 15 January 2018<br/>
-              <!--<strong>Mandatory registration per paper:</strong> 1 February 2018</br>-->
-              <strong>Student bursary deadline:</strong> TBA <br/>
-              <strong>Early registration discount:</strong> TBA<br/>
-              <strong>Registration deadline:</strong> TBA <br/>
+              <strong>Mandatory registration per paper:</strong> 9 February 2018</br>
+              <!--<strong>Student bursary deadline:</strong> TBA <br/>-->
+              <strong>Early registration discount:</strong> 28 February<br/>
+              <strong>Registration deadline:</strong> 28 March <br/>
               <strong>EvoStar dates:</strong> 4-6 April 2018<br/>
               
             </div>
