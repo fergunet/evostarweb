@@ -8,17 +8,15 @@
 <p>
 Please follow Springer's LNCS instructions when preparing your paper.  <a href="ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf">ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf </a>
 </p>
-
 <p>
-Remember that references should be ordered by appearance in the paper, using 'splncs.bst' as BibTeX style (if you use LaTeX) or generating a list with this order if you use Word. You are encouraged to include DOI identifiers in your references.
+Strict page limit for all evostar conferences: <strong>16 pages</strong>
+</p>
+<p>
+<strong>References</strong> should be ordered by appearance in the paper, using 'splncs.bst' as BibTeX style (if you use LaTeX) or generating a list with this order if you use Word. You are encouraged to include <strong>DOI identifiers</strong> in your references.
 </p>
 <p>
 <strong>New in 2017:</strong> Authors can include their ORCID identifiers. See the instructions for details.
 </p>
-<p>
-There are strict page limits for all of the 4 conferences collectively known as EvoStar
-</p>
-<strong>16 pages</strong>
 
 
 <p>
@@ -73,7 +71,7 @@ Example:<br/>
 <li>In camera ready, authors should not enable page numbering.</li>
 <li>If using LaTeX, please include a bibtex file, even if the bibliography is embedded into the source .tex file(s)</li>
 </ul>
-<p>When preparing your camera-ready, please make sure that you omit all headers (no page numbers, no running title, no running authors). Springer will activate running title and authors in reformatting the proceedings. Therefore, specify running title and running authors in the .tex source using comments. For Word users, add the specifications without activating headers.</p>
+<!--<p>When preparing your camera-ready, please make sure that you omit all headers (no page numbers, no running title, no running authors). Springer will activate running title and authors in reformatting the proceedings. Therefore, specify running title and running authors in the .tex source using comments. For Word users, add the specifications without activating headers.</p>-->
 <p>Authors not following the instructions may result in the paper being excluded from the proceedings.</p>
 Also, before <strong>15 January 2018</strong>, you also have to send an E-mail to evostar2018@gmail.com with the title:
 "EvoStar18 attendance confirmation"
