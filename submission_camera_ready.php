@@ -12,7 +12,7 @@ Please follow Springer's LNCS instructions when preparing your paper.  <a href="
 Strict page limit for all evostar conferences: <strong>16 pages</strong>
 </p>
 <p>
-<strong>References</strong> should be ordered by appearance in the paper, using 'splncs.bst' as BibTeX style (if you use LaTeX) or generating a list with this order if you use Word. You are encouraged to include <strong>DOI identifiers</strong> in your references.
+<strong>References</strong> should be ordered by appearance in the paper, using 'splncs03.bst' as BibTeX style (if you use LaTeX) or generating a list with this order if you use Word. You are encouraged to include <strong>DOI identifiers</strong> in your references.
 </p>
 <p>
 <strong>New in 2017:</strong> Authors can include their ORCID identifiers. See the instructions for details.
