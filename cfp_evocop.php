@@ -100,24 +100,23 @@ known as EvoStar (Evo*).</p>
 
 <h3>Programme Committee</h3>
 <ul>
+
 <li> Adnan Acan, Eastern Mediterranean University, Turkey</li>
 <li> Hernán Aguirre, Shinshu University, France</li>
 <li> Enrique Alba, Universidad de Málaga, Spain</li>
 <li> Richard Allmendinger, University of Manchester, UK</li>
 <li> Thomas Bartz-Beielstein, Cologne University of Applied Sciences, Germany</li>
-<li> Hans-Georg Beyer, Vorarlberg University of Applied Sciences, Germany</li>
 <li> Benjamin Biesinger, Austrian Institute of Technology, Austria</li>
 <li> Christian Blum, Artificial Intelligence Research Institute (IIIA-CSIC), Bellaterra, Spain</li>
 <li> Sandy Brownlee, University of Stirling, UK</li>
 <li> Pedro Castillo, Universidad de Granada, Spain</li>
 <li> Francisco Chicano, Universidad de Malaga, Spain</li>
 <li> Carlos Coello Coello, CINVESTAV-IPN, Mexico</li>
-<li> Peter Cowling, University of Bradford, UK</li>
 <li> Bilel Derbel, University of Lille, France</li>
 <li> Luca Di Gaspero, University of Udine, Italy</li>
 <li> Karl Doerner, Johannes Kepler University Linz, Austria</li>
 <li> Benjamin Doerr, LIX-Ecole Polytechnique, France</li>
-<li> Carola Doerr, Max Planck Institute for Informatics, Germany</li>
+<li> Carola Doerr, Université Pierre et Marie Curie, France</li>
 <li> Paola Festa, Universitá di Napoli Federico II, Italy</li>
 <li> Bernd Freisleben, University of Marburg, Germany</li>
 <li> Carlos Garcia-Martinez, University of Córdoba, Spain</li>
@@ -134,6 +133,7 @@ known as EvoStar (Evo*).</p>
 <li> Graham Kendall, University of Nottingham, UK</li>
 <li> Ahmed Kheiri, Lancaster University, UK</li>
 <li> Mario Koeppen, Kyushu Institute of Technology, Japan</li>
+<li> Timo Kötzing, Hasso Plattner Institute, Germany</li>
 <li> Frederic Lardeux, University of Angers, France</li>
 <li> Rhyd Lewis, Cardiff University, UK</li>
 <li> Arnaud Liefooghe, University of Lille, France</li>
@@ -172,6 +172,7 @@ known as EvoStar (Evo*).</p>
 <li> Sébastien Verel, Université du Littoral Cote d'Opale, France</li>
 <li> Bing Xue, Victoria University of Wellington, New Zealand</li>
 <li> Takeshi Yamada, NTT Communication Science Laboratories, Japan</li>
+
 </ul>
 
 
@@ -218,8 +219,9 @@ Springer LNCS format.
 <li>Page limit (Regular papers): 16 pages</li>
 <li>Page limit (LBAs): 1 page</li>
 </ul>
-Submission link: http://myreview.saclay.inria.fr/evocop18/
-<p><strong>Submission link</strong>: <a href="https://myreview.saclay.inria.fr/evocop18/">https://myreview.saclay.inria.fr/evocop18/</a><br /></p>
+
+<p><strong>Submission link (Regular papers)</strong>: <a href="https://myreview.saclay.inria.fr/evocop18/">https://myreview.saclay.inria.fr/evocop18/</a><br /></p>
+<p><strong>Submission link (LBAs)</strong>: <a href="https://myreview.saclay.inria.fr/evocop18_lba/">https://myreview.saclay.inria.fr/evocop18_lba/</a><br /></p>
 
 <p><strong>Important Dates</strong></p>
 <ul>
@@ -229,11 +231,12 @@ Submission link: http://myreview.saclay.inria.fr/evocop18/
 <li>Camera-ready (Regular papers): 15 January 2018</li>
 
 <li>Submission deadline (Late-breaking abstracts): January 15, 2018</li>
-<li>Notification (Late-breaking abstracts): TBA</li>
-<li>Camera-ready (Late-breaking abstracts): TBA</li>
+<li>Notification (Late-breaking abstracts): 1 February 2017</li>
+<li>Camera-ready (Late-breaking abstracts): 15 February 2017</li>
 
-<li>Mandatory registration per paper: 1 February 2017</li>
-<li>Student bursary deadline: TBA</li>
+
+
+<li>Mandatory registration per paper: 9 February 2017</li>
 <li>Early registration discount: TBA</li>
 <li>Registration deadline: TBA</li>
 <li>EvoStar dates: 4-6 April 2018</li>
