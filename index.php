@@ -39,8 +39,7 @@ See the <a href="location_venue.php">Venue information page</a>.
 
 
 <h4>Do I need to present a poster?</h4>
-Authors who have been allocated an Interactive Presentation must present a poster in the poster session.
-Authors with a regular presentation can optionally bring one too. 
+Authors who have been allocated a short talk must present a poster in the poster session. Authors with a long talk can optionally bring one too. 
 
 
 <h4>How long are the talks?</h4>
