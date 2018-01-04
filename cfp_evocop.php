@@ -33,13 +33,15 @@ satisfiability, energy optimisation, cutting, packing, and planning
 problems.</p>
 
 
-      <p>The EvoCOP 2018 conference will be held in the city of Parma, Italy,
-together with EuroGP (the 21st European Conference on Genetic
-Programming), EvoMUSART (7th European conference on evolutionary and
-biologically inspired music, sound, art and design) and
-EvoApplications (specialist events on a range of evolutionary
-computation topics and applications), in a joint event collectively
-known as EvoStar (Evo*).</p>
+<p>
+The EvoCOP 2018 conference will be held in the city of Parma, Italy. 
+It will be held in conjunction with EuroGP (the 21st European
+Conference on Genetic Programming), EvoMUSART (7th European conference on
+evolutionary and biologically inspired music, sound, art and design) and
+EvoApplications (the 21st European Conference on the Applications of
+Evolutionary Computation), in a joint event collectively known as EvoStar
+(Evo*).
+</p>
 
     <p><strong>Areas of Interest and Contributions</strong></p>
     <p>Topics of interest include, but are not limited to:<br />
