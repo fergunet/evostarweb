@@ -30,3 +30,13 @@ This year EvoApplications is accepting two kinds of submission: full papers and 
       </span></li>
     </ul>
     <strong>Submission link:</strong>  <a href="https://myreview.saclay.inria.fr/evoapps18/">https://myreview.saclay.inria.fr/evoapps18/</a>
+
+ <h2>Presentation details</h2>
+
+
+There are two types of presentation:
+<ul>
+<li>Long talk (20 minutes + 5 min questions). Authors can optionally bring a poster to present at the poster session.</li>
+<li>Short talk (5 minutes, no questions). Authors MUST also bring a poster to present at the poster session.</li>
+</ul>
+Short papers are only eligible for short talks. Authors of long papers will be notified in advance of the type of presentation (short/long).
