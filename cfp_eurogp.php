@@ -50,7 +50,7 @@
 <li>Unconventional evolvable computation</li>
 <li>Automatic software maintenance</li>
 <li>Evolutionary inductive programming</li>
-
+    </ul>
     <div id="logo"> 
       <h2>Euro<span class="red">GP</span> programme 
         chairs : </h2>
@@ -78,7 +78,7 @@
       </ul>
     </div>
 
-    </ul>
+
 
 
 
@@ -180,9 +180,7 @@
 
 
     <h2>Publication Details</h2>
-    <p>Accepted papers will be presented orally or as posters at the Conference 
-      and will be printed in the proceedings published by Springer Verlag in the 
-      Lecture Notes in Computer Science (LNCS) series.</p>
+    <p>All accepted papers will be printed in the proceedings published by Springer Verlag in the Lecture Notes in Computer Science (LNCS) series.</p>
     <p>Previous editions of Euro<span class="red">GP</span> were published in 
       the following Springer Verlag LNCS volumes</p>
     <table width="100%" border="0">
@@ -265,16 +263,25 @@ Full papers require novel and complete research work and have a limit of
 present complete research or interesting preliminary results and have a limit
 of 8 pages. Both types of submission will undergo the same blind review
 process and all accepted papers will be
-included in the LNCS proceedings. Full papers will be presented as regular
-talks, while short papers will be presented as short talks and in poster
-sessions.</p>
+included in the LNCS proceedings. 
+</p>
     
 <p>
-      The authors of accepted papers will have to improve their paper on the basis 
+      Authors of accepted papers will have to improve their paper on the basis 
       of the reviewers' comments and will be asked to send a camera ready version 
       of their manuscripts. At least one author of each accepted work has to register 
       for the conference, attend the conference and present the work.</p>
  </p>   
+
+ <h2>Presentation details</h2>
+
+
+There are two types of presentation:
+<ul>
+<li>Long talk (20 minutes + 5 min questions). Authors can optionally bring a poster to present at the poster session.</li>
+<li>Short talk (5 minutes, no questions). Authors MUST also bring a poster to present at the poster session.</li>
+</ul>
+Short papers are only eligible for short talks. Authors of long papers will be notified in advance of the type of presentation (short/long).
     <p>Submission link: <a href="https://myreview.saclay.inria.fr/eurogp18">https://myreview.saclay.inria.fr/eurogp18</a></p>
       <br />
 
