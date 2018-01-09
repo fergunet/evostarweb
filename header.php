@@ -99,7 +99,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Participants<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="participants_registration.php">Registration</a></li>
+                <!--<li><a href="participants_registration.php">Registration</a></li>-->
                 <li><a href="participants_letter.php">Letter of invitation</a></li>
                 <!--<li><a href="participants_bursaries.php">Student bursaries</a></li>-->
               </ul>
