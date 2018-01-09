@@ -43,7 +43,7 @@ Authors who have been allocated a short talk must present a poster in the poster
 
 
 <h4>How long are the talks?</h4>
-A mixture of long and short talks are presented over two and a half days, and your conference chair should have informed you when your talk takes place and its duration.  If you are unclear, contact your programme chair to clarify these details.  
+A mixture of long and short talks are presented over two and a half days, and your conference chair should will inform you when your talk takes place and its duration: long (20 min + 5 min questions) or short (5 min, no questions).  If you are unclear, contact your programme chair to clarify these details. 
 Contact details are at <a href="http://www.evostar.org/2018/about_organisers.php">http://www.evostar.org/2018/about_organisers.php</a>
 
 <!--<h4>Can I print my poster there?</h4>
