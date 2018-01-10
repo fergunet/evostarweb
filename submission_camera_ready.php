@@ -18,7 +18,7 @@ Strict page limit for all evostar conferences: <strong>16 pages</strong>
 You are also encouraged to include <strong>DOI identifiers</strong> in your references.
 </p>
 <p>
-<strong>New in 2017:</strong> Authors can include their ORCID identifiers. See the instructions for details.
+<strong>New in 2017:</strong> Authors can include their ORCID identifiers. See <a href="https://www.springer.com/gp/authors-editors/orcid">Springer's instructions</a> for details.
 </p>
 
 
@@ -104,12 +104,12 @@ using your id and password.
 </ul>
 </p>
 
-Editor names:
+When filling in your consent to publish/copy right form you will have to enter the editors's names, as follows:
 <ul>
 <li>Editors for EvoAPPS: K. Sim et al.</li>
 <li>Editors for EuroGP: M. Castelli et al.</li>
 <li>Editors for EvoCOP: M. Lopez-Ibañez et al.</li>
-<li>Editors for EvoMUSART: J Romero et al.</li>
+<li>Editors for EvoMUSART: A Liapis et al.</li>
 
 </ul>
 
