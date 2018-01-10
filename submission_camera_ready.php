@@ -93,10 +93,10 @@ In summary, you have to do each of the following 3 tasks no later than <strong>1
 <p>
 <strong>Please ensure that submissions are directed to the relevant track.</strong> Papers that are not formatted according to those guidelines, or do not respect the page limit, risk being excluded from the proceedings. Submit your final camera-ready paper NO LATER than <strong><span class="red">15 January 2018</span></strong> through the appropriate submission system at
 <ul>
+<li>Submission link for Evo<span class="red">APPS</span>: <a href="https://myreview.saclay.inria.fr/evoapps18/"> https://myreview.saclay.inria.fr/evoapps18/</a></li>
 <li>Submission link for Euro<span class="red">GP</span>: <a href="https://myreview.saclay.inria.fr/eurogp18"> https://myreview.saclay.inria.fr/eurogp18</a></li>
 <li>Submission link for Evo<span class="red">COP</span>: <a href="https://myreview.saclay.inria.fr/evocop18/"> https://myreview.saclay.inria.fr/evocop18/</a></li>
 <li>Submission link for Evo<span class="red">MUSART</span>: <a href="https://myreview.saclay.inria.fr/evomusart18"> https://myreview.saclay.inria.fr/evomusart18</a></li>
-<li>Submission link for Evo<span class="red">APPS</span>: <a href="https://myreview.saclay.inria.fr/evoapps18/"> https://myreview.saclay.inria.fr/evoapps18/</a></li>
 using your id and password.
 </ul>
 </p>

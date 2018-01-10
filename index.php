@@ -13,6 +13,7 @@
  </div>
 
 <ul>
+	<li><a href="participants_registration.php">REGISTRATION INFORMATION</a></li>
 	<li><a href="submission_camera_ready.php">CAMERA READY INSTRUCTIONS</a></li>
 	<li><spacn class="red"><strong>EXTENDED SUBMISSION DEADLINE</strong></span>: 10 November</li>
 </ul>

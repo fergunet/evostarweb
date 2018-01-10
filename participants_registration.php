@@ -10,8 +10,8 @@
 <strong>Registration Closes 28 March 2018 (before Easter weekend)</strong>
  
 <p>
-<a href="https://www.surveymonkey.co.uk/r/STANDARD-evoreg"><strong>REGULAR REGISTRATION</strong></a><br/>
-<a href="https://www.surveymonkey.co.uk/r/STUDENT-evoreg"><strong>STUDENT REGISTRATION</strong></a><br/>
+<a href="https://www.surveymonkey.co.uk/r/STANDARD-evo2018"><strong>REGULAR REGISTRATION</strong></a><br/>
+<a href="https://www.surveymonkey.co.uk/r/STUDENT-evo2018"><strong>STUDENT REGISTRATION</strong></a><br/>
 </p>
 <p>
 Evo<span class="red">Star</span> 2018 is the name for the four co-located conferences of Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> and the 14 tracks of Evo<span class="red">APPLICATIONS</span> (including Evo<span class="red">BAFIN</span>, Evo<span class="red">BIO</span>, Evo<span class="red">COMNET</span>, Evo<span class="red">COMPLEX</span>, Evo<span class="red">ENERGY</span>, Evo<span class="red">GAMES</span>, Evo<span class="red">IASP</span>, Evo<span class="red">INDUSTRY</span>, Evo<span class="red">KNOW</span>, Evo<span class="red">NUM</span>, Evo<span class="red">PAR</span>, Evo<span class="red">ROBOT</span>, Evo<span class="red">SET</span>, Evo<span class="red">STOC</span>).  These co-located events will be held from 4-6 April 2018 in Parma, Italy.  The friendly and informal atmosphere at EvoStar is intended to foster beneficial friendships and longer-term collaboration across continents and across research generations.
@@ -42,8 +42,8 @@ The SINGLE EvoStar registration includes:
 Online registration is followed by a link to a secure payment page at PayPal where credit or debit cards from VISA, MasterCard, American Express, Discover, MAESTRO and PayPal are accepted.  You should be able to pay as a guest, though from some countries you may need to set up a free PayPal account to proceed with payment.   This is outwith the control of EvoStar and we apologise for any inconvenience. <span class="red"> Sending funds by bank transfer is NOT available for EvoStar</span>.
 
 <p>
-<a href="https://www.surveymonkey.co.uk/r/STANDARD-evoreg"><strong>REGULAR REGISTRATION FORM</strong></a><br/>
-<a href="https://www.surveymonkey.co.uk/r/STUDENT-evoreg"><strong>STUDENT REGISTRATION FORM</strong></a><br/>
+<a href="https://www.surveymonkey.co.uk/r/STANDARD-evo2018"><strong>REGULAR REGISTRATION FORM</strong></a><br/>
+<a href="https://www.surveymonkey.co.uk/r/STUDENT-evo2018"><strong>STUDENT REGISTRATION FORM</strong></a><br/>
 <a href="https://www.surveymonkey.co.uk/r/ExtraDinner"><strong>(Optional) Additional Dinner Tickets Form</strong></a><br/>
 </p>
 
@@ -54,7 +54,7 @@ Online registration is followed by a link to a secure payment page at PayPal whe
 
 <table class="table table-bordered">
 	<tr>
-		<td>Fees</td><td><strong><span class="red">EARLY Registration until 28 February 2018</span></strong></td><td>LATE Registration 28 April 2018</td>
+		<td>Fees</td><td><strong><span class="red">EARLY Registration until 28 February 2018</span></strong></td><td>LATE Registration 28 March 2018</td>
 	</tr>
 
 	<tr>
@@ -81,7 +81,7 @@ Online registration is followed by a link to a secure payment page at PayPal whe
 	</tr>
 
 		<tr>
-		<td>Aditional dinner ticket</td><td class="success"><strong>50 EUR</strong> </td><td>50 EUR</td>
+		<td>Additional dinner ticket</td><td class="success"><strong>50 EUR</strong> </td><td>50 EUR</td>
 		<td>
 			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
