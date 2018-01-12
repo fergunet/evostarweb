@@ -13,7 +13,7 @@
       the conference and present the work.  </p>
 
       <p>
-This year EvoApplications is accepting two kinds of submission: full papers and short papers. <strong>Full papers</strong> require novel and complete research work and have a limit of 16 pages. <strong>Short papers</strong> should present complete research or interesting preliminary results and have a limit of 8 pages. Both types of submission will undergo the same double blind review process and all accepted papers will be included in the LNCS proceedings. Based on reviewers’ assessment, accepted full papers will be presented as full length talks, and authors of accepted short papers will present a short talk as well as present a poster. All authors of accepted papers will be given the opportunity to further disseminate their work in poster sessions.
+This year EvoApplications is accepting two kinds of submission: full papers and short papers. <strong>Full papers</strong> require novel and complete research work and have a limit of 16 pages. <strong>Short papers</strong> should present complete research or interesting preliminary results and have a limit of 8 pages. Both types of submission will undergo the same double blind review process and all accepted papers will be included in the LNCS proceedings.  All authors of accepted papers will be given the opportunity to further disseminate their work in poster sessions.
       </p>
 
 
@@ -37,6 +37,6 @@ This year EvoApplications is accepting two kinds of submission: full papers and 
 There are two types of presentation:
 <ul>
 <li>Long talk (20 minutes + 5 min questions). Authors can optionally bring a poster to present at the poster session.</li>
-<li>Short talk (5 minutes, no questions). Authors MUST also bring a poster to present at the poster session.</li>
+<li>Short talk (10 minutes, no questions). Authors MUST also bring a poster to present at the poster session.</li>
 </ul>
 Short papers are only eligible for short talks. Authors of long papers will be notified in advance of the type of presentation (short/long).
