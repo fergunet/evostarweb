@@ -90,6 +90,34 @@ links. Feel free to browse, search and bookmark: <a href="http://evomusart-index
 
 
 
+
+
+
+<h3>Publication Details</h3>
+<p>
+	Submissions will be rigorously reviewed for scientific and artistic merit. Accepted papers will be presented orally or as posters at the event and included in the evostar proceedings, published by Springer Verlag in a dedicated volume of the Lecture Notes in Computer Science series. The acceptance rate at evoMUSART 2017 was 41% for papers accepted for oral presentation, and 41% for poster presentation.
+</p>
+
+
+<p>
+	Submitters are strongly encouraged to provide in all papers a link for download of media demonstrating their results, whether music, images, video, or other media types. Links should be anonymised for double-blind review, e.g. using a URL shortening service.
+</p>
+
+There are two types of presentation:
+<ul>
+<li>Long talk (20 minutes + 5 min questions). Authors can optionally bring a poster to present at the poster session.</li>
+<li>Short talk (10 minutes, no questions). Authors MUST also bring a poster to present at the poster session.</li>
+</ul>
+Authors will be notified in advance of the type of presentation (short/long).
+
+<h3>Additional information and submission details</h3>
+
+Submit your manuscript, at most 16 A4 pages long, in Springer LNCS format (instructions downloadable from <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>)<br/>
+Submission link:  <a href="https://myreview.saclay.inria.fr/evomusart18">https://myreview.saclay.inria.fr/evomusart18</a><br/>
+Page limit: 16 pages<br/>
+The reviewing process will be double-blind; please omit information about the authors in the submitted paper.
+
+
     <h2>Evo<span class="red">MUSART</span> Conference chairs </h2>
 
 <p>
@@ -174,21 +202,6 @@ a.ekart(at)aston.ac.uk
 <li>Patrick Janssen, National University of Singapore, Singapore</li>
 
 </ul>
-
-
-<h3>Publication Details</h3>
-<p>
-	Submissions will be rigorously reviewed for scientific and artistic merit. Accepted papers will be presented orally or as posters at the event and included in the evostar proceedings, published by Springer Verlag in a dedicated volume of the Lecture Notes in Computer Science series. The acceptance rate at evoMUSART 2017 was 41% for papers accepted for oral presentation, and 41% for poster presentation.
-</p>
-<p>
-	Submitters are strongly encouraged to provide in all papers a link for download of media demonstrating their results, whether music, images, video, or other media types. Links should be anonymised for double-blind review, e.g. using a URL shortening service.
-</p>
-<h3>Additional information and submission details</h3>
-
-Submit your manuscript, at most 16 A4 pages long, in Springer LNCS format (instructions downloadable from <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0</a>)<br/>
-Submission link:  <a href="https://myreview.saclay.inria.fr/evomusart18">https://myreview.saclay.inria.fr/evomusart18</a><br/>
-Page limit: 16 pages<br/>
-The reviewing process will be double-blind; please omit information about the authors in the submitted paper.
 
 
 
