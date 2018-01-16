@@ -104,13 +104,12 @@ using your id and password.
 </ul>
 </p>
 
-When filling in your consent to publish/copy right form you will have to enter the editors's names, as follows:
+When filling in your consent to publish/copy right form you will have to enter the editors's names and title, as follows:
 <ul>
-<li>Editors for EvoAPPS: K. Sim et al.</li>
-<li>Editors for EuroGP: M. Castelli et al.</li>
-<li>Editors for EvoCOP: M. Lopez-Ibañez et al.</li>
-<li>Editors for EvoMUSART: A Liapis et al.</li>
-
+<li><strong>Editors for EvoAPPS:</strong> K. Sim et al. <strong>Title:</strong> Applications of Evolutionary Computation - 21st European Conference EvoApplications 2018</li>
+<li><strong>Editors for EuroGP:</strong> M. Castelli et al. <strong>Title:</strong> Genetic Programming - 21st European Conference, EuroGP 2018 </li>
+<li><strong>Editors for EvoCOP:</strong> M. Lopez-Ibañez et al. <strong>Title:</strong> Evolutionary Computation in Combinatorial Optimization - 18th European Conference, EvoCOP 2018</li>
+<li><strong>Editors for EvoMUSART:</strong> A Liapis et al. <strong>Title:</strong> Computational Intelligence in Music, Sound, Art and Design - 7th International Conference, EvoMUSART 2018</li>
 </ul>
 
 
