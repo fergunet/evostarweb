@@ -41,8 +41,8 @@ Topics include but are not limited to:
 
 <ul>
 <li><strong>Antonio Mora</strong><br/></li>
-University of Granada, Spain<br/>
-amorag(At)geneura.ugr.es
+Universidad Internacional de la Rioja, Spain<br/>
+antoniomiguel.mora(at)unir.net
 
 <li><strong>Alberto Tonda</strong><br/></li>
 Université Paris-Saclay, INRA, France<br/>
