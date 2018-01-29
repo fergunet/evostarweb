@@ -23,9 +23,6 @@ Submit your LBA via <a href="https://myreview.saclay.inria.fr/evoapps18_lba/">ht
 <li> Mandatory registration per LBA: 28 February 2018</li>
 <li> EvoStar: April 4-6, 2018</li>
 
-<p>Regards</p>
-
-EvoApplications Chairs
 
 
 
