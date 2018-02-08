@@ -61,7 +61,7 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
 
 
 <h3>Evo<span class="red">APPLICATIONS</span></h3>
-<h4>21th European Conference on the Applications of Evolutionary Computation</h4>
+<h4>21th International Conference on the Applications of Evolutionary Computation</h4>
 <strong>Evo<span class="red">Applications</span> coordinator :</strong>
 
 <table class="organisers">

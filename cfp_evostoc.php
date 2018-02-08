@@ -13,7 +13,7 @@ field of evolutionary and bio-inspired computation for dynamic
 
 optimization problems, the Evo<span class="red">STOC</span> 2018 will run its 15th edition 
 
-as a track of EvoApplications, the 20th European Conference on the 
+as a track of EvoApplications, the 20th International Conference on the 
 
 Applications of Evolutionary and bio-inspired Computation. 
 

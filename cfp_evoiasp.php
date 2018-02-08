@@ -21,7 +21,7 @@ applications of evolutionary computation to image analysis and signal
 processing (IASP), as well as to Pattern Recognition.
 </p>
 <p>
-Evo<span class="red">IASP</span> aims to offer European and non-European researchers in those
+Evo<span class="red">IASP</span> aims to offer international researchers in those
 fields, as well as people from industry, an opportunity to present
 their latest research and to discuss current developments and
 applications, besides fostering closer future interaction between members

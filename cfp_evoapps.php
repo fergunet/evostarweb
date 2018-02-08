@@ -3,12 +3,12 @@
         <h2>Evo<span class="red">Applications</span><h2>
    </div>
 
-<h2>21st European Conference on the Applications of Evolutionary Computation</h2>
+<h2>21st International Conference on the Applications of Evolutionary Computation</h2>
 
 <?php include('common_to_all.php') ?>
 
  <p>Evo<span class="red">Applications</span></a></span>, 
-      the European Conference on the Applications of Evolutionary Computation 
+      the International Conference on the Applications of Evolutionary Computation 
       -formerly known as EvoWorkshops- brings together researchers in a variety 
       of areas of application of Evolutionary Computation and other Nature-inspired 
       techniques. </p>
