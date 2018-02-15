@@ -60,7 +60,24 @@ Check-out: 06/04/2018<br/>
 <br/>Free cancellations until 6pm on the day of arrival.<br/>
 
 
-<br/>
+<br/><hr/><br/>
+Hotel Verdi ****<br/>
+Viale Alberto Pasini 18 43100 Parma Italia<br/>
+Tel. +39 0521 293539<br/>
+http://www.hotelverdi.it/en-gb<br/>
+info@hotelverdi.it<br/>
+
+<br/>Double room "Classic" single occupancy  Euro 70.00/night<br/>
+Double room "Classic" double occupancy  Euro 80.00/night<br/>
+Double room "Superior" double occupancy Euro 90.00/night<br/>
+
+<br/>Full breakfast                  Euro 10.00 per person<br/>
+Continental breakfast<br/>
+(croissant and hot beverage)    Euro  5.00 per person<br/>
+
+<br/>- Private parking/garage<br/>
+- Free wi-fi all over the location<br/>
+
 <br/><hr/><br/>
 Century Hotel ***<br/>
 Piazzale Carlo Alberto Dalla Chiesa <br/>
