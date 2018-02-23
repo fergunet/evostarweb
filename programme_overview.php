@@ -4,17 +4,24 @@
         <h2>Evostar <span class="red">Programme</span> </h2>
    </div>
 
-<h2>Download Evostar <a href="pdfs/evostarOverviewPreliminary.pdf">Preliminary Programme Overview</a></h2>
-<h2>Full programme PDFs</h2>   
+<h4>Download Evostar <a href="pdfs/evostarOverviewPreliminary.pdf">Preliminary Programme Overview</a></h4>
+<!--<h2>Full programme PDFs</h2>   
 <ul>
 <li>Euro<span class="red">GP</span>: <a href="#eurogp">Programme</a> </li>
-<li>Evo<span class="red">MUSART</span>: <a href="#evomusart">Programme</a> </li>
-<li>Evo<span class="red">COP</span>: <a href="#evocop">Programme</a> </li>
 <li>Evo<span class="red">APPS</span>: <a href="#evoapps">Programme</a>  </li>
+<li>Evo<span class="red">COP</span>: <a href="#evocop">Programme</a> </li>
+<li>Evo<span class="red">MUSART</span>: <a href="#evomusart">Programme</a> </li>
+
 </ul>
+!-->
+
+
+
+
 
 <h2 id="eurogp">Euro<span class="red">GP</span> Programme</h2>
-<TABLE cellSpacing=0 cellPadding=40 width="100%" bgColor=#ffffff 
+<a href="#tableeurogp" class="btn btn-default" data-toggle="collapse">View/Hide</a>
+<TABLE id="tableeurogp" class="collapse" cellSpacing=0 cellPadding=40 width="100%" bgColor=#ffffff 
 border=1>
 <TBODY>
 <TR bgColor=#ffffff> 
@@ -69,7 +76,7 @@ border=1>
 </li>
 <li>Genetic Programming Hyper-heuristic with Cooperative Coevolution for Dynamic Flexible Job Shop Scheduling, <br><i> Daniel Yska,  Yi Mei,  Mengjie Zhang</i>
 </li>
-<li>Geometric Crossover in Syntactic Space, <br><i> JoÃ£o Macedo,  Carlos Fonseca,  Ernesto Costa</i>
+<li>Geometric Crossover in Syntactic Space, <br><i> Jo&atilde;o Macedo,  Carlos Fonseca,  Ernesto Costa</i>
 </li>
 <li>A Comparative Study on Crossover in Cartesian Genetic Programming, <br><i> Jakub Husa,  Roman Kalkreuth</i>
 </li>
@@ -99,12 +106,11 @@ Short talks + Panel
 <li>Multi-Objective Evolution of Ultra-Fast General-Purpose Hash Functions, <br><i> David Grochol,  Lukas Sekanina</i>
 </li>
 </ol>
+
+<b>Panel: GP in the Era of Deep Neural Networks</b>
+
+
  <h4> 18:30-20:00 - EvoStar poster session and conference reception</h4>
-  
-
-
-
-
  <ol>
 
 </ol>
@@ -134,236 +140,13 @@ Best paper nominations
 </TBODY>
 </TABLE>
 
-<h2 id="evomusart">Evo<span class="red">MUSART</span> Programme</h2>
-<TABLE cellSpacing=0 cellPadding=40 width="100%" bgColor=#ffffff 
-border=1>
-<TBODY>
-<TR bgColor=#ffffff> 
-<TD height="320" valign="top"> <p class="content"><!-- Template for the conference program -->
 
-<h4 class="red">Wednesday, 4 April</h4>
- <h4> 16:25-18:15 - EvoMusArt 1 - Short talks</h4>
-  
-   Chaired by Juan Romero<p>
 
 
-
-
- <ol>
-
-<li>Generative Solid Modelling Employing Natural Language Understanding and 3D Data, <br><i> Marinos Koutsomichalis,  Bjoern Gambaeck</i>
-</li>
-<li>Musical Organisms: a generative approach to growing musical scores, <br><i> Anna Lindemann,  Eric Lindemann</i>
-</li>
-<li>Medical art therapy of the future: building an interactive virtual underwater world in a children's hospital, <br><i> Ludivine Lechat,  Lieven Menschaert,  Tom De Smedt,  Lucas Nijs,  Monica Dhar,  Koen Norga,  Jaan Toelen</i>
-</li>
-<li>Dynamical Music with Musical Boolean Networks, <br><i> George Gabriel,  Susan Stepney</i>
-</li>
-<li>Construction
- of a repertoire of analog Form-finding  techniques as a basis for 
-computational morphological exploration in design and architecture, <br><i> Ever PatiÃ±o,  Jorge Maya</i>
-</li>
-<li>evoExplore: Multiscale Visualization of Evolutionary Histories in Virtual Reality, <br><i> Justin Kelly,  Christian Jacob</i>
-</li>
-<li>Adaptive interface for mapping body movements to sounds, <br><i> Dimitrije Markovic,  Nebojsa Malesevic</i>
-</li>
-<li>Towards Partially Automatic Search of Edge Bundling Parameters, <br><i> Evgheni Polisciuc,  Filipe Assunçao,  Penousal Machado</i>
-</li>
-</ol>
-
-<h4 class="red">Thursday, 5 April</h4>
- <h4> 11:30-13:10 - EvoMusArt 2</h4>
-  
-   Chaired by Aniko Ekart<p>
-
-
-
-
- <ol>
-
-<li>Non-photorealistic Rendering with Cartesian Genetic Programming using Graphics Processing Units, <br><i> Illya Bakurov,  Brian Ross</i>
-</li>
-<li>Expressive Piano Music Playing Using a Kalman Filter, <br><i> Alexandra Bonnici,  Maria Mifsud,  Kenneth Camilleri</i>
-</li>
-<li>Generating drums rhythms through data-driven conceptual blending of features and genetic algorithms, <br><i> Maximos Kaliakatsos-Papakostas</i>
-</li>
-<li>RoboJam: A Musical Mixture Density Network for Collaborative Touchscreen Interaction, <br><i> Charles Martin,  Jim Torresen</i>
-</li>
-</ol>
- <h4> 13:10-14:15 - Lunch</h4>
-  
-
-
-
-
- <ol>
-
-</ol>
- <h4> 14:15-15:55 - EvoMusArt 3</h4>
-  
-   Chaired by Antonios Liapis<p>
-
-
-
-
- <ol>
-
-<li>Towards a General Framework for Artistic Style Transfer, <br><i> Florian Uhde,  Sanaz Mostaghim</i>
-</li>
-<li>On Collaborator Selection in Creative Agent Societies: An Evolutionary Art Case Study, <br><i> Simo Linkola,  Otto Hantula</i>
-</li>
-<li>Deep Interactive Evolution, <br><i> Philip Bontrager,  Wending Lin,  Julian Togelius,  Sebastian Risi</i>
-</li>
-<li>The Light Show: Flashing Fireflies Gathering and Flying over Digital Images, <br><i> Paulo Urbano</i>
-</li>
-</ol>
- <h4> 15:55-16:15 - Coffee break</h4>
-  
-
-
-
-
- <ol>
-
-</ol>
- <h4> 16:15-17:45 - EvoMusArt 4 (Best paper nominations)</h4>
-  
-   Chaired by Juan Romero & Antonios Liapis<p>
-
-
-
-
- <ol>
-
-<li>Visual art inspired by the collective feeding behavior of sand-bubbler crabs, <br><i> Hendrik Richter</i>
-</li>
-<li>Learning as Performance: Autoencoding and Generating Dance Movements in Real Time, <br><i> Alexander Berman,  Valencia James</i>
-</li>
-<li>Evotype: Towards the Evolution of Type Stencils, <br><i> Tiago Martins,  JoÃ£o Correia,  Ernesto Costa,  Penousal Machado</i>
-</li>
-<li>Co-Evolving Melodies and Harmonization in Evolutionary Music Composition, <br><i> Olav Olseng,  Bjoern Gambaeck</i>
-</li>
-</ol>
-
-
-</p></TD>
-</TR>
-</TBODY>
-</TABLE>
-
-<h2 id="evocop">Evo<span class="red">COP</span> Programme</h2>
-
-<TABLE cellSpacing=0 cellPadding=40 width="100%" bgColor=#ffffff 
-border=1>
-<TBODY>
-<TR bgColor=#ffffff> 
-<TD height="320" valign="top"> <p class="content"><!-- Template for the conference program -->
-
-<h4 class="red">Thursday, 5 April</h4>
- <h4> 11:30-13:20 - EvoCOP 1</h4>
-  
-   Chaired by Manuel López-Ibáñez<p>
-
-
-
-
- <ol>
-
-<li>On the Fractal Nature of Local Optima Networks, <br><i> Sarah L. Thomson,  S\'{e}bastien Verel,  Gabriela Ochoa,  Nadarajen Veerapen,  Paul McMenemy</i>
-</li>
-<li>An Evolutionary Algorithm with Practitioner's-Knowledge-Based Operators for the Inventory Routing Problem, <br><i> Piotr Lipinski,  Krzysztof Michalak</i>
-</li>
-<li>How Perturbation Strength Shapes the Global Structure of TSP Fitness Landscapes, <br><i> Paul McMenemy,  Nadarajen Veerapen,  Gabriela Ochoa</i>
-</li>
-<li>An Ant Colony Approach for the Winner Determination Problem, <br><i> Abhishek Ray,  Mario Ventresca</i>
-</li>
-</ol>
- <h4> 13:20-14:20 - Lunch</h4>
-  
-
-
-
-
- <ol>
-
-</ol>
- <h4> 14:20-16:00 - EvoCOP 2</h4>
-  
-   Chaired by Darrell Whitley<p>
-
-
-
-
- <ol>
-
-<li>Automatic grammar-based design of heuristic algorithms for unconstrained binary quadratic programming, <br><i> Marcelo de Souza,  Marcus Ritt</i>
-</li>
-<li>Data Clustering Using Grouping Hyper-heuristics, <br><i> Anas Elhag,  Ender Ozcan</i>
-</li>
-<li>Automatic Algorithm Configuration for the Permutation Flow Shop Scheduling Problem Minimizing Total Completion Time, <br><i> Artur Brum,  Marcus Ritt</i>
-</li>
-<li>Reference Point Adaption Method for Genetic Programming Hyper-heuristic in Many-Objective Job Shop Scheduling, <br><i> Atiya Masood,  Gang Chen,  Yi Mei,  Mengjie Zhang</i>
-</li>
-</ol>
- <h4> 16:00-16:20 - Coffee break</h4>
-  
-
-
-
-
- <ol>
-
-</ol>
- <h4> 16:20-18:00 - EvoCOP 3</h4>
-  
-   Chaired by Gabriela Ochoa<p>
-
-
-
-
- <ol>
-
-<li>MOEA/DEP:
- An Algebraic Decomposition-based Evolutionary Algorithm for the 
-Multi-objective Permutation Flowshop Scheduling Problem, <br><i> Marco Baioletti,  Alfredo Milani,  Valentino Santucci</i>
-</li>
-</ol>
- <h4> 19:00-21:30 - Conference dinner</h4>
-  
-
-
-
-
- <ol>
-
-</ol>
-<h4 class="red">Thursday, 5 April</h4>
- <h4> 10:00-11:30 - EvoCOP 4</h4>
-  
-   Chaired by Arnaud Liefooghe<p>
-
-Best paper nominations
-
-
- <ol>
-
-<li>Better Runtime Guarantees Via Stochastic Domination, <br><i> Benjamin Doerr</i>
-</li>
-<li>Worst improvement based iterated local search, <br><i> Sara Tari,  Matthieu Basseur,  Adrien Goëffon</i>
-</li>
-<li>A multistart alternating tabu search for commercial districting, <br><i> Alex Gliesch,  Marcus Ritt,  Mayron C.O. Moreira</i>
-</li>
-</ol>
-
-
-</p></TD>
-</TR>
-</TBODY>
-</TABLE>
 
 <h2 id="evoapps">Evo<span class="red">Applications</span> Programme</h2>
-
- <TABLE cellSpacing=0 cellPadding=40 width="100%" bgColor=#ffffff 
+<a href="#tableevoapps" class="btn btn-default" data-toggle="collapse">View/Hide</a>
+ <TABLE class="collapse" id="tableevoapps" cellSpacing=0 cellPadding=40 width="100%" bgColor=#ffffff 
 border=1>
 <TBODY>
 <TR bgColor=#ffffff> 
@@ -470,7 +253,7 @@ EvoBIO,  EvoCOMNET, EvoENERGY, EvoINDUSTRY,  EvoKNOW short talks. In parallel wi
 </li>
 <li>Analysis of relevance and redundance on Topoisomerase 2b (TOP2B) binding sites: A feature selection approach, <br><i> Pedro Manuel Martinez Garcia,  Miguel Garcia Torres,  Federico Divina,  Francisco Antonio Gomez-Vela,  Felipe Cortes-Ledesma</i>
 </li>
-<li>Phase-Space Sampling of Energy Ensembles with CMA-ES, <br><i> J\&quot;org Bremer,  Sebastian Lehnhoff</i>
+<li>Phase-Space Sampling of Energy Ensembles with CMA-ES, <br><i> Jörg Bremer,  Sebastian Lehnhoff</i>
 </li>
 <li>Improving Multi-Objective Evolutionary Influence Maximization in Social Networks, <br><i> Doina Bucur,  Giovanni Iacca,  Andrea Marcelli,  Giovanni Squillero,  Alberto Tonda</i>
 </li>
@@ -504,7 +287,7 @@ EvoGAMES, EvoIASP, EvoROBOT short talks. In parallel with EvoAPPS 3
 
 <li>Online-trained Fitness Approximators for Real-world Game Balancing, <br><i> Mihail Morosan,  Riccardo Poli</i>
 </li>
-<li>Recomposing the Pok\'emon Color Palette, <br><i> Antonios Liapis</i>
+<li>Recomposing the Pokémon Color Palette, <br><i> Antonios Liapis</i>
 </li>
 <li>Evolving a TORCS Modular Fuzzy Driver using Genetic Algorithms, <br><i> Mohammed Salem,  Antonio Miguel Mora,  Juan Julian Merelo,  Pablo Garcia-Sanchez</i>
 </li>
@@ -518,7 +301,7 @@ EvoGAMES, EvoIASP, EvoROBOT short talks. In parallel with EvoAPPS 3
 </li>
 <li>Evolvable Deep Features, <br><i> Jakub Nalepa,  Grzegorz Mrukwa,  Michal Kawulok</i>
 </li>
-<li>Evolving Artificial Neural Networks for Multi-Objective Tasks, <br><i> Steven K\&quot;unzel,  Silja Meyer-Nieberg</i>
+<li>Evolving Artificial Neural Networks for Multi-Objective Tasks, <br><i> Steven Künzel,  Silja Meyer-Nieberg</i>
 </li>
 <li>HyperNTM: Evolving Scalable Neural Turing Machines through HyperNEAT, <br><i> Jakob Merrild,  Mikkel Angaju Rasmussen,  Sebastian Risi</i>
 </li>
@@ -699,7 +482,7 @@ EvoENERGY. In parallel with EvoAPPS 12
  Coordinated Evolution: Modeling and Control of Distributed Systems 
 through On-Line Genetic PID-Control Optimization Search, <br><i> Holm Smidt,  Matsu Thornton,  Reza Ghorbani</i>
 </li>
-<li>Achieving Optimized Decisions on Battery Operating Strategies in Smart Buildings, <br><i> Jan M\&quot;uller,  Mischa Ahrens,  Ingo Mauser,  Hartmut Schmeck</i>
+<li>Achieving Optimized Decisions on Battery Operating Strategies in Smart Buildings, <br><i> Jan Müller,  Mischa Ahrens,  Ingo Mauser,  Hartmut Schmeck</i>
 </li>
 </ol>
 <h4 class="red">Friday, 6 April</h4>
@@ -781,5 +564,245 @@ EvoCOMNET. In parallel with EvoAPPS 11
 </TABLE>
 
 
+
+<h2 id="evocop">Evo<span class="red">COP</span> Programme</h2>
+<a href="#tableevocop" class="btn btn-default" data-toggle="collapse">View/Hide</a>
+<TABLE class="collapse" id="tableevocop" cellSpacing=0 cellPadding=40 width="100%" bgColor=#ffffff 
+border=1>
+<TBODY>
+<TR bgColor=#ffffff> 
+<TD height="320" valign="top"> <p class="content"><!-- Template for the conference program -->
+
+<h4 class="red">Thursday, 5 April</h4>
+ <h4> 11:30-13:20 - EvoCOP 1</h4>
+  
+   Chaired by Manuel López-Ibáñez<p>
+
+
+
+
+ <ol>
+
+<li>On the Fractal Nature of Local Optima Networks, <br><i> Sarah L. Thomson,  Sébastien Verel,  Gabriela Ochoa,  Nadarajen Veerapen,  Paul McMenemy</i>
+</li>
+<li>An Evolutionary Algorithm with Practitioner's-Knowledge-Based Operators for the Inventory Routing Problem, <br><i> Piotr Lipinski,  Krzysztof Michalak</i>
+</li>
+<li>How Perturbation Strength Shapes the Global Structure of TSP Fitness Landscapes, <br><i> Paul McMenemy,  Nadarajen Veerapen,  Gabriela Ochoa</i>
+</li>
+<li>An Ant Colony Approach for the Winner Determination Problem, <br><i> Abhishek Ray,  Mario Ventresca</i>
+</li>
+</ol>
+ <h4> 13:20-14:20 - Lunch</h4>
+  
+
+
+
+
+ <ol>
+
+</ol>
+ <h4> 14:20-16:00 - EvoCOP 2</h4>
+  
+   Chaired by Darrell Whitley<p>
+
+
+
+
+ <ol>
+
+<li>Automatic grammar-based design of heuristic algorithms for unconstrained binary quadratic programming, <br><i> Marcelo de Souza,  Marcus Ritt</i>
+</li>
+<li>Data Clustering Using Grouping Hyper-heuristics, <br><i> Anas Elhag,  Ender Ozcan</i>
+</li>
+<li>Automatic Algorithm Configuration for the Permutation Flow Shop Scheduling Problem Minimizing Total Completion Time, <br><i> Artur Brum,  Marcus Ritt</i>
+</li>
+<li>Reference Point Adaption Method for Genetic Programming Hyper-heuristic in Many-Objective Job Shop Scheduling, <br><i> Atiya Masood,  Gang Chen,  Yi Mei,  Mengjie Zhang</i>
+</li>
+</ol>
+ <h4> 16:00-16:20 - Coffee break</h4>
+  
+
+
+
+
+ <ol>
+
+</ol>
+ <h4> 16:20-18:00 - EvoCOP 3</h4>
+  
+   Chaired by Gabriela Ochoa<p>
+
+
+
+
+ <ol>
+
+<li>MOEA/DEP:
+ An Algebraic Decomposition-based Evolutionary Algorithm for the 
+Multi-objective Permutation Flowshop Scheduling Problem, <br><i> Marco Baioletti,  Alfredo Milani,  Valentino Santucci</i>
+</li>
+</ol>
+Late Breaking Abstracts:
+<ol>
+<li><b>The Need to Transform Evolutionary Computation Research</b><br>
+  <i> Darrell Whitley</i>
+</li>
+<li><b>Ant colony optimization for a multi-criteria generalized job-shop scheduling problem</b><br>
+  <i> Fatima Ghedjati</i>
+</li>
+<li><b>A distributed multiple Ant Colony algorithm to solve a steel industry scheduling problem</b><br>
+  <i> Silvino Fernandez Alzueta,  Pablo Valledor Pellicer,  Jorge Rodil Martinez,  Segundo Álvarez García,  Eneko Malatsetxebarria Elizegi</i>
+</li>
+</ol>
+ <h4> 19:00-21:30 - Conference dinner</h4>
+  
+
+
+
+
+ <ol>
+
+</ol>
+<h4 class="red">Thursday, 5 April</h4>
+ <h4> 10:00-11:30 - EvoCOP 4</h4>
+  
+   Chaired by Arnaud Liefooghe<p>
+
+Best paper nominations
+
+
+ <ol>
+
+<li>Better Runtime Guarantees Via Stochastic Domination, <br><i> Benjamin Doerr</i>
+</li>
+<li>Worst improvement based iterated local search, <br><i> Sara Tari,  Matthieu Basseur,  Adrien Goëffon</i>
+</li>
+<li>A multistart alternating tabu search for commercial districting, <br><i> Alex Gliesch,  Marcus Ritt,  Mayron C.O. Moreira</i>
+</li>
+</ol>
+
+
+</p></TD>
+</TR>
+</TBODY>
+</TABLE>
+
+<h2 id="evomusart">Evo<span class="red">MUSART</span> Programme</h2>
+<a href="#tableevomusart" class="btn btn-default" data-toggle="collapse">View/Hide</a>
+<TABLE class="collapse" id="tableevomusart" cellSpacing=0 cellPadding=40 width="100%" bgColor=#ffffff 
+border=1>
+<TBODY>
+<TR bgColor=#ffffff> 
+<TD height="320" valign="top"> <p class="content"><!-- Template for the conference program -->
+
+<h4 class="red">Wednesday, 4 April</h4>
+ <h4> 16:25-18:15 - EvoMusArt 1 - Short talks</h4>
+  
+   Chaired by Juan Romero<p>
+
+
+
+
+ <ol>
+
+<li>Generative Solid Modelling Employing Natural Language Understanding and 3D Data, <br><i> Marinos Koutsomichalis,  Bjoern Gambaeck</i>
+</li>
+<li>Musical Organisms: a generative approach to growing musical scores, <br><i> Anna Lindemann,  Eric Lindemann</i>
+</li>
+<li>Medical art therapy of the future: building an interactive virtual underwater world in a children's hospital, <br><i> Ludivine Lechat,  Lieven Menschaert,  Tom De Smedt,  Lucas Nijs,  Monica Dhar,  Koen Norga,  Jaan Toelen</i>
+</li>
+<li>Dynamical Music with Musical Boolean Networks, <br><i> George Gabriel,  Susan Stepney</i>
+</li>
+<li>Construction
+ of a repertoire of analog Form-finding  techniques as a basis for 
+computational morphological exploration in design and architecture, <br><i> Ever Pati&ntilde;o,  Jorge Maya</i>
+</li>
+<li>evoExplore: Multiscale Visualization of Evolutionary Histories in Virtual Reality, <br><i> Justin Kelly,  Christian Jacob</i>
+</li>
+<li>Adaptive interface for mapping body movements to sounds, <br><i> Dimitrije Markovic,  Nebojsa Malesevic</i>
+</li>
+<li>Towards Partially Automatic Search of Edge Bundling Parameters, <br><i> Evgheni Polisciuc,  Filipe Assunçao,  Penousal Machado</i>
+</li>
+</ol>
+
+<h4 class="red">Thursday, 5 April</h4>
+ <h4> 11:30-13:10 - EvoMusArt 2</h4>
+  
+   Chaired by Aniko Ekart<p>
+
+
+
+
+ <ol>
+
+<li>Non-photorealistic Rendering with Cartesian Genetic Programming using Graphics Processing Units, <br><i> Illya Bakurov,  Brian Ross</i>
+</li>
+<li>Expressive Piano Music Playing Using a Kalman Filter, <br><i> Alexandra Bonnici,  Maria Mifsud,  Kenneth Camilleri</i>
+</li>
+<li>Generating drums rhythms through data-driven conceptual blending of features and genetic algorithms, <br><i> Maximos Kaliakatsos-Papakostas</i>
+</li>
+<li>RoboJam: A Musical Mixture Density Network for Collaborative Touchscreen Interaction, <br><i> Charles Martin,  Jim Torresen</i>
+</li>
+</ol>
+ <h4> 13:10-14:15 - Lunch</h4>
+  
+
+
+
+
+ <ol>
+
+</ol>
+ <h4> 14:15-15:55 - EvoMusArt 3</h4>
+  
+   Chaired by Antonios Liapis<p>
+
+
+
+
+ <ol>
+
+<li>Towards a General Framework for Artistic Style Transfer, <br><i> Florian Uhde,  Sanaz Mostaghim</i>
+</li>
+<li>On Collaborator Selection in Creative Agent Societies: An Evolutionary Art Case Study, <br><i> Simo Linkola,  Otto Hantula</i>
+</li>
+<li>Deep Interactive Evolution, <br><i> Philip Bontrager,  Wending Lin,  Julian Togelius,  Sebastian Risi</i>
+</li>
+<li>The Light Show: Flashing Fireflies Gathering and Flying over Digital Images, <br><i> Paulo Urbano</i>
+</li>
+</ol>
+ <h4> 15:55-16:15 - Coffee break</h4>
+  
+
+
+
+
+ <ol>
+
+</ol>
+ <h4> 16:15-17:45 - EvoMusArt 4 (Best paper nominations)</h4>
+  
+   Chaired by Juan Romero & Antonios Liapis<p>
+
+
+
+
+ <ol>
+
+<li>Visual art inspired by the collective feeding behavior of sand-bubbler crabs, <br><i> Hendrik Richter</i>
+</li>
+<li>Learning as Performance: Autoencoding and Generating Dance Movements in Real Time, <br><i> Alexander Berman,  Valencia James</i>
+</li>
+<li>Evotype: Towards the Evolution of Type Stencils, <br><i> Tiago Martins,  Jo&atilde;o Correia,  Ernesto Costa,  Penousal Machado</i>
+</li>
+<li>Co-Evolving Melodies and Harmonization in Evolutionary Music Composition, <br><i> Olav Olseng,  Bjoern Gambaeck</i>
+</li>
+</ol>
+
+
+</p></TD>
+</TR>
+</TBODY>
+</TABLE>
 
 <?php include('footer.php') ?>

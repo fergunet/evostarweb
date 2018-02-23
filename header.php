@@ -87,7 +87,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="programme_overview.php">Download Programme</a></li>
+                <li><a href="programme_overview.php">Programme</a></li>
                 <li><a href="programme_research_projects.php">Research Project Space</a></li>
                 <li><a href="programme_social.php">Social Programme</a></li>
                 <li><a href="programme_speakers.php">Invited Speakers</a></li>
