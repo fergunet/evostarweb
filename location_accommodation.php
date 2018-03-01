@@ -189,5 +189,13 @@ Via Bodoni, 3 Parma 43121 - Italy<br/>
 Phone +39 0521 208057<br/>
 http://www.hotelstendhal.it/en/index.html<br/>
 H9093@accor.com<br/>
+<hr/>
+Viale Toscanini 4,<br/>
+43121 PARMA, ITALY<br/>
+Tel: (+39)0521/289141<br/>
+Fax: (+39)0521/283143<br/>
+Mail: h9153@accor.com<br/>
+http://www.ibis.com/en/hotel-9153-ibis-styles-parma-toscanini/index.shtml#overview<br/>
+
 
 <?php include('footer.php') ?>
