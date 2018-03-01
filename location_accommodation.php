@@ -190,7 +190,7 @@ Phone +39 0521 208057<br/>
 http://www.hotelstendhal.it/en/index.html<br/>
 H9093@accor.com<br/>
 <hr/>
-Ibis Styles Parma Toscanini   ***
+Ibis Styles Parma Toscanini   ***<br/>
 Viale Toscanini 4,<br/>
 43121 PARMA, ITALY<br/>
 Tel: (+39)0521/289141<br/>
