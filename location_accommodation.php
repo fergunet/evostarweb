@@ -4,7 +4,7 @@
         <h2>Accommodation <span class="red">Information</span><h2>
 
    </div>
- Hotels with special fares for Evostar Attendees
+<strong> Hotels with special fares for Evostar Attendees</strong>
 <hr/><br/>
 Hotel Torino ***<br/>
 Borgo Angelo Mazza, 7 - 43121 Parma<br/>
@@ -38,11 +38,6 @@ Local Tax not included (Euro 1.5/day/person)<br/>
 <br/>Extras upon request (E.g., Cradle for a baby 9.90 Euros/day)<br/>
 
 <br/><hr/><br/>
-Hotel Stendhal ****<br/>
-Via Bodoni, 3 Parma 43121 - Italy<br/>
-Phone +39 0521 208057<br/>
-http://www.hotelstendhal.it/en/index.html<br/>
-H9093@accor.com <br/>
 
 <br/>BOOKING CODE: EVOSTAR 2018<br/>
 Check-in: 03/04/2018<br/>
@@ -188,5 +183,11 @@ Triple room (double room plus additional bed or cradle)<br/>
 					<br/>
 
 <br/><hr/>
+<strong>Other suggested hotels</strong><br/><br/>
+Hotel Stendhal ****<br/>
+Via Bodoni, 3 Parma 43121 - Italy<br/>
+Phone +39 0521 208057<br/>
+http://www.hotelstendhal.it/en/index.html<br/>
+H9093@accor.com<br/>
 
 <?php include('footer.php') ?>
