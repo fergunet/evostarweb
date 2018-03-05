@@ -15,10 +15,10 @@
               <span class="gray"><strong>Submission Deadline:</strong> 1 November 2017<br/>
 
               <strong><span class="red">EXTENDED SUBMISSION DEADLINE</span>:</strong> 10 November 2017<br/> <!--<em>(site remains open for final changes until 21 Nov)</em><br/>-->
-              <strong>Notification:</strong> 3 January 2018<br/></span>
+              <strong>Notification:</strong> 3 January 2018<br/>
             
               <strong>Camera-ready:</strong> 15 January 2018<br/>
-              <strong>Mandatory registration per paper:</strong> 9 February 2018</br>
+              <strong>Mandatory registration per paper:</strong> 9 February 2018</br></span>
               <!--<strong>Student bursary deadline:</strong> TBA <br/>-->
               <strong>Early registration discount:</strong> 28 February<br/>
               <strong>Registration deadline:</strong> 28 March <br/>

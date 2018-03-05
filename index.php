@@ -13,11 +13,10 @@
  </div>
 
 <ul>
+	<li><a href="programme_overview.php">Preliminary Programme overview </a></li>
 	<li><a href="participants_letter.php">Letters of Invitation to EvoStar 2018</a></li>
 	<li><a href="cfp_evoapps_LBA.php">Evoapps Late Breaking Abstracts</a></li>
 	<li><a href="participants_registration.php">Registration Information</a></li>
-	<li><a href="submission_camera_ready.php">Camera Ready Instructions</a></li>
-	<li><spacn class="red"><strong>Extended Submission Deadline</strong></span>: 10 November</li>
 </ul>
 <h2>Evo<span class="red">star</span> 2018</h2>
 
