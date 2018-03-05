@@ -37,22 +37,7 @@ Local Tax not included (Euro 1.5/day/person)<br/>
 
 <br/>Extras upon request (E.g., Cradle for a baby 9.90 Euros/day)<br/>
 
-<br/><hr/><br/>
 
-<br/>BOOKING CODE: EVOSTAR 2018<br/>
-Check-in: 03/04/2018<br/>
-Check-out: 06/04/2018<br/>
-3 nights B&B<br/>
-
-<br/>Double room single occupancy, including breakfast: Euro 95.00/night<br/>
-
-<br/>Double room including breakfast                    Euro 110.00/night<br/>
-
-<br/>Local tax Euro 3.00 /person/night.<br/>
-
-<br/>Rooms available if booked by 28/02/2018<br/>
-
-<br/>Free cancellations until 6pm on the day of arrival.<br/>
 
 
 <br/><hr/><br/>

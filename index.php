@@ -13,16 +13,19 @@
  </div>
 
 <ul>
+	<li><strong class="red">Important notice:</strong> Accommodation in Parma is getting booked up for the EvoStar conference dates. Attendants should consider this now to avoid paying higher prices later. <strong><a href="location_accommodation.php">Please book your Parma hotel soon.</a> </strong></li>
 	<li><a href="programme_overview.php">Preliminary Programme overview </a></li>
 	<li><a href="participants_letter.php">Letters of Invitation to EvoStar 2018</a></li>
 	<li><a href="cfp_evoapps_LBA.php">Evoapps Late Breaking Abstracts</a></li>
 	<li><a href="participants_registration.php">Registration Information</a></li>
 </ul>
 <h2>Evo<span class="red">star</span> 2018</h2>
+<img src="img/evostar2018logo.png" width="25%" align="left" style="margin:10px">
 
-<p>Welcome to Evo<span class="red">star</span> 2018 webpage.<p> 
+
+<p>Welcome to Evo<span class="red">star</span> 2018 webpage.</p> 
 	<p>This year, Evo<span class="red">star</span> conferences will be held in Parma, Italy, from 4 to 6 April 2018. Read more about Evo<span class="red">star</a> <a href="about_evostar.php">here</a>.</p>
-<p>
+
 
 
 
