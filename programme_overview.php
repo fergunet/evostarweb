@@ -695,40 +695,49 @@ border=1>
 <TR bgColor=#ffffff> 
 <TD height="320" valign="top"> <p class="content"><!-- Template for the conference program -->
 
-<h4 class="red">Wednesday, 4 April</h4>
+
+<center><font size=+2>April 04, 2018</font></center>
  <h4> 16:25-18:15 - EvoMusArt 1 - Short talks</h4>
   
-   Chaired by Juan Romero<p>
+   Room 2, chaired by Juan Romero<p>
+
 
 
 
 
  <ol>
 
-<li>Generative Solid Modelling Employing Natural Language Understanding and 3D Data, <br><i> Marinos Koutsomichalis,  Bjoern Gambaeck</i>
-</li>
 <li>Musical Organisms: a generative approach to growing musical scores, <br><i> Anna Lindemann,  Eric Lindemann</i>
 </li>
+
 <li>Medical art therapy of the future: building an interactive virtual underwater world in a children's hospital, <br><i> Ludivine Lechat,  Lieven Menschaert,  Tom De Smedt,  Lucas Nijs,  Monica Dhar,  Koen Norga,  Jaan Toelen</i>
 </li>
+
 <li>Dynamical Music with Musical Boolean Networks, <br><i> George Gabriel,  Susan Stepney</i>
 </li>
-<li>Construction
- of a repertoire of analog Form-finding  techniques as a basis for 
-computational morphological exploration in design and architecture, <br><i> Ever Pati&ntilde;o,  Jorge Maya</i>
-</li>
-<li>evoExplore: Multiscale Visualization of Evolutionary Histories in Virtual Reality, <br><i> Justin Kelly,  Christian Jacob</i>
-</li>
+
 <li>Adaptive interface for mapping body movements to sounds, <br><i> Dimitrije Markovic,  Nebojsa Malesevic</i>
 </li>
-<li>Towards Partially Automatic Search of Edge Bundling Parameters, <br><i> Evgheni Polisciuc,  Filipe Assunçao,  Penousal Machado</i>
+
+<li>evoExplore: Multiscale Visualization of Evolutionary Histories in Virtual Reality, <br><i> Justin Kelly,  Christian Jacob</i>
 </li>
+
+<li>Towards Partially Automatic Search of Edge Bundling Parameters, <br><i> Evgheni Polisciuc,  Filipe Assunção,  Penousal Machado</i>
+</li>
+
+<li>Construction of a repertoire of analog Form-finding  techniques as a basis for computational morphological exploration in design and architecture, <br><i> Ever Patiño,  Jorge Maya</i>
+</li>
+
+<li>Generative Solid Modelling Employing Natural Language Understanding and 3D Data, <br><i> Marinos Koutsomichalis,  Björn Gambäck</i>
+</li>
+
 </ol>
 
-<h4 class="red">Thursday, 5 April</h4>
- <h4> 11:30-13:10 - EvoMusArt 2</h4>
+<center><font size=+2>April 05, 2018</font></center>
+ <h4> 11:30-13:10 - EvoMusArt 2 - Visual arts</h4>
   
-   Chaired by Aniko Ekart<p>
+   Room 2, chaired by Aniko Ekart<p>
+
 
 
 
@@ -737,13 +746,22 @@ computational morphological exploration in design and architecture, <br><i> Ever
 
 <li>Non-photorealistic Rendering with Cartesian Genetic Programming using Graphics Processing Units, <br><i> Illya Bakurov,  Brian Ross</i>
 </li>
-<li>Expressive Piano Music Playing Using a Kalman Filter, <br><i> Alexandra Bonnici,  Maria Mifsud,  Kenneth Camilleri</i>
+
+<li>Towards a General Framework for Artistic Style Transfer, <br><i> Florian Uhde,  Sanaz Mostaghim</i>
 </li>
-<li>Generating drums rhythms through data-driven conceptual blending of features and genetic algorithms, <br><i> Maximos Kaliakatsos-Papakostas</i>
+
+<li>The Light Show: Flashing Fireflies Gathering and Flying over Digital Images, <br><i> Paulo Urbano</i>
 </li>
-<li>RoboJam: A Musical Mixture Density Network for Collaborative Touchscreen Interaction, <br><i> Charles Martin,  Jim Torresen</i>
+
+<li>Deep Interactive Evolution, <br><i> Philip Bontrager,  Wending Lin,  Julian Togelius,  Sebastian Risi</i>
 </li>
+
+<li>On Collaborator Selection in Creative Agent Societies: An Evolutionary Art Case Study, <br><i> Simo Linkola,  Otto Hantula</i>
+</li>
+
 </ol>
+
+<center><font size=+2></font></center>
  <h4> 13:10-14:15 - Lunch</h4>
   
 
@@ -753,24 +771,33 @@ computational morphological exploration in design and architecture, <br><i> Ever
  <ol>
 
 </ol>
- <h4> 14:15-15:55 - EvoMusArt 3</h4>
+
+<center><font size=+2></font></center>
+ <h4> 14:15-15:55 - EvoMusArt 3 - Music & Dance</h4>
   
-   Chaired by Antonios Liapis<p>
+   Room 2, chaired by Antonios Liapis<p>
+
 
 
 
 
  <ol>
 
-<li>Towards a General Framework for Artistic Style Transfer, <br><i> Florian Uhde,  Sanaz Mostaghim</i>
+<li>Learning as Performance: Autoencoding and Generating Dance Movements in Real Time, <br><i> Alexander Berman,  Valencia James</i>
 </li>
-<li>On Collaborator Selection in Creative Agent Societies: An Evolutionary Art Case Study, <br><i> Simo Linkola,  Otto Hantula</i>
+
+<li>Expressive Piano Music Playing Using a Kalman Filter, <br><i> Alexandra Bonnici,  Maria Mifsud,  Kenneth Camilleri</i>
 </li>
-<li>Deep Interactive Evolution, <br><i> Philip Bontrager,  Wending Lin,  Julian Togelius,  Sebastian Risi</i>
+
+<li>Co-Evolving Melodies and Harmonization in Evolutionary Music Composition, <br><i> Olav Olseng,  Bjoern Gambaeck</i>
 </li>
-<li>The Light Show: Flashing Fireflies Gathering and Flying over Digital Images, <br><i> Paulo Urbano</i>
+
+<li>RoboJam: A Musical Mixture Density Network for Collaborative Touchscreen Interaction, <br><i> Charles Martin,  Jim Torresen</i>
 </li>
+
 </ol>
+
+<center><font size=+2></font></center>
  <h4> 15:55-16:15 - Coffee break</h4>
   
 
@@ -780,9 +807,12 @@ computational morphological exploration in design and architecture, <br><i> Ever
  <ol>
 
 </ol>
+
+<center><font size=+2></font></center>
  <h4> 16:15-17:45 - EvoMusArt 4 (Best paper nominations)</h4>
   
-   Chaired by Juan Romero & Antonios Liapis<p>
+   Room 2, chaired by Juan Romero & Antonios Liapis<p>
+
 
 
 
@@ -791,16 +821,22 @@ computational morphological exploration in design and architecture, <br><i> Ever
 
 <li>Visual art inspired by the collective feeding behavior of sand-bubbler crabs, <br><i> Hendrik Richter</i>
 </li>
-<li>Learning as Performance: Autoencoding and Generating Dance Movements in Real Time, <br><i> Alexander Berman,  Valencia James</i>
+
+<li>Generating drums rhythms through data-driven conceptual blending of features and genetic algorithms, <br><i> Maximos Kaliakatsos-Papakostas</i>
 </li>
-<li>Evotype: Towards the Evolution of Type Stencils, <br><i> Tiago Martins,  Jo&atilde;o Correia,  Ernesto Costa,  Penousal Machado</i>
+
+<li>Evotype: Towards the Evolution of Type Stencils, <br><i> Tiago Martins,  João Correia,  Ernesto Costa,  Penousal Machado</i>
 </li>
-<li>Co-Evolving Melodies and Harmonization in Evolutionary Music Composition, <br><i> Olav Olseng,  Bjoern Gambaeck</i>
-</li>
+
 </ol>
 
 
-</p></TD>
+
+</p>
+
+
+
+</TD>
 </TR>
 </TBODY>
 </TABLE>
