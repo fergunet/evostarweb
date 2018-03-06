@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Getting About <span class="red">Parma</span></h2>
+        <h2>Getting to <span class="red">Parma</span></h2>
    </div>
 
 
