@@ -5,6 +5,7 @@
 
 <h3>Opening talk: Adversarial Dynamics:  Understanding Them Now is Important as Ever</h3>
 <h4> Una-May O'Reilly,AnyScale Learning for All Group, MIT Computer Science and Artificial Intelligence Lab</h4>
+<h4> 09:45-10:45, Wednesday 4 April 2018</h4>
 
 
 <div>
@@ -15,7 +16,7 @@
 <h3>Closing talk: Evolution, Art and Sex</h3>
 
 <h4>Penousal Machado, University of Coimbra</h4>
-
+<h4>12:00-13:00, Friday 6 April 2018</h4>
 
 
 <strong>Abstract: </strong>TBA
