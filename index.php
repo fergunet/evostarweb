@@ -14,6 +14,7 @@
 
 <ul>
 	<li><strong class="red">Important notice:</strong> Accommodation in Parma is getting booked up for the EvoStar conference dates. Attendants should consider this now to avoid paying higher prices later. <strong><a href="location_accommodation.php">Please book your Parma hotel soon.</a> </strong></li>
+	<li><a href="awards_outstanding_students.php">Outstanding Students</a></li>
 	<li><a href="programme_overview.php">Preliminary Programme overview </a></li>
 	<li><a href="participants_letter.php">Letters of Invitation to EvoStar 2018</a></li>
 	<li><a href="cfp_evoapps_LBA.php">Evoapps Late Breaking Abstracts</a></li>
