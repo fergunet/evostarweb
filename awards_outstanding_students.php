@@ -4,9 +4,11 @@
 </div>
 
 
+In EvoStar 2018 we wanted to recognise the good work of our students, who represent the future of our community.
 
-We are pleased to announce that our Evo* Outstanding Students of 2018 are
+We selected papers that had obtained an overall review score greater than or equal to 5 or that had been nominated for a Best Paper Award, and whose first author was a student registered to attend EvoStar. 
 
+Following these rules we came up with a list of 10 Outstanding Students:
 <ul>
 <li>Filipe Assunção, CISUC, University of Coimbra, Coimbra, Portugal</li>
 <li>Mosab Bazargani, Queen Mary University of London, London, United Kingdom</li>
