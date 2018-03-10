@@ -43,7 +43,7 @@ Online registration is followed by a link to a secure payment page at PayPal whe
 
 <p>
 <a href="https://www.surveymonkey.co.uk/r/STANDARD-Late-evo2018"><strong>REGULAR REGISTRATION FORM</strong></a><br/>
-<a href="hhttps://www.surveymonkey.co.uk/r/STUDENT-late-evo2018"><strong>STUDENT REGISTRATION FORM</strong></a><br/>
+<a href="https://www.surveymonkey.co.uk/r/STUDENT-late-evo2018"><strong>STUDENT REGISTRATION FORM</strong></a><br/>
 <a href="https://www.surveymonkey.co.uk/r/ExtraDinner"><strong>(Optional) Additional Dinner Tickets Form</strong></a><br/>
 </p>
 
