@@ -14,6 +14,16 @@
 
 <ul>
 	<li><strong class="red">Important notice:</strong> Accommodation in Parma is getting booked up for the EvoStar conference dates. Attendants should consider this now to avoid paying higher prices later. <strong><a href="location_accommodation.php">Please book your Parma hotel soon.</a> </strong></li>
+	<li><a href="programme_speakers.php">Keynote speakers</a></li>
+	<li>Proceedings available at Springer webpage</li>
+		<ul>
+			<li><a href="http://www.springer.com/us/book/9783319775524"> EuroGP 2018:LNCS, volume 10781</a></li>
+			<li><a href="http://www.springer.com/us/book/9783319775371">EvoAPPS 2018: LNCS, volume 10784 </a></li> 
+			
+			<li><a href="https://www.springer.com/us/book/9783319774480"> EvoCOP 2018:LNCS, volume 10782 </a></li>
+			<li><a href="http://www.springer.com/us/book/9783319775821"> EvoMUSART 2018:LNCS, volume 10783</a></li>
+
+		</ul>
 	<li><a href="awards_outstanding_students.php">Outstanding Students</a></li>
 	<li><a href="programme_overview.php">Preliminary Programme overview </a></li>
 	<li><a href="participants_letter.php">Letters of Invitation to EvoStar 2018</a></li>
