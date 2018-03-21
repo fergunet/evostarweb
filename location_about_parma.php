@@ -13,8 +13,7 @@ Parma is located in northern Italy, in Emilia-Romagna, halfway between Bologna a
 Widely known for its gastronomic heritage, Parma has been selected as “food creativity town” by UNESCO, and is world-famous for products like Parmigiano Reggiano cheese and Parma ham.
  </p>
    Detailed tourist information can be found at <a href="http://turismo.comune.parma.it/en">http://turismo.comune.parma.it/en</a>
-   The conference site is the historical central building of the University in via Università
-   1, right in the city center and at walking distance from most central hotels.</p>
+</p>
 
    Information about <a href="location_parma.php">getting to parma is available here</a>.
  <?php include('footer.php') ?>
