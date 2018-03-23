@@ -13,6 +13,9 @@
  </div>
 
 <ul>
+	<li>Information about posters sizes and printing services <a href="location_posters.php">is available here</a>. Please, take into account that most office-related
+activities like print-services etc., will be closed from Friday 29
+(included) to Monday, April 2. So the deadline indicated (<strong>28 march</strong>) is STRICT.
 	<li><strong class="red">Important notice:</strong> Accommodation in Parma is getting booked up for the EvoStar conference dates. Attendants should consider this now to avoid paying higher prices later. <strong><a href="location_accommodation.php">Please book your Parma hotel soon.</a> </strong></li>
 	<li><a href="programme_speakers.php">Keynote speakers</a></li>
 	<li>Proceedings available at Springer webpage</li>
