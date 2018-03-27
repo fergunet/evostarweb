@@ -10,6 +10,7 @@
 
 <ul>
 <li><a href="#abstracts">Accepted paper abstracts</li>
+<li><a href="#lba">Late Breaking Abstracts</li>
 </ul>
     <p>Part of Evo<span class="red">*</span> 2018 (<a href="http://www.evostar.org">http://www.evostar.org</a>) 
       including: Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> and 
@@ -342,6 +343,14 @@ in the objective space. Thus, there will be few reference points with no Pareto 
 <br><strong>Abstract:</strong> In this paper we address a class of commercial districting problems that arises in the context of the distribution of goods. The problem aims at partitioning an area of distribution, which is modeled as an embedded planar graph, into connected components, called districts. Districts are required to be mutually balanced with respect to node attributes, such as number of customers, expected demand, and service cost, and as geometrically-compact as possible, by minimizing their Euclidean diameters.  To solve this problem, we propose a multistart algorithm that repeatedly constructs solutions greedily and improves them by two alternating tabu searches, one aiming at achieving feasibility through balancing and the other at maximizing district compactness. Computational experiments confirm the effectiveness of the different components of our method and show that it significantly outperforms the current state of the art, improving known upper bounds in almost all instances.
 
 
+<h3 id="lba">Late Breaking Abstracts</h3>
+
+<ul>
+<li><a href="pdfs/evocopLBA/evocop2018_lba1.pdf">The need to transform evolutionary computation research</a>, Darrell Whitley</li>
+<li><a href="pdfs/evocopLBA/evocop2018_lba2.pdf">Ant colony optimization for a multi-criteria generalized job-shop scheduling problem</a>, Fatima Ghedjati</li>
+<li><a href="pdfs/evocopLBA/evocop2018_lba3.pdf">A distributed multiple ant colony algorithm to solve a steel industry scheduling problem, Silvino Fernández Alzueta</a>, Pablo Valledor Pellicer, Segundo Álvarez
+García, Eneko Malatsetxebarria Elizegi, Jorge Rodil Martínez</li>
+</ul>
 
 
     <?php include('footer.php') ?>
