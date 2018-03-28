@@ -13,6 +13,7 @@
  </div>
 
 <ul>
+	<li>Download conference handbook <a href="pdfs/Handbook2018final.pdf">from here.</li>
 	<li>Information about posters sizes and printing services <a href="location_posters.php">is available here</a>. Please, take into account that most office-related
 activities like print-services etc., will be closed from Friday 30
 (included) to Monday, April 2. So the deadline indicated (Wednesday, <strong>28 march</strong>) is STRICT.
