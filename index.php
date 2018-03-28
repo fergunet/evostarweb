@@ -18,13 +18,17 @@ activities like print-services etc., will be closed from Friday 30
 (included) to Monday, April 2. So the deadline indicated (Wednesday, <strong>28 march</strong>) is STRICT.
 	<li><strong class="red">Important notice:</strong> Accommodation in Parma is getting booked up for the EvoStar conference dates. Attendants should consider this now to avoid paying higher prices later. <strong><a href="location_accommodation.php">Please book your Parma hotel soon.</a> </strong></li>
 	<li><a href="programme_speakers.php">Keynote speakers</a></li>
-	<li>Proceedings available at Springer webpage</li>
+	<li>Proceedings are available at Springer. Using next links directly from this webpage allows the access to unlocked proceedings during 4 weeks after the start of the conference.</li>
 		<ul>
-			<li><a href="http://www.springer.com/us/book/9783319775524"> EuroGP 2018:LNCS, volume 10781</a></li>
-			<li><a href="http://www.springer.com/us/book/9783319775371">EvoAPPS 2018: LNCS, volume 10784 </a></li> 
-			
-			<li><a href="https://www.springer.com/us/book/9783319774480"> EvoCOP 2018:LNCS, volume 10782 </a></li>
-			<li><a href="http://www.springer.com/us/book/9783319775821"> EvoMUSART 2018:LNCS, volume 10783</a></li>
+			<li><a href="https://link.springer.com/book/10.1007/978-3-319-77553-1"> EuroGP 2018:LNCS, volume 10781</a></li>
+			<li><a href="https://link.springer.com/book/10.1007/978-3-319-77538-8">EvoAPPS 2018: LNCS, volume 10784 </a></li> 			
+			<li><a href="https://link.springer.com/book/10.1007/978-3-319-77449-7"> EvoCOP 2018:LNCS, volume 10782 </a></li>
+			<li><a href="https://link.springer.com/book/10.1007/978-3-319-77583-8"> EvoMUSART 2018:LNCS, volume 10783</a></li>
+
+
+
+
+
 
 		</ul>
 	<li><a href="awards_outstanding_students.php">Outstanding Students</a></li>
