@@ -699,7 +699,7 @@ border=1>
 <center><font size=+2>April 04, 2018</font></center>
  <h4> 16:25-18:15 - EvoMusArt 1 - Short talks</h4>
   
-   Room 2, chaired by Juan Romero<p>
+   Room 2, chaired by Antonios Liapis<p>
 
 
 
@@ -736,7 +736,7 @@ border=1>
 <center><font size=+2>April 05, 2018</font></center>
  <h4> 11:30-13:10 - EvoMusArt 2 - Visual arts</h4>
   
-   Room 2, chaired by Aniko Ekart<p>
+   Room 2, chaired by Juan Romero<p>
 
 
 
@@ -775,7 +775,7 @@ border=1>
 <center><font size=+2></font></center>
  <h4> 14:15-15:55 - EvoMusArt 3 - Music & Dance</h4>
   
-   Room 2, chaired by Antonios Liapis<p>
+   Room 2, chaired by Aniko Ekart<p>
 
 
 
@@ -811,7 +811,7 @@ border=1>
 <center><font size=+2></font></center>
  <h4> 16:15-17:45 - EvoMusArt 4 (Best paper nominations)</h4>
   
-   Room 2, chaired by Juan Romero & Antonios Liapis<p>
+   Room 2, chaired by  Antonios Liapis<p>
 
 
 
