@@ -240,7 +240,7 @@ EvoSTOC - In parallel with EvoAPPS 1
 </ol>
  <h4> 14:30-16:20 - EvoAPPS 3</h4>
   
-   Chaired by TBA<p>
+   Chaired by Sanaz Mostaghim<p>
 
 EvoBIO,  EvoCOMNET, EvoENERGY, EvoINDUSTRY,  EvoKNOW short talks. In parallel with EvoAPPS 4
 
