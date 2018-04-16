@@ -22,10 +22,22 @@ Following these rules we came up with a list of 10 Outstanding Students:
 <li>Sarah Louise Thomson, University of Stirling, Stirling, United Kingdom</li>
 <li>Laura Sani, University of Parma, Italy</li>
 </ul>
+<img width="50%" class="img-responsive center-block" src="img/awards/OutstandingStudents.jpg"/><br/>
 
 
-Please come to the Poster Reception on Wednesday 4th and vote for your favorite for the Evo* 2018 Best Student paper award.
+Winners were voted by attendants to the Poster Reception on Wednesday 4th
+<h2>Best student paper award</h2>
+<img width="50%" class="img-responsive center-block" src="img/awards/BestStudentAward.jpg"/><br/>
+<strong>Winner: Sondre Engebraten</strong>
 
+Evolving a Repertoire of Controllers for a Multi-Function Swarm
+<br/>
+Runners up: 
+
+Tiago Martins & Filipe Assunçao.
+
+
+In the photo: Filipe (left) Sondre (centre) Tiago (right)
 
 
 

@@ -13,6 +13,11 @@
  </div>
 
 <ul>
+	<li>Winner of the <a href="awards_outstanding.php">EvoStar Award for Outstanding Contribution to Evolutionary Computation in Europe 2018</a>.
+	<li>List of <a href="awards_outstanding_students.php">Outstanding Students and Best Student Paper award</a>.</li>
+	<li>Check out the <a href="programme_bestpapers.php">Best Paper Awards</a>.
+	<li>Best poster and best wikipedia editors <a href="awards_other.php">awards.</li>
+	<li><a href="programme_scavenger.php">Scavenger hunt and winners</a></li>
 	<li>Download conference handbook <a href="pdfs/Handbook2018final.pdf">from here.</li>
 	<li>Information about posters sizes and printing services <a href="location_posters.php">is available here</a>. Please, take into account that most office-related
 activities like print-services etc., will be closed from Friday 30

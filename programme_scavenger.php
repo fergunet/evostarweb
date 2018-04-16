@@ -4,6 +4,17 @@
         <h3>The Great EvoStar <span class="red">Scavenger Hunt 2018</span> <h3>
    </div>
    
+<h3>Winners in 2018</h3>
+
+<strong>Team led by Mihail Morosan:</strong>
+Jakub Husa,
+Long Him Cheung,
+Sara Tari,
+Damien Anderson<br/>
+<strong>Team led by Rafaela Priscila Moreira</strong>
+Almuth Meier, David Grochol, Lino Rodriguez.
+
+<img width="50%" class="img-responsive center-block" src="img/awards/ScavengerAward.jpg"/><br/>
 
 
 

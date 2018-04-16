@@ -5,9 +5,12 @@
 
 
 
-<h2>Winners: </h2>
+<h2>Winner: </h2>
 
-To be decided
+Sara Silva, Faculdade de Ciências, Universidade de Lisboa, Portugal
+
+<img width="50%" class="img-responsive center-block" src="img/awards/Outstanding.png"/><br/>
+
 
 <h3>Previous awarded:</h3>
 
