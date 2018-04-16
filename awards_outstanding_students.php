@@ -20,6 +20,7 @@ Following these rules we came up with a list of 10 Outstanding Students:
 <li>Robert Jacob Smith, Dalhousie University, Halifax, Canada</li>
 <li>Sara Tari, University of Angers, Angers, France</li>
 <li>Sarah Louise Thomson, University of Stirling, Stirling, United Kingdom</li>
+<li>Laura Sani, University of Parma, Italy</li>
 </ul>
 
 
