@@ -13,6 +13,7 @@
  </div>
 
 <ul>
+	<li>And the next edition of Evostar will be held in... <strong class="red">Leipzig, Germany</strong>! Stay tuned! </li>
 	<li>Winner of the <a href="awards_outstanding.php">EvoStar Award for Outstanding Contribution to Evolutionary Computation in Europe 2018</a>.
 	<li>List of <a href="awards_outstanding_students.php">Outstanding Students and Best Student Paper award</a>.</li>
 	<li>Check out the <a href="programme_bestpapers.php">Best Paper Awards</a>.
