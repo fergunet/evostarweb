@@ -11,13 +11,13 @@
 The four conferences include:
 
 <ul>
-<li>Euro<span class="red">GP</span> 22st European Conference on Genetic Programming</li>
+<li>Euro<span class="red">GP</span> 22nd European Conference on Genetic Programming</li>
 
 <li>Evo<span class="red">COP</span> 19th European Conference on Evolutionary Computation in Combinatorial Optimisation</li>
 
 <li>Evo<span class="red">MUSART</span> 8th International Conference (and 13th European event) on Evolutionary and Biologically Inspired Music, Sound, Art and Design</li>
 
-<li>Evo<span class="red">Applications</span>  22st European Conference on the Applications of Evolutionary and bio-inspired Computation including the following tracks</li>
+<li>Evo<span class="red">Applications</span>  22nd European Conference on the Applications of Evolutionary and bio-inspired Computation including the following tracks</li>
 <ul>
 
 	<li>Evo<span class="red">BAFIN</span> Computational Intelligence Methods in Business Analytics and Finance</li>

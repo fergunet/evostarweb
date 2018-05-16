@@ -30,7 +30,7 @@
 <h3>FAQ</h3>
 
 <h4>What are the conference dates?</h4>
-EvoStar 2019 will be held from 9am on Wednesday 4 April until 2pm on Friday 6 April, with an optional Friday afternoon local excursion.
+EvoStar 2019 will be held from 9am on Wednesday 24 April until 2pm on Friday 26 April, with an optional Friday afternoon local excursion.
 
 
 <h4>Where is the location Venue?</h4>

@@ -60,14 +60,16 @@
 
 
       <ul>
-        <li><span><strong>Ting Hu</strong><br />
-          Memorial University, Canada,<br />
-          <em> ting.hu(at)mun.ca</em> </span></li>
+
 
 
           <li><span><strong>Lukas Sekanina</strong><br />
           Brno University of Technology, Czech Republic<br />
           <em> sekanina(at)fit.vutbr.cz </em> </span></li>
+
+                  <li><span><strong>Ting Hu</strong><br />
+          Memorial University, Canada,<br />
+          <em> ting.hu(at)mun.ca</em> </span></li>
 
         
       

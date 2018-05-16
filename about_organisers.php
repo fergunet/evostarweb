@@ -30,15 +30,15 @@ TBA
 <tr>
 	<!--<td><img src="organisers/penousal_machado.jpg" width="100"></td>-->
 
-	
+	<td><img src="organisers/lukas_sekanina.jpg" width="100"></td>	
 	<td><img src="organisers/ting_hu.jpg" width="100"></td>
-	<td><img src="organisers/lukas_sekanina.jpg" width="100"></td>
+
 </tr>
 <tr>
 	<!--<td>Penousal Machado, University of Coimbra, Portugal, machado(at)dei.uc.pt</td>-->
-	
+	<td>Lukas Sekanina <h6>Brno University of Technology, Czech Republic, sekanina (at) fit.vutbr.cz</h6></td>	
 	<td>Ting Hu <h6>Memorial University, Canada, ting.hu(at)mun.ca</h6></td>
-	<td>Lukas Sekanina <h6>Brno University of Technology, Czech Republic, sekanina (at) fit.vutbr.cz</h6></td>
+
 </tr>
 </table>
 
