@@ -38,8 +38,8 @@ Topics include but are not limited to:
 
 
 <h3>Evo<span class="red">GAMES</span> track chairs</h3>
-
-<ul>
+TBA
+<!--<ul>
 <li><strong>Antonio Mora</strong><br/></li>
 Universidad Internacional de la Rioja, Spain<br/>
 antoniomiguel.mora(at)unir.net
@@ -47,29 +47,10 @@ antoniomiguel.mora(at)unir.net
 <li><strong>Alberto Tonda</strong><br/></li>
 Université Paris-Saclay, INRA, France<br/>
 alberto.tonda(At)inra.fr
-</ul>
+</ul>-->
 
 <h3>Programme Committee</h3>
-<ul>
-<li>Antonio J. Fernández Leiva	,	 Universidad de Málaga	,	 Spain</li>
-<li>Raúl Lara Cabrera	,	 Universidad Autónoma de Madrid	,	 Spain</li>
-<li>Cédric Buche	,	 ENIB	,	 France</li>
-<li>Tobias Mahlmann	,	 Lund University	,	 Sweden</li>
-<li>Moshe Sipper	,	 Ben-Gurion University	,	 Israel</li>
-<li>Julian Togelius	,	 New York University	,	 USA</li>
-<li>Mike Preuss	,	 University of Munster	,	 Germany</li>
-<li>David Camacho	,	  Universidad Autónoma de Madrid	,	 Spain</li>
-<li>Federico Liberatore	,	 Universidad Carlos III	,	 Spain</li>
-<li>Pablo García Sánchez	,	 Universidad de Cádiz	,	 Spain</li>
-<li>Antonio               González Pardo	,	 Universidad Autónoma de Madrid	,	 Spain</li>
-<li>Antonios Liapis	,	 University Of Malta	,	 Malta</li>
-<li>Georgios Yannakakis	,	 University of Malta	,	 Malta</li>
-<li>Giovanni Squillero	,	 Politecnico di Torino	,	 Italy</li>
-<li>Antonio               J. Fernández Ares	,	 Universidad de Granada	,	 Spain</li>
-<li>Mihai Polceanu	,	 ENIB	,	 France</li>
-<li>Juan J.  Merelo Guervós	,	 Universidad de Granada	,	 Spain</li>
-<li>Mohammed Salem	,	 University of Mascara	,	 Algeria</li>
-</ul>
+TBA
 
 
 

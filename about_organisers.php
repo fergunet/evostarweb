@@ -1,31 +1,28 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">Star</span> 2018 Organizers<h2>
+        <h2>Evo<span class="red">Star</span> 2019 Organizers<h2>
    </div>
 
 
-<h3>Evo<span class="red">Star</span> 2018 local chair</h3>
+<h3>Evo<span class="red">Star</span> 2019 local chair</h3>
 
 <table class="organisers">
 <tr>
 	
-	<td><img src="organisers/stefano_cagnoni.jpg" width="100"></td>
+	<td><img src="organisers/hendrik_richter.jpg" width="100"></td>
 	
 </tr>
 <tr>
-	<td>Stefano Cagnoni</td>
+	<td>Hendrik Richter, HTWK Leipzig/Leipzig University of Applied Sciences, Germany</td>
 </tr>
 </table>
 
 <h4>Local Organising Team</h4>
-EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local organising team of Laura Sani, Riccardo Pecori, Paolo Fornacciari, Michele Tomaiuolo, Giulio Angiani, Gianfranco Lombardo, Michele Amoretti.<br/>
-
-<img src="organisers/LocalParmaTeam.jpg" width = "250">
-<h6>(from left to right) Laura Sani, Stefano Cagnoni, Monica Mordonini, Riccardo Pecori, Paolo Fornacciari, Michele Tomaiuolo</h6>
+TBA
 
 
 <h3>Euro<span class="red">GP</span></h3>
-<h4>21th European Conference on Genetic Programming</h4>
+<h4>22th European Conference on Genetic Programming</h4>
  
 <strong>Euro<span class="red">GP</span> programme chairs :</strong>
 
@@ -34,13 +31,13 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
 	<!--<td><img src="organisers/penousal_machado.jpg" width="100"></td>-->
 
 	
-	<td><img src="organisers/mauro_castelli.jpg" width="100"></td>
+	<td><img src="organisers/ting_hu.jpg" width="100"></td>
 	<td><img src="organisers/lukas_sekanina.jpg" width="100"></td>
 </tr>
 <tr>
 	<!--<td>Penousal Machado, University of Coimbra, Portugal, machado(at)dei.uc.pt</td>-->
 	
-	<td>Mauro Castelli <h6>NOVA IMS, Universidade Nova de Lisboa, Portugal, castelli.mauro (at) gmail.com</h6></td>
+	<td>Ting Hu <h6>Memorial University, Canada, ting.hu(at)mun.ca</h6></td>
 	<td>Lukas Sekanina <h6>Brno University of Technology, Czech Republic, sekanina (at) fit.vutbr.cz</h6></td>
 </tr>
 </table>
@@ -50,10 +47,10 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
 <strong>Euro<span class="red">GP</span> publication chair :</strong>
 <table class="organisers">
 <tr>
-	<td><img src="organisers/mengjie_zhang.jpg" width="100"></td>
+	<td><img src="organisers/nuno_lourenco.jpg" width="100"></td>
 </tr>
 <tr>
-	<td> Mengjie Zhang <h6>Victoria University of Wellington, New Zealand, mengjie.zhang (at) ecs.vuw.ac.nz</h6></td>
+	<td> Nuno Lourenço,<h6> University of Coimbra, Portugal, naml(at)dei.uc.pt</h6></td>
 </tr>
 </table>
 
@@ -61,19 +58,10 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
 
 
 <h3>Evo<span class="red">APPLICATIONS</span></h3>
-<h4>21th International Conference on the Applications of Evolutionary Computation</h4>
+<h4>22th International Conference on the Applications of Evolutionary Computation</h4>
 <strong>Evo<span class="red">Applications</span> coordinator :</strong>
 
-<table class="organisers">
-<tr>
-	<td><img src="organisers/kevin_sim.jpg" width="100"></td>
-</tr>
-<tr>
-	<td>Kevin Sim <h6> Edinburgh Napier University, Scotland, k.sim (at) napier.ac.uk</h6></td>
-</tr>
-</table>
- 
-<strong>Evo<span class="red">APPS</span> deputy coordinator :</strong>
+
 <table class="organisers">
 <tr>
 	<td><img src="organisers/paul_kaufmann.jpg" width="100"></td>
@@ -85,24 +73,38 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
 </table>
 
 
+ 
+<strong>Evo<span class="red">APPS</span> publication chair :</strong>
+
+<table class="organisers">
+<tr>
+	<td><img src="organisers/tba_tba.jpg" width="100"></td>
+</tr>
+<tr>
+	<td>TBA <h6> TBA</h6></td>
+</tr>
+</table>
+
 
  
  
 <h3>Evo<span class="red">COP</span></h3>
-<h4>18th European Conference on Evolutionary Computation in Combinatorial Optimisation</h4>
+<h4>19th European Conference on Evolutionary Computation in Combinatorial Optimisation</h4>
  
 <strong>Evo<span class="red">COP</span> programme chairs :</strong>
 
 <table class="organisers">
 <tr>
 
-	<td><img src="organisers/manuel_lopez_ibanez.jpg" width="100"></td>
+
 		<td><img src="organisers/arnaud.jpg" width="100"></td>
+		<td><img src="organisers/luis_paquete.jpg" width="100"></td>
 </tr>
 <tr>
 
-	<td>Manuel López-Ibáñez <h6> University of Manchester, UK, manuel.lopez-ibanez (at) manchester.ac.uk</h6></td>
+	
 	<td>Arnaud Liefooghe <h6> University of Lille, France, arnaud.liefooghe (at) univ-lille1.fr</h6></td>
+	<td>Luis Paquete, <h6>University of Coimbra, Portugal, paquete(at)dei.uc.pt</h6></td>
 </tr>
 </table>
 
@@ -113,18 +115,18 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
  
  
 <h3>Evo<span class="red">MUSART</span></h3>
-<h4>7th International Conference on Computational Intelligence in Music, Sound, Art and Design</h4>
+<h4>8th International Conference on Computational Intelligence in Music, Sound, Art and Design</h4>
  
 <strong>Evo<span class="red">MUSART</span> programme chairs :</strong>
 
 <table class="organisers">
 <tr>
 	<td><img src="organisers/antonios_liapis.jpg" width="100"></td>
-	<td><img src="organisers/juan_romero.png" width="100"></td>
+	<td><img src="organisers/aniko_ekart.png" width="100"></td>
 </tr>
 <tr>
 	<td>Antonios Liapis, Institute of Digital Games <h6> University of Malta, Malta, antonios.liapis (at) um.edu.mt</h6></td>
-	<td>Juan Romero <h6> Faculty of Computer Science, University of A Coruña, Spain, jj (at) udc.es</h6></td>
+	<td>Anikó Ekart,<h6> Aston University, UK, a.ekart(at)aston.ac.uk</h6></td>
 </tr>
 </table>
 
@@ -134,10 +136,10 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
 <strong>Evo<span class="red">MUSART</span> Publication chair :</strong>
 <table class="organisers">
 <tr>
-	<td><img src="organisers/aniko_ekart.jpg" width="100"></td>
+	<td><img src="organisers/luz_castro.jpg" width="100"></td>
 </tr>
 <tr>
-	<td>Aniko Ekart</td>
+	<td> Luz Castro,<h6> Universidade da Coruña, Spain, maria.luz.castro(at)udc.gal</h6></td>
 </tr>
 </table>
 
@@ -146,7 +148,7 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
  
  
 
-<h3>Evo<span class="red">Star</span> 2018 publicity chair</h3>
+<h3>Evo<span class="red">Star</span> 2019 publicity chair</h3>
 <table class="organisers">
 <tr>
 	<td><img src="organisers/pablo_garcia.jpg" width="100"></td>
@@ -158,7 +160,7 @@ EvoStar 2018 local chairs Stefano Cagnoni &  Monica Mordonini and the local orga
 </tr>
 </table>
 
-<h3>Evo<span class="red">Star</span> 2018 MyReview System coordinator</h3>
+<h3>Evo<span class="red">Star</span> 2019 MyReview System coordinator</h3>
 
 <table class="organisers">
 <tr>

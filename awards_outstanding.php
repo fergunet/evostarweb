@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-<h2>Evo<span class="red">Star</span> Award for Outstanding Contribution to Evolutionary Computation in Europe 2018 </h2>
+<h2>Evo<span class="red">Star</span> Award for Outstanding Contribution to Evolutionary Computation in Europe 2019 </h2>
 </div>
 
 
@@ -18,6 +18,7 @@ Sara Silva, Faculdade de Ciências, Universidade de Lisboa, Portugal
 
 
 <ul>
+<li>2018: <a href="https://ciencias.ulisboa.pt/pt/perfil/sgsilva">Sara Silva</a> </li><a href="../2018/awards_outstanding.php">[announcement page]</a>
 <li>2017: <a href="http://www.cs.vu.nl/~gusz/"> Gusz Eiben</a> and <a href="people.ibest.uidaho.edu/~foster/">James Foster </a> <a href="../2017/awards_outstanding.php">[announcement page]</a>
 <li>2016: <a href="http://cdv.dei.uc.pt/authors/penousal-machado/">Penousal Machado</a> <a href="../2016/awards_outstanding.php">[announcement page]</a></li>
 <li>2015: <a href="https://sites.google.com/site/aiesparcia/">Anna Esparcia-Alcazar</a> and <a href="http://www.novaims.unl.pt/Docentes-Investigacao/Detalhe-Docente.asp?IDDocente=196">Leonardo Vanneschi</a> <a href="../2015/awards_outstanding.php">[announcement page]</a></li>

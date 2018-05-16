@@ -2,7 +2,8 @@
 
      
         <h2>Previous events:</h2>
-</div>    <li><a href="http://www.evostar.org/2017/">Amsterdam 2017</a></li>
+</div>    <li><a href="http://www.evostar.org/2018/">Parma 2018</a></li>
+          <li><a href="http://www.evostar.org/2017/">Amsterdam 2017</a></li>
           <li><a href="http://www.evostar.org/2016/">Porto 2016</a>&nbsp; <a href="https://www.flickr.com/photos/evostar/albums/72157666723975825"><img src="img/camera32.png" width="24" height="24" border="0" align="absbottom"/></a>
           <li><a href="http://www.evostar.org/2015/">Copenhagen 2015</a>&nbsp; <a href="https://www.flickr.com/photos/evostar/albums/72157651494056188"><img src="img/camera32.png" width="24" height="24" border="0" align="absbottom"/></a>
           <li><a href="http://www.evostar.org/2014/">Granada 2014</a>&nbsp; <a href="https://www.flickr.com/photos/evostar/sets/72157644423648492/"><img src="img/camera32.png" width="24" height="24" border="0" align="absbottom"/></a>

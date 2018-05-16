@@ -29,7 +29,7 @@ This year EvoApplications is accepting two kinds of submission: full papers and 
     <li>Page limit: 8 pages (short papers) or 16 pages (full papers).<span> 
       </span></li>
     </ul>
-    <strong>Submission link:</strong>  <a href="https://myreview.saclay.inria.fr/evoapps18/">https://myreview.saclay.inria.fr/evoapps18/</a>
+    <strong>Submission link:</strong>  <a href="https://myreview.saclay.inria.fr/evoapps19/">https://myreview.saclay.inria.fr/evoapps19/</a>
 
  <h2>Presentation details</h2>
 

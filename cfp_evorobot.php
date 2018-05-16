@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">ROBOT</span> 2018<h2>
+        <h2>Evo<span class="red">ROBOT</span> 2019<h2>
    </div>
 
 
@@ -44,36 +44,18 @@ will be made adhering to the <a href="http://www.frontiersin.org/">Frontiers</a>
 
 <h3>Evo<span class="red">ROBOT</span> track chairs</h3>
 <ul>
-<li><strong>Kyrre Glette</strong><br/></li>
+	TBA
+<!--<li><strong>Kyrre Glette</strong><br/></li>
 University of Oslo, Norway<br/>
 kyrrehg(At)ifi.uio.no
 
 <li><strong>Julien Hubert</strong><br/></li>
 Vrije Universiteit Amsterdam, Netherlands<br/>
-jghubert(At)gmail.com
+jghubert(At)gmail.com-->
 </ul>
 
 <h3>Programme Committee</h3>
-<ul>
-<li>Auerbach, Joshua ; Champlain College, United States</li>
-<li>Bredeche, Nicolas ; Institut des Systèmes Intelligents et de Robotique, France</li>
-<li>Christensen, Anders; University Institute of Lisbon, ISCTE-IUL, Portugal</li>
-<li>Doncieux, Stephane ; Institut des Systèmes Intelligents et de Robotique, France</li>
-<li>Haasdijk, Evert ; VU University Amsterdam, The Netherlands</li>
-<li>Hamann, Heiko ; University of Paderborn, Germany</li>
-<li>Heinerman, Jacqueline ; VU University Amsterdam, The Netherlands</li>
-<li>Huizinga, Joost ; University of Wyoming, United States</li>
-<li>Montanier, Jean-Marc ; Softbank Robotics Europe, France</li>
-<li>Mouret, Jean-Baptiste ; INRIA Larsen Team, France</li>
-<li>Nitschke, Geoff ; University of Cape Town, South Africa</li>
-<li>Nolfi, Stefano ; Institute of Cognitive Sciences and Technologies, Italy</li>
-<li>Ellefsen, Kai Olav; University of Oslo, Norway</li>
-<li>Rossi, Claudio ; Universidad Politecnica De Madrid, Spain</li>
-<li>Schmickl , Thomas ; University of Graz, Austria</li>
-<li>Witkowski, Olaf ; Earth-Life Science Institute, Tokyo, Japan</li>
-<li>Clark, Anthony ; Michigan State University, United States</li>
-<li>Moore, Jared ; Grand Valley State University, United States</li>
-</ul>
+TBA
 
     <?php include('footer.php') ?>
 

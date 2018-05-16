@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">ENERGY</span> 2018<h2>
+        <h2>Evo<span class="red">ENERGY</span> 2019<h2>
    </div>
 
 
@@ -51,7 +51,7 @@ Topics of interest include, but are not limited to:
 
 
 <h3>Chairs</h3>
-<ul>
+<!--<ul>
 <li><strong>Paul Kaufmann</strong><br/></li>
 Mainz University, Germany<br/>
 paul.kaufmann(At)gmail.com
@@ -59,16 +59,8 @@ paul.kaufmann(At)gmail.com
 <li><strong>Oliver Kramer</strong><br/></li>
 University of Oldenburg, Germany<br/>
 oliver.kramer(At)uni-oldenburg.de
-</ul>
+</ul>-->
 <h3>Programme Committee</h3>
 
-<ul>
-<li> Jörg Bremer   (University of Oldenburg, Germany)</li>
-<li> Kyrre Glette  (University of Oslo, Norway)</li>
-<li> Chenjie Ma    (Fraunhofer Institute for Wind Energy and Energy System Technology, Germany)</li>
-<li> Ingo Mauser   (Karlsruhe Institute of Technology, Germany)</li>
-<li> Martin Middendorf     (University of Leipzig, Germany)</li>
-<li> Maizura Mokhtar       (Heriot-Watt University, UK)</li>
-<li> Peter Palensky        (Technical University of Delft, Netherlands)</li>
-</ul>
+TBA
     <?php include('footer.php') ?>

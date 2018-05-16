@@ -26,38 +26,19 @@ Topics of interest include (but are not limited to):
 
 <h3>Chairs</h3>
 <ul>
-	<li><strong>Kevin Sim</strong><br/></li>
+<!--	<li><strong>Kevin Sim</strong><br/></li>
 Edinburgh Napier University, Scotland<br/>
 k.sim(At)napier.ac.uk
 
 <li><strong>Neil Urquhart</strong><br/></li>
 Edinburgh Napier University, Scotland<br/>
 n.urquhart(At)napier.ac.uk
-</ul>
+</ul>-->
+TBA
 
 <h3>Programme Committee</h3>
 <ul>
-
-<li>Nelishia  Pillay , University of KwaZulu-Natal</li>
-<li>Shengxiang  Yang , De Monfort University, UK</li>
-<li>Sanja  Petrovic , University of Nottingham, UK</li>
-<li>Ender  Ozcan , University of Nottingham, UK</li>
-<li>Sanem  Sariel , Istanbul Technical University, Turkey</li>
-<li>Emma  Hart , Edinburgh Napier University, UK</li>
-<li>Graham  Kendall , University of Nottingham, UK</li>
-<li>Jason  Atkin , University of Nottingham, UK</li>
-<li>Nysret  Musliu , Vienna University of Technology, Austria</li>
-<li>Bahriye  Basturk Akay , Erciyes University, Turkey</li>
-<li>María  Arsuaga-Ríos , CERN</li>
-<li>Nadarajen  Veerapen , University of Stirling, UK</li>
-<li>Ben  Paechter , Edinburgh Napier University, UK</li>
-<li>Michael  Guckert , Technische Hochschule Mittelhessen</li>
-<li>Thomas  Farrenkopf , Technische Hochschule Mittelhessen</li>
-<li>Simon  Wells , Edinburgh Napier University, UK</li>
-<li>Simon  Powers , Edinburgh Napier University, UK</li>
-<li>Aniko  Ekart , Aston University, UK</li>
-<li>Kevin  Sim , Edinburgh Napier University, UK</li>
-
+<li>TBA</li>
 </ul>
 
 

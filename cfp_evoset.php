@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">SET</span> 2018<h2>
+        <h2>Evo<span class="red">SET</span> 2019<h2>
    </div>
 
  <h2>Nature-inspired algorithms in Software Engineering and Testing</h2>
@@ -26,7 +26,7 @@ Topics include but are not limited to:
  <?php include('common_to_apps_publication.php') ?>
 
   <h2>Chairs: </h2>
-<ul>
+<!--<ul>
 <li><strong>Anna I Esparcia-Alcázar</strong><br/></li>
 Universitat Politècnica de València, Spain<br/>
 esparcia(At)upv.es
@@ -34,17 +34,8 @@ esparcia(At)upv.es
 <li><strong>Sara Silva</strong><br/></li>
 Faculdade de Ciências, Universidade de Lisboa, Portugal<br/>
 sara(At)fc.ul.pt
-</ul>
+</ul>-->
 
   <h2>Programme Committee</h2>
-  <ul>
-<li>Chicano, Francisco, Universidad de Málaga, Spain</li>
-<li>Cohen, Myra, University of Nebraska</li>
-<li>Fraser, Gordon, University of Sheffield, UK</li>
-<li>Gay, Gregory, University of South Carolina</li>
-<li>Menzies, Tim, University of Nebraska</li>
-<li>Mkaouer, Wiem, University of Michigan, USA</li>
-<li>Vos, Tanja, Open University, The Netherlands</li>
-<li>White, David, University College London, UK</li>
-</ul>
+TBA
     <?php include('footer.php') ?>

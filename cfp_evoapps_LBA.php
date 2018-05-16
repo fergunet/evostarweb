@@ -4,7 +4,7 @@
    </div>
 
 <p>
-EvoAPPS 2018 invites submissions of late-breaking abstracts (LBAs) summarising ongoing research and recent studies in all areas of applications of Evolutionary Computation and other Nature-inspired techniques.
+EvoAPPS 2019 invites submissions of late-breaking abstracts (LBAs) summarising ongoing research and recent studies in all areas of applications of Evolutionary Computation and other Nature-inspired techniques.
 </p><p>
 LBAs will be presented as posters during the conference and published online (in CEUR or arXiv).
 </p><p>
@@ -14,14 +14,14 @@ Papers will be reviewed by the organising committee to ensure quality and releva
 </p><p>
 Submit your manuscript in Springer LNCS format. Page limit (LBAs): 4 pages.
 </p>
-Submit your LBA via <a href="https://myreview.saclay.inria.fr/evoapps18_lba/">https://myreview.saclay.inria.fr/evoapps18_lba/</a>
+Submit your LBA via <a href="https://myreview.saclay.inria.fr/evoapps19_lba/">https://myreview.saclay.inria.fr/evoapps19_lba/</a>
 
 <h3>Important Dates</h3>
 
-<li> Submission deadline (LBAs): 12 February 2018</li>
-<li> Notification (LBAs): 16 February 2018</li>
-<li> Mandatory registration per LBA: 28 February 2018</li>
-<li> EvoStar: April 4-6, 2018</li>
+<li> Submission deadline (LBAs): TBA</li>
+<li> Notification (LBAs):TBA</li>
+<li> Mandatory registration per LBA:TBA</li>
+<li> EvoStar: April 24-26, 2019</li>
 
 
 

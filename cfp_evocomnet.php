@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">COMNET</span> 2018<h2>
+        <h2>Evo<span class="red">COMNET</span> 2019<h2>
    </div>
 
 <p><strong>Application of Nature-inspired Techniques for Communication Networks and
@@ -54,36 +54,16 @@ found in: <a href="http://www.evostar.org">http://www.evostar.org</a>.
 
 <h3>Evo<span class="red">COMNET</span> track chairs</h3>
 <ul>
-<li>Fabio D'Andreagiovanni <br/>
+<!--<li>Fabio D'Andreagiovanni <br/>
 CNRS,  UTC - Sorbonne University, France  <br/>          
 d.andreagiovanni@hds.utc.fr</li>    
  
 <li>Giovanni Iacca  <br/>
 RWTH Aachen University, Germany   <br/>     
 giovanni.iacca@gmail.com</li>
-</ul>
+</ul>-->
 <h3>PROGRAM COMMITTEE</h3>
-<ul>
-<li>Thomas Bauschert (Technical University Chemnitz, Germany)</li>
-<li>Doina Bucur (University of Twente, The Netherlands)</li>
-<li>Luca Chiaraviglio (University of Rome Tor Vergata)</li>
-<li>Stefano Coniglio (University of Southampton, United Kingdom)</li>
-<li>Rolf Hoffmann (Technical University Darmstadt, Germany)</li>
-<li>Andreas Kassler (Karlastd University, Sweden)</li>
-<li>Carlo Mannino (Sintef, Norway)</li>
-<li>Roberto Montemanni (IDSIA, Switzerland)</li>
-<li>Enrico Natalizio (UTC - Sorbonne University, France)</li>
-<li>Riccardo Pecori (eCampus University, Italy)</li>
-<li>Mauricio Resende (Amazon, USA)</li>
-<li>Robert Schaefer (University of Science and Technology, Poland)</li>
-<li>Sevil Sen (Hacettepe University, Turkey)</li>
-<li>Chien-Chung Shen (University of Delaware, USA)</li>
-<li>Marco Villani (University of Modena and Reggio Emilia, Italy)</li>
-<li>Jaroslaw Was (AGH University of Science and Technology, Poland)</li>
-<li>Nur Zincir-Heywood (Dalhousie University, Canada)</li>
-
-
-</ul>
+TBA
 
 
 

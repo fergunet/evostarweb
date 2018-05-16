@@ -18,7 +18,7 @@
     <p> <span id="logo">Evo<span class="red">Applications</span>
       invites high quality contributions for its 21st edition, which will be held 
       as part of the Evo<span class="red">Star</span>
-      2018 event in Parma, Italy, April 2018 and co-located within Evo<span class="red">Star</span> 
+      2019 event in Leipzig, Germany, April 2019 and co-located within Evo<span class="red">Star</span> 
       with three related conferences: <a href="cfp_eurogp.html">Euro<span class="red">GP</span></a>, <a href="cfp_evocop.html">Evo<span class="red">COP</span></a> 
       and <a href="cfp_evomusart.html">Evo<span class="red">MUSART</span></a>.<br />
       </span> </p>
@@ -26,9 +26,9 @@
      <!-- <strong><p>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> (Impact Factor: 1.00)</p></strong>
   -->
     <p><span id="logo">Evo<span class="red">Applications</span>
-      2018 is composed of 14 tracks, each focusing on an area of application of 
+      2019 is composed of 14 tracks, each focusing on an area of application of 
       genetic and evolutionary computation and other related Computational Intelligence 
-      fields. The following tracks will be running in 2018: </span> </p>
+      fields. The following tracks will be running in 2019: </span> </p>
     <span id="logo"> 
 
       <ul>

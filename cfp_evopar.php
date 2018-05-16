@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">PAR</span> 2018<h2>
+        <h2>Evo<span class="red">PAR</span> 2019<h2>
    </div>
 
  <h2>Parallel Architectures and Distributed Infrastructures</h2>
@@ -48,30 +48,17 @@
 
       <h2>Evo<span class="red">PAR</span> track chairs </h2>
 <ul>
-<li><strong>Francisco Fernández</strong><br/></li>
+<!--<li><strong>Francisco Fernández</strong><br/></li>
 Universidad de Extremadura, Spain<br/>
 fcofdez(At)unex.es
 
 <li><strong>Ignacio Hidalgo</strong><br/></li>
 Universidad Complutense de Madrid, Spain<br/>
 hidalgo(At)ucm.es
-</ul>
+</ul>-->
+TBA
 
   <h3>Programme Committee</h3>
-  <ul>
-<li>Raffaele Perego (ISTI-CNR, Italy)</li>
-<li>Daniel Hernández (Instituto Tecnológico Nacional, Mexico)</li>
-<li>Gustavo Olague (CICESE, México)</li>
-<li>Rafael Villanueva(Universitat Politecnica de Valencia, Spain)</li>
-<li>Jose Carlos Ribeiro (Politechnique Institute of Leiria, Portugal)</li>
-<li>José Manuel Colmenar (Universidad Rey Juan Carlos, Spain)</li>
-<li>Juan-Luis Jiménez-Laredo (ILNAS/ANEC Normalisation, Luxembourg)</li>
-<li>Sebastien Varrete(Université du Luxemburg, Luxemburg)</li>
-<li>Francisco Luna (Universidad de Málaga, Spain)</li>
-<li>Gianluigui Folino (ICAR-CNR, Italy)</li>
-<li>Ignacio Arnaldo (PatternEx, USA)</li>
-<li>Willian Langdon, (University College of London, UK)</li>
-<li>José Manuel Velasco (Universidad Complutense de Madrid, Spain)</li>
-</ul>
+TBA
 
     <?php include('footer.php') ?>

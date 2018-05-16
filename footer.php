@@ -12,17 +12,17 @@
             <div class="panel-body">
               
              <!-- <span class="gray"> ESTO PONE EN GRIS LAS FECHAS PASADAS!-->
-              <span class="gray"><strong>Submission Deadline:</strong> 1 November 2017<br/>
+              <strong>Submission Deadline:</strong> 1 November 2018<br/>
 
-              <strong><span class="red">EXTENDED SUBMISSION DEADLINE</span>:</strong> 10 November 2017<br/> <!--<em>(site remains open for final changes until 21 Nov)</em><br/>-->
-              <strong>Notification:</strong> 3 January 2018<br/>
+              <!--<strong><span class="red">EXTENDED SUBMISSION DEADLINE</span>:</strong> 10 November 2017<br/> <!--<em>(site remains open for final changes until 21 Nov)</em><br/>-->
+              <strong>Notification:</strong> TBA<br/>
             
-              <strong>Camera-ready:</strong> 15 January 2018<br/>
-              <strong>Mandatory registration per paper:</strong> 9 February 2018</br>
+              <strong>Camera-ready:</strong> TBA<br/>
+              <strong>Mandatory registration per paper:</strong> TBA</br>
               <!--<strong>Student bursary deadline:</strong> TBA <br/>-->
-              <strong>Early registration discount:</strong> 28 February<br/></span>
-              <strong>Registration deadline:</strong> 28 March <br/>
-              <strong>EvoStar dates:</strong> 4-6 April 2018<br/>
+              <strong>Early registration discount:</strong> TBA<br/></span>
+              <strong>Registration deadline:</strong> TBA <br/>
+              <strong>EvoStar dates:</strong> 24-26 April 2019<br/>
               
             </div>
       </div>
@@ -31,7 +31,7 @@
               <h3 class="panel-title">Twitter:</h3>
             </div>
             <div class="panel-body">
-              <a class="twitter-timeline" href="https://twitter.com/Evostar2018" data-widget-id="473865364518887424">Tweets by @Evostar2018</a>
+              <a class="twitter-timeline" href="https://twitter.com/Evostar2019" data-widget-id="473865364518887424">Tweets by @Evostar2019</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
@@ -63,12 +63,11 @@
 <a href="https://www.facebook.com/evostarconf"><img src="img/facebook.png"></a>
 <a href="http://www.linkedin.com/groups?gid=1908983"><img src="img/linkedin.png"></a>
 <a href="http://species-society.dei.uc.pt/"><img width="25%" src="img/species.png"></a>
-<a href="http://en.unipr.it/"><img width="15%" src="img/parmalogo.jpg"></a>
 <a href="https://www.napier.ac.uk/"><img width="15%" src="img/napier.jpg"></a>
 <br>
 
 </div>
-Banner photo by <a href="https://commons.wikimedia.org/wiki/File:Piazza_Duomo_Parma_2009-08.jpg">Filippo Aneli</a> - CC-BY
+Banner photo by <a href="https://www.flickr.com/photos/poly-image/14691590132">Polybert49</a> - CC-BY
 </footer>
 
 </div>

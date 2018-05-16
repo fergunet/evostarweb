@@ -1,6 +1,6 @@
  <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">BIO</span> 2018<h2>
+        <h2>Evo<span class="red">BIO</span> 2019<h2>
    </div>
 
 
@@ -36,7 +36,7 @@ Possible topics of interest include, but are not limited to:
 </ul>
 
 <p>
-For more information, visit our web page at <a href="http://www.evostar.org/2018/">http://www.evostar.org/2018/</a>, or follow us on Twitter @EVOBio2018, join our evobio2018 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
+For more information, visit our web page at <a href="http://www.evostar.org/2019/">http://www.evostar.org/2019/</a>, or follow us on Twitter @EVOBio2019, join our evobio2019 group on LinkedIn and our EvoBIO group on Facebook, or email to evobio.conference(at)gmail.com
 </p>
 
 <?php include('common_to_apps_publication.php') ?>
@@ -44,7 +44,7 @@ For more information, visit our web page at <a href="http://www.evostar.org/2018
 <h3>Evo<span class="red">BIO</span> Track Chairs</h3>
 
 <ul>
-<li><strong>Federico Divina</strong><br/></li>
+<!--<li><strong>Federico Divina</strong><br/></li>
 Pablo de Olavide University, Spain<br/>
 fdiv(At)upo.es
 
@@ -52,29 +52,9 @@ fdiv(At)upo.es
 Newcastle University,UK<br/>
 jaume.bacardit(At)newcastle.ac.uk
 
-</ul>
+</ul>-->
 
 <h3>Programme Committee</h3>
-<ul>
-<li>Christian Darabos (University of Pennsylvania, USA)</li>
-<li>Jitesh Dundas (Indian Institute of Technology, India)</li>
-<li>Florentino Fernández Riverola (Universidad de Vigo, Spain)</li>
-<li>Alex Freitas (University of Kent, U.K.)</li>
-<li>Mario Giacobini (Universitá di Torino, Italy)</li>
-<li>Raffaele Giancarlo (Università degli Studi di Palermo, Italy)</li>
-<li>Rosalba Giugno (University of Verona, Italy)                 </li>
-<li>Francisco A. Goméz Vela (Pablo de Olavide University, Spain)</li>
-<li>Jin-Kao Hao (University of Angers, France)        </li>
-<li>Ting Hu (Memorial University, Canada)</li>
-<li>Elena Marchiori (Radboud Universiteit van Nijmegen, The Netherlands)   </li>
-<li>Vincent Moulton (University of East Anglia, UK)</li>
-<li>Carlotta Orsenigo (Politecnico di Milano, Italy)</li>
-<li>Clara Pizzuti (ICAR-CNR, Italy)                            </li>
-<li>Simona Rombo (Università degli Studi di Palermo, Italy)</li>
-<li>Jose Santos Reyes (Universidad de A Coruña, Spain)   </li>
-<li>Ryan Urbanowicz (University of Pennsylvania, USA)   </li>
-<li>Bing Xue Victoria (University of Wellington, New Zeland) </li>
-
-
+TBA
 </ul>
     <?php include('footer.php') ?>

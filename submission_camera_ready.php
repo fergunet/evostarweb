@@ -2,7 +2,8 @@
 
         <h2>Camera ready instructions<h2>
    </div>
-
+   TBA
+<!--
 <small>
 <strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 9 February 2018), and also ATTEND to present his/her paper.</strong>
 <p>
@@ -74,7 +75,7 @@ Example:<br/>
 <li>In camera ready, authors should not enable page numbering.</li>
 <li>If using LaTeX, please include a bibtex file, even if the bibliography is embedded into the source .tex file(s)</li>
 </ul>
-<!--<p>When preparing your camera-ready, please make sure that you omit all headers (no page numbers, no running title, no running authors). Springer will activate running title and authors in reformatting the proceedings. Therefore, specify running title and running authors in the .tex source using comments. For Word users, add the specifications without activating headers.</p>-->
+
 <p>Authors not following the instructions may result in the paper being excluded from the proceedings.</p>
 Also, before <strong>15 January 2018</strong>, you also have to send an E-mail to evostar2018@gmail.com with the title:
 "EvoStar18 attendance confirmation"
@@ -114,5 +115,5 @@ When filling in your consent to publish/copy right form you will have to enter t
 
 
 </small>
-
+-->
     <?php include('footer.php') ?>

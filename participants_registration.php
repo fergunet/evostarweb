@@ -1,11 +1,11 @@
 <?php include('header.php') ?>
 
-        <h2>Evo<span class="red">*</span> 2018 REGISTRATION<h2>
+        <h2>Evo<span class="red">*</span> 2019 REGISTRATION<h2>
    </div>
 
+TBA
 
-
-
+<!--
 <h3>Early Registration Discount Expires 28 February 2018</h3>
 <strong>Registration Closes 28 March 2018 (before Easter weekend)</strong>
  
@@ -100,7 +100,7 @@ Additional conference dinner tickets for accompanying persons may be purchased f
 <h4>Further information</h4>
 Evostar Coordinator: evostar2018@gmail.com
 
-
+-->
 
 
 

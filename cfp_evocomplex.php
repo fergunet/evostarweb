@@ -16,7 +16,7 @@ Complex systems are ubiquitous in physics, economics, sociology, biology, comput
 Studying complex systems requires composite strategies that employ various different algorithms to solve a single difficult problem. Components of such strategies may solve consecutive phases leading to the main goal (for example, consider an oil deposit exploration strategy composed of a complex memetic search algorithm and of a direct FEM solver), may be used to approach particular sub-tasks from different perspectives (as, for example, in multi-scale approaches), or may solve the main problem in different ways that are aggregated to form the final solution (as, for example, in hyper-heuristics, island GAs or multi-physics approaches).
 </p>
 <p>
-Evo<span class="red">COMPLEX</span> 2018 covers all aspects of the interaction of evolutionary algorithms -and metaheuristics in general- with complex systems. Topics of interest include, but are not limited to, the use of evolutionary algorithms for the analysis or design of complex systems, such as for example:
+Evo<span class="red">COMPLEX</span> 2019 covers all aspects of the interaction of evolutionary algorithms -and metaheuristics in general- with complex systems. Topics of interest include, but are not limited to, the use of evolutionary algorithms for the analysis or design of complex systems, such as for example:
 
 <ul>
 <li>complex networks, e.g., social networks, ecological networks, interaction networks, etc.</li>
@@ -52,34 +52,17 @@ As in the previous edition of EvoCOMPLEX, a special issue of an impact journal i
 
     <h3>Evo<span class="red">COMPLEX</span> Track Chairs</h3>
 <ul>
-	<li><strong>Carlos Cotta</strong><br/></li>
+<!--	<li><strong>Carlos Cotta</strong><br/></li>
 Universidad de Málaga, Spain<br/>
 ccottap(At)lcc.uma.es
 
 <li><strong>Robert Schaefer</strong><br/></li>
 AGH University of Science and Technology,Poland<br/>
 schaefer(At)agh.edu.pl
-</ul>	
+</ul>	-->
 
 <h3>Programme Committee</h3>
-<ul>
-<li>Jhon Amaya, UNET, Venezuela</li>
-<li>Anca Andreica, Universitatea Babe&scedil;-Bolyai, Romania</li>
-<li>Tiago Baptista, Universidade de Coimbra, Portugal</li>
-<li>Aleksander Byrski, AGH University of Science and Technology, Poland</li>
-<li>Antonio Córdoba, Universidad de Sevilla, Spain</li>
-<li>Bernabé Dorronsoro, Universidad de Cádiz, Spain</li>
-<li>Carlos Fernandes, University of Lisbon, Portugal</li>
-<li>Juan Luis Jiménez Laredo, Université du Havre, France</li>
-<li>Wac&#0322;aw Ku&scedil;, Silesian University of Technology, Poland</li>
-<li>JJ Merelo, Universidad de Granada, Spain</li>
-<li>Antonio Nebro, Universidad de Málaga, Spain</li>
-<li>Rafael Nogueras, Universidad de Málaga, Spain</li>
-<li>Anna Paszy&nacute;ska, Jagiellonian University, Poland</li>
-<li>Arkadiusz Poteralski, Silesian University of Technology, Poland</li>
-<li>Maciej Smo&#0322;ka, AGH University of Science and Technology, Poland</li>
-<li>Wojciech Turek, AGH University of Science and Technology, Poland</li>
-</ul>
+TBA
 
 
     <?php include('footer.php') ?>
