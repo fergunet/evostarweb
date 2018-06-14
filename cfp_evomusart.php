@@ -2,7 +2,7 @@
 
         <h2>Evo<span class="red">MUSART</span><h2>
    </div> 
- <h2>7th International Conference on Computational Intelligence in Music, Sound, Art and Design.
+ <h2>8th International Conference on Computational Intelligence in Music, Sound, Art and Design.
 </h2>
  <?php include('common_to_all.php') ?>
     <p>April 2019, Leipzig, Germany<br />
@@ -14,14 +14,6 @@
 
 <h3>News</h3>
 <ul>
-<li><a href="#abstracts">Accepted paper abstracts</a></li>
-<li>
-<span class="red">
-This year some papers from Evomusart will be selected for a
-new Springer book titled “The handbook of Artificial intelligence
- and the Arts” edited by Juan Romero, Penousal Machado and Gary Greenfield.
-</span>
-</li>
 </ul>
 
 <h3>About Evo<span class="red">MUSART</span></h3>
@@ -97,7 +89,7 @@ links. Feel free to browse, search and bookmark: <a href="http://evomusart-index
 
 <h3>Publication Details</h3>
 <p>
-	Submissions will be rigorously reviewed for scientific and artistic merit. Accepted papers will be presented orally or as posters at the event and included in the evostar proceedings, published by Springer Verlag in a dedicated volume of the Lecture Notes in Computer Science series. The acceptance rate at evoMUSART 2017 was 41% for papers accepted for oral presentation, and 41% for poster presentation.
+	Submissions will be rigorously reviewed for scientific and artistic merit. Accepted papers will be presented orally or as posters at the event and included in the evostar proceedings, published by Springer Verlag in a dedicated volume of the Lecture Notes in Computer Science series. The acceptance rate at evoMUSART 2018 was 39% for papers accepted for oral presentation, and 26% for poster presentation.
 </p>
 
 

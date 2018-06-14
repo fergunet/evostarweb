@@ -20,7 +20,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Evostar 201 - Leipzig</title>
+    <title>Evostar 2019 - Leipzig</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
