@@ -98,7 +98,7 @@ TBA
 
 
 		<td><img src="organisers/arnaud.jpg" width="100"></td>
-		<td><img src="organisers/luis_paquete.jpg" width="100"></td>
+		<td><img src="organisers/luis_paquete.png" width="100"></td>
 </tr>
 <tr>
 

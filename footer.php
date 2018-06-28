@@ -67,7 +67,7 @@
 <br>
 
 </div>
-Banner photo by <a href="https://www.flickr.com/photos/poly-image/14691590132">Polybert49</a> - CC-BY
+Banner photo by <a href="https://www.flickr.com/photos/ed_webster/14911736607/">Ed Webster</a> - CC-BY
 </footer>
 
 </div>
