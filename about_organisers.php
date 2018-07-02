@@ -126,7 +126,7 @@ TBA
 </tr>
 <tr>
 	<td>Antonios Liapis, Institute of Digital Games <h6> University of Malta, Malta, antonios.liapis (at) um.edu.mt</h6></td>
-	<td>Anikó Ekart,<h6> Aston University, UK, a.ekart(at)aston.ac.uk</h6></td>
+	<td>Anikó Ekárt,<h6> Aston University, UK, a.ekart(at)aston.ac.uk</h6></td>
 </tr>
 </table>
 
