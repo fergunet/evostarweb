@@ -177,15 +177,15 @@ TBA
 
  
  
-<h3>Evo<span class="red">Star</span> coordinators</h3>
+<h3>Evo<span class="red">Star</span> coordinator</h3>
 <table class="organisers">
 <tr>
-	<td><img src="organisers/jennifer_willies.jpg" width="100"></td>
+	<!--<td><img src="organisers/jennifer_willies.jpg" width="100"></td>-->
 	<td><img src="organisers/anna_esparcia2.jpg" width="100"></td>
 </tr>
 <tr>
-	<td>Jennifer Willies <h6> UK, jenniferwillies(at)gmail.com</h6></td>
-	<td>Anna Esparcia <h6> Universitat Politècnica de València, Spain, esparcia (at) upv.es</h6></td>
+	<!--<td>Jennifer Willies <h6> UK, jenniferwillies(at)gmail.com</h6></td>-->
+	<td>Anna Esparcia-Alcázar <h6> Universitat Politècnica de València, Spain, esparcia (at) upv.es</h6></td>
 </tr>
 
 </table>
