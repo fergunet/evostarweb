@@ -132,7 +132,7 @@
                         <h1>Evostar 2019</h1>
                         <hr class="small">
                         <span class="subheading">The Leading European Event on Bio-Inspired Computation.</span>
-			<span class="subheading">Leipzing, Germany. 24-26 April 2019.</span>
+			<span class="subheading">Leipzig, Germany. 24-26 April 2019.</span>
                     </div>
                 </div>
             </div>
