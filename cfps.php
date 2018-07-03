@@ -7,8 +7,8 @@
 
 <li class="list-group-item"><strong><a href="cfp_evocop.php">Evo<span class="red">COP</span></a></strong><br/>
 <li class="list-group-item"><strong><a href="cfp_evomusart.php">Evo<span class="red">MUSART</span></a></strong><br/>
-<li class="list-group-item"><strong><a href="cfp_evoapps.php">Evo<span class="red">Applications</span></a></strong><br/><br/>
-<ul class="list-group">
+<li class="list-group-item"><strong><a href="cfp_evoapps.php">Evo<span class="red">Applications</span></a></strong><br/>
+<!--<ul class="list-group">
 <li class="list-group-item"><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a></li>
 	<li class="list-group-item"><a href="cfp_evobio.php">Evo<span class="red">BIO</span></a></li>
 	<li class="list-group-item"><a href="cfp_evocomnet.php">Evo<span class="red">COMNET</span></a></li>
@@ -23,7 +23,7 @@
 <li class="list-group-item"><a href="cfp_evorobot.php">Evo<span class="red">ROBOT</span></a></li>
 <li class="list-group-item"><a href="cfp_evoset.php">Evo<span class="red">SET</span></a></li>
 <li class="list-group-item"><a href="cfp_evostoc.php">Evo<span class="red">STOC</span></a></li>
-</ul>
-<a href="programme_bestpapers.php">EvoStar Best Paper Candidates</a><br/>
-EvoStar Best Paper Awards 2019<br/>
+</ul>-->
+<li class="list-group-item"></li>
+<li class="list-group-item"><a href="programme_bestpapers.php">EvoStar Best Paper Candidates</a><br/></li>
 </ul>
