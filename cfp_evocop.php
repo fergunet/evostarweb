@@ -158,8 +158,8 @@ Springer LNCS format.
 TBA
 </ul>
 
-<h3 id="abstracts">Accepted paper abstracts</h3>
-TBA
+<!--<h3 id="abstracts">Accepted paper abstracts</h3>-->
+
 
 
     <?php include('footer.php') ?>

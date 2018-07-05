@@ -26,9 +26,7 @@
      <!-- <strong><p>An extended version of the EvoAPPLICATIONS best papers will be published in a special issue of <a href="https://link.springer.com/journal/12293">Memetic Computing</a> (Impact Factor: 1.00)</p></strong>
   -->
     <p><span id="logo">Evo<span class="red">Applications</span>
-      2019 is composed of 9 tematic areas, each focusing on an area of application of 
-      genetic and evolutionary computation and other related Computational Intelligence 
-      fields. The following thematic areas will be running in 2019: </span> </p>
+      will focus on 9 Thematic Areas: </span> </p>
     <span id="logo"> 
 <ul>
 <li>Games</li>
@@ -41,7 +39,7 @@
 <li>Social Sciences and Economics</li>
 <li>Soft & Hard Engineering</li>
 </ul>
-    
+    Please do not be deterred if your work does not fit into any of these, as new areas will arise depending on submissions. Just ensure you select the appropriate keywords to classify your paper.
  <?php include('common_to_apps_publication.php') ?> 
 
  
@@ -69,7 +67,7 @@
 
 
 
-<h3 id="abstracts">Accepted paper abstracts</h3>
+<!--<h3 id="abstracts">Accepted paper abstracts</h3>-->
 
 
 
