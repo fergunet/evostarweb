@@ -104,7 +104,7 @@ TBA
 
 	
 	<td>Arnaud Liefooghe <h6> University of Lille, France, arnaud.liefooghe (at) univ-lille1.fr</h6></td>
-	<td>Luis Paquete, <h6>University of Coimbra, Portugal, paquete(at)dei.uc.pt</h6></td>
+	<td>Luís Paquete, <h6>University of Coimbra, Portugal, paquete(at)dei.uc.pt</h6></td>
 </tr>
 </table>
 
@@ -122,7 +122,7 @@ TBA
 <table class="organisers">
 <tr>
 	<td><img src="organisers/antonios_liapis.jpg" width="100"></td>
-	<td><img src="organisers/aniko_ekart.png" width="100"></td>
+	<td><img src="organisers/aniko_ekart.jpg" width="100"></td>
 </tr>
 <tr>
 	<td>Antonios Liapis, Institute of Digital Games <h6> University of Malta, Malta, antonios.liapis (at) um.edu.mt</h6></td>
