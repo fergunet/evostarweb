@@ -8,10 +8,11 @@
 <?php include('common_to_all.php') ?>
 
 
-<ul>
+<!--<ul>
 <li><a href="#abstracts">Accepted paper abstracts</li>
 <li><a href="#lba">Late Breaking Abstracts</li>
 </ul>
+-->
     <p>Part of Evo<span class="red">*</span> 2019 (<a href="http://www.evostar.org">http://www.evostar.org</a>) 
       including: Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> and 
       Evo<span class="red">Applications</span><br />
@@ -94,7 +95,7 @@ to other EvoStar conferences such as EvoApplications.
 
 <ul>
   <li><strong>Arnaud Liefooghe</strong>, University of Lille, France, arnaud.liefooghe (at) univ-lille1.fr</li>
-<li><strong>Luis Paquete</strong>, University of Coimbra, Portugal, paquete(at)dei.uc.pt</li>
+<li><strong>Luís Paquete</strong>, University of Coimbra, Portugal, paquete(at)dei.uc.pt</li>
 
   
 
@@ -136,7 +137,7 @@ peer review.
 
 
 <h4>Reproducibility studies</h4>
-Reproducibility studies are concise and rigorous experimental studies that
+<p>Reproducibility studies are concise and rigorous experimental studies that
 replicate published experiments, and that substantially shift the confidence in
 the main results of the original study. We strongly encourage the authors to
 discuss the reasons for the new findings, such as, e.g., input data not
@@ -152,7 +153,7 @@ statistical testing procedures.  Although it is expected that textual
 similarity between the reproducibility study and the original work may arise,
 the usual plagiarism standards will be taken into account.  Reproducibility
 studies will take the form of short papers presented orally at the conference
-and published in the Springer LNCS proceedings.
+and published in the Springer LNCS proceedings.</p>
 
 
 <h4>Late breaking abstracts</h4>
@@ -179,7 +180,7 @@ authors in the submitted paper. Submit your manuscript in Springer LNCS format.
 <li>Page limit (LBAs): 1-2 pages</li>
 </ul>
 
-<p><strong>Submission link (Regular papers)</strong>: <a href="https://myreview.saclay.inria.fr/evocop19/">https://myreview.saclay.inria.fr/evocop19/</a><br /></p>
+<p><strong>Submission link (Regular papers and Reproducibility studies)</strong>: <a href="https://myreview.saclay.inria.fr/evocop19/">https://myreview.saclay.inria.fr/evocop19/</a><br /></p>
 <p><strong>Submission link (LBAs)</strong>: <a href="https://myreview.saclay.inria.fr/evocop19_lba/">https://myreview.saclay.inria.fr/evocop19_lba/</a><br /></p>
 
 <p><strong>Important Dates</strong></p>
