@@ -67,7 +67,7 @@ TBA
 	<td><img src="organisers/paul_kaufmann.jpg" width="100"></td>
 </tr>
 <tr>
-	<td>Paul Kaufmann <h6> Paderborn University, Germany, paul.kaufmann (at) gmail.com</h6>
+	<td>Paul Kaufmann <h6> Paderborn University, Germany, paul.kaufmann (at) uni-mainz.de</h6>
 </td>
 </tr>
 </table>
