@@ -22,5 +22,6 @@ Further information about Leipzig:
 <li><a href="https://english.leipzig.de/leisure-culture-and-tourism/tourism/">https://english.leipzig.de/leisure-culture-and-tourism/tourism/</a></li>
 </ul>
 See a short video about Things To Do In Leipzig at
-<a href="https://www.youtube.com/watch?v=rG8k-MgtmPc">https://www.youtube.com/watch?v=rG8k-MgtmPc</a>
+<a href="https://www.youtube.com/watch?v=rG8k-MgtmPc">https://www.youtube.com/watch?v=rG8k-MgtmPc</a><br/>
+<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/rG8k-MgtmPc" width="480"></iframe>
  <?php include('footer.php') ?>
