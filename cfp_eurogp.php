@@ -3,7 +3,7 @@
         <h2>Euro<span class="red">GP</span><h2>
    </div>
 
-<h2>21st European Conference on Genetic Programming</h2>
+<h2>22nd European Conference on Genetic Programming</h2>
 
 
 <?php include('common_to_all.php') ?> 
@@ -11,18 +11,11 @@
 <ul>
 <li><a href="#abstracts">Accepted paper abstracts</a></li>
 </ul>
-    <p>Euro<span class="red">GP</span> is the premier annual conference on Genetic 
-      Programming, the oldest and the only meeting worldwide devoted specifically 
-      to this branch of evolutionary computation. It is always a very enjoyable 
-      event attracting participants from all continents, offering excellent
-      opportunities for networking, informal contact, exchange of ideas and discussions 
-      with fellow researchers, in a friendly and relaxed environment. High quality 
-      papers describing new original research are sought on topics strongly related 
-      to the evolution of computer programs, ranging from theoretical work to 
-      innovative applications. The conference will feature a mixture of oral presentations 
-      and poster sessions. </p>
+    <p>Euro<span class="red">GP</span>  is the premier annual conference on Genetic Programming, the oldest and the only meeting worldwide devoted specifically to this   branch of evolutionary computation. 
+      It is always a high-quality, enjoyable, friendly event, attracting participants from all continents, and offering excellent opportunities for networking, informal contact, and exchange of ideas with fellow researchers. 
+      It will feature a mixture of oral presentations and poster sessions and invited keynote speakers. </p>
     <h2> Areas of Interest and Contributions</h2>
-    <p>Topics include but are not limited to:</p>
+    <p>This year, we have a special focus on real world and interdisciplinary applications of GP. A list of topics includes but is not limited to:</p>
     <ul>
 
 <li>Innovative applications of GP</li>
@@ -113,6 +106,7 @@ TBA
     <table width="100%" border="0">
       <tr class="twoColFixLtHdr"> 
         <td> <ul>
+          <li>2018 <a href="https://www.springer.com/la/book/9783319775524">LNCS 10781</a></li>
         <li>2017 <a href="http://www.springer.com/gp/book/9783319556956">LNCS 10196</a></li>
           <li>2016 <a href="http://www.springer.com/us/book/9783319306674">LNCS 9594</a></li>
         <li>2015 <a href="http://www.springer.com/us/book/9783319165004">LNCS 9025</a></li>
@@ -182,16 +176,10 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
       peer reviewed by at least three members of the program committee. The reviewing 
       process will be double-blind, so please omit information about the authors 
       in the submitted paper. Submit your manuscript in <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">Springer 
-      LNCS format</a>. </p>
+      LNCS format</a>. Page limit is 16 pages.</p>
 
-      <p>EuroGP accepts two kind of submissions: full papers and short papers.
-Full papers require novel and complete research work and have a limit of
-16 pages. Short papers should
-present complete research or interesting preliminary results and have a limit
-of 8 pages. Both types of submission will undergo the same blind review
-process and all accepted papers will be
-included in the LNCS proceedings. 
-</p>
+
+
     
 <p>
       Authors of accepted papers will have to improve their paper on the basis 
@@ -200,17 +188,12 @@ included in the LNCS proceedings.
       for the conference, attend the conference and present the work.</p>
  </p>   
 
+   <p>Submission link: <a href="https://myreview.saclay.inria.fr/eurogp19">https://myreview.saclay.inria.fr/eurogp19</a></p>
+
  <h2>Presentation details</h2>
 
 
-There are two types of presentation:
-<ul>
-<li>Long talk (20 minutes + 5 min questions). Authors can optionally bring a poster to present at the poster session.</li>
-<li>Short talk (10 minutes, no questions). Authors MUST also bring a poster to present at the poster session.</li>
-</ul>
-Short papers are only eligible for short talks. Authors of long papers will be notified in advance of the type of presentation (short/long).
-    <p>Submission link: <a href="https://myreview.saclay.inria.fr/eurogp19">https://myreview.saclay.inria.fr/eurogp19</a></p>
-      <br />
+TBA
 
 <h3 id="abstracts">Accepted paper abstracts</h3>
 
