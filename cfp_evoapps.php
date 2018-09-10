@@ -45,7 +45,7 @@
 
  
     <span id="logo"> 
-    <h3>Evo<span class="red">Publication</span> 
+    <h3>Evo<span class="red">Apps</span> 
       coordinator</h3>
     <blockquote> 
       <p><span><strong>Paul Kaufmann </strong> <br />
