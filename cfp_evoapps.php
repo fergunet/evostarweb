@@ -54,8 +54,10 @@
     </blockquote>
 
 <h3>Evo<span class="red">Applications</span> Publication Chair</h3>
-    <blockquote> 
-TBA
+ <blockquote> 
+      <p><span><strong>Kyrre Glette</strong> <br />
+       University of Oslo, Norway<br/>
+        <em> kyrrehg(At)ifi.uio.no </em></span></p>
     </blockquote>
 
 
