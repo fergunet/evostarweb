@@ -78,10 +78,11 @@ TBA
 
 <table class="organisers">
 <tr>
-	<td><img src="organisers/kyrre_glette.jpg" width="100"></td>
+	<td><img src="organisers/TBA.jpg" width="100"></td>
 </tr>
 <tr>
-	<td><h6> Kyrre Glette <h6>University of Oslo, Norway, kyrrehg(At)ifi.uio.no </h6> </h6></td>
+	<!--<td> Kyrre Glette <h6>University of Oslo, Norway, kyrrehg(At)ifi.uio.no </h6></td>-->
+	<td><h6> TBA</h6> </h6></td>
 </tr>
 </table>
 
