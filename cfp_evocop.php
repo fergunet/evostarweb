@@ -108,7 +108,86 @@ to other EvoStar conferences such as EvoApplications.
 
 <h3>Programme Committee</h3>
 <ul>
-TBA
+<li>Hernán Aguirre, Shinshu University, Japan</li>
+<li>Enrique Alba, University of Málaga, Spain</li>
+<li>Richard Allmendinger, University of Manchester, UK</li>
+<li>Thomas Bartz-Beielstein, Cologne University of Applied Sciences, Germany</li>
+<li>Matthieu Basseur, University of Angers, France</li>
+<li>Benjamin Biesinger, Austrian Institute of Technology, Austria</li>
+<li>Christian Blum, Artificial Intelligence Research Institute</li>
+<li>(IIIA-CSIC), Bellaterra, Spain</li>
+<li>Sandy Brownlee, University of Stirling, UK</li>
+<li>Pedro Castillo, University of Granada, Spain</li>
+<li>Marco Chiarandini, University of Southern Denmark, Denmark</li>
+<li>Francisco Chicano, University of Málaga, Spain</li>
+<li>Carlos Coello Coello, CINVESTAV-IPN, Mexico</li>
+<li>Carlos Cotta, University of Málaga, Spain</li>
+<li>Bilel Derbel, University of Lille, France</li>
+<li>Karl Doerner, Johannes Kepler University Linz, Austria</li>
+<li>Carola Doerr, CNRS and Sorbonne University Paris, France</li>
+<li>Benjamin Doerr, LIX-Ecole Polytechnique, France</li>
+<li>Paola Festa, Universitá di Napoli Federico II, Italy</li>
+<li>Carlos Fonseca, University of Coimbra, Portugal</li>
+<li>Bernd Freisleben, University of Marburg, Germany</li>
+<li>Carlos Garcia-Martinez, University of Córdoba, Spain</li>
+<li>Adrien Goeffon, University of Angers, France</li>
+<li>Jens Gottlieb, SAP SE, Germany</li>
+<li>Andreia Guerreiro, University of Coimbra, Portugal</li>
+<li>Walter Gutjahr, University of Vienna, Austria</li>
+<li>Jin-Kao Hao, University of Angers, France</li>
+<li>Emma Hart, Edinburgh Napier University, UK</li>
+<li>Geir Hasle, SINTEF Digital, Norway</li>
+<li>Bin Hu, Austrian Institute of Technology, Austria</li>
+<li>Thomas Jansen, Aberystwyth University, UK</li>
+<li>Andrzej Jaszkiewicz, Poznan University of Technology, Poland</li>
+<li>Ahmed Kheiri, Lancaster University, UK</li>
+<li>Mario Koeppen, Kyushu Institute of Technology, Japan</li>
+<li>Timo Kötzing, Hasso Plattner Institute, Germany</li>
+<li>Frederic Lardeux, University of Angers, France</li>
+<li>Per Kristian Lehre, University of Birmingham, UK</li>
+<li>Rhyd Lewis, Cardiff University, UK</li>
+<li>Arnaud Liefooghe, University of Lille, France</li>
+<li>Manuel López-Ibáñez, University of Manchester, UK</li>
+<li>Jose Antonio Lozano, University of the Basque Country, Spain</li>
+<li>Gabriel Luque, University of Málaga, Spain</li>
+<li>Juan Julian Merelo, University of Granada, Spain</li>
+<li>Krzysztof Michalak, University of Economics, Wroclaw, Poland</li>
+<li>Martin Middendorf, University of Leipzig, Germany</li>
+<li>Christine L. Mumford, Cardiff University, UK</li>
+<li>Nysret Musliu, Vienna University of Technology, Austria</li>
+<li>Gabriela Ochoa, University of Stirling, UK</li>
+<li>Pietro Oliveto, University of Sheffield, UK</li>
+<li>Beatrice Ombuki-Berman, Brock University, Canada</li>
+<li>Luís Paquete, University of Coimbra, Portugal</li>
+<li>Mario Pavone, University of Catania, Italy</li>
+<li>Paola Pellegrini, French institute of science and technology for</li>
+<li>transport, France</li>
+<li>Francisco J. Pereira, University of Coimbra, Portugal</li>
+<li>Daniel Porumbel, CNAM, France</li>
+<li>Jakob Puchinger, SystemX-Centrale Supélec, France</li>
+<li>Günther Raidl, Vienna University of Technology, Austria</li>
+<li>Maria Cristina Riff, Universidad Técnica Federico Santa María, Chile</li>
+<li>Marcus Ritt, Universidade Federal do Rio Grande do Sul, Brasil</li>
+<li>Eduardo Rodriguez-Tello, CINVESTAV - Tamaulipas, Mexico</li>
+<li>Andrea Roli, Università di Bologna, Italy</li>
+<li>Peter Ross, Edinburgh Napier University, UK</li>
+<li>Frederic Saubion, University of Angers, France</li>
+<li>Patrick Siarry, University of Paris 12, France</li>
+<li>Kevin Sim, Edinburgh Napier University, UK</li>
+<li>Jim Smith, University of the West of England, UK</li>
+<li>Giovanni Squillero, Politecnico di Torino, Italy</li>
+<li>Thomas Stuetzle, Université Libre de Bruxelles, Belgium</li>
+<li>Andrew Sutton, University of Minnesota Duluth, USA</li>
+<li>El-ghazali Talbi, University of Lille, France</li>
+<li>Sara Tari, University of Angers, France</li>
+<li>Renato Tinós, University of Sao Paulo, Brasil</li>
+<li>Nadarajen Veerapen, University of Lille, France</li>
+<li>Sebastien Verel, Université du Littoral Cote d'Opale, France</li>
+<li>Darrell Whitley, Colorado State University, USA</li>
+<li>Carsten Witt, Technical University of Denmark, Denmark</li>
+<li>Bing Xue, Victoria University of Wellington, New Zealand</li>
+<li>Takeshi Yamada, NTT Communication Science Laboratories, Japan</li>
+<li>Christine Zarges, Aberystwyth University, UK</li>
 </ul>
 
 

@@ -38,7 +38,8 @@
 <li>Numerical Optimization -  Theory, Benchmarks and Applications</li>
 <li>Robotics</li>
 <li>Social Sciences and Economics</li>
-<li>Soft & Hard Engineering</li>
+<li>Software Engineering</li>
+<li>Engineering and Real World Applications</li>
 </ul>
     Please do not be deterred if your work does not fit into any of these, as new areas will arise depending on submissions. Just ensure you select the appropriate keywords to classify your paper.
  <?php include('common_to_apps_publication.php') ?> 
