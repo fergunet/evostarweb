@@ -30,6 +30,7 @@
       will focus on the following Thematic Areas: </span> </p>
     <span id="logo"> 
 <ul>
+<li>Engineering and Real World Applications</li>
 <li>Games</li>
 <li>Image & Signal Processing, Vision & Pattern recognition</li>
 <li>Life Sciences</li>
@@ -39,7 +40,7 @@
 <li>Robotics</li>
 <li>Social Sciences and Economics</li>
 <li>Software Engineering</li>
-<li>Engineering and Real World Applications</li>
+
 </ul>
     Please do not be deterred if your work does not fit into any of these, as new areas will arise depending on submissions. Just ensure you select the appropriate keywords to classify your paper.
  <?php include('common_to_apps_publication.php') ?> 
@@ -61,8 +62,14 @@
         <em> kyrrehg(At)ifi.uio.no </em></span></p>-->
     </blockquote>
 
-
-
+<h3>Evo<span class="red">Apps</span> area chairs</h3>
+<ul>
+<li> <span class="red">Engineering + Real world applications:</span>  Emma Hart, Sara Silva</li>
+<li> <span class="red">Life sciences:</span> James Foster, Jaume Bacardit</li>
+<li> <span class="red">Networks:</span> JJ Merelo, Juan Luis (Juanlu) Jiménez-Laredo</li>
+<li> <span class="red">Neuroevolution:</span> Julian Miller, Sebastian Risi</li>
+<li> <span class="red">Robotics:</span> Gusz Eiben, Kyrre Glette</li>
+</ul>
 
 
 
