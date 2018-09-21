@@ -36,7 +36,7 @@ satisfiability, energy optimisation, cutting, packing, and planning problems.</p
 
 
 <p>
-The EvoCOP 2019 conference will be held in the city of Leipzing, Germany,
+The EvoCOP 2019 conference will be held in the city of Leipzig, Germany,
 together with EuroGP (the 22nd European Conference on Genetic Programming),
 EvoMUSART (the 8th European conference on evolutionary and biologically inspired
 music, sound, art and design) and EvoApplications (the 22nd European Conference
