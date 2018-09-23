@@ -65,9 +65,11 @@
 <h3>Evo<span class="red">Apps</span> area chairs</h3>
 <ul>
 <li> <span class="red">Engineering + Real world applications:</span>  Emma Hart, Sara Silva</li>
+<li> <span class="red">Image & Signal Processing, Vision & Pattern recognition:</span> Stephen Smith and Monica Mordonini </li>
 <li> <span class="red">Life sciences:</span> James Foster, Jaume Bacardit</li>
 <li> <span class="red">Networks:</span> JJ Merelo, Juan Luis (Juanlu) Jiménez-Laredo</li>
 <li> <span class="red">Neuroevolution:</span> Julian Miller, Sebastian Risi</li>
+<li> <span class="red">Numerical optimization:</span> Günther Rudolf  and Oliver Kramer</li>
 <li> <span class="red">Robotics:</span> Gusz Eiben, Kyrre Glette</li>
 </ul>
 
