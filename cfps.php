@@ -4,10 +4,10 @@
 
 <ul class="list-group">
 <li class="list-group-item"><strong><a href="cfp_eurogp.php">Euro<span class="red">GP</span></a></strong><br/></li>
-
+<li class="list-group-item"><strong><a href="cfp_evoapps.php">Evo<span class="red">Applications</span></a></strong><br/>
 <li class="list-group-item"><strong><a href="cfp_evocop.php">Evo<span class="red">COP</span></a></strong><br/>
 <li class="list-group-item"><strong><a href="cfp_evomusart.php">Evo<span class="red">MUSART</span></a></strong><br/>
-<li class="list-group-item"><strong><a href="cfp_evoapps.php">Evo<span class="red">Applications</span></a></strong><br/>
+
 <!--<ul class="list-group">
 <li class="list-group-item"><a href="cfp_evobafin.php">Evo<span class="red">BAFIN</span></a></li>
 	<li class="list-group-item"><a href="cfp_evobio.php">Evo<span class="red">BIO</span></a></li>
