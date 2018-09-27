@@ -70,7 +70,7 @@
 <li> <span class="red">Neuroevolution:</span> Julian Miller, Sebastian Risi</li>
 <li> <span class="red">Numerical optimization:</span> Günther Rudolf  and Oliver Kramer</li>
 <li> <span class="red">Robotics:</span> Gusz Eiben, Kyrre Glette</li>
-<li> <span class="red">General:</span> Carlos Cotta</li>
+<li> <span class="red">General:</span> Carlos Cotta, Paco Fernandez, Giovanni Iacca and Trung Thanh Nguyen</li>
 </ul>
 
 
