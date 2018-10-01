@@ -68,7 +68,7 @@
 <li> <span class="red">Life sciences:</span> James Foster, Jaume Bacardit</li>
 <li> <span class="red">Networks:</span> JJ Merelo, Juan Luis (Juanlu) Jiménez-Laredo</li>
 <li> <span class="red">Neuroevolution:</span> Julian Miller, Sebastian Risi</li>
-<li> <span class="red">Numerical optimization:</span> Günther Rudolf, Oliver Kramer</li>
+<li> <span class="red">Numerical optimization:</span> Günter Rudolph, Oliver Kramer</li>
 <li> <span class="red">Robotics:</span> Gusz Eiben, Kyrre Glette</li>
 <li> <span class="red">General:</span> Carlos Cotta, Paco Fernandez, Giovanni Iacca, Trung Thanh Nguyen</li>
 </ul>
