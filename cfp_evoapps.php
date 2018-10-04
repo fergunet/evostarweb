@@ -73,6 +73,19 @@
 <li> <span class="red">General:</span> Carlos Cotta, Paco Fernandez, Giovanni Iacca, Trung Thanh Nguyen</li>
 </ul>
 
+<h3>Evo<span class="red">Apps</span> steering committee</h3>
+<ul>
+<li>Stefano Cagnoni</li>
+<li>Anna I Esparcia-Alcázar</li>
+<li>Mario Giacobinni</li>
+<li>Antonio Mora</li>
+<li>Günther Raidl</li>
+<li>Franz Rothlauf</li>
+<li>Kevin Sim</li>
+<li>Gionvanni Squillero</li>
+<li>Honorary member: Cecilia di Cio</li>
+</ul>
+
 
 
 <!--<h3 id="abstracts">Accepted paper abstracts</h3>-->
