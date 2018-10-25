@@ -12,12 +12,12 @@
             <div class="panel-body">
               
              <!-- <span class="gray"> ESTO PONE EN GRIS LAS FECHAS PASADAS!-->
-              <strong>Submission Deadline:</strong> November 1st 2018<br/>
+              <strong>Submission Deadline:</strong> <span class="gray">1 November 2018</span><br/>
 
-              <!--<strong><span class="red">EXTENDED SUBMISSION DEADLINE</span>:</strong> 10 November 2017<br/> <!--<em>(site remains open for final changes until 21 Nov)</em><br/>-->
-              <strong>Notification:</strong> January 7th 2019<br/>
+              <strong><span class="red">EXTENDED SUBMISSION DEADLINE</span>:</strong> 12 November 2018<br/> <!--<em>(site remains open for final changes until 21 Nov)</em><br/>-->
+              <strong>Notification:</strong> 14 January 2019<br/>
             
-              <strong>Camera-ready:</strong> TBA<br/>
+              <strong>Camera-ready:</strong> 11 February<br/>
               <strong>Mandatory registration per paper:</strong> TBA</br>
               <!--<strong>Student bursary deadline:</strong> TBA <br/>-->
               <strong>Early registration discount:</strong> TBA<br/></span>
