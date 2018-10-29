@@ -160,14 +160,13 @@ to other EvoStar conferences such as EvoApplications.
 <li>Beatrice Ombuki-Berman, Brock University, Canada</li>
 <li>Luís Paquete, University of Coimbra, Portugal</li>
 <li>Mario Pavone, University of Catania, Italy</li>
-<li>Paola Pellegrini, French institute of science and technology for</li>
-<li>transport, France</li>
+<li>Paola Pellegrini, French institute of science and technology for transport, France</li>
 <li>Francisco J. Pereira, University of Coimbra, Portugal</li>
 <li>Daniel Porumbel, CNAM, France</li>
 <li>Jakob Puchinger, SystemX-Centrale Supélec, France</li>
 <li>Günther Raidl, Vienna University of Technology, Austria</li>
 <li>Maria Cristina Riff, Universidad Técnica Federico Santa María, Chile</li>
-<li>Marcus Ritt, Universidade Federal do Rio Grande do Sul, Brasil</li>
+<li>Marcus Ritt, Universidade Federal do Rio Grande do Sul, Brazil</li>
 <li>Eduardo Rodriguez-Tello, CINVESTAV - Tamaulipas, Mexico</li>
 <li>Andrea Roli, Università di Bologna, Italy</li>
 <li>Peter Ross, Edinburgh Napier University, UK</li>
@@ -180,7 +179,7 @@ to other EvoStar conferences such as EvoApplications.
 <li>Andrew Sutton, University of Minnesota Duluth, USA</li>
 <li>El-ghazali Talbi, University of Lille, France</li>
 <li>Sara Tari, University of Angers, France</li>
-<li>Renato Tinós, University of Sao Paulo, Brasil</li>
+<li>Renato Tinós, University of Sao Paulo, Brazil</li>
 <li>Nadarajen Veerapen, University of Lille, France</li>
 <li>Sebastien Verel, Université du Littoral Cote d'Opale, France</li>
 <li>Darrell Whitley, Colorado State University, USA</li>
