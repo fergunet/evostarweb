@@ -78,11 +78,10 @@ TBA
 
 <table class="organisers">
 <tr>
-	<td><img src="organisers/TBA.jpg" width="100"></td>
+	<td><img src="organisers/pedro-castillo.jpg" width="100"></td>
 </tr>
 <tr>
-	<!--<td> Kyrre Glette <h6>University of Oslo, Norway, kyrrehg(At)ifi.uio.no </h6></td>-->
-	<td><h6> TBA</h6> </h6></td>
+	<td> Pedro A. Castillo <h6>University of Granada, Spain, pacv(At)ugr.es </h6></td>
 </tr>
 </table>
 
