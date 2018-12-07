@@ -22,7 +22,7 @@ TBA
 
 
 <h3>Euro<span class="red">GP</span></h3>
-<h4>22th European Conference on Genetic Programming</h4>
+<h4>22nd European Conference on Genetic Programming</h4>
  
 <strong>Euro<span class="red">GP</span> programme chairs :</strong>
 
@@ -58,7 +58,7 @@ TBA
 
 
 <h3>Evo<span class="red">APPLICATIONS</span></h3>
-<h4>22th International Conference on the Applications of Evolutionary Computation</h4>
+<h4>22nd International Conference on the Applications of Evolutionary Computation</h4>
 <strong>Evo<span class="red">Applications</span> coordinator :</strong>
 
 
