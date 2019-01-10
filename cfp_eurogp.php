@@ -86,7 +86,73 @@
 
     <h2>Programme Committee </h2>
     <ul>
-TBA
+<li>  Ignacio Arnaldo , Massachusetts Institute of Technology , USA </li>
+<li>  R. Muhammad Atif  Azad  , Birmingham City University  , UK  </li>
+<li>  Wolfgang  Banzhaf , Michigan State University , USA </li>
+<li>  Helio Barbosa , Federal University of Juiz de Fora  , Brazil  </li>
+<li>  Heder Bernardino  , Federal University of Juiz de Fora  , Brazil  </li>
+<li>  Anthony Brabazon  , University College Dublin , Ireland </li>
+<li>  Stefano Cagnoni , University of Parma , Italy </li>
+<li>  Mauro Castelli  , Universidade Nova de Lisboa , Portugal  </li>
+<li>  Ernesto Costa , University of Coimbra , Portugal  </li>
+<li>  Antonio Della Cioppa  , University of Salerno , Italy </li>
+<li>  Marc  Ebner , Universität Greifswald  , Germany </li>
+<li>  Anna Isabel   Esparcia-Alcazar  , Universitat Politècnica de València , Spain </li>
+<li>  Francisco Fernandez de Vega , Universidad de Extremadura  , Spain </li>
+<li>  Gianluigi Folino  , ICAR-CNR  , Italy </li>
+<li>  James Foster  , University of Idaho , USA </li>
+<li>  Christian Gagné , Université Laval  , Canada  </li>
+<li>  Jin-Kao Hao , University of Angers  , France  </li>
+<li>  Inman Harvey  , University of Sussex  , UK  </li>
+<li>  Erik  Hemberg , Massachusetts Institute of Technology , USA </li>
+<li>  Malcolm Heywood , Dalhousie University  , Canada  </li>
+<li>  Ting  Hu  , Memorial University , Canada  </li>
+<li>  Domagoj Jakobović , University of Zagreb  , Croatia </li>
+<li>  Colin Johnson , University of Kent  , UK  </li>
+<li>  Ahmed Kattan  , Loughborough University , UK  </li>
+<li>  Krzysztof Krawiec , Poznan University of Technology , Poland  </li>
+<li>  Jiri  Kubalik , Czech Technical University in Prague  , Czech Republic  </li>
+<li>  William B.  Langdon , University College London , UK  </li>
+<li>  Kwong Sak Leung , The Chinese University of Hong Kong , Hong Kong </li>
+<li>  Nuno  Lourenço  , University of Coimbra , Portugal  </li>
+<li>  Penousal  Machado , University of Coimbra , Portugal  </li>
+<li>  Radek Matousek  , Brno University of Technology , Czech Republic  </li>
+<li>  James McDermott , University College Dublin , Ireland </li>
+<li>  Eric  Medvet  , University of Trieste , Italy </li>
+<li>  Julian  Miller  , University of York  , UK  </li>
+<li>  Xuan Hoai Nguyen  , Hanoi University  , Vietnam </li>
+<li>  Quang Uy  Nguyen  , Military Technical Academy  , Vietnam </li>
+<li>  Miguel  Nicolau , University College Dublin , Ireland </li>
+<li>  Julio Cesar Nievola , Pontificia Universidade Catolica do Parana  , Brazil  </li>
+<li>  Michael O'Neill , University College Dublin , Ireland </li>
+<li>  Una-May OReilly , Massachusetts Institute of Technology , USA </li>
+<li>  Ender Ozcan , University of Nottingham  , UK  </li>
+<li>  Gisele  Pappa , Universidade Federal de Minas Gerais  , Brazil  </li>
+<li>  Andrew J. Parkes  , University of Nottingham  , UK  </li>
+<li>  Tomasz  Pawlak  , Poznan University of Technology , Poland  </li>
+<li>  Stjepan Picek , Delft University of Technology  , Netherlands </li>
+<li>  Clara Pizzuti , Institute for High Performance Computing and Networking , Italy </li>
+<li>  Thomas  Ray , University of Oklahoma  , USA </li>
+<li>  Denis Robilliard  , Univ Lille Nord de France , France  </li>
+<li>  Peter Rockett , University of Sheffield , UK  </li>
+<li>  Álvaro  Rubio-Largo , Universidad de Extremadura  , Spain </li>
+<li>  Conor Ryan  , University of Limerick  , Ireland </li>
+<li>  Lukas Sekanina  , Brno University of Technology , Czech Republic  </li>
+<li>  Marc  Schoenauer  , INRIA , France  </li>
+<li>  Sara  Silva , University of Lisbon  , Portugal  </li>
+<li>  Moshe Sipper  , Ben-Gurion University , Isreal  </li>
+<li>  Lee Spector , Hampshire College , USA </li>
+<li>  Jerry Swan  , University of York  , UK  </li>
+<li>  Ivan  Tanev , Doshisha University , Japan </li>
+<li>  Ernesto Tarantino , ICAR-CNR  , Italy </li>
+<li>  Leonardo  Trujillo  , Instituto TecnolÃ³gico de Tijuana , Mexico  </li>
+<li>  Leonardo  Vanneschi , Universidade Nova de Lisboa , Portugal  </li>
+<li>  Zdenek  Vasicek , Brno University of Technology , Czech Republic  </li>
+<li>  David White , University of Sheffield , UK  </li>
+<li>  Man Leung Wong  , Lingnan University  , Hong Kong </li>
+<li>  Bing  Xue , Victoria University of Wellington , New Zealand </li>
+<li>  Mengjie Zhang , Victoria University of Wellington , New Zealand </li>
+
 </ul>
     <h2>Further Information</h2>
     <p>A comprehensive bibliography of genetic programming literature and links 
@@ -195,7 +261,45 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
 
 TBA
 
-<h3 id="abstracts">Accepted paper abstracts</h3>
+<h3 id="abstracts">Accepted papers</h3>
 
-TBA
+<h4>Long presentations </h4>
+<strong>A Genetic Programming Approach to Predict Mosquito Abundance</strong><br/>
+<em>Riccardo Gervasi, Irene Azzali, Donal Bisanzio, Mario Giacobini, Andrea Mosca, Luigi Bertolotti</em><br/><br/>
+<strong>A Model of External Memory for Navigation in Partially Observative Visual Reinforcement Learning Tasks</strong><br/>
+<em>Robert Smith, Malcolm Heywoo</em><br/><br/>
+<strong>Ariadne: Evolving test data using Grammatical Evolution</strong><br/>
+<em>Muhammad sheraz Anjum, Conor Ryan</em><br/><br/>
+<strong>Can Genetic Programming Do Manifold Learning Too?</strong><br/>
+<em>Andrew Lensen, Bing Xue, Mengjie Zhang</em><br/><br/>
+<strong>Cartesian GP as an Optimizer of Phenotypes Evolved with Geometric Semantic GP</strong><br/>
+<em>Ondrej Koncal, Lukas Sekanina</em><br/><br/>
+<strong>Complex Network Analysis of a Genetic Programming Phenotype Network</strong><br/>
+<em>Ting Hu, Marco Tomassini, Wolfgang Banzhaf</em><br/><br/>
+<strong>Fault Detection and Classification for Induction Motors using Genetic Programming</strong><br/>
+<em>Yu Zhang, Ting Hu, Xiaodong Liang, Mohammad Zawad Ali, Md Nasmus Sakib Khan Shabbir</em><br/><br/>
+<strong>Improving Genetic Programming with Novel Exploration - Exploitation Control</strong><br/>
+<em>Jonathan Kelly, Erik Hemberg, Una-May O'Reilly</em><br/><br/>
+<strong>Quantum Program Synthesis: Swarm Algorithms and Benchmarks</strong><br/>
+<em>Timothy Atkinson, John Drake, Athena Karsa, Jerry Swan</em><br/><br/>
+<strong>Solution and Fitness Evolution (SAFE): Coevolving Solutions and Their Objective Functions</strong><br/>
+<em>Moshe Sipper, Jason Moore, Ryan Urbanowicz</em><br/><br/>
+<strong>Towards a Scalable EA-based Optimization of Digital Circuits</strong><br/>
+<em>Jitka Kocnova, Zdenek Vasicek</em><br/><br/>
+<strong>Why is Auto-Encoding Difficult for Genetic Programming?</strong><br/>
+<em>James McDermott</em><br/><br/>
+
+<h4>Short (Poster) presentations</h4>
+<strong>A Vectorial Approach to Genetic Programming</strong><br/>
+<em>Irene Azzali, Leonardo Vanneschi, Sara Silva, Illya Bakurov, Mario Giacobini</em><br/><br/>
+<strong>Comparison of Genetic Programming Methods on Design of Cryptographic Boolean Functions</strong><br/>
+<em>Jakub Husa</em><br/><br/>
+<strong>Evolving AVX512 Parallel C Code using GP</strong><br/>
+<em>W. Langdon, R. Lorenz</em><br/><br/>
+<strong>Fast DENSER: Efficient Deep NeuroEvolution</strong><br/>
+<em>Filipe Assunção, Nuno Lourenço, Penousal Machado, Bernardete Ribeiro</em><br/><br/>
+<strong>Hyper-bent Boolean Functions and Evolutionary Algorithms</strong><br/>
+<em>Luca Mariot, Domagoj Jakobovic, Alberto Leporati, Stjepan Picek</em><br/><br/>
+<strong>Learning Class Disjointness Axioms Using Grammatical Evolution</strong><br/>
+<em>Thu Huong Nguyen, Andrea G.B. Tettamanzi</em><br/><br/>
     <?php include('footer.php') ?>
