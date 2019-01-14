@@ -127,7 +127,7 @@ to other EvoStar conferences such as EvoApplications.
 <li>Carola Doerr, CNRS and Sorbonne University Paris, France</li>
 <li>Benjamin Doerr, LIX-Ecole Polytechnique, France</li>
 <li>Paola Festa, Universitá di Napoli Federico II, Italy</li>
-<li>Carlos Fonseca, University of Coimbra, Portugal</li>
+<li>Carlos M. Fonseca, University of Coimbra, Portugal</li>
 <li>Bernd Freisleben, University of Marburg, Germany</li>
 <li>Carlos Garcia-Martinez, University of Córdoba, Spain</li>
 <li>Adrien Goeffon, University of Angers, France</li>
@@ -258,13 +258,11 @@ authors in the submitted paper. Submit your manuscript in Springer LNCS format.
 <li>Page limit (LBAs): 1-2 pages</li>
 </ul>
 
+<!--
 <p><strong>Submission link (Regular papers and Reproducibility studies)</strong>: <a href="https://myreview.saclay.inria.fr/evocop19/">https://myreview.saclay.inria.fr/evocop19/</a><br /></p>
 <p><strong>Submission link (LBAs)</strong>: <a href="https://myreview.saclay.inria.fr/evocop19_lba/">https://myreview.saclay.inria.fr/evocop19_lba/</a><br /></p>
+-->
 
-<p><strong>Important Dates</strong></p>
-<ul>
-TBA
-</ul>
 
 <!--<h3 id="abstracts">Accepted paper abstracts</h3>-->
 
