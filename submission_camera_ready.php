@@ -76,7 +76,7 @@ Example:<br/>
 </ul>
 <!--<p>When preparing your camera-ready, please make sure that you omit all headers (no page numbers, no running title, no running authors). Springer will activate running title and authors in reformatting the proceedings. Therefore, specify running title and running authors in the .tex source using comments. For Word users, add the specifications without activating headers.</p>-->
 <p>Authors not following the instructions may result in the paper being excluded from the proceedings.</p>
-Also, before <strong>11 February 2019</strong>, you also have to send an E-mail to aiesparcia@gmail.com with the title:
+Also, before <strong>11 February 2019</strong>, you also have to send an E-mail to aesparcia@ieee.org with the title:
 "EvoStar19 attendance confirmation"
 which includes the following information:
 <ol>
