@@ -2,10 +2,9 @@
 
         <h2>Camera ready instructions<h2>
    </div>
-   TBA
-<!--
+
 <small>
-<strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 9 February 2018), and also ATTEND to present his/her paper.</strong>
+<strong>IMPORTANT NOTICE: To be published in the proceedings, at least one author must REGISTER and PAY for the conference (before 28 February 2019), and also ATTEND to present his/her paper.</strong>
 <p>
 Please follow Springer's LNCS instructions when preparing your paper.  <a href="ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf">ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf </a>
 </p>
@@ -19,7 +18,7 @@ Strict page limit for all evostar conferences: <strong>16 pages</strong>
 You are also encouraged to include <strong>DOI identifiers</strong> in your references.
 </p>
 <p>
-<strong>New in 2017:</strong> Authors can include their ORCID identifiers. See <a href="https://www.springer.com/gp/authors-editors/orcid">Springer's instructions</a> for details.
+<strong>New:</strong> Authors can include their ORCID identifiers. See <a href="https://www.springer.com/gp/authors-editors/orcid">Springer's instructions</a> for details.
 </p>
 
 
@@ -75,45 +74,45 @@ Example:<br/>
 <li>In camera ready, authors should not enable page numbering.</li>
 <li>If using LaTeX, please include a bibtex file, even if the bibliography is embedded into the source .tex file(s)</li>
 </ul>
-
+<!--<p>When preparing your camera-ready, please make sure that you omit all headers (no page numbers, no running title, no running authors). Springer will activate running title and authors in reformatting the proceedings. Therefore, specify running title and running authors in the .tex source using comments. For Word users, add the specifications without activating headers.</p>-->
 <p>Authors not following the instructions may result in the paper being excluded from the proceedings.</p>
-Also, before <strong>15 January 2018</strong>, you also have to send an E-mail to evostar2018@gmail.com with the title:
-"EvoStar18 attendance confirmation"
+Also, before <strong>11 February 2019</strong>, you also have to send an E-mail to aiesparcia@gmail.com with the title:
+"EvoStar19 attendance confirmation"
 which includes the following information:
 <ol>
-<li>Name of (co)author who will attend EvoStar2018 </li>
+<li>Name of (co)author who will attend EvoStar2019 </li>
 <li>If attendee is a student, their advisor has been cc-ed into this mail</li>
 <li>If a VISA is required for the attendee, the application process has started: Not-required / Yes / No.</li>
 </ol>
 
-In summary, you have to do each of the following 3 tasks no later than <strong>15 January</strong>:
+In summary, you have to do each of the following 3 tasks no later than <strong>11 February</strong>:
 <ul>
 <li>Submit a zip file containing the paper including all source files (see above for details), an authors.txt file, an abstract.txt file and a signed consent to publish/copyright form as PDF</li>
-<li>Send an email with the name of the (co)author who will attend and register at EvoStar 2018</li>
-<li>At least one author must register and pay the conference fee by <strong>9 February 2018</strong>. Failure to do so could result in the paper being excluded from publication.</li>
+<li>Send an email with the name of the (co)author who will attend and register at EvoStar 2019</li>
+<li>At least one author must register and pay the conference fee by <strong>28 February 2019</strong>. Failure to do so could result in the paper being excluded from publication.</li>
 </ul>
 
 
 <p>
-<strong>Please ensure that submissions are directed to the relevant track.</strong> Papers that are not formatted according to those guidelines, or do not respect the page limit, risk being excluded from the proceedings. Submit your final camera-ready paper NO LATER than <strong><span class="red">15 January 2018</span></strong> through the appropriate submission system at
+<strong>Please ensure that submissions are directed to the relevant track.</strong> Papers that are not formatted according to those guidelines, or do not respect the page limit, risk being excluded from the proceedings. Submit your final camera-ready paper NO LATER than <strong><span class="red">11 February 2019</span></strong> through the appropriate submission system at
 <ul>
-<li>Submission link for Evo<span class="red">APPS</span>: <a href="https://myreview.saclay.inria.fr/evoapps18/"> https://myreview.saclay.inria.fr/evoapps18/</a></li>
-<li>Submission link for Euro<span class="red">GP</span>: <a href="https://myreview.saclay.inria.fr/eurogp18"> https://myreview.saclay.inria.fr/eurogp18</a></li>
-<li>Submission link for Evo<span class="red">COP</span>: <a href="https://myreview.saclay.inria.fr/evocop18/"> https://myreview.saclay.inria.fr/evocop18/</a></li>
-<li>Submission link for Evo<span class="red">MUSART</span>: <a href="https://myreview.saclay.inria.fr/evomusart18"> https://myreview.saclay.inria.fr/evomusart18</a></li>
+<li>Submission link for Evo<span class="red">APPS</span>: <a href="https://myreview.saclay.inria.fr/evoapps19/"> https://myreview.saclay.inria.fr/evoapps19/</a></li>
+<li>Submission link for Euro<span class="red">GP</span>: <a href="https://myreview.saclay.inria.fr/eurogp19"> https://myreview.saclay.inria.fr/eurogp19</a></li>
+<li>Submission link for Evo<span class="red">COP</span>: <a href="https://myreview.saclay.inria.fr/evocop19/"> https://myreview.saclay.inria.fr/evocop19/</a></li>
+<li>Submission link for Evo<span class="red">MUSART</span>: <a href="https://myreview.saclay.inria.fr/evomusart19"> https://myreview.saclay.inria.fr/evomusart19</a></li>
 using your id and password.
 </ul>
 </p>
 
 When filling in your consent to publish/copy right form you will have to enter the editors's names and title, as follows:
 <ul>
-<li><strong>Editors for EvoAPPS:</strong> K. Sim et al. <strong>Title:</strong> Applications of Evolutionary Computation - 21st International Conference EvoApplications 2018</li>
-<li><strong>Editors for EuroGP:</strong> M. Castelli et al. <strong>Title:</strong> Genetic Programming - 21st European Conference, EuroGP 2018 </li>
-<li><strong>Editors for EvoCOP:</strong> M. Lopez-Ibañez et al. <strong>Title:</strong> Evolutionary Computation in Combinatorial Optimization - 18th European Conference, EvoCOP 2018</li>
-<li><strong>Editors for EvoMUSART:</strong> A Liapis et al. <strong>Title:</strong> Computational Intelligence in Music, Sound, Art and Design - 7th International Conference, EvoMUSART 2018</li>
+<li><strong>Editors for EvoAPPS:</strong> P. Kaufmann et al. <strong>Title:</strong> Applications of Evolutionary Computation - 22nd International Conference EvoApplications 2019</li>
+<li><strong>Editors for EuroGP:</strong> L. Sekanina et al. <strong>Title:</strong> Genetic Programming - 22nd European Conference, EuroGP 2019 </li>
+<li><strong>Editors for EvoCOP:</strong> A. Liefooghe et al. <strong>Title:</strong> Evolutionary Computation in Combinatorial Optimization - 19th European Conference, EvoCOP 2019</li>
+<li><strong>Editors for EvoMUSART:</strong> A. Ekart et al. <strong>Title:</strong> Computational Intelligence in Music, Sound, Art and Design - 8th International Conference, EvoMUSART 2019</li>
 </ul>
 
 
 </small>
--->
+
     <?php include('footer.php') ?>

@@ -17,8 +17,8 @@
               <strong><span class="red">EXTENDED SUBMISSION DEADLINE</span>:</strong> 12 November 2018<br/> <!--<em>(site remains open for final changes until 21 Nov)</em><br/>-->
               <strong>Notification:</strong> 14 January 2019<br/>
             
-              <strong>Camera-ready:</strong> 11 February<br/>
-              <strong>Mandatory registration per paper:</strong> TBA</br>
+              <strong>Camera-ready:</strong> 11 February 2019<br/>
+              <strong>Mandatory registration per paper:</strong> 28 February 2019</br>
               <!--<strong>Student bursary deadline:</strong> TBA <br/>-->
               <strong>Early registration discount:</strong> TBA<br/></span>
               <strong>Registration deadline:</strong> TBA <br/>
