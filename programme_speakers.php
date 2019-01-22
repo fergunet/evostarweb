@@ -15,7 +15,7 @@
 <p>
 <strong>Bio:</strong> Dr. Manja Marz is Full Professor for High Throughput Sequencing Analysis at the Faculty of
 Mathematics and Computer Science of the Friedrich Schiller University Jena, Germany and managing
-director of European Virus Bioinformatics Center. She studied Biology and Computer Science at he
+director of European Virus Bioinformatics Center. She studied Biology and Computer Science at 
 the Universities in Edinburgh, Darmstadt and Leipzig, and received a Ph.D in Bioinformatics from the
 University of Leipzig. Dr. Marz is deputy editor of PLoS Computational Biology and Biology direct. Her
 main research interest are bioinformatic analysis and system biology of viruses, comparative
