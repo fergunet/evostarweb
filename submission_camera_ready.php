@@ -58,13 +58,13 @@ remaining lines: abstract of the paper (in ASCII without line breaks).
 (one author may sign on behalf of all authors of a paper).<br/>
 </ul>
 <p>
-Download the LNCS consent to publish/copyright form <a href="http://resource-cms.springer.com/springer-cms/rest/v1/content/731196/data/v3">from here</a>. 
+Download the LNCS consent to publish/copyright form <a href="files/LNCS-Springer_Copyright_Form.pdf">from here</a>. 
 </p>
 
 Other considerations:
 <ul>
 <li>When submitting a paper, please specify between <strong>three to five keywords</strong>.</li>
-<li>EvoAPP's authors, please be sure to specify a <strong>secondary topic</strong>, i.e., the second more relevant track.</li>
+<li>EvoAPP's authors, please be sure to specify a <strong>secondary topic</strong>.</li>
 <li>In camera ready, and using LaTeX, authors should fill up \authorrunning and \titlerunning, without activating them (commented).</li>
 Example:<br/>
 <em>
@@ -94,7 +94,7 @@ In summary, you have to do each of the following 3 tasks no later than <strong>1
 
 
 <p>
-<strong>Please ensure that submissions are directed to the relevant track.</strong> Papers that are not formatted according to those guidelines, or do not respect the page limit, risk being excluded from the proceedings. Submit your final camera-ready paper NO LATER than <strong><span class="red">11 February 2019</span></strong> through the appropriate submission system at
+<strong>Please ensure that submissions are directed to the relevant conference.</strong> Papers that are not formatted according to those guidelines, or do not respect the page limit, risk being excluded from the proceedings. Submit your final camera-ready paper NO LATER than <strong><span class="red">11 February 2019</span></strong> through the appropriate submission system at
 <ul>
 <li>Submission link for Evo<span class="red">APPS</span>: <a href="https://myreview.saclay.inria.fr/evoapps19/"> https://myreview.saclay.inria.fr/evoapps19/</a></li>
 <li>Submission link for Euro<span class="red">GP</span>: <a href="https://myreview.saclay.inria.fr/eurogp19"> https://myreview.saclay.inria.fr/eurogp19</a></li>

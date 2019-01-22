@@ -3,104 +3,76 @@
         <h2>Evo<span class="red">*</span> 2019 REGISTRATION<h2>
    </div>
 
-TBA
 
-<!--
-<h3>Early Registration Discount Expires 28 February 2018</h3>
-<strong>Registration Closes 28 March 2018 (before Easter weekend)</strong>
- 
+<h3>Early Registration Expires 15 March 2019</h3>
+<strong>Registration Closes 17 April 2018 (before Easter weekend)</strong>
+ <br/>
+ <br/>
+ <ul>
+<li><a href="https://www.surveymonkey.com/r/evostar2019">Fill the registration form</a></li>
+<li><a href="https://www.lri.fr/~marc/Species/EvoStarRegistration.html">Go directly to the payment page </a> <strong class="red">ONLY if you have already filled the registration form  and something went wrong</strong>, <u>or</u> you want to <u>buy</u> extra banquet tickets.</li>
+</ul>
+<font size=+1><b><a href="http://www.evostar.org">EvoStar2019</a></b></font> is the name for the four co-located conferences of <b><a href="http://www.evostar.org/2019/cfp_eurogp.php">EuroGP</a>, <a href="http://www.evostar.org/2019/cfp_evoapps.php">EvoApplications</a>, <a href="http://www.evostar.org/2019/cfp_evocop.php">EvoCOP</a>, and <a href="http://www.evostar.org/2019/cfp_evomusart.php">EvoMUSART</a></b>. These co-located events will be held from 24-26 April 2018 in Leipzig, Germany.  The friendly and informal atmosphere at EvoStar is intended to foster beneficial friendships and longer-term collaboration across continents and across research generations.
+<br/><br/>
+<b>Early registrations close on 15 March</b>.
+
+<br/><br/>
+<b>Half price student registrations</b> are available for MATRICULATED STUDENTS from recognised academic institutions studying for degrees in <strong>subjects relevant to bio-inspired computation</strong>.  You will be asked to supply your matriculation card and/or confirmation from your director of studies to show you are entitled to the student reduction.
+<br/>
 <p>
-<a href="https://www.surveymonkey.co.uk/r/STANDARD-Late-evo2018"><strong>REGULAR REGISTRATION</strong></a><br/>
-<a href="https://www.surveymonkey.co.uk/r/STUDENT-late-evo2018"><strong>STUDENT REGISTRATION</strong></a><br/>
+Your registration also includes annual membership of the SPECIES Society, the sponsoring organisation for EvoStar promoting evolutionary computation in Europe.  There are no obligations associated with membership and SPECIES provides a forum for exchange of information and ideas.
 </p>
-<p>
-Evo<span class="red">Star</span> 2018 is the name for the four co-located conferences of Euro<span class="red">GP</span>, Evo<span class="red">COP</span>, Evo<span class="red">MUSART</span> and the 14 tracks of Evo<span class="red">APPLICATIONS</span> (including Evo<span class="red">BAFIN</span>, Evo<span class="red">BIO</span>, Evo<span class="red">COMNET</span>, Evo<span class="red">COMPLEX</span>, Evo<span class="red">ENERGY</span>, Evo<span class="red">GAMES</span>, Evo<span class="red">IASP</span>, Evo<span class="red">INDUSTRY</span>, Evo<span class="red">KNOW</span>, Evo<span class="red">NUM</span>, Evo<span class="red">PAR</span>, Evo<span class="red">ROBOT</span>, Evo<span class="red">SET</span>, Evo<span class="red">STOC</span>).  These co-located events will be held from 4-6 April 2018 in Parma, Italy.  The friendly and informal atmosphere at EvoStar is intended to foster beneficial friendships and longer-term collaboration across continents and across research generations.
- </p><p>
-<strong>An early booking discount is given to all registrations received by 28 February 2018</strong>, and you are encouraged to take advantage of the lower fees.  The reduced registration rate will expire after this date and a higher rate will apply.  <trong>Registrations close on 28 March</strong>, just before the Easter weekend. 
-  </p><p>
-<strong>Half price student discounts</strong> are available for MATRICULATED STUDENTS from recognised academic institutions studying for degrees in subjects relevant to bio-inspired computation.  You may be asked to supply your student number or confirmation from your director of studies to show you are entitled to the student reduction.
-  </p><p>
-Your registration also includes annual membership of the <a href="http://species-society.dei.uc.pt/">SPECIES Society</a>, the sponsoring organisation for EvoStar promoting evolutionary computation in Europe.  There are no obligations associated with membership and SPECIES provides a forum for exchange of information and ideas.
-
-<h4>WHAT REGISTRATION INCLUDES</h4>
+ 
+<h3>WHAT REGISTRATION INCLUDES</h3>
 
 The SINGLE EvoStar registration includes:
-   <ul>
-   <li>Attendance at all EvoStar sessions for all four conferences</li>
-<li>   Lunches and coffee breaks at the conference venue over three days</li>
-<li>   One ticket for the conference reception</li>
-<li>   One ticket for the conference dinner (additional tickets available for purchase)</li>
-<li>   Electronic access to the EvoStar2018 conference proceedings published by Springer in their LNCS series.  Please note that hard copy volumes are NOT included in the registration fee but are available for separate purchase directly from Springer</li>
-<li>   Annual membership of the <a href="http://species-society.dei.uc.pt/">SPECIES Society</a>, promoting evolutionary computation in Europe</li>
+<ul>
+<li>    Attendance at all EvoStar sessions for all four conferences
+<li>    Lunches and coffee breaks at the conference venue over three days
+<li>    One ticket for the conference reception
+<li>    One ticket for the conference dinner (additional tickets available for purchase)
+<li>    Electronic access to the EvoStar conference proceedings published by Springer in their LNCS series.  Please note that hard copy volumes are NOT included in the registration fee but are available for separate purchase directly from Springer
+<li>    Annual membership of the SPECIES Society, promoting evolutionary computation in Europe.
 </ul>
+ 
+<h3>HOW TO REGISTER AND PAY</h3>
 
+You should <font color="red"><b>first</b></font> fill the <a href="https://www.surveymonkey.com/r/evostar2019">online registration form</a>, that will send you to the payment page, where you will need to fill in the registrant name, and will then be redirected toward a secure payment page handled by PayPal, on which credit or debit cards from VISA, MasterCard, American Express, Discover, PayPal are accepted. Sending funds by bank transfer is NOT available for EvoStar.
+ 
 
-
-<h4>HOW TO REGISTER AND PAY</h4>
-
-
-Online registration is followed by a link to a secure payment page at PayPal where credit or debit cards from VISA, MasterCard, American Express, Discover, MAESTRO and PayPal are accepted.  You should be able to pay as a guest, though from some countries you may need to set up a free PayPal account to proceed with payment.   This is outwith the control of EvoStar and we apologise for any inconvenience. <span class="red"> Sending funds by bank transfer is NOT available for EvoStar</span>.
-
-<p>
-<a href="https://www.surveymonkey.co.uk/r/STANDARD-Late-evo2018"><strong>REGULAR REGISTRATION FORM</strong></a><br/>
-<a href="https://www.surveymonkey.co.uk/r/STUDENT-late-evo2018"><strong>STUDENT REGISTRATION FORM</strong></a><br/>
-<a href="https://www.surveymonkey.co.uk/r/ExtraDinner"><strong>(Optional) Additional Dinner Tickets Form</strong></a><br/>
-</p>
-
-
-<div class="alert alert-warning">
-  <strong>IMPORTANT!</strong> Please fill out the appropriate form above before making payment.
-</div>
-
+<h3>REGISTRATION FEES</h3>
 <table class="table table-bordered">
-	<tr>
-		<td>Fees</td><td><strong><span class="red">EARLY Registration until 28 February 2018</span></strong></td><td>LATE Registration 28 March 2018</td>
-	</tr>
+<tr>
+<th></th>
+<th>Early Registration<br><font>Until 15 March</font></th>
+<th>Standard Registration<br>Until 17 April</th>
+</tr>
 
-	<tr>
-		<td>Regular</td><td class="success"><strong><strike>550 EUR</strike></strong> </td><td>750 EUR</td><td>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="9CG4CJAC558RN">
-<input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-	    </td>
-	</tr>
+<tr>
+<td>Regular</td>
+<td>550 euros</td>
+<td>750 euros</td>
+</tr>
 
-	<tr>
-		<td>Student</td><td class="success"><strong><strike>275 EUR</strike></strong> </td><td>375 EUR</td>
-		<td>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="U4F2CMSY4SE9S">
-<input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-		</td>
-	</tr>
-
-		<tr>
-		<td>Additional dinner ticket</td><td class="success"><strong>50 EUR</strong> </td><td>50 EUR</td>
-		<td>
-			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="SWVCQZPBH4X92">
-<input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-		</td>
-	</tr>
+<tr>
+<td>Student</td>
+<td>275 euros</td>
+<td>375 euros</td>
+</tr>
 </table>
 
-<h4>OPTIONAL ADDITIONAL ITEMS YOU CAN ORDER</h4>
+<h3>OPTIONAL ADDITIONAL ITEMS YOU CAN ORDER</h3>
 
-Additional conference dinner tickets for accompanying persons may be purchased for 50 EUR and are available <a href="https://www.surveymonkey.co.uk/r/ExtraDinner">HERE</a>.
+Additional conference dinner tickets for accompanying persons may be purchased for 50 EUR and are available too. However, for technical reasons, you need to pay the registration and the additional dinner tickets separately. Apologies for the inconvenience.
 
-<h4>Further information</h4>
-Evostar Coordinator: evostar2018@gmail.com
+<h3>FURTHER INFORMATION</h3>
 
--->
+<a href="mailto:evostar@inria.fr">EvoStar Conference Coordinator</a>
+
+
+
+<br/><br/>
+
 
 
 

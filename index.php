@@ -13,7 +13,9 @@
  </div>
 
 <ul>
-<li>Instructions for camera ready <a href="submission_camera_ready.php">available here</a>.</li>	
+	
+<li><a href="participants_registration.php">REGISTRATION INSTRUCTIONS</a>.</li>
+<li>Instructions for camera ready <a href="submission_camera_ready.php">available here</a>.</li>
 </ul>
 <h2>Evo<span class="red">star</span> 2019</h2>
 <img src="img/evostar2019logo.png" width="25%" align="left" style="margin:10px">

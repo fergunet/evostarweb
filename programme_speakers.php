@@ -5,15 +5,23 @@
 
 
 <h3>Opening talk: TBA</h3>
-<h4> TBA</h4>
+<h4> Manja Marz</h4>
 <h4> Date: TBA</h4>
 
 
 <div>
-<img src="img/keynotes/.jpg" width="200px" align="left" style="margin:10px"/>
+<img src="img/keynotes/manja-marz.jpg" width="200px" align="left" style="margin:10px"/>
 <strong>Abstract:</strong> TBA
 <p>
-<strong>Bio:</strong> TBA
+<strong>Bio:</strong> Dr. Manja Marz is Full Professor for High Throughput Sequencing Analysis at the Faculty of
+Mathematics and Computer Science of the Friedrich Schiller University Jena, Germany and managing
+director of European Virus Bioinformatics Center. She studied Biology and Computer Science at he
+the Universities in Edinburgh, Darmstadt and Leipzig, and received a Ph.D in Bioinformatics from the
+University of Leipzig. Dr. Marz is deputy editor of PLoS Computational Biology and Biology direct. Her
+main research interest are bioinformatic analysis and system biology of viruses, comparative
+genomics, as well as algorithmic bioinformatics und phylogenetic analysis. Apart from here scientific
+achievements, she is also a strong master of the board game Go and won the European Female Go
+Championship in 2017.
 </p>
 </div>
 </br>
