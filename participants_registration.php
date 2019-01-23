@@ -61,6 +61,8 @@ You should <font color="red"><b>first</b></font> fill the <a href="https://www.s
 </tr>
 </table>
 
+There is also the 	possibility to register on-site during the conference at a fee of 1000 euros (regular) or 500 euros (student).
+
 <h3>OPTIONAL ADDITIONAL ITEMS YOU CAN ORDER</h3>
 
 Additional conference dinner tickets for accompanying persons may be purchased for 50 EUR and are available too. However, for technical reasons, you need to pay the registration and the additional dinner tickets separately. Apologies for the inconvenience.
