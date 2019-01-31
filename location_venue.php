@@ -11,7 +11,7 @@ Location address:
 HTWK Leipzig<br/>
 Faculty of Electrical Engineering and Information Technology<br/>
 Wächterstraße 13<br/>
-04251 Leipzig
+04107 Leipzig
 </blockquote>
 
 <img class="img-responsive" src="img/leipzig_venue.jpg" />
