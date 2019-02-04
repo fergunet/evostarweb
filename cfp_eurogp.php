@@ -259,8 +259,18 @@ href="http://www.springerlink.com/openurl.asp?genre=issue&amp;issn=0302-9743&amp
  <h2>Presentation details</h2>
 
 
-TBA
-
+<ul>
+<li>Long talks: Your work will be presented in a 20 minute talk followed by
+a 5 minute discussion round. We also encourage you to bring and present
+a poster in the poster session to take advantage of a more informal and
+direct feedback.</li>
+<li>
+Short talks (posters): Your work will be presented in a 10 minute talk
+(no discussion round) and in a poster session. Please be aware that oral
+and poster presentations are <strong>MANDATORY</strong>.
+</li>
+</ul>
+</p>
 <h3 id="abstracts">Accepted papers</h3>
 
 <h4>Long presentations </h4>

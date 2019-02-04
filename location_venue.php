@@ -14,6 +14,29 @@ Wächterstraße 13<br/>
 04107 Leipzig
 </blockquote>
 
+<h3>Direction from Leipzig Main Station (Hauptbahnhof)</h3>
+
+By bus:
+<ol>
+<li>Exit Main Station and walk towards city center for 1 minute to bus stop Goethestrasse</li>
+<li>Take bus no 89 towards Connewitzer Kreuz</li>
+<li>Exit at bus stop Wächterstrasse</li>
+<li>Go to the left towards Faculty, enrance is in the middle of the buidling</li>
+</ol>
+By tram:
+<ol>
+<li>Exit Main Station and go to tram stop Hauptbahnhof</li>
+<li>Take tram no 9 towards Markleeberg West</li>
+<li>Exit tram Stopp Neues Rathaus </li>
+<li>Walk for 5 minutes from Martin-Luther-Ring towards west, go on straight to enter Karl-Tauchnitz-Strasse, go to the left to Grassistrasse, go to the right to Wächterstrasse towards Faculty, enrance is in the middle of the buidling</li>
+</ol>
+
+By car:
+<ol>
+<li>Parking facilities at the east side of the building (Grassistrasse)</li>
+<li>Address for GPS navigation device: 04107 Leipzig, Grassistraße 10</li>
+<li>Coordinates for GPS navigation device: 51.333096, 12,366831</li>
+</ol>
 <img class="img-responsive" src="img/leipzig_venue.jpg" />
 Photo by <a href="https://de.wikipedia.org/wiki/Technische_Hochschule_Leipzig#/media/File:Leipzig,_W%C3%A4chterstra%C3%9Fe_13.jpg">Reinhard Ferdinand (Creative Commons)</a>
 <p>
