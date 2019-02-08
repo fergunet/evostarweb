@@ -86,6 +86,187 @@
 <li>Honorary member: Cecilia di Chio</li>
 </ul>
 
+<h3>Programme Committee</h3>
+<h4>Engineering + Real world applications:</span> </h4>
+<ul>
+  <li>Anna Esparcia</li>
+<li>Anthony Brabazon</li>
+<li>Carlos Cotta</li>
+<li>Daniel Hernández</li>
+<li>Emma Hart</li>
+<li>Ernesto Tarantino</li>
+<li>Ferrante Neri</li>
+<li>Francesco Fontanella</li>
+<li>Francisco Fernandez de Vega</li>
+<li>Frank W Moore</li>
+<li>Giovanni Squillero</li>
+<li>Heiko Hamann</li>
+<li>János Botzheim</li>
+<li>Jared Moore</li>
+<li>Jean-Marc Montanier</li>
+<li>Maizura Mokhtar</li>
+<li>Malcolm Heywood</li>
+<li>Mario Cococcioni</li>
+<li>Mario Giacobini</li>
+<li>Markus Wagner</li>
+<li>Michael Guckert</li>
+<li>Mohammed Salem</li>
+<li>Nadarajen Veerapen</li>
+<li>Neil Urquhart</li>
+<li>Nelishia Pillay</li>
+<li>Pablo Mesejo Santiago</li>
+<li>Penousal Machado</li>
+<li>Renato Tinos</li>
+<li>Sanem Sariel</li>
+<li>Sara Silva</li>
+<li>Sevil Sen</li>
+<li>Stefano Cagnoni</li>
+<li>Stenio Fernandes</li>
+<li>Una-May O'Reilly</li>
+</ul>
+<h4>Games:</h4>
+<ul>
+<li>  Cedric Buche</li>
+<li>David Camacho</li>
+<li>Pablo Garcia Sanchez</li>
+<li>Antonio Gonzales Pardo</li>
+<li>Johan Hagelback</li>
+<li>Raul Lara</li>
+<li>Antonio J. Fernandez Leiva</li>
+<li>Antonio Fernandez Ares</li>
+<li>Antonios Liapis</li>
+<li>Federico Liberatore</li>
+<li>Mihai Polceanu</li>
+<li>Mohammed Salem</li>
+<li>Sanem Sariel</li>
+<li>Thomas Schmickl</li>
+<li>Moshe Sipper</li>
+</ul>
+<h4>Image & Signal Processing, Vision & Pattern recognition:</span></h4>
+<ul>
+<li>Lucia Ballerini</li>
+<li>Stefano Cagnoni</li>
+<li>Ivanoe De Falco</li>
+<li>Antonio Della Cioppa</li>
+<li>Marc Ebner</li>
+<li>Francesco Fontanella</li>
+<li>Richard Guest</li>
+<li>Gareth Howells</li>
+<li>Edward Keedwell</li>
+<li>Oliver Kramer</li>
+<li>Michael Lones</li>
+<li>Evelyne Lutton</li>
+<li>Penousal Machado</li>
+<li>Julian Miller</li>
+<li>Youssef Nashed</li>
+<li>Gustavo Olague</li>
+<li>Riccardo Poli</li>
+<li>Pablo Mesejo Santiago</li>
+<li>Mengjie Zhang</li>
+</ul>
+<h4>Life sciences:</span> </h4>
+<h4>Networks:</span> </h4>
+<ul>
+<li>Ignacio Arnaldo</li>
+<li>Maria Arsuaga Rios</li>
+<li>Doina Bucur</li>
+<li>Jose Manuel Colmenar</li>
+<li>Gregoire Danoy</li>
+<li>Bernabe Dorronsoro</li>
+<li>Stenio Fernandes</li>
+<li>Pablo Garcia Sanchez</li>
+<li>Frederic Guinand</li>
+<li>Jose Ignacio Hidalgo</li>
+<li>Juan Luis Jimenez Laredo</li>
+<li>Paul Kaufmann</li>
+<li>Bill Langdon</li>
+<li>Francisco Luna</li>
+<li>JJ Merelo</li>
+<li>Youssef Nashed</li>
+<li>Rafael Nogueras</li>
+<li>Gustavo Olague</li>
+<li>Riccardo Pecori</li>
+<li>Yoann Pigne</li>
+<li>Jose Carlos Bregieiro Ribeiro</li>
+<li>Sevil Sen</li>
+<li>Sebastien Varrette</li>
+<li>Rafael Villanueva</li>
+</ul>
+<h4>Neuroevolution:</span></h4>
+<ul>
+<li>Jhon Edgar Amaya</li>
+<li>Joshua Auerbach</li>
+<li>Philip Bontrager</li>
+<li>Anders Christensen</li>
+<li>Kai Ellefsen</li>
+<li>Heiko Hamann</li>
+<li>Gul Muhammad Khan</li>
+<li>Sam Kriegman</li>
+<li>Raul Lara</li>
+<li>Joel Lehman </li>
+<li>Penousal Machado</li>
+<li>Jean-Marc Montanier</li>
+<li>Jean-Baptiste Mouret</li>
+<li>Youssef Nashed</li>
+<li>Geoff Nitschke </li>
+<li>Rafael Nogueras </li>
+<li>Gustavo Olague</li>
+<li>Maria Arsuaga Rios </li>
+<li>Andrew Turner</li>
+<li>Anil Yaman</li>
+</ul>
+<h4>Numerical optimization:</span></h4>
+<h4>Robotics:</span> </h4>
+<ul>
+<li>Anthony Clark</li>
+<li>Claudio Rossi</li>
+<li>Jean-Baptiste Mouret Geoff Nitschke</li>
+<li>Heiko Hamann</li>
+<li>Jose Santos Reyes</li>
+<li>Andres Faina</li>
+<li>Kai Ellefsen</li>
+<li>Frank Veenstra</li>
+<li>Nicolas Bredeche</li>
+<li>Joost Huizinga</li>
+</ul>
+<h4>General:</span> </h4>
+<ul>
+<li>Jhon E. Amaya, Universidad Nacional Experimental del Táchira, Venezuela</li>
+<li>Anca Andreica, Babes-Bolyai University, Romania</li>
+<li>Tiago Baptista, Universidade de Coimbra, Portugal</li>
+<li>Carlos Cotta, Universidad de Málaga, Spain</li>
+<li>Carlos M. Fernandes, Instituto Superior Técnico, Univ Lisboa, Portugal</li>
+<li>Raúl Lara-Cabrera, Universidad Politécnica de Madrid, Spain</li>
+<li>Gabriel Luque, Universidad de Mñalaga, Spain</li>
+<li>Rafael Nogueras, Universidad de Málaga, Spain</li>
+<li>Joshua Auerbach, Champlain College, US</li>
+<li>Michael Guckert, University of Lille, France</li>
+<li>Nadarajen Veerapen, Technische Hochschule Mittelhessen, Germany</li>
+<li>Vinícius Veloso de Melo, UNIFESP-SJC, Brazil</li>
+<li>Fabio Caraffini, De Montfort University, UK</li>
+<li>Frederic Guinand, Universite du Havre Normandie, France</li>
+<li>Mario Giacobini, University of Torino, Italy</li>
+<li>Doina Bucur, University of Twente, The Netherlands</li>
+<li>Ryan Urbanowicz, University of Pennsylvania, US</li>
+<li>Vitoantonio Bevilacqua, Politecnico di Bari, Italy</li>
+<li>János Botzheim, Budapest University of Technology, Hungary</li>
+<li>Frank Veenstra, Edinburgh Napier University, UK</li>
+<li>Charly Lersteau, Liverpool John Moores University, UK</li>
+<li>Igor Deplano, Liverpool John Moores University, UK</li>
+<li>Yannis Ancele, Liverpool John Moores University, UK</li>
+<li>Ran Wang, Liverpool John Moores University, UK</li>
+<li>Shayan Kavakeb, AECOM, UK</li>
+<li>Gustavo Olague, CICESE, México</li>
+<li>José Carlos Bregieiro Ribeiro, Polytechnic Institute of Leiria, Portugal</li>
+<li>Moshe Sipper, Ben-Gurion University of the Negev, Israel</li>
+<li>James Foster, University of Idaho, US</li>
+<li>Daniel Hernández, Instituto Tecnológico Nacional, México</li>
+<li>Francisco Chávez de la O, University of Extremadura, Spain</li>
+<li>Ahmed Hallawa, RWTH, Germany </li>
+<li>Anil Yaman, Technical University of Eindhoven, The Netherlands</li>
+<li>Dominik Sobania, Mainz University, Germany</li>
+<li>Roman Kalkreuth, TU Dortmund, Germany, reviewed for the General Area</li>
+</ul>
 
 
 <h3 id="abstracts">Accepted paper abstracts</h3>
