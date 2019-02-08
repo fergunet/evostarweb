@@ -142,5 +142,43 @@ TBA
 </ul>
 
 <h3 id="abstracts">Accepted paper abstracts</h3>
-TBA
+<h4>Long Presentations</h4>
+
+<strong>Deep Learning Concepts for Evolutionary Art</strong><br/>
+<em>Fazle Tanjil, Brian Ross</em><br/>
+<strong>Adversarial evolution and deep learning – How does an artist play with our visual system?</strong><br/>
+<em>Alan Blair</em><br/>
+<strong>Evolutionary Games for Audiovisual Works: exploring the Demographic Prisoner's Dilemma</strong><br/>
+<em>Stefano Kalonaris</em><br/>
+<strong>Swarm-based identification of animation key points from 2D-medialness maps</strong><br/>
+<em>Prashant Aparajeya, Frederic Fol Leymarie, Mohammad Majid al-Rifaie</em><br/>
+<strong>Stochastic Synthesizer Patch Exploration in Edisyn</strong><br/>
+<em>Sean Luke</em><br/>
+<strong>Autonomy, Authenticity, Authorship and Intention in computer generated art</strong><br/>
+<em>Jon McCormack, Toby Gifford, Patrick Hutchings</em><br/>
+<strong>Comparing Models for Harmony Prediction in an Interactive Audio Looper</strong><br/>
+<em>Benedikte Wallace, Charles P. Martin</em><br/>
+<strong>Camera Obscurer:Generative Art for Design Inspiration</strong><br/>
+<em>Dilpreet Singh, Nina Rajcic, Simon Colton, Jon McCormack</em><br/>
+<strong>Evolutionary Multi-Objective Training Set Selection of Data Instances and Augmentations for Vocal Detection</strong><br/>
+<em>Igor Vatolkin, Daniel Stoller</em><br/>
+<strong>Paintings, Polygons and Plant Propagation</strong><br/>
+<em>Misha Paauw, Daan van den Berg</em><br/>
+<strong>EvoBlending: Evoling Visual Representations of Concepts</strong><br/>
+<em>João M. Cunha, Nuno Lourenço, Pedro Martins, Penousal Machado</em><br/>
+<strong>The Murmurator: A Flocking Simulation-Driven Multi-Channel Software Instrument for Collaborative Improvisation</strong><br/>
+<em>Eli Stine, Kevin Davis</em><br/>
+
+<h4>Short (Poster) presentations</h4>
+
+<strong>Automatic Jazz Melody Composition through a Learning-based Genetic Algorithm</strong><br/>
+<em>Yong-Wook Nam, Yong-Hyuk Kim</em><br/>
+<strong>EvoChef: Show me What to Cook! The Artificial Evolution of Culinary Arts</strong><br/>
+<em>Hajira Jabeen, Nargis Tahara, Jens Lehmann</em><br/>
+<strong>Exploring Transfer Functions in Evolved CTRNNs for Music Generation</strong><br/>
+<em>Steffan Ianigro, Oliver Bown</em><br/>
+<strong>Tired of choosing? Just add structure and Virtual Reality</strong><br/>
+<em>Edward Easton, Ulysses Bernardet, Aniko Ekart</em><br/>
+<strong>Automatically Generating Engaging Presentation Slide Decks</strong><br/>
+<em>Thomas Winters, Kory W. Mathewson</em><br/>
         <?php include('footer.php') ?>

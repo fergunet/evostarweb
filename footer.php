@@ -64,7 +64,7 @@
 <a href="https://www.facebook.com/evostarconf"><img src="img/facebook.png"></a>
 <a href="http://www.linkedin.com/groups?gid=1908983"><img src="img/linkedin.png"></a>
 <a href="http://species-society.dei.uc.pt/"><img width="25%" src="img/species.png"></a>
-<a href="https://www.napier.ac.uk/"><img width="15%" src="img/napier.jpg"></a>
+<!--<a href="https://www.napier.ac.uk/"><img width="15%" src="img/napier.jpg"></a>-->
 <br>
 
 </div>
