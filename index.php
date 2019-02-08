@@ -13,7 +13,9 @@
  </div>
 
 <ul>
-	
+<li><a href="programme_future.php">Future and Emerging Technologies Session</a></li>
+<li><a href="location_accommodation.php">Accomodation info</a></li>
+<li><a href="location_venue.php">Getting to the venue information</a></li>
 <li><a href="participants_registration.php">REGISTRATION INSTRUCTIONS</a>.</li>
 <li>Instructions for camera ready <a href="submission_camera_ready.php">available here</a>.</li>
 </ul>
