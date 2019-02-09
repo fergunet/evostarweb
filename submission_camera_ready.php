@@ -25,7 +25,9 @@ You are also encouraged to include <strong>DOI identifiers</strong> in your refe
 <p>
 Springer reprocesses all the contributions, meaning that you have to provide all source files and figures.
 </p>
-You should prepare a single tgz or zip-file containing a single directory with all of the necessary files (and all the necessary .sty files). <u>The name of the directory should be the last name of the first author.</u> The directory has to contain:
+You should prepare a single tgz or zip-file containing a single directory with all of the necessary files (and all the necessary .sty files). <strong class="red">Warning</strong>: Files larger than 8Mb will be rejected by the Apache server without any error message and there is nothing we can do about that. In case you don't see any way to shrink your file below this (large) size, contact the chair.<u>The name of the directory should be the last name of the first author.</u>
+
+<br/><br/>The directory has to contain:
 <ul>
 <li><strong>Latex .tex file</strong> (named with the last name of the first author).</li>
 <li><strong>Latex .bib and .bbl files</strong> (named with the last name of the first author).</li>
