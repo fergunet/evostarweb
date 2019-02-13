@@ -13,6 +13,8 @@
  </div>
 
 <ul>
+<li><a href="cfp_lba.php">Late breaking abstracts</a>
+<li><a href="files/Evostar2019-programme overview.pdf">Tentative programme</a>.</li>
 <li><a href="programme_future.php">Future and Emerging Technologies Session</a></li>
 <li><a href="location_accommodation.php">Accomodation info</a></li>
 <li><a href="location_venue.php">Getting to the venue information</a></li>

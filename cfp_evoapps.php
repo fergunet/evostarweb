@@ -165,6 +165,16 @@
 <li>Mengjie Zhang</li>
 </ul>
 <h4>Life sciences:</span> </h4>
+<ul>
+<li>Fabio Caraffini, Montfort University, UK</li>
+<li>Giovanni Iacca, University of Trento, Italy</li>
+<li>Mario Giacobini, Università degli Studi di Torino, Italy</li>
+<li>Frédéric Guinand, University of Le Havre, France</li>
+<li>Vincent Moulton, University of East Anglia, UK</li>
+<li>Ting Hu,  Dartmouth College, USA</li>
+<li>Alex Freitas,  University of Kent, UK</li>
+<li>Clara Pizzuti, ICAR-CNR, Italy</li>
+</ul>
 <h4>Networks:</span> </h4>
 <ul>
 <li>Ignacio Arnaldo</li>
@@ -216,6 +226,15 @@
 <li>Anil Yaman</li>
 </ul>
 <h4>Numerical optimization:</span></h4>
+<ul>
+<li>Bill Langdon,  University College London</li>
+<li>Oliver Kramer,  University of Oldenburg, Germany</li>
+<li>Petr Posik,  Czech Technical University, Czech Republic</li>
+<li>David Pelta, Universidad de Granada, Spain</li>
+<li>Ferrante Neri,  De Monfort University, UK</li>
+<li>Iwona Karcz-Duleba, Wroclaw University of</li>
+<li>Guenter Rudolph, University of Dortmund, Germany</li>
+</ul>
 <h4>Robotics:</span> </h4>
 <ul>
 <li>Anthony Clark</li>

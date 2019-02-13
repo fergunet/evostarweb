@@ -78,6 +78,7 @@
                 <li><a href="cfp_evomusart.php">EvoMUSART</a></li>
                 <li><a href="cfp_evoapps.php">EvoAPPS</a></li>
                 <li class="divider"></li>
+                <li><a href="cfp_lba.php">Late Breaking Abstracts</a></li>
                 <!--<li class="dropdown-header">Submission</li>
                 <li><a href="#">Submission details</a></li>
                 <li><a href="#">Camera-ready details</a></li>-->
