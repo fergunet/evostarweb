@@ -87,166 +87,182 @@
 </ul>
 
 <h3>Programme Committee</h3>
+
 <h4>Engineering + Real world applications:</span> </h4>
 <ul>
-  <li>Anna Esparcia</li>
-<li>Anthony Brabazon</li>
-<li>Carlos Cotta</li>
-<li>Daniel Hernández</li>
-<li>Emma Hart</li>
-<li>Ernesto Tarantino</li>
-<li>Ferrante Neri</li>
-<li>Francesco Fontanella</li>
-<li>Francisco Fernandez de Vega</li>
-<li>Frank W Moore</li>
-<li>Giovanni Squillero</li>
-<li>Heiko Hamann</li>
-<li>János Botzheim</li>
-<li>Jared Moore</li>
-<li>Jean-Marc Montanier</li>
-<li>Maizura Mokhtar</li>
-<li>Malcolm Heywood</li>
-<li>Mario Cococcioni</li>
-<li>Mario Giacobini</li>
-<li>Markus Wagner</li>
-<li>Michael Guckert</li>
-<li>Mohammed Salem</li>
-<li>Nadarajen Veerapen</li>
-<li>Neil Urquhart</li>
-<li>Nelishia Pillay</li>
-<li>Pablo Mesejo Santiago</li>
-<li>Penousal Machado</li>
-<li>Renato Tinos</li>
-<li>Sanem Sariel</li>
-<li>Sara Silva</li>
-<li>Sevil Sen</li>
-<li>Stefano Cagnoni</li>
-<li>Stenio Fernandes</li>
-<li>Una-May O'Reilly</li>
+<li>Anna I. Esparcia, Universidad Politécnica de Valencia, Spain</li>
+<li>Anthony Brabazon, University College Dublin, Ireland</li>
+<li>Carlos Cotta, Universidad de Málaga, Spain</li>
+<li>Daniel Hernández, Tecnológico de Tijuana, México</li>
+<li>Emma Hart, Edinburgh Napier University, UK</li>
+<li>Ernesto Tarantino, Italian National Research Council, Italy</li>
+<li>Ferrante Neri, De Monfort University, UK</li>
+<li>Francesco Fontanella, Universite degli studi di Cassino, Italy</li>
+<li>Francisco Fernández de Vega, Universidad de Extremadura, Spain</li>
+<li>Frank W Moore, University of Alaska Anchorage, USA</li>
+<li>Giovanni Squillero, Politecnico di Torino, Italy</li>
+<li>Heiko Hamann, University of Lübeck, Germany</li>
+<li>János Botzheim, Budapest University of Technology, Hungary</li>
+<li>Jared Moore, Grand Valley State University, USA</li>
+<li>Jean-Marc Montanier, Norwegian University of Science and Technology, Norway</li>
+<li>Maizura Mokhtar, Heriot-Watt University, USA</li>
+<li>Malcolm Heywood, Dalhousie University, Canada</li>
+<li>Mario Cococcioni, NATO Undersea Research Centre, Italy</li>
+<li>Mario Giacobini, University of Torino, Italy</li>
+<li>Markus Wagner, University of Adelaide, Australia</li>
+<li>Michael Guckert, University of Lille, France</li>
+<li>Mohammed Salem, University of Mascara, Algeria</li>
+<li>Nadarajen Veerapen, University of Lille, France</li>
+<li>Neil Urquhart, Edinburgh Napier University, UK</li>
+<li>Nelishia Pillay, University of Pretoria, South Africa</li>
+<li>Pablo Mesejo Santiago, Universidad de Granada, Spain</li>
+<li>Penousal Machado, University of Coimbra, Portugal</li>
+<li>Renato Tinos, University of Sao Paulo, Brazil</li>
+<li>Sanem Sariel, Istanbul Technical University, Turkey</li>
+<li>Sara Silva, Faculdade de Ciencias, Universidade de Lisboa, Portugal</li>
+<li>Sevil Sen, Hacettepe University, Turkey</li>
+<li>Stefano Cagnoni, University of Parma, Italy</li>
+<li>Stenio Fernandes, Federal University of Pernambuco, Brazil</li>
+<li>Una-May O'Reilly, MIT, USA<li></li>
+
 </ul>
-<h4>Games:</h4>
+<h4>Games:</span> </h4>
 <ul>
-<li>  Cedric Buche</li>
-<li>David Camacho</li>
-<li>Pablo Garcia Sanchez</li>
-<li>Antonio Gonzales Pardo</li>
-<li>Johan Hagelback</li>
-<li>Raul Lara</li>
-<li>Antonio J. Fernandez Leiva</li>
-<li>Antonio Fernandez Ares</li>
-<li>Antonios Liapis</li>
-<li>Federico Liberatore</li>
-<li>Mihai Polceanu</li>
-<li>Mohammed Salem</li>
-<li>Sanem Sariel</li>
-<li>Thomas Schmickl</li>
-<li>Moshe Sipper</li>
+<li>Cedric Buche, ENIB, France</li>
+<li>David Camacho, Universidad Autónoma de Madrid, Spain</li>
+<li>Pablo García-Sánchez, Universidad de Cádiz, Spain</li>
+<li>Antonio Gonzales Pardo, Basque Center for Applied Mathematics, Spain</li>
+<li>Johan Hagelback, Blekinge Tekniska Hogskola, Sweden</li>
+<li>Raúl Lara-Cabrera, Universidad Autónoma de Madrid, Spain</li>
+<li>Antonio J. Fernández Leiva, Universidad de Málaga, Spain</li>
+<li>Antonio Fernández Ares, Universidad de Granada, Spain</li>
+<li>Antonios Liapis, University Of Malta, Malta</li>
+<li>Federico Liberatore, Universidad Carlos III, Spain</li>
+<li>Mihai Polceanu, ENIB, France</li>
+<li>Mohammed Salem, University of Mascara, Algeria</li>
+<li>Sanem Sariel, Istanbul Technical University, Turkey</li>
+<li>Thomas Schmickl, Karl Franzens University Graz, Austria</li>
+<li>Moshe Sipper, Ben-Gurion University, Israel<li></li>
+
 </ul>
-<h4>Image & Signal Processing, Vision & Pattern recognition:</span></h4>
+<h4>Image and signal processing:</span> </h4>
 <ul>
-<li>Lucia Ballerini</li>
-<li>Stefano Cagnoni</li>
-<li>Ivanoe De Falco</li>
-<li>Antonio Della Cioppa</li>
-<li>Marc Ebner</li>
-<li>Francesco Fontanella</li>
-<li>Richard Guest</li>
-<li>Gareth Howells</li>
-<li>Edward Keedwell</li>
-<li>Oliver Kramer</li>
-<li>Michael Lones</li>
-<li>Evelyne Lutton</li>
-<li>Penousal Machado</li>
-<li>Julian Miller</li>
-<li>Youssef Nashed</li>
-<li>Gustavo Olague</li>
-<li>Riccardo Poli</li>
-<li>Pablo Mesejo Santiago</li>
-<li>Mengjie Zhang</li>
+<li>Lucia Ballerini, University of Edinburgh, UK</li>
+<li>Stefano Cagnoni, University of Parma, Italy</li>
+<li>Ivanoe De Falco, ICAR- CNR, Italy</li>
+<li>Antonio Della Cioppa, University of Salerno, Italy</li>
+<li>Marc Ebner, Ernst Moritz Arndt Universitaet Greifswald, Germany</li>
+<li>Francesco Fontanella, Universite degli studi di Cassino, Italy</li>
+<li>Richard Guest, University of Kent, UK</li>
+<li>Gareth Howells, University of Kent, UK</li>
+<li>Edward Keedwell, University of Exeter, UK</li>
+<li>Oliver Kramer, University of Oldenburg, Germany</li>
+<li>Michael Lones, Heriott-Watt University, UK</li>
+<li>Evelyne Lutton, INRA, France</li>
+<li>Penousal Machado, University of Coimbra, Portugal</li>
+<li>Julian Francis Miller, University of York</li>
+<li>Youssef Nashed, Argonne Laboratories, USA</li>
+<li>Gustavo Olague, CICESE, México</li>
+<li>Riccardo Poli, University of Essex, UK</li>
+<li>Pablo Mesejo Santiago, Universidad de Granada, Spain</li>
+<li>Mengjie Zhang, University of Wellington, New Zealand<li></li>
+
+
 </ul>
-<h4>Life sciences:</span> </h4>
+<h4>Networks and Distributed Systems:</span> </h4>
 <ul>
-<li>Fabio Caraffini, Montfort University, UK</li>
-<li>Giovanni Iacca, University of Trento, Italy</li>
-<li>Mario Giacobini, Università degli Studi di Torino, Italy</li>
-<li>Frédéric Guinand, University of Le Havre, France</li>
-<li>Vincent Moulton, University of East Anglia, UK</li>
-<li>Ting Hu,  Dartmouth College, USA</li>
-<li>Alex Freitas,  University of Kent, UK</li>
-<li>Clara Pizzuti, ICAR-CNR, Italy</li>
+<li>Ignacio Arnaldo, MIT, USA</li>
+<li>María Arsuaga-Ríos, CERN, Switzerland</li>
+<li>Doina Bucur, University of Twente, The Netherlands</li>
+<li>José Manuel Colmenar, Universidad Rey Juan Carlos, Spain</li>
+<li>Gregoire Danoy, University of Luxembourg, Luxembourg</li>
+<li>Bernabé Dorronsoro, Universidad de Cádiz, Spain</li>
+<li>Stenio Fernandes, Federal University of Pernambuco, Brazil</li>
+<li>Pablo García-Sánchez, Universidad de Cádiz, Spain</li>
+<li>Frederic Guinand, Universite du Havre Normandie, France</li>
+<li>Jose Ignacio Hidalgo, Universidad Complutense de Madrid, Spain</li>
+<li>Juan L. Jiménez-Laredo, RI2C/LITIS, Université du Havre Normandie, France</li>
+<li>Paul Kaufmann, Mainz University, Germany</li>
+<li>Bill Langdon, Bill Langdon, University College London</li>
+<li>Francisco Luna, Universidad de Málaga, Spain</li>
+<li>Juan Julián Merelo-Guervós, Universidad de Granada, Spain</li>
+<li>Youssef Nashed, Argonne Laboratories, USA</li>
+<li>Rafael Nogueras, Universidad de Málaga, Spain</li>
+<li>Gustavo Olague, CICESE, México</li>
+<li>Riccardo Pecori, eCampus University, Novedrate, Italy</li>
+<li>Yoann Pigne, University of Le Havre, France</li>
+<li>José Carlos Bregieiro Ribeiro, Polytechnic Institute of Leiria, Portugal</li>
+<li>Sevil Sen, Hacettepe University, Turkey</li>
+<li>Sebastien Varrette, University of Luxembourg, Luxembourg</li>
+<li>Rafael Villanueva, Universidad Politécnica de Valencia, Spain<li></li>
+
+
 </ul>
-<h4>Networks:</span> </h4>
+<h4>Neuroevolution and Data Analytics:</span> </h4>
 <ul>
-<li>Ignacio Arnaldo</li>
-<li>Maria Arsuaga Rios</li>
-<li>Doina Bucur</li>
-<li>Jose Manuel Colmenar</li>
-<li>Gregoire Danoy</li>
-<li>Bernabe Dorronsoro</li>
-<li>Stenio Fernandes</li>
-<li>Pablo Garcia Sanchez</li>
-<li>Frederic Guinand</li>
-<li>Jose Ignacio Hidalgo</li>
-<li>Juan Luis Jimenez Laredo</li>
-<li>Paul Kaufmann</li>
-<li>Bill Langdon</li>
-<li>Francisco Luna</li>
-<li>JJ Merelo</li>
-<li>Youssef Nashed</li>
-<li>Rafael Nogueras</li>
-<li>Gustavo Olague</li>
-<li>Riccardo Pecori</li>
-<li>Yoann Pigne</li>
-<li>Jose Carlos Bregieiro Ribeiro</li>
-<li>Sevil Sen</li>
-<li>Sebastien Varrette</li>
-<li>Rafael Villanueva</li>
-</ul>
-<h4>Neuroevolution:</span></h4>
-<ul>
-<li>Jhon Edgar Amaya</li>
-<li>Joshua Auerbach</li>
-<li>Philip Bontrager</li>
-<li>Anders Christensen</li>
-<li>Kai Ellefsen</li>
-<li>Heiko Hamann</li>
-<li>Gul Muhammad Khan</li>
-<li>Sam Kriegman</li>
-<li>Raul Lara</li>
-<li>Joel Lehman </li>
-<li>Penousal Machado</li>
-<li>Jean-Marc Montanier</li>
-<li>Jean-Baptiste Mouret</li>
-<li>Youssef Nashed</li>
-<li>Geoff Nitschke </li>
-<li>Rafael Nogueras </li>
-<li>Gustavo Olague</li>
-<li>Maria Arsuaga Rios </li>
-<li>Andrew Turner</li>
-<li>Anil Yaman</li>
-</ul>
-<h4>Numerical optimization:</span></h4>
-<ul>
-<li>Bill Langdon,  University College London</li>
-<li>Oliver Kramer,  University of Oldenburg, Germany</li>
-<li>Petr Posik,  Czech Technical University, Czech Republic</li>
-<li>David Pelta, Universidad de Granada, Spain</li>
-<li>Ferrante Neri,  De Monfort University, UK</li>
-<li>Iwona Karcz-Duleba, Wroclaw University of</li>
-<li>Guenter Rudolph, University of Dortmund, Germany</li>
+<li>Jhon Edgar Amaya, Universidad Nacional Experimental del Téchira, Venezuela</li>
+<li>Joshua Auerbach, Champlain College, USA</li>
+<li>Philip Bontrager, New York University, USA</li>
+<li>Anders Christensen, University Institute of Lisbon, Portugal</li>
+<li>Kai Ellefsen, University of Oslo, Norway</li>
+<li>Heiko Hamann, University of Lübeck, Germany</li>
+<li>Gul Muhammad Khan, University of Engineering and Technology, Pakistán</li>
+<li>Sam Kriegman, University of Vermont, USA</li>
+<li>Raúl Lara-Cabrera, Universidad Autónoma de Madrid, Spain</li>
+<li>Joel Lehman, Uber AI Labs, USA</li>
+<li>Penousal Machado, University of Coimbra, Portugal</li>
+<li>Jean-Marc Montanier, Norwegian University of Science and Technology, Norway</li>
+<li>Jean-Baptiste Mouret, Institut des Systémes Intelligents et de</li>
+<li>Robotique, France</li>
+<li>Youssef Nashed, Argonne Laboratories, USA</li>
+<li>Geoff Nitschke, University of Cape Town, South Africa</li>
+<li>Rafael Nogueras, Universidad de Málaga, Spain</li>
+<li>Gustavo Olague, CICESE, México</li>
+<li>María Arsuaga-Ríos, CERN, Switzerland</li>
+<li>Andrew Turner, Simomics Ltd, York, UK</li>
+<li>Anil Yaman, Eindhoven University of Technology, The Netherlands<li></li>
+
 </ul>
 <h4>Robotics:</span> </h4>
 <ul>
-<li>Anthony Clark</li>
-<li>Claudio Rossi</li>
-<li>Jean-Baptiste Mouret Geoff Nitschke</li>
-<li>Heiko Hamann</li>
-<li>Jose Santos Reyes</li>
-<li>Andres Faina</li>
-<li>Kai Ellefsen</li>
-<li>Frank Veenstra</li>
-<li>Nicolas Bredeche</li>
-<li>Joost Huizinga</li>
+<li>Anthony Clark, Michigan State University, USA</li>
+<li>Claudio Rossi, Universidad Politecnica De Madrid, Spain</li>
+<li>Jean-Baptiste Mouret, Institut des Systémes Intelligents et de</li>
+<li>Robotique, France</li>
+<li>Geoff Nitschke, University of Cape Town, South Africa</li>
+<li>Heiko Hamann, University of Lübeck, Germany</li>
+<li>Jose Santos Reyes, Universidad de A Coruña, Spain</li>
+<li>Andres Faina, IT University of Copenhagen, Denmark</li>
+<li>Kai Ellefsen, University of Oslo, Norway</li>
+<li>Frank Veenstra, Edinburgh Napier University, UK</li>
+<li>Nicolas Bredeche, Sorbonne Université, France</li>
+<li>Joost Huizinga, Uber AI Labs, USA<li></li>
+
+</ul>
+<h4>Life Sciences:</span> </h4>
+<ul>
+
+<li>Fabio Caraffini, Montfort University, UK</li>
+<li>Giovanni Iacca, University of Trento, Italy</li>
+<li>Mario Giacobini, University of Torino, Italy</li>
+<li>Frédéric Guinand, University of Le Havre, France</li>
+<li>Vincent Moulton, University of East Anglia, UK</li>
+<li>Ting Hu, Dartmouth College, USA</li>
+<li>Alex Freitas, University of Kent, UK</li>
+<li>Clara Pizzuti, ICAR-CNR, Italy<li></li>
+
+
+</ul>
+<h4>Numerical Optimization: Theory, Benchmarks and Applications:</span> </h4>
+<ul>
+<li>Bill Langdon, University College London</li>
+<li>Oliver Kramer, University of Oldenburg, Germany</li>
+<li>Petr Posik, Czech Technical University, Czech Republic</li>
+<li>David Pelta, Universidad de Granada, Spain</li>
+<li>Ferrante Neri, De Monfort University, UK</li>
+<li>Iwona Karcz-Duleba, University of Wroclaw</li>
+<li>Guenter Rudolph, University of Dortmund, Germany<li></li>
+
 </ul>
 <h4>General:</span> </h4>
 <ul>
@@ -255,8 +271,8 @@
 <li>Tiago Baptista, Universidade de Coimbra, Portugal</li>
 <li>Carlos Cotta, Universidad de Málaga, Spain</li>
 <li>Carlos M. Fernandes, Instituto Superior Técnico, Univ Lisboa, Portugal</li>
-<li>Raúl Lara-Cabrera, Universidad Politécnica de Madrid, Spain</li>
-<li>Gabriel Luque, Universidad de Mñalaga, Spain</li>
+<li>Raúl Lara-Cabrera, Universidad Autónoma de Madrid, Spain</li>
+<li>Gabriel Luque, Universidad de Málaga, Spain</li>
 <li>Rafael Nogueras, Universidad de Málaga, Spain</li>
 <li>Joshua Auerbach, Champlain College, US</li>
 <li>Michael Guckert, University of Lille, France</li>
@@ -281,12 +297,11 @@
 <li>James Foster, University of Idaho, US</li>
 <li>Daniel Hernández, Instituto Tecnológico Nacional, México</li>
 <li>Francisco Chávez de la O, University of Extremadura, Spain</li>
-<li>Ahmed Hallawa, RWTH, Germany </li>
+<li>Ahmed Hallawa, RWTH, Germany</li>
 <li>Anil Yaman, Technical University of Eindhoven, The Netherlands</li>
 <li>Dominik Sobania, Mainz University, Germany</li>
-<li>Roman Kalkreuth, TU Dortmund, Germany, reviewed for the General Area</li>
+<li>Roman Kalkreuth, TU Dortmund, Germany</li>
 </ul>
-
 
 <h3 id="abstracts">Accepted paper abstracts</h3>
 

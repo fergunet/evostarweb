@@ -37,9 +37,10 @@ The SINGLE EvoStar registration includes:
  
 <h3>HOW TO REGISTER AND PAY</h3>
 
-You should <font color="red"><b>first</b></font> fill the <a href="https://www.surveymonkey.com/r/evostar2019">online registration form</a>, that will send you to the payment page, where you will need to fill in the registrant name, and will then be redirected toward a secure payment page handled by PayPal, on which credit or debit cards from VISA, MasterCard, American Express, Discover, PayPal are accepted. <em>You should be able to pay as a guest, though from some countries you may need to set up a free PayPal account to proceed with payment. This is outwith the control of EvoStar and we apologise for any inconvenience. </em> Sending funds by bank transfer is NOT available for EvoStar.
-<span class="red">Note: PayPal have changed their payment procedure, and many issues have been reported already.
-If you experience any problems please contact us at <strong>evostar@inria.fr</strong></span>
+
+
+
+You should <font color="red"><b>first</b></font>  fill the <a href="https://www.surveymonkey.com/r/evostar2019">online registration form</a>, that will send you to the payment page, where you will need to fill in the registrant name, and will then be redirected toward a secure payment page, where you can pay using PayPal,or bank transfer. PayPal was our preferred method for logisitic reasons. However, because of a severe dysfunction of Paypal payment (that Paypal finally admitted after several days of fight with their hotline, but haven't corrected yet - 14/02/2019), we have to <strong>allow payment by bank transfer</strong> (less convenient for us, though). So if PayPal refuses to handle your payment, please use the bank transfer option - and sorry for the inconvenience. If you experience any other issue, please contact us at <strong>evostar@inria.fr</strong>
 
 <h3>REGISTRATION FEES</h3>
 <table class="table table-bordered">
