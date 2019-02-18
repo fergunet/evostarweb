@@ -93,6 +93,7 @@
                 <li><a href="programme_social.php">Social Programme</a></li>
                 <li><a href="programme_speakers.php">Invited Speakers</a></li>
                 <li><a href="programme_scavenger.php">Student Scavenger Hunt</a></li>
+                <li><a href="programme_students.php">PhD Student Reception</a></li>
                 <li><a href="programme_bestpapers.php">Best Paper Candidates and Winners</a></li>
                 <li><a href="awards_outstanding.php">Award for Outstanding Contribution to EC</a></li>
                 <li><a href="awards_outstanding_students.php">Award for Outstanding Students</a></li>
