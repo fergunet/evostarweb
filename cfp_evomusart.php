@@ -137,7 +137,54 @@ antonios.liapis(at)um.edu.mt
 
 <h2>Programme Commitee</h2>
 <ul>
-TBA
+<li>	Peter	Bentley	,	University College London		,	UK	</li>
+<li>	Tim	Blackwell	,	Goldsmiths College, University of London		,	UK	</li>
+<li>	Andrew	Brown	,	Griffith University		,	Australia	</li>
+<li>	Adrian	Carballal	,	University of A Coruña		,	Spain	</li>
+<li>	Amilcar	Cardoso	,	University of Coimbra		,	Portugal	</li>
+<li>	Peter	Cariani	,	University of Binghamton		,	USA	</li>
+<li>	Vic	Ciesielski	,	RMIT		,	Australia	</li>
+<li>	Kate	Compton	,	University of California Santa Cruz		,	USA	</li>
+<li>	João	Correia	,	University of Coimbra		,	Portugal	</li>
+<li>	Palle	Dahlstedt	,	Göteborg University		,	Sweden	</li>
+<li>	Hans	Dehlinger	,	Independent Artist		,	Germany	</li>
+<li>	Eelco	den Heijer	,	Vrije Universiteit Amsterdam		,	Netherlands	</li>
+<li>	Alan	Dorin	,	Monash University		,	Australia	</li>
+<li>	Arne	Eigenfeldt	,	Simon Fraser University		,	Canada	</li>
+<li>	José	Fornari	,	NICS/Unicamp		,	Brazil	</li>
+<li>	Marcelo	Freitas Caetano	,	IRCAM		,	France	</li>
+<li>	Philip	Galanter	,	Texas A&M College of Architecture		,	USA	</li>
+<li>	Andrew	Gildfind	,	Google Inc.		,	Australia	</li>
+<li>	Scot	Gresham Lancaster	,	Univerisy of Texas, Dallas		,	USA	</li>
+<li>	Carlos	Grilo	,	Instituto Politécnico de Leiria		,	Portugal	</li>
+<li>	Andrew	Horner	,	University of Science & Technology		,	Hong Kong	</li>
+<li>	Colin	Johnson	,	University of Kent		,	UK	</li>
+<li>	Daniel	Jones	,	Goldsmiths College, University of London		,	UK	</li>
+<li>	Amy	K. Hoover	,	University of Central Florida		,	USA	</li>
+<li>	Maximos	Kaliakatsos-Papakostas	,	Department of Music, Aristotle University of Thessaloniki		,	Greece	</li>
+<li>	Matthew	Lewis	,	Ohio State University		,	USA	</li>
+<li>	Alain	Lioret	,	Paris 8 University		,	France	</li>
+<li>	Louis Philippe	Lopes	,	Institute of Digital Games, University of Malta		,	Malta	</li>
+<li>	Roisin	Loughran	,	University College Dublin		,	Ireland	</li>
+<li>	Penousal	Machado	,	University of Coimbra		,	Portugal	</li>
+<li>	Tiago	Martins	,	University of Coimbra		,	Portugal	</li>
+<li>	Jon	McCormack	,	Monash University		,	Australia	</li>
+<li>	Eduardo	Miranda	,	University of Plymouth		,	UK	</li>
+<li>	Nicolas	Monmarch	,	University of Tours		,	France	</li>
+<li>	Marcos	Nadal	,	Universitat de les Illes Balears		,	Spain	</li>
+<li>	Michael	O'Neill	,	University College Dublin		,	Ireland	</li>
+<li>	Somnuk	Phon-Amnuaisuk	,	Brunei Institute of Technology		,	Malaysia	</li>
+<li>	Douglas	Repetto	,	Columbia University		,	USA	</li>
+<li>	Juan	Romero	,	University of A Coruña		,	Spain	</li>
+<li>	Brian	Ross	,	Brock University		,	Canada	</li>
+<li>	Jonathan E.	Rowe	,	University of Birmingham		,	UK	</li>
+<li>	Antonino	Santos	,	University of A Coruña		,	Spain	</li>
+<li>	Marco	Scirea	,	IT University of Copenhagen		,	Denmark	</li>
+<li>	Benjamin	Smith	,	Indianapolis University, Purdue University		,	USA	</li>
+<li>	Stephen	Todd	,	IBM		,	UK	</li>
+<li>	Paulo	Urbano	,	Universidade de Lisboa		,	Portugal	</li>
+<li>	Anna	Ursyn	,	University of Northern Colorado		,	USA	</li>
+
 
 </ul>
 
