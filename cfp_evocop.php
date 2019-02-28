@@ -424,28 +424,7 @@ learning capabilities of the surrogate objective function and the
 effectiveness of the optimization.
 
 </p>
-<p><strong>A hybrid evolutionary algorithm using multi-parent crossover operator for the degree-constrained minimum spanning tree problem</strong><br/>
-<em>Kaivta Singh, Shyam Sundar</em><br/>
 
-In this paper, we consider a challenging problem faced by an hygiene
-services company. The problem consists of planning and routing a set
-of customers over a 3-months horizon period where multiple frequencies
-of visits can be required simultaneously by each single customer. The
-objective is then threefold: (1) balancing workload between vehicles
-(agents) (2) minimizing number of visits to the same customer (3)
-minimizing total routing costs. In this context, a routing plan must
-be prepared for the whole horizon, taking into account all constraints
-of the problem. We model the problem using a decomposition approach of
-planning horizon, namely, weeks planning and days planning
-optimization. We propose an adaptive large neighborhood search with
-several operators for routing phase of solving approach. To evaluate
-the performance of the solving approach we solve an industrial
-instance with more than 6000 customers and 69951 requests of visits.
-The results show an excellent performance of the solving approach in
-terms of solution quality comparing with the existing plan used by the
-hygiene services company.
-
-</p>
 <p><strong>Multiple periods vehicle routing problems: a case study </strong><br/>
 <em>Bilal Messaoudi, Ammar Oulamara, Nastaran Rahmani</em><br/>
 
