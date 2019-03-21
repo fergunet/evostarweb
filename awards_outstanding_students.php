@@ -3,11 +3,7 @@
 <h2>Evo<span class="red">Star</span> Outstanding Students 2019 </h2>
 </div>
 <p>
- We have selected our Outstanding Students of Evo* 2019 because of the high quality of their contributions.
-</p>
-<p>
-As well as recognition on the Evo* web page and a certificate of their merit, we wanted to offer them the opportunity to run for the Evo* Best Student Paper 2019 prize.
-In order to do this, selected students will need to present a poster at the poster reception on Wednesday 24th April, in addition to their respective talks. The winner and runner up will be decided by the votes from the audience.
+In EvoStar 2019 we wanted to recognise the good work of our students, who represent the future of our community. We selected papers that had obtained an overall review score greater than or equal to 5 or that had been nominated for a Best Paper Award, and whose first author was a student registered to attend EvoStar. Following these rules we came up with a list of Outstanding Students: 
 </p>
 <h3>Outstanding Students List:</h3>
 <ul>
