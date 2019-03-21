@@ -14,7 +14,7 @@ Papers will be reviewed by the organising committee to ensure quality and releva
 </p><p>
 Submit your manuscript in ACM format (<a href="files/acmart-master.zip">available here</a>). Page limit: 2 pages.
 </p>
-Submit your LBA via <a href="https://myreview.saclay.inria.fr/evostar19_lba">https://myreview.saclay.inria.fr/evostar19_lba</a> (Note, it will be open in a few days).
+Submit your LBA via <a href="https://myreview.saclay.inria.fr/evostar19_lba">https://myreview.saclay.inria.fr/evostar19_lba</a>
 
 <h3>Important Dates</h3>
 <ul>

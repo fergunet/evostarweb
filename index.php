@@ -13,6 +13,7 @@
  </div>
 
 <ul>
+<li>The <a href="cfp_lba.php">Call for Late Breaking Abstracts is open</a>.</li>
 <li><strong class="red">Remember that the Early Registration Deadline ends on 15 March!</strong></li>
 <li><a href="awards_outstanding_students.php">Outstanding students</a></li>
 <li>Learn about Creative AI with Risto Miikkulainen, and RNA Evolution with Manja Marz in our <a href="programme_speakers.php">opening/closing talks</a>.</li>

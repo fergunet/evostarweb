@@ -17,11 +17,13 @@
 
               <strong><span class="gray">EXTENDED SUBMISSION DEADLINE</span>:</strong> 12 November 2018<br/> <!--<em>(site remains open for final changes until 21 Nov)</em><br/>-->
               <strong>Notification:</strong> 14 January 2019<br/>
-            </span> <!-- gray -->
+            
               <strong>Camera-ready:</strong> 11 February 2019<br/>
               <strong>Mandatory registration per paper:</strong> 28 February 2019</br>
               <!--<strong>Student bursary deadline:</strong> TBA <br/>-->
               <strong>Early registration deadline:</strong> 15  March 2019<br/></span>
+              </span> <!-- gray -->
+              <strong>Late Breaking Abstracts:</strong> 10 April 2019 <br/>
               <strong>Registration deadline:</strong> 17 April 2019 <br/>
               <strong>EvoStar dates:</strong> 24-26 April 2019<br/>
               
