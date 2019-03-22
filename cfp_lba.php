@@ -8,7 +8,7 @@ EvoSTAR 2019 invites submissions of late-breaking abstracts (LBAs) summarising o
 </p><p>
 LBAs will be presented as posters during the conference and published online (in CEUR or arXiv).
 </p><p>
-At least one author of each accepted work has to register for the conference, attend the conference and present the work.
+At least one author of each accepted work has to register for the conference, attend the conference and present the work. Authors of accepted LBAs will be granted the Early Registration fee (550 EUR instead of the standard 750 EUR).
 </p><p>
 Papers will be reviewed by the organising committee to ensure quality and relevance to the conference.
 </p><p>

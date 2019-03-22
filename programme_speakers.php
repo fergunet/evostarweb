@@ -74,7 +74,7 @@ director of European Virus Bioinformatics Center. She studied Biology and Comput
 the Universities in Edinburgh, Darmstadt and Leipzig, and received a Ph.D in Bioinformatics from the
 University of Leipzig. Dr. Marz is deputy editor of PLoS Computational Biology and Biology direct. Her
 main research interest are bioinformatic analysis and system biology of viruses, comparative
-genomics, as well as algorithmic bioinformatics und phylogenetic analysis. Apart from here scientific
+genomics, as well as algorithmic bioinformatics and phylogenetic analysis. Apart from her scientific
 achievements, she is also a strong master of the board game Go and won the European Female Go
 Championship in 2017.
 </p>

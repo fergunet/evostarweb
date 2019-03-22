@@ -13,13 +13,14 @@
  </div>
 
 <ul>
+<li><a href="files/Evostar2019-prog_v1.pdf">Tentative programme</a>.</li>
 <li>The <a href="cfp_lba.php">Call for Late Breaking Abstracts is open</a>.</li>
 <li><strong class="red">Remember that the Early Registration Deadline ends on 15 March!</strong></li>
 <li><a href="awards_outstanding_students.php">Outstanding students</a></li>
 <li>Learn about Creative AI with Risto Miikkulainen, and RNA Evolution with Manja Marz in our <a href="programme_speakers.php">opening/closing talks</a>.</li>
 <li><a href="programme_students.php">PhD Student Reception</a></li>
 <li><a href="cfp_lba.php">Late breaking abstracts</a></li>
-<!--<li><a href="files/Evostar2019-programme overview.pdf">Tentative programme</a>.</li>-->
+
 <li><a href="programme_future.php">Future and Emerging Technologies Session</a></li>
 <li><a href="location_accommodation.php">Accomodation info</a></li>
 <li><a href="location_venue.php">Getting to the venue information</a></li>

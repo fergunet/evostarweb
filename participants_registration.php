@@ -46,22 +46,24 @@ You should <font color="red"><b>first</b></font>  fill the <a href="https://www.
 <table class="table table-bordered">
 <tr>
 <th></th>
-<th>Early Registration<br><font>Until 15 March</font></th>
+<th><strike>Early Registration</strike><br><font><strike>Until 15 March</strike></font></th>
 <th>Standard Registration<br>Until 17 April</th>
 </tr>
 
 <tr>
 <td>Regular</td>
-<td>550 euros</td>
+<td><strike>550 euros</strike></td>
 <td>750 euros</td>
 </tr>
 
 <tr>
 <td>Student</td>
-<td>275 euros</td>
+<td><strike>275 euros</strike></td>
 <td>375 euros</td>
 </tr>
 </table>
+
+<p><em>Note: Authors of accepted LBAs will be granted the Early Registration fee (550 EUR instead of the standard 750 EUR).</em></p>
 
 There is also the 	possibility to register on-site during the conference at a fee of 1000 euros (regular) or 500 euros (student).
 

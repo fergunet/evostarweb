@@ -224,6 +224,22 @@ TBA
 	<td>Neil Urquhart <h6> Edinburgh Napier University, UK, n.urquhart (at) napier.ac.uk</h6></td>
 	<td>Ernesto Costa <h6> Universidade de Coimbra, Portugal, ernesto (at) dei.uc.pt</h6></td>
 </tr>
+<tr>
+	<td><img src="organisers/leonardo_vanneschi.png" width="100"></td>
+	<td><img src="organisers/giovanni_squillero.jpg" width="100"></td>
+</tr>
+<tr>
+	<td> Leonardo Vanneschi<h6> NOVA IMS, Portugal, lvanneschi (at) novaims.unl.pt</h6></td>
+	<td>Giovanni Squillero<h6> Politecnico di Torino, Italy, giovanni.squillero (at) polito.it </h6></td>
+</tr>
+<tr>
+	<td><img src="organisers/stefano_cagnoni.jpg" width="100"></td>
+	<td></td>
+</tr>
+<tr>
+	<td> Stefano Cannogni<h6> NOVA IMS, Portugal, lvanneschi (at) novaims.unl.pt</h6></td>
+	<td></h6></td>
+</tr>
 
 
 
