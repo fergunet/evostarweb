@@ -237,7 +237,7 @@ TBA
 	<td></td>
 </tr>
 <tr>
-	<td> Stefano Cannogni<h6> NOVA IMS, Portugal, lvanneschi (at) novaims.unl.pt</h6></td>
+	<td> Stefano Cagnoni<h6> University of Parma, Italy, stefano.cagnoni (at) unipr.it</h6></td>
 	<td></h6></td>
 </tr>
 
