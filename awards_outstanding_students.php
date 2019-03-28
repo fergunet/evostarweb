@@ -21,6 +21,7 @@ In EvoStar 2019 we wanted to recognise the good work of our students, who repres
 <li>	Sarah L. Thomson,	University of Stirling,	Stirling,	United Kingdom</li>
 <li>	Shima Afzali,	Victoria University of Wellington,	Wellington	New Zealand</li>
 <li>	Timothy Atkinson,	University of York,	York,	United Kingdom</li>
+<li>Timon van de Velde, University of Amsterdam,	Amsterdam, The Netherlands</li>
 </ul>
 
 <?php include('footer.php') ?>
