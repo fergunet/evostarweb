@@ -12,7 +12,7 @@ At least one author of each accepted work has to register for the conference, at
 </p><p>
 Papers will be reviewed by the organising committee to ensure quality and relevance to the conference.
 </p><p>
-Submit your manuscript in ACM format (<a href="files/acmart-master.zip">available here</a>). Page limit: 2 pages.
+Submit your manuscript in ACM format (<a href="files/acmart-master.zip">available here</a>). <em>Please include keywords but no need to include CCS concepts, ACM reference format, and the copyright notice</em>. Page limit: 2 pages.
 </p>
 Submit your LBA via <a href="https://myreview.saclay.inria.fr/evostar19_lba">https://myreview.saclay.inria.fr/evostar19_lba</a>
 
