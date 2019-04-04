@@ -6,9 +6,10 @@
 
 <h2>April 24, 2019</h2>
 <hr/>
-11:10-13:20 : <strong>EvoApplications 1 Room W8 Short talks</strong>
+11:10-13:20 : <strong>EvoApplications 1 Room W8 Short talks</strong> 
+Chair: Pedro A. Castillo
 <ul>
-<li>Efficient Online Hyperparameter Adaptation for Deep Reinforcement Learning (Regular Paper),
+<li>Efficient Online Hyperparameter Adaptation for Deep Reinforcement Learning,
 Yinda Zhou, Weiming Liu, Bin Li</li>
 <li>Free Form Evolution for Angry Birds Level Generation,
 Laura Calle, JJ Merelo, Mario García-Valdez, Antonio Mora-García</li>
@@ -35,24 +36,24 @@ Tam Nguyen Thi, Binh Huynh Thi Thanh, Hung Tran Huy, Dung Dinh Anh, Vinh Le Tron
 14:30-16:20 : <strong>EvoApplications 2 Room W8 Short talks</strong>
 Chair: Francisco Fernández de Vega 
 <ul>
-<li>Coevolution of Generative Adversarial Networks,
-Victor Costa, Nuno Lourenço, Penousal Machado </li>
-<li>Compact Optimization Algorithms with Re-sampled Inheritance,
-Giovanni Iacca, Fabio Caraffini </li>
-<li>Fundamental Flowers: Evolutionary Discovery of Coresets for Classification,
-Pietro Barbiero, Alberto Tonda </li>
-<li>Trophallaxis, Low-power Vision Sensors andMulti-objective Heuristics for 3D Scene Reconstruction using Swarm Robotics,
-María Carrillo, Javier Sánchez-Cubillo, Eneko Osaba, Miren Nekane Bilbao, Javier Del Ser </li>
-<li> Evolving Robots on Easy Mode: Towards a Variable Complexity Controller for Quadrupeds,
-Tønnes F. Nygaard, Charles P. Martin, Jim Torresen, Kyrre Glette 
-<li>Introducing Weighted Intermediate Recombination in On-line Collective Robotics,
-Amine Boumaza </li>
-<li>Evolutionary successful strategies in a transparent iterated Prisoner’s Dilemma,
-Anton M. Unakafov, Thomas Schultze, Igor Kagan, Sebastian Moeller, Alexander Gail, Stefan Treue, Stephan Eule, Fred Wolf </li>
-<li>Evolutionary Computation Techniques for Constructing SAT-based Attacks in Algebraic Cryptanalysis,
-Artyom Pavlenko, Alexander Semenov, Vladimir Ulyantsev </li>
-<li>On the Use of Evolutionary Computation for In-Silico Medicine: Modelling Sepsis via Evolving Continuous Petri Nets,
-Ahmed Hallawa, Elisabeth Zechendorf, Yi Song, Anke Schmeink, Arne Peine, Lukas Martin, Gerd Ascheid, Guido Dartmann </li>
+
+
+        <li>Coevolution of Generative Adversarial Networks,
+Victor Costa, Nuno Lourenço, Penousal Machado</li>
+        <li>Compact Optimization Algorithms with Re-sampled Inheritance,
+Giovanni Iacca, Fabio Caraffini</li>
+        <li>Fundamental Flowers: Evolutionary Discovery of Coresets for Classification,
+Pietro Barbiero, Alberto Tonda</li>
+        <li>A flexible dissimilarity measure for active and passive 3D structures and its application in the fitness-distance analysis,
+Maciej Komosinski, Agnieszka Mensfelt</li></li>
+        <li>A Hybrid Multiobjective Differential Evolution Approach to Stator Winding Optimization,
+André Silva, Fernando Ferreira, Carlos Antunes</li>
+        <li>Evolutionary successful strategies in a transparent iterated Prisoner's Dilemma,
+Anton M. Unakafov, Thomas Schultze, Igor Kagan, Sebastian Moeller, Alexander Gail, Stefan Treue, Stephan Eule, Fred Wolf</li>
+        <li>Evolutionary Computation Techniques for Constructing SAT-based Attacks in Algebraic Cryptanalysis,
+Artyom Pavlenko, Alexander Semenov, Vladimir Ulyantsev</li>
+        <li>On the Use of Evolutionary Computation for In-Silico Medicine: Modelling Sepsis via Evolving Continuous Petri Nets,
+Ahmed Hallawa, Elisabeth Zechendorf, Yi Song, Anke Schmeink, Arne Peine, Lukas Martin, Gerd Ascheid, Guido Dartmann</li>
 </ul>
 <hr/>
 16:40-18:00 :<strong> EvoApplications 3 - Robots and Engineering Applications Room W8 Two long and two short talks</strong> 
@@ -68,6 +69,7 @@ André Silva, Fernando Ferreira, Carlos Antunes </li>
 Maciej Komosinski, Agnieszka Mensfelt</li>
 </ul>
 
+<h2>April 25, 2019</h2>
 <hr/>
 09:30-11:10 : <strong>EvoApplications 4 - Engineering and Real World Applications Room W8</strong>
 Chair: Sara Silva

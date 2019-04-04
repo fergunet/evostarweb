@@ -1,10 +1,10 @@
 
 <?php include('header.php') ?>
 
-        <h2>Euro<span class="red">GP Programme</span> <h2>
+        <h2>Evo<span class="red">Star Programme</span> <h2>
    </div>
 
-<a href="files/Evostar2019-prog_v2">Download the general programme</a> (including keynotes and social events).
+<a href="files/Evostar2019-prog_v3.pdf">Download the general programme</a> (including keynotes and social events).
 <p>
 You can also check the specific sessions of each conference below:
 </p>

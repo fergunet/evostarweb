@@ -31,7 +31,7 @@ Benedikte Wallace, Charles P. Martin </li>
 Igor Vatolkin, Daniel Stoller </li>
 </ul>
 <hr/>
-16:40-18:00 : EvoMusArt Room W4 Short talks
+16:40-18:00 : EvoMusArt 3 Room W4 Short talks
 Chair: Antonios Liapis
 <ul>
 <li>Automatically Generating Engaging Presentation Slide Decks,
@@ -46,7 +46,7 @@ Yong-Wook Nam, Yong-Hyuk Kim</li>
 Hajira Jabeen, Nargis Tahara, Jens Lehmann </li>
 </ul>
 <hr/>
-<h2>April 24, 2019</h2>
+<h2>April 25, 2019</h2>
 11:30-13:15 : <strong>EvoMusArt 4 Room W11 Best paper nominations </strong>Chair: Antonios Liapis
 <ul>
 <li>Autonomy, Authenticity, Authorship and Intention in computer generated art,

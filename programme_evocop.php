@@ -5,7 +5,7 @@
    </div>
 
 <h2>April 25, 2019</h2>
-11:30-13:15 : <strong>EvoCOP 1 Room W4 Chair: Arnaud Liefooghe</strong>
+11:30-13:15 : <strong>EvoCOP 1 Room W4</strong> Chair: Arnaud Liefooghe
 <ul>
 <li>Insights into the Feature Selection Problem using Local Optima Networks,
 Werner Mostert, Katherine Malan, Gabriela Ochoa, Andries Engelbrecht </li>
@@ -42,7 +42,7 @@ Baoxiang Li, Shashi Jha, Hoong Chuin Lau</li>
 
 
 <h2>April 26, 2019</h2>
-10:00-11:30 : <strong>EvoCOP 4 Room W4 Best paper nominations Chair: Luís Paquete</strong>
+10:00-11:30 : <strong>EvoCOP 4 Room W4 Best paper nominations</strong> Chair: Luís Paquete
 <ul>
 <li>Quasi-Optimal Recombination Operator,
 Francisco Chicano, Gabriela Ochoa, Darrell Whitley, Renato Tinós</li>

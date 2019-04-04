@@ -39,8 +39,8 @@ Chair: James McDermott
 <ul>
 <li>Comparison of Genetic Programming Methods on Design of Cryptographic Boolean Functions, 
 Jakub Husa</li>
-<li>Evolving AVX512 Parallel C Code using GP (Regular Paper),
-w langdon, r Lorenz</li>
+<li>Evolving AVX512 Parallel C Code using GP,
+W. langdon, R. Lorenz</li>
 <li>Hyper-bent Boolean Functions and Evolutionary Algorithms,
 Luca Mariot, Domagoj Jakobovic, Alberto Leporati, Stjepan Picek</li>
 </ul>
