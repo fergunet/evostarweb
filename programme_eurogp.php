@@ -21,28 +21,28 @@ Timothy Atkinson, John Drake, Athena Karsa, Jerry Swan
 Riccardo Gervasi, Irene Azzali, Donal Bisanzio, Andrea Mosca, Luigi Bertolotti, Mario Giacobini
 <li>A Model of External Memory for Navigation in Partially Observable Visual Reinforcement Learning Tasks,</li>
 Robert Smith, Malcolm Heywood 
-<li>Fault Detection and Classification for Induction Motors using Genetic Programming,
-Yu Zhang, Ting Hu, Xiaodong Liang, Mohammad Zawad Ali, Md Nasmus Sakib Khan Shabbir</li>
-<li>Fast DENSER: Efficient Deep NeuroEvolution,
-Filipe Assunçao, Nuno Lourenço, Penousal Machado, Bernardete Ribeiro</li>
-<li>A vectorial approach to genetic programming,
-Irene Azzali, Leonardo Vanneschi, Sara Silva, Illya Bakurov, Mario Giacobini</li>
-<li>Learning Class Disjointness Axioms Using Grammatical Evolution,
+<li>Fault Detection and Classification for Induction Motors using Genetic Programming,</li>
+Yu Zhang, Ting Hu, Xiaodong Liang, Mohammad Zawad Ali, Md Nasmus Sakib Khan Shabbir
+<li>Fast DENSER: Efficient Deep NeuroEvolution (short talk),</li>
+Filipe Assunçao, Nuno Lourenço, Penousal Machado, Bernardete Ribeiro
+<li>A vectorial approach to genetic programming (short talk),</li>
+Irene Azzali, Leonardo Vanneschi, Sara Silva, Illya Bakurov, Mario Giacobini
+<li>Learning Class Disjointness Axioms Using Grammatical Evolution (short talk),
 Thu Huong Nguyen, Andrea G.B. Tettamanzi</li>
 </ul>
 <hr/>
 13:20-14:30 : Lunch at Mensa Petersteinweg
 <hr/>
 14:30-16:20 : EuroGP 2, room W11 Short papers 1
-15:00 Panel debate 
+15:00 Panel debate <br/>
 Chair: James McDermott
 <ul>
 <li>Comparison of Genetic Programming Methods on Design of Cryptographic Boolean Functions, 
 Jakub Husa</li>
-<li>Evolving AVX512 Parallel C Code using GP,
-W. langdon, R. Lorenz</li>
-<li>Hyper-bent Boolean Functions and Evolutionary Algorithms,
-Luca Mariot, Domagoj Jakobovic, Alberto Leporati, Stjepan Picek</li>
+<li>Evolving AVX512 Parallel C Code using GP,</li>
+William B. langdon, Ronny Lorenz
+<li>Hyper-bent Boolean Functions and Evolutionary Algorithms,</li>
+Luca Mariot, Domagoj Jakobovic, Alberto Leporati, Stjepan Picek
 </ul>
 <hr/>
 16:20-16:40 : Coffee break

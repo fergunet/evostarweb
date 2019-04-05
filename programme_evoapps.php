@@ -59,14 +59,16 @@ Ahmed Hallawa, Elisabeth Zechendorf, Yi Song, Anke Schmeink, Arne Peine, Lukas M
 16:40-18:00 :<strong> EvoApplications 3 - Robots and Engineering Applications Room W8 Two long and two short talks</strong> 
 Chair: Kyrre Glette
 <ul>
-<li>Influence of Local Selection and Robot Swarm Density on the Distributed Evolution of GRNs,
-Iñaki Fernández Pérez, Stéphane Sanchez </li>
-<li>Body Symmetry in Morphologically Evolving Modular Robots,
-T. van de Velde, C. Rossi, A.E. Eiben </li>
-<li>A Hybrid Multiobjective Differential Evolution Approach to Stator Winding Optimization,
-André Silva, Fernando Ferreira, Carlos Antunes </li>
-<li>A flexible dissimilarity measure for active and passive 3D structures and its application in the fitness-distance analysis,
-Maciej Komosinski, Agnieszka Mensfelt</li>
+        <li>Influence of Local Selection and Robot Swarm Density on the Distributed Evolution of GRNs,
+Iñaki Fernández Pérez, Stéphane Sanchez</li>
+        <li>Body Symmetry in Morphologically Evolving Modular Robots,
+T. van de Velde, C. Rossi, A.E. Eiben</li>
+        <li>Trophallaxis, Low-power Vision Sensors andMulti-objective Heuristics for 3D Scene Reconstruction using Swarm Robotics,
+Maria Carrillo, Javier Sanchez-Cubillo, Eneko Osaba, Miren Nekane Bilbao, Javier Del Ser</li>
+        <li>Evolving Robots on Easy Mode: Towards a Variable Complexity Controller for Quadrupeds,
+Tønnes F. Nygaard, Charles P. Martin, Jim Torresen, Kyrre Glette</li>
+        <li>Introducing Weighted Intermediate Recombination in On-line Collective Robotics,
+Amine Boumaza</li>
 </ul>
 
 <h2>April 25, 2019</h2>
@@ -129,6 +131,7 @@ Iago Bonnici, Abdelkader Gouaïch, Fabien Michel</li>
 
 <h2>April 26, 2019</h2>
 10:00-11:30 : <strong>EvoApplications 8 - Neuroevolution Room W8</strong>
+Chair: Alberto Tonda
 <ul>
  <li>The Evolution of Self-taught Neural Networks in a Multi-agent Environment,
 Nam Le, Michael O’Neill, Anthony Brabazon</li>
