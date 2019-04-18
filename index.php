@@ -13,6 +13,7 @@
  </div>
 
 <ul>
+	<li><a href="proceedings.php">Download proceedings</a>.</li>
 	<li><a href="files/EvoStar2019ConferenceHandbook.pdf">Download EvoStar 2019 conference handbook</a>.</li>
 	<li><a href="location_posters.php">Poster/Wifi information</a>.</li>
 <li><a href="files/Evostar2019-prog_v4.pdf">Tentative programme</a>.</li>
