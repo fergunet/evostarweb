@@ -18,7 +18,9 @@
 </table>
 
 <h4>Local Organising Team</h4>
-TBA
+<img class="img-responsive" src="organisers/team-LEIPZIG.jpg"><br/>
+Jonas Berger, Hendrik Richter, Natalie Kruck, Silvia
+Paketuris-Scholer, Robert Thiel, Marcel Meyer
 
 
 <h3>Euro<span class="red">GP</span></h3>
