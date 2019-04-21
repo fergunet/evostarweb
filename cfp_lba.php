@@ -6,7 +6,7 @@
 <p>
 EvoSTAR 2019 invites submissions of late-breaking abstracts (LBAs) summarising ongoing research and recent studies in all areas of Evolutionary Computation and other Nature-inspired techniques.
 </p><p>
-LBAs will be presented as posters during the conference and published online (in CEUR or arXiv).
+LBAs will be presented as short talks in a special session during the conference and published online (in CEUR or arXiv).
 </p><p>
 At least one author of each accepted work has to register for the conference, attend the conference and present the work <strong>(short oral presentation of 10 minutes)</strong>. Authors of accepted LBAs will be granted the Early Registration fee (550 EUR instead of the standard 750 EUR).
 </p><p>
