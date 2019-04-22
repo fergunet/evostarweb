@@ -4,8 +4,8 @@
         <h2>Evo<span class="red">Star Programme</span> <h2>
    </div>
 <ul>
-<li><a href="files/Evostar2019-prog_v4.pdf">Download the general programme</a> (including keynotes and social events).</li>
-<li><a href="files/booklet_v1.pdf">EvoStar Conference Handbook</a>.</li>
+<li><a href="files/Evostar2019-prog_v4.pdf">Download the general programme overview</a> (including keynotes and social events).</li>
+<li><a href="files/EvoStar2019ConferenceHandbook.pdf">EvoStar Conference Handbook</a> (complete, including session titles and speakers)</a>.</li>
 </ul>
 <p>
 You can also check the specific sessions of each conference below:
