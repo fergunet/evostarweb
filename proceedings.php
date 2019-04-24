@@ -12,7 +12,7 @@ Temporary free access to the online version of the EvoStar 2019 conference proce
 
 </ul>
 
-Note: EuroGP will be available soon.
+Note: EuroGP and EvoCOP will be available soon.
 
           <?php include('footer.php') ?>
 

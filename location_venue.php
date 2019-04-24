@@ -4,7 +4,7 @@
         <h2>Venue <span class="red">Location</span><h2>
    </div>
 
-
+<a href="files/local_information.pdf">Download local information leaflet</a>.<br><br>
 Location address:
 
 <blockquote>
