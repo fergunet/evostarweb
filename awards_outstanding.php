@@ -6,7 +6,13 @@
 
 
 <h2>Winner: </h2>
+The EvoStar Award for Outstanding contribution to Evolutionary computation in Europe 2019 goes to...<br/>
 
+<img class="img-responsive" src="img/awards/evocrocs.jpg" />
+
+<strong>Carlos Cotta (University of Málaga) and JJ Merelo (University of Granada)</strong>.<br/>
+
+Congratulations!<br/>
 
 
 <h3>Previous awarded:</h3>

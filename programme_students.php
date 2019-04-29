@@ -21,7 +21,8 @@ The reception will be held at the <a href="https://www.moritzbastei.de/en/starts
 <a href="https://www.google.com/maps/place/Moritzbastei/@51.3374995,12.3793048,15z/data=!4m5!3m4!1s0x0:0x30123dcdbf0fe55e!8m2!3d51.3374995!4d12.3793048">found here</a>
 </p>
 
- 
 
 Please email <strong>Neil Urquhart</strong> (n.urquhart@napier.ac.uk ) if you will be attending so that we have some idea of numbers.
+
+<p>EvoStar gratefully acknowledges HTWK Leipzig University of Applied Sciences and Edinburgh Napier University for support of student activities</p>
 <?php include('footer.php') ?>
