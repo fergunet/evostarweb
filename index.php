@@ -13,6 +13,8 @@
  </div>
 
 <ul>
+	<li>And the venue for the next year is... SEVILLE, SPAIN. See you there</li>
+	<li><a href="programme_bestpapers.php">Best Paper Winners</a>, <a href="awards_outstanding_students.php">Best Student Paper Award</a>, <a href="awards_outstanding.php">Award for Outstanding Contribution to Evolutionary Computation in Europe</a> and <a href="awards_other.php">Other Awards</a>.</li>
 	<li><a href="files/local_information.pdf">Download local information leaflet</a>.</li>
 	<li><a href="proceedings.php">Download proceedings</a>.</li>
 	<li><a href="files/EvoStar2019ConferenceHandbook.pdf">Download EvoStar 2019 conference handbook</a>.</li>

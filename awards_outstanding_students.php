@@ -24,4 +24,10 @@ In EvoStar 2019 we wanted to recognise the good work of our students, who repres
 <li>Timon van de Velde, University of Amsterdam,	Amsterdam, The Netherlands</li>
 </ul>
 
+<h3>Best Student Paper Award</h3>:
+Illya Bakurov
+
+<h4>Runner up</h4>: 
+Sarah L. Thomson
+
 <?php include('footer.php') ?>
