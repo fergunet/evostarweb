@@ -1,11 +1,11 @@
 
 <?php include('header.php') ?>
 
-        <h2>Best Paper <span class="red">Candidates</span> <h2>
+        <h2>Best Paper <span class="red">Candidates</span> and Winners <h2>
    </div>
 <h3>Euro<span class="red">GP</span></h3>
 <ul>
-    <li><strong>Can Genetic Programming Do Manifold Learning Too?</strong>
+    <li><strong class="red">[WINNER]</strong> <strong>Can Genetic Programming Do Manifold Learning Too?</strong>
     Andrew Lensen, Bing Xue, Mengjie Zhang
 
     <li><strong>Why is Auto-Encoding Difficult for Genetic Programming?</strong>
@@ -22,7 +22,7 @@
     <li><strong>Supporting Medical Decisions for Treating Rare Diseases through Genetic Programming</strong>
     Illya Bakurov, Leonardo Vanneschi, Mauro Castelli, Maria João Freitas</li>
 
-    <li><strong>Evolutionary Algorithms for the Design of Quantum Protocols</strong>
+    <li><strong class="red">[WINNER]</strong> <strong>Evolutionary Algorithms for the Design of Quantum Protocols</strong>
     Walter Krawec, Stjepan Picek, Domagoj Jakobovic</li>
 
 </ul>
@@ -36,7 +36,7 @@
     <li><strong>An Iterated Local Search Algorithm for the Two-Machine Flow Shop Problem with Buffers and Constant Processing Times on One Machine, </strong>
     Hoang Thanh Le, Philine Geser, Martin Middendorf</li>
 
-    <li><strong>Quasi-Optimal Recombination Operator, </strong>
+    <li><strong class="red">[WINNER]</strong> <strong>Quasi-Optimal Recombination Operator, </strong>
     Francisco Chicano, Gabriela Ochoa, Darrell Whitley, Renato Tinós</li>
 
 
@@ -44,7 +44,7 @@
 <h3>Evo<span class="red">MUSART</span></h3>
 <ul>
 
-    <li><strong>Swarm-based identification of animation key points from 2D-medialness maps</strong>
+    <li><strong class="red">[WINNER]</strong> <strong>Swarm-based identification of animation key points from 2D-medialness maps</strong>
     Prashant Aparajeya, Frederic Fol Leymarie, Mohammad Majid al-Rifaie</li>
 
     <li><strong>Paintings, Polygons and Plant Propagation  </strong>
