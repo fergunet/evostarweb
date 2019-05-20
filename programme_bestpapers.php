@@ -14,6 +14,8 @@
     <li><strong>Towards a Scalable EA-based Optimization of Digital Circuits</strong>
     Jitka Kocnova, Zdenek Vasicek</li>
 </ul>
+<img width="50%" class="img-responsive center-block" src="img/awards/EuroGPbestpaper.jpg"/><br/>
+In the photo, left to right: Bing Mengjie with Lukas Sekanina
 <h3>Evo<span class="red">APPS</span></h3>
 <ul>
     <li><strong>Particle Swarm Optimization: Understanding Order-2 Stability Guarantees</strong>
@@ -26,6 +28,8 @@
     Walter Krawec, Stjepan Picek, Domagoj Jakobovic</li>
 
 </ul>
+<img width="50%" class="img-responsive center-block" src="img/awards/EvoAPPSbestpaper.jpg"/><br/>
+In the photo, left to right: Walter Krawec with Paul Kauffmann
 <h3>Evo<span class="red">COP</span></h3>
 <ul>
 
@@ -41,6 +45,8 @@
 
 
 </ul>
+<img width="50%" class="img-responsive center-block" src="img/awards/EvoCOPbestpaper.jpg"/><br/>
+In the photo, left to right: Arnaud Liefooghe with Francisco Chicano, Gabriela Ochoa, Renato Tinós and Darrell Whitley
 <h3>Evo<span class="red">MUSART</span></h3>
 <ul>
 
@@ -50,7 +56,8 @@
     <li><strong>Paintings, Polygons and Plant Propagation  </strong>
     Misha Paauw, Daan van den Berg </li>
 </ul>
-
+<img width="50%" class="img-responsive center-block" src="img/awards/EvoMUSARTbestpaper.jpg"/><br/>
+In the photo, left to right: Anikó Ekart, Prashant Aparajeya and Antonios Liapis
 
 
 <?php include('footer.php') ?>
