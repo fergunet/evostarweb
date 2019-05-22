@@ -15,7 +15,7 @@
     Jitka Kocnova, Zdenek Vasicek</li>
 </ul>
 <img width="50%" class="img-responsive center-block" src="img/awards/EuroGPbestpaper.jpg"/><br/>
-In the photo, left to right: Bing Mengjie with Lukas Sekanina
+In the photo, left to right: Lukas Sekanina with Mengjie Zhang and Bing Xue
 <h3>Evo<span class="red">APPS</span></h3>
 <ul>
     <li><strong>Particle Swarm Optimization: Understanding Order-2 Stability Guarantees</strong>
@@ -46,7 +46,8 @@ In the photo, left to right: Walter Krawec with Paul Kauffmann
 
 </ul>
 <img width="50%" class="img-responsive center-block" src="img/awards/EvoCOPbestpaper.jpg"/><br/>
-In the photo, left to right: Arnaud Liefooghe with Francisco Chicano, Gabriela Ochoa, Renato Tinós and Darrell Whitley
+In the photo, left to right: Arnaud Liefooghe and Luís Paquete with Gabriela Ochoa, Francisco Chicano and Darrell Whitley
+
 <h3>Evo<span class="red">MUSART</span></h3>
 <ul>
 
