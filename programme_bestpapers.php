@@ -15,7 +15,7 @@
     Jitka Kocnova, Zdenek Vasicek</li>
 </ul>
 <img width="50%" class="img-responsive center-block" src="img/awards/EuroGPbestpaper.jpg"/><br/>
-In the photo, left to right: Lukas Sekanina with Mengjie Zhang and Bing Xue
+In the photo, left to right: Lukas Sekanina (EuroGP Programme Chair) with Mengjie Zhang and Ting Hu (EuroGP Programme Chair)
 <h3>Evo<span class="red">APPS</span></h3>
 <ul>
     <li><strong>Particle Swarm Optimization: Understanding Order-2 Stability Guarantees</strong>
@@ -29,7 +29,7 @@ In the photo, left to right: Lukas Sekanina with Mengjie Zhang and Bing Xue
 
 </ul>
 <img width="50%" class="img-responsive center-block" src="img/awards/EvoAPPSbestpaper.jpg"/><br/>
-In the photo, left to right: Walter Krawec with Paul Kauffmann
+In the photo, left to right: Walter Krawec with Paul Kauffmann (EvoAPPS Coordinator)
 <h3>Evo<span class="red">COP</span></h3>
 <ul>
 
@@ -46,7 +46,7 @@ In the photo, left to right: Walter Krawec with Paul Kauffmann
 
 </ul>
 <img width="50%" class="img-responsive center-block" src="img/awards/EvoCOPbestpaper.jpg"/><br/>
-In the photo, left to right: Arnaud Liefooghe and Luís Paquete with Gabriela Ochoa, Francisco Chicano and Darrell Whitley
+In the photo, left to right: Arnaud Liefooghe and Luís Paquete (EvoCOP Programme Chairs) with Gabriela Ochoa, Francisco Chicano and Darrell Whitley
 
 <h3>Evo<span class="red">MUSART</span></h3>
 <ul>
@@ -58,7 +58,7 @@ In the photo, left to right: Arnaud Liefooghe and Luís Paquete with Gabriela Oc
     Misha Paauw, Daan van den Berg </li>
 </ul>
 <img width="50%" class="img-responsive center-block" src="img/awards/EvoMUSARTbestpaper.jpg"/><br/>
-In the photo, left to right: Anikó Ekart, Prashant Aparajeya and Antonios Liapis
+In the photo, left to right: Anikó Ekart (EvoMUSART Conference Chair), Prashant Aparajeya and Antonios Liapis (EvoMUSART Conference Chair)
 
 
 <?php include('footer.php') ?>
