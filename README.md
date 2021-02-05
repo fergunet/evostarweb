@@ -1,4 +1,4 @@
 evostarweb
 ==========
 
-Source of Evostar conference web
+Source of Evostar conference web.
